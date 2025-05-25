@@ -562,3 +562,177 @@ $$
 
 - 虽然可以增加召回率（Recall），但容易降低准确率（Precision）：
   - 例如将 “interest rate” 扩展为 “interest fascinate rate” 会引入无关词。
+
+# 12a-Web Crawling
+
+## 1. Introduction
+
+- Many techniques IR were originally developed before the WWW became popular
+- Nowadays, WWW is the biggest source and become an extremely important
+
+## 2. 什么是 Web Crawler？
+
+Web Crawler（网络爬虫），又称 Web Spider，是一种自动化程序，用于在网上寻找文档并将其收录到搜索引擎的索引中，供用户查询使用。
+
+- 它的工作方式是访问网页，提取其中的 hyperlinks（超链接），然后继续访问这些链接指向的新网页。
+- 通过这种方式构建一个可搜索的网页集合。
+
+**搜索策略（Crawling Strategy）**
+
+- **Breadth-First Search（广度优先搜索）** 是一种较为常用的策略：
+  - 被认为可以更好地发现高质量页面（按 PageRank 衡量）。
+  - 更加“礼貌”（polite），因为它不会对同一服务器造成过高压力。
+- **Depth-First Search（深度优先搜索）** 则使用堆栈结构而非队列，行为更像递归式抓取。
+
+大多数爬虫并行运行（parallel crawling），不会因等待响应而浪费时间。
+
+## 3. 礼貌爬虫（Polite Crawlers）
+
+为了避免对网站造成破坏，爬虫应遵守一定的“网络礼仪”。
+
+- **遵守 robots.txt 文件**（Robots Exclusion Standard）
+- Not overloading the website (obey Crawl-Delay).
+- Not consuming too much bandwidth.
+- Identifying who they are and who they belong to (“Googlebot”, “Baiduspider”).
+
+## 4. 使用 `<meta>` 标签控制爬虫行为
+
+- **noindex**：不允许该页面被收录
+
+  ```
+  <meta name="robots" content="noindex">
+  ```
+
+- **nofollow**：不允许该页面上的链接被追踪
+
+  ```
+  <meta name="robots" content="nofollow">
+  ```
+
+- 单个链接也可以设置 `rel="nofollow"`
+
+## 5. 网页结构的挑战（Web-Specific Challenges）
+
+**URL 重定向和重复问题**
+
+**搜索引擎优化（SEO-friendly URLs）**
+
+## 6. 非静态页面（Non-static Documents）
+
+网页内容变化频繁，尤其是新闻网站和社交媒体平台：
+
+- 需要 **定期重新抓取（re-crawling）**，防止索引过时。
+- 但部分内容静态且变化小（如档案页面）可以减少更新频率。
+
+因此，需制定一个策略来判断：
+
+- 哪些页面频繁更新 → 高频爬取
+- 哪些页面基本不变 → 低频或不更新
+
+## 7. 对抗爬虫的技术（Anti-crawling Techniques）
+
+例如 CAPTCHA（图形验证码）机制：
+
+- CAPTCHA（Completely Automated Public Turing test to tell Computers and Humans Apart）阻止自动程序访问。↳
+- 自动爬虫无法轻松识别图形中的文字，因此无法进入这些页面。
+
+## 8. 网页的规模（How Big is the Web?）
+
+- Google 指出其索引包含数千亿网页。
+- 实际上由于动态网页的存在，Web 的规模可以视为“无限大”。
+
+**Deep Web（深网）或 Hidden Web（隐藏网）**
+
+- 没有任何链接指向的页面难以被爬虫发现。
+- AJAX 动态生成的内容无法通过传统方式抓取。
+
+## 12b-Adversarial Information Retrieval
+
+### 1. Introduction
+
+传统信息检索（IR）场景中，文档作者并不刻意考虑文档如何被搜索引擎发现和排名；而在 Web Search 中，网页发布者常常**刻意影响**其在搜索结果中的排名。
+
+这导致了一个新问题的出现：**Adversarial IR**，即：某些站点**故意操纵搜索排名**以获取商业利益。
+
+**关键术语：**
+
+- **Search Engine Optimisation (SEO)**：搜索引擎优化
+  - **White Hat SEO**：遵守规则，合理优化
+  - **Black Hat SEO**：违反规则，欺骗搜索引擎，即“对抗性 IR”
+
+## 2. 常见的 Adversarial IR 技术
+
+1. Meta Tags 滥用（元标签）
+
+HTML 提供 `<meta>` 标签让作者描述网页内容，如关键词（keywords）和简介（description）。
+
+**问题**：
+
+- 早期搜索引擎严重依赖这些标签
+- 导致站点故意填入热门关键词（如 "free"）来操纵排名
+- **现代搜索引擎大多忽略 `<meta keywords>`，仅部分使用 `<meta description>`**
+
+2. Hidden Text（隐藏文本）
+
+通过设置字体颜色与背景一致，加入**不可见关键词**，以提高关键词出现频率（Term Frequency）。
+
+```
+<p><font color="#ffffff">computer parts, hardware</font></p>
+```
+
+也可以通过 CSS 伪装：
+
+```
+<p class="class2"> ... </p>
+.class2 { color: white; }
+```
+
+**搜索引擎处理**：
+
+- 识别难度大，尤其是 CSS 隐藏
+- 一旦被发现，**将被移出索引或降权处理**
+
+3. Cloaking（欺骗性内容投放）
+
+根据访问者身份（User-Agent）判断并返回**不同内容**：
+
+- 对用户显示正常页面
+- 对爬虫返回高密度关键词的“优化”页面
+
+也可能通过 JavaScript 重定向或 `noscript` 标签欺骗爬虫。
+
+> 这种行为严重违反搜索引擎规则。
+
+4. Sneaky JavaScript（利用 JavaScript 欺骗）
+
+通过 `<noscript>` 标签内嵌入优化内容，或在 JavaScript 中设置重定向，欺骗搜索引擎。
+
+```
+html复制编辑<noscript>
+  <p>Optimized keywords for search engines</p>
+</noscript>
+```
+
+- 用户看不到 `<noscript>` 内容
+- 爬虫却将其当作网页主内容进行索引
+
+5. Exploiting PageRank（操纵链接结构）
+
+##### 两种方式：
+
+- **Link Farms（链接农场）**：
+  - 创建大量互相链接的网页，提高彼此的 PageRank
+  - 高 PR 页面再收取费用出售外链
+- **Comment Spam（评论垃圾）**：
+  - 在开放评论的页面大量发布带有外链的评论
+  - 利用 PageRank 传递权重
+
+**解决办法**：
+
+- 使用 `rel="nofollow"` 属性阻止 PR 传递
+
+6. Doorway Pages（跳转页面）
+
+为每个高频搜索词创建一个独立页面，每页都重定向到同一目标网站。
+
+目的：**优化单一关键词**，提升主站流量。
