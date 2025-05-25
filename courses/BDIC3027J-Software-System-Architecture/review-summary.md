@@ -553,3 +553,81 @@ Solutions to OO Problems（问题解决策略）
 | Condition-action rule        | 知识源以“当条件满足 → 执行动作”的形式被激活 |
 | Asynchronous & collaborative | 各知识源异步工作，互不调用，仅通过黑板通信  |
 | Dynamic control              | 控制器动态决定求解流程，非静态流程图        |
+
+## Virtual Machine Style（虚拟机风格）
+
+> **Virtual Machine Style** refers to system architectures where a software-defined abstract machine is used to interpret and execute programs.
+
+系统通过一个模拟的虚拟执行环境来运行不适配于当前平台的功能。它是一种以**抽象机器模型为中心**的架构风格。
+
+**系统分类**
+
+1. **Interpreters**：解释器，模拟执行非原生语言/功能
+2. **Rule-based Systems**：规则系统，是解释器的一种特殊形式
+3. 其他如 **Shell**, **Command Language Processors**↳
+
+### Interpreter Style（解释器风格）
+
+> When the target execution language/machine is not natively available.
+>  适用于目标平台不支持直接执行解决方案语言的场景，或需要用脚本描述解决方案。
+
+如脚本系统、虚拟语言中间层（如 JVM、Matlab）、协议解释器等。
+
+**Context**
+
+解释器充当桥梁，**连接“目标语义”和“底层语义”之间的鸿沟**，例如：
+
+- 脚本解释器：从脚本语言 → 机器语义
+- 游戏热键绑定系统：按键输入 → 行为映射
+
+**Solution**
+
+| 元素     | 英文术语                       | 说明                         |
+| -------- | ------------------------------ | ---------------------------- |
+| 系统模型 | Virtual Machine                | 抽象状态机模拟目标运行环境   |
+| 构件     | Execution Engine, Memories     | 状态机 + 程序状态 + 解释状态 |
+| 连接器   | Data access, Procedure Call    | 解释流程驱动 + 状态转移机制  |
+| 控制结构 | Input-driven state transitions | 由输入触发状态迁移           |
+
+**优点（Advantages）**
+
+| 类型          | 内容                           |
+| ------------- | ------------------------------ |
+| Functionality | 可以模拟底层硬件不支持的功能   |
+| Testing       | 可用于灾难模式测试（安全系统） |
+| Flexibility   | 通用、可复用性强的解释逻辑     |
+
+缺点（Disadvantages）
+
+| 类型       | 内容                                   |
+| ---------- | -------------------------------------- |
+| Efficiency | 解释器通常**远慢于编译执行或硬件执行** |
+| Complexity | 多一层解释结构 → 软件层次更复杂        |
+
+**应用实例（Applications）**
+
+| 应用类型   | 举例                                       |
+| ---------- | ------------------------------------------ |
+| 解释型语言 | JavaScript, Python, VBScript, HTML, Matlab |
+| 配置系统   | 脚本、命令文件、嵌入配置语言               |
+| 用户输入   | 游戏热键、菜单选择处理                     |
+| 通信协议   | 输入指令解析、FSM 解释器                   |
+
+## Rule-based System
+
+> A **Rule-based system** is a specialization of an interpreter that executes **condition-action rules** from a **knowledge base**.↳
+
+本质上，它是一个**以规则集合为程序**、以**推理引擎（inference engine）**作为执行器的解释器系统。
+
+**Characteristics of Rule-based System**
+
+- Code to be executed (knowledge base)
+- Interpretation engine (rule interpreter)
+- Control state of interpreter (rule/data selection)
+- Current state of the code (working memory)
+
+**应用实例：Drools 系统**
+
+- Drools 是 Redhat 提供的商业规则系统（基于 Java）
+- 用于业务逻辑解耦、规则抽象、业务知识管理
+- 场景：24小时在线服务系统、规则频繁变更系统、大型分布式系统
