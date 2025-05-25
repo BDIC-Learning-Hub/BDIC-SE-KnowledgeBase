@@ -437,7 +437,7 @@ Solutions to OO Problems（问题解决策略）
 
 ------
 
-## 🟥 Disadvantages of Client/Server Style（PPT p34）
+ 🟥 Disadvantages of Client/Server Style
 
 | 问题编号 | 英文描述                                | 中文解释                                   |
 | -------- | --------------------------------------- | ------------------------------------------ |
@@ -497,3 +497,59 @@ Solutions to OO Problems（问题解决策略）
 | 安全风险   | SQL 注入，跨站脚本（难控制）     |
 | 性能问题   | 客户端资源浪费，服务器负载大     |
 | 缺点       | 仅支持“拉取”方式（不能主动推送） |
+
+## Data-centered Architectural Style（数据中心风格）
+
+### Data-centered Style
+
+> **A data-centered architecture** is one where components communicate through a central data store (shared data source)
+
+该风格强调数据是“第一公民”（first-class citizen），即所有操作都以数据为中心展开，而不是以过程或事件为中心。
+
+### Repository Style
+
+> A **repository** is a central place where data is stored and maintained. Components operate on this shared data via defined interfaces. (仓库是储存和维护数据的中心场所)
+
+ **系统结构组成（System Components）**
+
+| 元素         | 英文术语               | 说明                         |
+| ------------ | ---------------------- | ---------------------------- |
+| 中心数据结构 | Central data structure | 表示系统的当前状态           |
+| 操作组件     | Independent components | 对中心数据进行读取/写入/处理 |
+| 连接件       | Connectors             | 数据读写、事务传输等机制     |
+
+**两类主要连接机制**
+
+| 类型                     | 说明                             |
+| ------------------------ | -------------------------------- |
+| **Database Mechanism**   | 输入数据触发预定义事务过程       |
+| **Blackboard Mechanism** | 中心数据状态变化驱动处理过程选择 |
+
+### Blackboard Style
+
+> The **Blackboard architecture** is used when no deterministic solution sequence exists, and problem-solving relies on collaborative, opportunistic interaction among specialized components.
+
+**适用问题特征**
+
+- 无法提前定义明确的处理流程
+- 可能存在多个中间解、多个解法路径
+- 问题需要跨多个领域的知识源协作求解
+- 举例场景：自然语言处理、图像识别、模式识别等 AI 系统
+
+**核心结构组成（Structure）**
+
+| 组成部分 | 英文术语          | 功能                                     |
+| -------- | ----------------- | ---------------------------------------- |
+| 黑板     | Blackboard        | 全局共享数据空间，存储当前求解状态       |
+| 知识源   | Knowledge Sources | 独立的求解程序，仅通过黑板通信           |
+| 控制器   | Controller        | 监视黑板状态，决定哪个知识源可被激活执行 |
+
+**Blackboard 特征总结**
+
+| 特征                         | 说明                                        |
+| ---------------------------- | ------------------------------------------- |
+| Global shared memory         | 所有组件共享对黑板的访问权限                |
+| Incremental update           | 解是通过状态逐步演化获得的                  |
+| Condition-action rule        | 知识源以“当条件满足 → 执行动作”的形式被激活 |
+| Asynchronous & collaborative | 各知识源异步工作，互不调用，仅通过黑板通信  |
+| Dynamic control              | 控制器动态决定求解流程，非静态流程图        |
