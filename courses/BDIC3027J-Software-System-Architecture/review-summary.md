@@ -613,7 +613,7 @@ Solutions to OO Problems（问题解决策略）
 | 用户输入   | 游戏热键、菜单选择处理                     |
 | 通信协议   | 输入指令解析、FSM 解释器                   |
 
-## Rule-based System
+### Rule-based System
 
 > A **Rule-based system** is a specialization of an interpreter that executes **condition-action rules** from a **knowledge base**.↳
 
@@ -631,3 +631,214 @@ Solutions to OO Problems（问题解决策略）
 - Drools 是 Redhat 提供的商业规则系统（基于 Java）
 - 用于业务逻辑解耦、规则抽象、业务知识管理
 - 场景：24小时在线服务系统、规则频繁变更系统、大型分布式系统
+
+## Software Architecture Description
+
+### Software Architecture Description（软件架构描述）
+
+#### **What is Software Architecture Description**
+
+软件架构由三类结构元素组成：
+
+- **Processing components**：负责处理数据的处理组件；
+- **Data components**：表示处理信息的数据组件；
+- **Connection components**：用于将其他组件组合和连接的连接组件。
+
+架构描述的作用：
+
+- 定义工作分配（Work Distribution）；
+- 是质量属性（Quality Attributes）的承载体；
+- 支持早期架构分析（Early Analysis）；
+- 支撑部署后的维护与架构挖掘（Maintenance and Mining）；
+- 长期表达设计思想的蓝图（Blueprint）。
+
+#### **Traditional Method 问题**
+
+传统工业界的描述方法存在缺陷：
+
+- "用 UML 就行了吗？"
+- "我有类图了还需要什么？"
+- "自然语言不好"
+- "如何记录变化的信息？"
+
+说明业界仍缺乏系统化、可维护的架构描述机制。
+
+#### **架构文档编写七项原则**
+
+1. **以读者为中心**(Write from reader's perspective)：让读者容易找到所需信息；
+2. **避免重复** (Avoid duplication)：每条信息只描述一次；
+3. **避免歧义** (Avoid ambiguity)：使用明确定义的语言或图例；
+4. **使用标准结构** (Use standard organizational structures)：保持文档风格统一；
+5. **记录决策理由** (Record the reasons)：解释为何作出特定设计；
+6. **保持更新但不过度频繁** (Keep documents current but not updated frequently)：按计划更新，选关键时间点；
+7. **定期回顾是否满足需求** (Review)：检查是否服务了预期读者和目标。
+
+###Software Architecture Modeling（软件架构建模）
+
+#### View 架构视图理论
+
+**视图定义：**
+
+- **View** 是架构元素和其关系的表示；
+- 每个视图关注架构的一个方面。
+
+**常见问题与视图对应：**
+
+| 问题 | 对应视图 |
+| ---- | -------- |
+| 程序的执行单元和数据存储是什么？ | Process View |
+| 外部软件如何使用系统？ | Use View |
+| 数据如何在系统中流动？ | Data Flow View |
+| 如何将软件部署到硬件？ | Deployment View |
+
+**视图种类（部分）：**
+
+- **Exploded View**：模块与子模块关系；
+
+- **Usage View**：模块使用关系；
+- **Hierarchy View**：分层结构；
+
+- **Class/Generalization View**：类之间的继承/泛化关系；
+
+- **Process View**、**Concurrency View**、**Shared Data View**；
+
+- **Client-Server View**、**Deployment View**、**Implementation View**；
+
+- **Work Distribution View**：团队工作分配。
+
+#### **视图建模标准与4+1模型**
+
+ **视图选择：**
+
+- 列出架构关注点；
+- 选择适用的视图并打勾；
+- 合理合并视图、按需排序。
+
+**4+1 View Model（Rational公司提出）**：
+
+1. **Logical View**：抽象描述系统结构，如类、对象、状态、交互；
+2. **Process View**：解决并发和分布问题；
+3. **Development View**：开发模块组织结构；
+4. **Physical View**：系统物理部署结构；
+5. **Use Case View**：以用户场景串联以上视图。
+
+#### **UML 建模元素综述**
+
+**Modeling Elements**
+
+- Structural：类、接口、组件等；
+- Behavioral：状态机、交互；
+- Grouping：包、子系统；
+- Others：注释等辅助元素。
+
+**Relationships**
+
+- 依赖（Dependency）、关联（Association）、聚合（Aggregation）、组合（Composition）、泛化（Generalization）、实现（Realization）。
+
+ **Extensibility Mechanisms**
+
+- 构造型（Stereotype）、标记值（Tagged value）、约束（Constraint）。
+
+**UML共13种标准图：**
+
+- 静态视图：Use Case、Class、Object、Component、Deployment、Package、Composite；↳
+- 动态视图：Sequence、Communication、State Machine、Activity、Timing、Interaction Overview。↳
+
+## Quality Attributes and Its Tactics
+
+### The Meaning of Quality Attributes
+
+质量属性（Quality Attributes, QA）是非功能性需求，**并不由功能决定**。要实现系统功能，必须赋予系统模块正确的职责、资源、调度顺序。只有在功能实现之后，才讨论质量属性。
+
+**质量属性的实现依赖于三方面**
+
+必须在**设计、实现和部署**三个方面同时考虑：
+
+- 不可或缺；
+- 尤其在架构阶段就应考虑其实现方式。
+
+ **常见质量属性**
+
+- Availability（可用性）
+- Modifiability（可修改性）
+- Performance（性能）
+- Security（安全性）
+- Testability（可测试性）
+- Usability（可用性）
+
+### Quality Attribute Scenario
+
+**为什么需要 QA 场景**
+
+直接说“我想要一个高性能/高安全的系统”太模糊，必须**精确定义“快”或“安全”的含义**，包括优先服务、响应时间、威胁类型等。
+
+**质量属性场景的六要素**
+
+1. **Source**（刺激源）：引发刺激的实体；
+2. **Stimulus**（刺激）：触发系统反应的事件；
+3. **Artifact**（受影响构件）：被影响的系统部分；
+4. **Environment**（环境）：事件发生时系统状态；
+5. **Response**（响应）：系统的应对行为；
+6. **Response Measure**（响应度量）：评估响应的标准。
+
+### Meaning of Availability
+
+**Definition**
+
+- The probability that the system is available when a user uses当用户
+使用系统时，系统可用的概率
+- Maintenance shutdowns determined in advance are not included in
+the calculation提前确定的停机维护不计入
+
+**关注点**
+
+- 是否发生了故障（故障会被外部感知）；
+- 故障造成的后果严重性。
+
+**Metrics**
+
+- Available (or down) time percentage
+- Time required to repair failure
+- mean time between failures
+
+**场景举例**
+
+- Source：内外部的故障征兆；
+- Stimulus：系统崩溃、无法及时返回结果、返回错误结果；
+- Artifact：计算、存储、网络等系统部分；
+- Environment：正常或“亚健康”状态；
+- Response：记录日志、通知管理员、下线维护；
+- Response Measure：故障发生比例、修复耗时。
+
+### Tactics to Improve Availability-Definition
+
+**Tactics**
+
+- Specific design means to meet specific quality attributes
+- Is the basic unit of architectural style
+
+**三类策略目标——Reduce the impact of faults**
+
+1. **Fault Detection（故障检测）**
+2. **Fault Recovery（故障恢复）**
+3. **Fault Avoidance（故障规避）**
+
+**Fault Detection 战术**
+
+- **Ping/echo**：监控组件定期发送 Ping，检查是否有回应；
+- **Heartbeat**（心跳）：被监控节点定期发送心跳包，如果多个心跳缺失则认为其失效；
+- **Exception Handling**：基于编程语言机制的异常抛出、捕获与处理。
+
+**Fault Recovery 战术**
+
+- **Vote（投票）**：多个冗余模块通过多数投票决策输出；
+- **Active Redundancy**：主备同时运行，主失效后立即切换；
+- **Passive Redundancy**：主运行，备异步同步，切换时需确认状态一致；
+- **Internal Testing（内测 Alpha）**：开发阶段尽早发现问题；
+- **Checkpoint/Rollback**：定期保存状态，一旦失败可回滚。
+
+**Fault Avoidance 战术**
+
+- **Service offline**：预知攻击时主动下线；
+- **Transaction**：事务机制确保操作的原子性；
+- **Process Monitoring**：如 Windows 的任务管理器检测异常。
