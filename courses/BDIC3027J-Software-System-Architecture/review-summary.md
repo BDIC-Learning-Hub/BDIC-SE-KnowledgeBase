@@ -744,7 +744,7 @@ Solutions to OO Problems（问题解决策略）
 - 静态视图：Use Case、Class、Object、Component、Deployment、Package、Composite；↳
 - 动态视图：Sequence、Communication、State Machine、Activity、Timing、Interaction Overview。↳
 
-## Quality Attributes and Its Tactics
+## Quality Attributes- Availability
 
 ### The Meaning of Quality Attributes
 
@@ -842,3 +842,41 @@ the calculation提前确定的停机维护不计入
 - **Service offline**：预知攻击时主动下线；
 - **Transaction**：事务机制确保操作的原子性；
 - **Process Monitoring**：如 Windows 的任务管理器检测异常。
+
+## QA-Modifiability
+
+### The Meaning of Modifiability（可修改性的含义）
+
+**Concerns**
+
+- Cost of Modification
+- Which parts of the system are modified
+- When the modification occurs
+- Who performs the modification
+
+**Measurement Metrics**
+
+- Time Taken to Complete Modification
+- Human Resource Cost of Modification
+- Economic Cost of Modification
+
+**场景构建（Scenarios）**
+
+使用场景（Scenarios）可帮助理解：
+
+- **Source of Stimulus（刺激源）**：如开发者、管理员或用户；
+- **Stimulus（刺激）**：需要实施的特定修改；
+- **Artifacts（受影响构件）**：如功能、UI、交互系统等；
+- **Environment（环境）**：如设计阶段、开发阶段或运行阶段；
+- **Response（响应）**：操作人员完成修改、测试并部署；
+- **Response Measure（度量）**：时间和成本。
+
+
+
+### Tactics to Improve Modifiability（提升可修改性的策略）
+
+**目标**：减少修改所需的时间与成本。Reduce the time and cost of modification
+ **策略方向**：
+
+1. 限制修改范围（Limiting the Scope of Modification）；
+2. 延迟绑定时间（Delaying Binding Time）。
