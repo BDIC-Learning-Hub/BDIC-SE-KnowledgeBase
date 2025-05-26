@@ -950,3 +950,97 @@ the calculation提前确定的停机维护不计入
 3. **动态优先级调度**
    - 防止饥饿（Starvation）；
    - 常见策略如 Earliest Deadline First。
+
+## QA: Security
+
+### The Meaning of Security（安全性的含义）
+
+**Concerns**: Resisting attacks on the system while ensuring legitimate users can use the system.
+
+**Attacks:** Attempts to break through the system's security protection
+
+____
+
+
+
+**安全的多种维度（Aspects of Security）**
+
+- **Non-repudiation（不可否认性）**：确保行为不能被抵赖；
+
+- **Confidentiality（机密性）**：防止信息泄露；
+
+- **Integrity（完整性）**：防止数据被未授权修改；
+
+- **Assurance（可信性）**：系统设计可信、运行可靠；
+
+- **Availability（可用性）**：确保服务可用；
+
+- **Auditing（审计）**：记录系统行为，方便重建事件。
+
+____
+
+
+
+**安全性场景（Security Scenarios）**
+
+- **Sources of Stimulus:** 攻击源可能是用户、人或其他系统；
+- **Stimulus**：攻击行为，如信息窃取、权限提升、服务拒绝。
+- **Artifact**：系统中被攻击的服务或数据；
+- **Environment**：系统运行状态，如联网/断网、内/外部环境、防火墙内外。
+- **Response: ** 正常用户使用不受影响，非法用户被拒绝； 建立攻击威慑机制（Deterrence）
+- **Response Measurement: ** Difficulty of launching an attack; Difficulty of recovering from an attack
+
+
+
+### Tactics to Improve Security
+
+**三类方向：**
+
+**Resisting Attacks（抵御攻击）**
+
+**Detecting Attacks（检测攻击）**
+
+**Recovering from Attacks（从攻击中恢复）**
+
+____
+
+**抵御攻击（Resisting Attacks）**
+
+1. **User Authentication（用户身份验证）**
+   - 密码、图形验证码、生物识别（如人脸、指纹）等。
+2. **User Authorization（用户授权）**
+   - 确保用户的行为在其权限范围内。
+3. **Confidentiality（保密性）**
+   - 对数据和传输过程进行加密（如 HTTPS、VPN）。
+4. **Integrity（完整性）**
+   - 使用 MD5、SHA 等哈希算法确保数据未被篡改。
+5. **Reducing Exposure（减少暴露面）**
+   - 关闭不必要的端口、服务、SSID 等。
+6. **Access Control（访问控制）**
+   - 白名单（只允许某些用户/行为）、黑名单（禁止某些行为）。
+
+____
+
+ **检测攻击（Detecting Attacks）**
+
+1. **软件+人工协同检测**
+   - 使用 IDS（入侵检测系统），辅以人工安全专家分析；
+   - 监控系统行为是否异常。
+2. **攻击者识别**
+   - 有助于威慑潜在攻击者；
+   - 为后续恢复提供线索。
+
+____
+
+
+
+ **从攻击中恢复（Recovering）**
+
+- 可借助“可用性”策略（如热备份、容灾恢复）进行状态恢复。
+
+### Security Around Us
+
+- Username + Passwords
+- Security Cards
+- SMS Verification Codes
+- Dynamic Passwords
