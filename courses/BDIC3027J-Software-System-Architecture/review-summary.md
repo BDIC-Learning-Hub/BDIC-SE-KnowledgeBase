@@ -880,3 +880,73 @@ the calculation提前确定的停机维护不计入
 
 1. 限制修改范围（Limiting the Scope of Modification）；
 2. 延迟绑定时间（Delaying Binding Time）。
+
+## QA-Performance
+
+### The Meaning of Performance（性能的含义）
+
+**性能关注点（Concerns）**
+
+- 系统响应事件的速度（**Speed of system response to events**）；
+- 取决于事件的数量与到达模式（arrival pattern）；
+- **事件来源**包括User requests, inside the system, outside the system
+
+ **事件到达模式（Arrival Patterns）**
+
+- 随机型（Random）
+- 周期型（Regular at specific time scales）
+  - 例如：每天/每月/每学期/每年定时到达的批量请求。
+
+**性能场景要素（Performance Scenario）**
+
+- **Source of Stimulus**：来自系统内外的触发源；
+- **Stimulus**：事件到达并要求系统响应；
+- **Artifact**：系统提供的服务（即被影响的构件）；
+- **Environment**：系统当前所处的状态，例如正常、紧急、过载；
+- **Response**：系统处理事件（可能伴随状态变化）；
+- **Response Measure**：度量系统响应效果的指标：
+  - 响应时间（Time taken to process）；
+  - 单位时间内处理事件数量；
+  - 错误率或丢失率。
+
+### Tactics to Improve Performance（提升性能的策略）
+
+**策略总览**
+
+目标：在有限时间内完成响应。
+
+策略方向分为三类：
+
+1. **Resource Requirements（资源需求）**
+2. **Resource Management（资源管理）**
+3. **Resource Arbitration（资源仲裁）**
+
+**资源需求相关策略（Resource Requirements）**
+
+1. **提升计算效率**
+   - 使用更高效的算法；
+   - 减少处理事件所占用的资源。
+2. **减少处理数据总量**
+   - 限制事件到达速率（例如限流）；
+   - 选择性处理部分请求（如采样、预筛）。
+3. **限制执行时间**
+   - 在指定时间内提供近似解；
+   - 限制待处理事件队列长度（如队满即丢弃）。
+
+**资源管理策略（Resource Management）**
+
+1. **并发机制（Concurrency）**
+   - 使用多线程、多进程、多核、多机协作以提升吞吐量；
+   - 合适的并发模型可大幅提升性能。
+2. **增加资源**
+   - 例如扩大计算资源、存储容量、带宽等。
+
+ **资源仲裁策略（Resource Arbitration）**
+
+1. **先到先服务（FCFS）**
+   - 最基础的调度策略。
+2. **固定优先级调度**
+   - 高优先级任务（如军用、高端服务）可优先调度。
+3. **动态优先级调度**
+   - 防止饥饿（Starvation）；
+   - 常见策略如 Earliest Deadline First。
