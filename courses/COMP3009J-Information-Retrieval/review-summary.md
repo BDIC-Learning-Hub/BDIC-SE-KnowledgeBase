@@ -1,6 +1,414 @@
 ---
 IR Note
+
 ---
+
+> 课程编码：COMP3009J-Information Retrieval
+>
+> 考核形式：
+>
+> 授课教师：
+
+# 00b-What is IR?
+
+## 1. 什么是信息检索系统(Information Retrieval, IR)
+
+信息检索（IR）主要解决用户通过查询，从大量信息中获取其感兴趣内容的问题。典型例子是搜索引擎（如Google、百度），它们可以从数十亿网页中筛选出最相关的内容呈现给用户。
+
+**常见IR**
+
+- Web Search Engines
+- Desktop Search
+- Mobile Search
+- Library Search
+- Searching Individual Web Sites
+
+## 2. Information Items
+
+**Document**
+
+可以是：Books, video, images, etc.
+
+## 3. Structured vs Unstructured Data
+
+- **结构化数据**：如数据库或表格，支持数值范围、精确匹配等查询。tables
+- **非结构化数据**：自由文本（如网页、文章），需用关键词或概念查询。free-form text written in natural language
+
+> 现实中，大多数文档为**半结构化数据**，如网页包含标题、正文、链接等部分。
+
+## 4. Representation
+
+将文档以某种数学形式表示以支持检索，原因：
+
+- 文本匹配效率低
+- 计算机擅长数学计算
+
+## 5. Storage, Organisation, Acceess
+
+**存储与组织**：合理组织文档便于高效检索，尤其是在大规模文档集下。
+
+**访问**：IR系统的核心目标是让用户能及时、有效地访问所需信息。
+
+## 6. Information Need
+
+User only use IR when there is some information that they are interested in reading.(用户仅在有信息需求时使用IR)
+
+**Information Need 4 Stages:** (2024年考察, 2023年考察)
+
+- Visceral Need: 未表达的模糊需求	（actual, but unexpressed)
+- Conscious Need: 头脑中意识到的需求，难以清晰表达    
+- Formalised Need: 可用自然语言表达的正式需求
+- Compromised Need: 实际提交给IR系统的查询(query)
+
+## 7. 查询的表达方式
+
+- **Keyword-Based Querying:** 使用2-3个关键词查询
+- **Context Queries:** 关注关键词在文档中的相对位置
+- **Boolean Queries:** 使用AND、OR、NOT连接关键词
+- **自然语言查询**：用完整句子表达
+  - 现代搜索引擎（如ChatGPT、Siri）支持该方式，但理解能力有限
+
+## 8. Role of IR
+
+IR系统的任务是：
+
+- 提供一组**相关文档**（通常按相关性排序）
+- 用户需自行阅读获取知识
+
+## 9. Why IR?
+
+- **Information Overload**
+
+## 10. Relevance
+
+- satisfies the user's information need. （满足用户信息需求）
+- Subjective 主观
+- Remember that a query is just an expression of an information need. （只是Information need的表达，不一定时真实需求）
+
+## 11. Evaluate
+
+- Documents returns satisfy the information need.
+- 用户是判断标准，但评估困难
+- 构建测试集合+标准查询+专家判断文档是否相关
+
+## 12. Related Research
+
+1. **Question Answering (问答系统)**
+2. **信息抽取（Information Extraction）**
+
+
+
+# 01a-IR-Example: Boolean Queries
+
+## 1. Boolean style query
+
+> Brutus AND Caesar NOT Calpurnia
+
+**第一种“朴素”做法**是逐行读取所有剧本：
+
+- 筛选出同时包含“Brutus”和“Caesar”的剧本；
+- 再排除包含“Calpurnia”的剧本。
+
+**问题**：
+
+- **Slow 效率低下**：对于大规模语料（corpus）非常缓慢。
+- **Other operations not feasible 无法扩展**：不支持如“词项接近”之类的复杂操作。
+- **Ranked retrieval not possible不能排序**：无法返回“最相关”的文档（无排名机制）。
+
+## 2. Term-Document Incidence Matrix（词项-文档矩阵）
+
+示例矩阵如下：
+
+| Term      | A&C  | JC   | Tempest | Hamlet | Othello | Macbeth |
+| --------- | ---- | ---- | ------- | ------ | ------- | ------- |
+| Antony    | 1    | 1    | 0       | 0      | 0       | 1       |
+| Brutus    | 1    | 1    | 0       | 1      | 0       | 0       |
+| Caesar    | 1    | 1    | 0       | 1      | 1       | 1       |
+| Calpurnia | 0    | 1    | 0       | 0      | 0       | 0       |
+| Cleopatra | 1    | 0    | 0       | 0      | 0       | 0       |
+
+> 每一列表示一个文档（剧本），每一行为一个词项。1 表示该剧本中包含该词项，0 表示不包含。
+
+## 3. Incidence vectors
+每个词项可以转化为一个“存在向量”：
+
+- Brutus:  110100
+- Caesar:  110111
+- Calpurnia: 010000
+
+这些二进制向量可用于后续布尔运算。
+
+## 4. Operators
+
+> Brutus AND Caesar NOT Calpurnia
+
+1. **取反操作**（NOT Calpurnia）：
+
+- 原向量： 010000
+- 取反后： 101111
+
+2. **位与操作**（AND）
+
+   ```makefile
+   Brutus:  110100  
+   Caesar:  110111  
+   NOT Calpurnia: 101111  
+   →
+   110100 AND 110111 AND 101111 = 100100
+   ```
+
+   
+
+3. **解释结果**：1 表示相关的文档。对应的是第1和第4部剧本：
+
+   - Antony and Cleopatra↳
+   - Hamlet
+
+
+
+## Bigger collections
+
+假设我们有：
+
+- N = 1,000,000 文档，每个包含约 1,000 个词；
+- 每词平均6字节，总数据量 = 6GB；
+- M = 500,000 个不同词项。
+
+则 term-document matrix 大小为：
+
+```
+500,000 × 1,000,000 = 5×10^11 bits（即5000亿位）
+```
+
+然而实际上大部分值是0，因此该矩阵极度稀疏（sparse）
+
+
+
+## Ambiguous Queries
+
+即使是明确的查询词，也可能存在多种含义。例如：
+
+- 查询词 "jaguar"：
+  - 对某些用户是动物；
+  - 对另一些用户是汽车品牌。
+- 查询词 "bank"：
+  - 河岸（river bank）；
+  - 银行（financial institution）；
+  - 飞机转弯动作（飞行术语）。
+
+# 01b-Indexing
+
+## 1. Introduction: Indexing
+
+A data structure used to representation called index. The process of create index is called indexing.
+
+## 2. Inverted Index（倒排索引）(2024年考察)
+
+倒排索引是一种将每个词项（term）映射到其出现过的文档ID（docID）列表的结构。
+
+- **Postings list**：每个 term 对应一个文档ID集合，称为 posting list；
+- **Posting**：其中的一个元素，即一个文档ID；
+- **Dictionary**：包含所有词项的有序列表；
+- 列表通常按 docID 排序，方便后续操作（如合并、交集）。
+
+## 3. Construction (2024年考察)
+
+**Step 1：分词（Tokenisation）**
+
+- To (token, docID)
+- punctuation is removed
+- convert to lowercase
+
+**Step 2：排序（Sorting）**
+
+- Sort by terms then by docIDs
+
+**Step 3：构建字典和倒排列表**
+
+- merge: a term appears more than once in a document
+- Split into a dictionary and posting
+- Also record **document frequency** of each term
+
+## 4. Process Query
+
+> Brutus AND Caesar
+
+1. Locate Brutus and Caesar in the dictionary and retrieve its postings
+2. Merge the 2 postings
+
+## 5. 布尔操作 (2023年考察)
+
+- AND(交集)： AND is used to narrow a search. More AND, Fewer records.
+- OR(并集)： OR is used to broaden a search. Documents containing any number of the terms specified will be returned
+- NOT(差集)： NOT is used to specifically exclude a term from search. More NOT, Fewer records.
+
+## 6. Postings List 的合并（Merging）
+
+**Intersection（交集）算法**
+
+- 两个已排序的docID列表，从头到尾线性扫描
+- 时间复杂度: O(x+y)
+
+# 01c-Query Potimisation（2023考察）
+
+> Brutus AND Calpurnia AND Caesar
+
+正常步骤：For each of the terms, retrieve its posting list and merge with the others.
+
+**优化：** Process in order of increasing frequency
+
+- Start with the smallest set
+- 原因：If we reach the end of shorter list, we can stop!
+
+____
+
+**更复杂的查询**
+
+> (madding OR crowd) AND (ignoble OR strife)
+
+- Get the frequency for all terms
+- Estimate the size of each OR
+- Process in increasing order of OR size
+
+**Skip Pointer** 跳表优化
+
+基本思路：
+
+- Introduce skip poiner has a special type of pointer, it can reach later parts of list without interating through every element.
+
+**Skip Poiner 的位置**
+
+权衡(Tradeoff):
+
+- More Skips --> shorter  skip spans but lots of comporisons to skip pointers.
+- Fewer Skips --> few pointer comparison, but then long skip spans
+
+**如果 postings list 长度为 L，建议插入 √L 个等间隔跳表**
+
+
+
+# 02a-Preprocessing
+
+## 1. Tokenisation(分词)
+
+**基本概念**
+
+- Token is an instance of a sequence of characters. **Not same with words**
+- We get Token after futher processing
+
+**Issues**
+
+**“Finland’s capital”** → “Finland” 和 “’s” 应该合并吗？
+
+**“Mercedes-Benz”** → 是一个词项还是两个？
+
+**“state-of-the-art”** → 如何处理连字符？
+
+**“San Francisco”** → 是一个词项还是两个？
+
+## 2. language issues(2024考察)
+
+**French**
+
+L'ensemble -> one token or two?
+
+**German**
+
+Lebensversicherungsgesellschaftsangestellter
+
+**Chinese/Japanese**
+
+- No spaces between word.
+- may be ambiguous
+- multiple alphabets intermingled
+
+**Arabic / Hebrew**
+
+written right to left
+
+## 3. Normalisation
+
+same semantics but different forms into the same form.
+
+**常见策略**
+
+- Changing all tokens to lowercase
+- Delete full stops
+- Delete hyphens
+
+## 4. Thesauri and Soundex（同义词与语音索引）
+
+ **Thesaurus（词库）**
+
+- 构建**同义词类等价词项**：（Synonyms, homonyms)
+  - car = automobile↳
+  - color = colour↳
+- 可在文档中将“automobile”索引为“car-automobile”，或在查询中扩展。
+
+**Soundex（语音索引）**
+
+- 处理拼写错误的词项；
+- 根据发音特征对词项分类，而非按拼写；
+- 常用于人名匹配、语音搜索等场景。
+
+# 02b-Stopwords, Stemming and Lemmatisation
+
+**Stopword Removal**（停用词去除）
+
+**Stemming**（词干提取）
+
+**Lemmatisation**（词元还原）
+
+## 1,. Stopword Removal（去除停用词）(2024年考察)
+
+**定义**
+
+- Stopword is a commonly occurring term that appears in so many documents that it does not add to the meaning of the document.
+- the, of a, to
+- Common appear in almost all document, and of little use when differentiating between documents
+
+**为何去除**
+
+- Reduce number of term
+- Stopword Removal（去除停用词）
+
+**使用 Zipf’s Law 辨识停用词：**
+
+- Stopword can be estimated using Zipf's Law
+- Only a few terms are used very often, more are used ont rarely
+- 第2常用词频 ≈ 第1的½，第3常用 ≈ 第1的⅓，依此类推；
+
+**权衡（Tradeoff）：**
+
+- **好处**：samll space and little time；
+- **风险**：可能去除语义重要的词，如：
+  - “King of Denmark”
+  - “To be or not to be”
+  - “Flights to London”
+- **Solution:**
+  - Don's remove stopwords
+  - Recognise when combinations of stopwords are meaningful, and include these as terms in the index.
+
+## 2. Stemming （词干提取） (2024考察， 2023考察)
+
+**定义**
+
+Stemming is the process that maps terms to a common root.
+
+Stemming is also known as suffix stripping
+
+**Problems**
+
+- **Overstemming**: sometimes suffixes can be removed from word that are not related
+- **Homographs（同形异义词）**
+
+## 3. Lemmatisation（词元还原）(2024考察, 2023考察)
+
+**定义**
+
+- Lemmatisation is a NLP technique for converting word into lemmas. (a reak word)
+- Slower than stemming
+- More accuracy
 
 
 
