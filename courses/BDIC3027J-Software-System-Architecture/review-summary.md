@@ -486,7 +486,7 @@ Solutions to OO Problems（问题解决策略）
 
 ------
 
-### 🌐 B/S 架构（Browser/Server）
+###  B/S 架构（Browser/Server）
 
 > B/S is a special case of 3-tier architecture. The client is a browser.
 
@@ -951,7 +951,7 @@ the calculation提前确定的停机维护不计入
    - 防止饥饿（Starvation）；
    - 常见策略如 Earliest Deadline First。
 
-## QA: Security
+## QA-Security
 
 ### The Meaning of Security（安全性的含义）
 
@@ -1044,3 +1044,55 @@ ____
 - Security Cards
 - SMS Verification Codes
 - Dynamic Passwords
+
+## Testability and its Tactics
+
+### The Meaning of Testability（可测试性的含义）
+
+**Concerns**
+
+- Make software's bugs easy to be tested. (软件中的错误是否容易被检测)
+- Verify if the software product matches requirement
+- Validate the quality of the software with the least cost and effort
+
+> 目的在于发现错误（Discover faults），而不是证明没有错误。
+
+**The Importance of Testing**
+
+- 40% of cost is spend on testing
+- A failure in a large-scale software project can lead to severe consequences
+- If testability can be enhanced at the architectural level, the benefits are enormous
+
+ **Testability 场景定义（Scenario）**
+
+六要素定义：
+
+1. **Source of Stimulus**：由谁发起测试？（如开发者、测试工程师、用户等）
+2. **Stimulus**：触发测试的时机，如完成某阶段开发
+3. **Artifact**：被测试对象，如一个模块、一段代码、一个子系统
+4. **Environment**：测试发生的环境（设计期/开发期/部署期/运行时）
+5. **Response**：测试过程应当可以顺利执行，且**能观察测试结果**
+6. **Response Measure**：如何评估？如代码覆盖率、错误发现率等
+
+### Tactics to Improve Testability（提升可测试性的策略）
+
+**目标**：让测试变得更容易。
+
+**方向**：
+
+1. **Black-box testing（黑盒测试）**：注重接口输入输出；
+2. **White-box testing（白盒测试）**：注重内部结构与执行路径。
+
+**黑盒测试策略（Black-box）**
+
+- **Record / Replay**：支持测试自动化或半自动化。
+  - 可重复地重放输入场景，用于调试与回归测试。
+- **Separate interfaces from implementations**：
+  - 例如使用同一排序接口测试不同的排序算法。
+- 核心思想：提供输入，捕获输出。
+
+ **白盒测试策略（White-box）**
+
+- 使用 IDE 的调试工具（如断点、堆栈查看器）；
+- 使用操作系统级别工具（如 WinDbg）；
+- 这些方法允许深入系统内部观察执行路径与状态。
