@@ -1045,7 +1045,7 @@ ____
 - SMS Verification Codes
 - Dynamic Passwords
 
-## Testability and its Tactics
+## QA-Testability
 
 ### The Meaning of Testability（可测试性的含义）
 
@@ -1096,3 +1096,86 @@ ____
 - 使用 IDE 的调试工具（如断点、堆栈查看器）；
 - 使用操作系统级别工具（如 WinDbg）；
 - 这些方法允许深入系统内部观察执行路径与状态。
+
+## QA-Usability
+
+### The Meaning of Usability
+
+ **定义**
+
+**Usability** refers to the ease with which users can learn, operate, and interact with a software system.
+
+> 可用性指用户学习、操作、与系统交互的容易程度。
+
+**Concerns**
+
+**Facilitate user onboarding**
+
+> 方便新用户快速上手
+
+**Improve efficiency during system use**
+
+> 提高用户使用系统时的效率
+
+**Minimize the impact of user errors**
+
+> 降低用户操作错误造成的后果
+
+**Adapt to user needs**
+
+> 支持个性化或定制功能，满足不同用户需求
+
+**Enhance user confidence and comfort**
+
+> 增强用户的信任感与使用舒适度
+
+____
+
+**Scenario Components 场景六要素**
+
+| Element                | Meaning（含义）                                              |
+| ---------------------- | ------------------------------------------------------------ |
+| **Source of Stimulus** | End users（最终用户）                                        |
+| **Stimulus**           | Want to learn, improve efficiency, reduce errors（希望提升使用体验） |
+| **Artifact**           | The entire system（系统整体）                                |
+| **Environment**        | Runtime or configuration（运行时或配置状态）                 |
+| **Response**           | The system responds to user interaction（系统给出反馈）      |
+| **Response Measure**   | Task time, error count, satisfaction, success rate（时间、错误率、满意度等） |
+
+### Tactics to Improve Usability 提升可用性的策略
+
+**目标：** To make it easy for users
+
+**方向**
+
+- Runtime Tactics
+- Design-time Tactics
+
+**Runtime Tactics 运行时策略（系统运行时对用户更友好）**
+
+1. **System anticipates user tasks**
+    *e.g., input suggestions, search autocomplete*
+
+   > 系统预测用户意图，如输入法联想、搜索框补全
+
+2. **System provides appropriate feedback**
+    *e.g., progress bars, loading indicators*
+
+   > 提供及时反馈，避免用户感到迷失或卡顿
+
+3. **System provides consistent experience**
+    *e.g., DPI adjustment across resolutions*
+
+   > 保持交互一致性，如高分辨率下自动缩放 UI
+
+**Design-time Tactics 设计时策略（设计阶段改善使用体验）**
+
+1. **Support undo operations**
+    *e.g., Ctrl+Z, Recycle Bin*
+
+   > 支持撤销、还原等机制，减少误操作的风险
+
+2. **Isolate the user interface from the rest of the system**
+    *e.g., MVC pattern, interface customization*
+
+   > 前后端分离，支持用户界面独立修改、个性化定制
