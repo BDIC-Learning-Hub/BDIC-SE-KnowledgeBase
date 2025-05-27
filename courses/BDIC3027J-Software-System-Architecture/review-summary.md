@@ -1179,3 +1179,116 @@ ____
     *e.g., MVC pattern, interface customization*
 
    > 前后端分离，支持用户界面独立修改、个性化定制
+
+## SA_Evaluation
+
+### Software Architecture Evaluation
+
+**Why Software Architecture Evaluation? 为什么要做软件架构评估**
+
+- **Early detection of problems**
+
+  > 在软件生命周期早期发现架构问题，可大大降低修改成本。
+
+- **Validation of requirements**
+
+  > 验证需求、发现冲突、权衡质量属性，促使利益相关者达成共识。
+
+- **Improved architecture documentation & stakeholder communication**
+
+  > 强制性准备评估资料促使架构更完整清晰，也有助于团队沟通。
+
+**Evaluation Methods 架构评估方法概览**
+
+**SAAM (Scenario-Based Architecture Analysis Method)**
+
+> 最早提出的架构分析方法，最初用于评估可修改性（modifiability），也可扩展至其他非功能属性。
+
+ **ATAM (Architecture Tradeoff Analysis Method)**
+
+> SAAM 的改进版本，**显式考虑质量属性间的冲突和权衡（tradeoffs）**，关注点包括：
+
+- Modifiability（可修改性）
+- Performance（性能）
+- Availability（可用性）
+- Security（安全性）
+
+## ATAM
+
+**Key Idea 核心思想**
+
+ATAM is not about precise metrics — **it is about identifying architectural risks, trade-offs, sensitivity points, and non-risks**.
+
+- **Risk**：潜在导致失败的架构决策
+- **Trade-off**：一个设计影响多个质量属性
+- **Sensitivity point**：架构中某处对某一质量属性影响显著
+- **Non-risk**：经过分析认为是安全的架构决策
+
+**好处**
+
+- identified risks
+- clarified quality attribute requirement
+- improved architecture documentation
+- documented basis for architectural decisons
+- increased communication among stakeholders
+
+____
+
+**ATAM Evaluation Process 四阶段流程**
+
+| 阶段        | 内容           | 重点说明                           |
+| ----------- | -------------- | ---------------------------------- |
+| **Phase 0** | 准备阶段       | 与客户达成评估意向，组建评估小组   |
+| **Phase 1** | 技术分析       | 架构信息收集、效用树构建、风险识别 |
+| **Phase 2** | 利益相关者参与 | 脑暴新场景、验证分析结果           |
+| **Phase 3** | 报告总结       | 输出最终报告，提出建议与风险总结   |
+
+**ATAM Phase 1 Details 技术分析阶段**
+
+ Step 1: Present ATAM
+
+> 向客户介绍 ATAM 流程、概念，如 utility tree、scenario mapping。
+
+Step 2: Business drivers
+
+> 客户描述业务驱动、高层功能与质量需求。
+
+ Step 3: Architecture overview
+
+> 架构师介绍系统设计、约束条件、交互系统等。
+
+Step 4: Identify architectural approaches
+
+> 识别使用的核心架构模式（如 Client/Server, Publish-Subscribe 等）。
+
+Step 5: Build a utility tree
+
+- 根节点：Driving Quality Attributes（如性能、可用性、安全等）
+- 叶节点：Scenarios，用于评估该属性是否满足要求
+
+> Utility Tree 是优先级分析和属性冲突的核心载体。
+
+Step 6: Analyze scenarios & identify risks
+
+- 针对每个高优先级场景，分析架构如何支撑，并识别：
+  - Risks（可能存在的问题）
+  - Sensitivity points（影响特定属性的点）
+  - Tradeoffs（质量属性之间的取舍）
+  - Non-risks（不成问题的决策）
+
+**ATAM Phase 2: Stakeholder Interaction 利益相关者阶段**
+
+- Stakeholders brainstorm new scenarios↳
+- 对第 1 阶段结果进行验证（Validate utility tree & risks）
+
+输出内容包括：
+
+- New scenarios↳
+- New/verified risks and non-risks↳
+- Confirmed tradeoff/sensitivity points
+
+
+
+---
+
+后面省略不学了。
