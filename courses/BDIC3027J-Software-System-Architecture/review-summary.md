@@ -1,10 +1,10 @@
 # 软件体系架构知识复习
 
-> 课程编码：
+> 课程编码：COMP3027J
 >
-> 授课教师：
+> 授课教师：邓勇舰
 >
-> 考核方式：
+> 考核方式：Attendance(20%) + Assignments(20%) + Final Exam (60%)
 
 ## Lseeson21: Data Flow Architectural Style(Data Flow Style)
 
@@ -18,7 +18,7 @@
 
 1. **描述的是一类架构，而非某一个具体系统**
 
-- It describes a **class of architectures** that appear repeatedly in practice.↳
+- It describes a **class of architectures** that appear repeatedly in practice.
 
 2. **与具体问题无关（problem-independent）**
 
@@ -240,7 +240,7 @@
 
 ### Call/Return Architectural Style 概述
 
-📌 定义
+ 定义
 
 > Call/Return 风格是一类以**明确过程调用（call）和返回（return）**为基础的体系结构风格，强调主程序对子程序、对象、层级等的调用控制。
 
@@ -255,15 +255,15 @@
 
 ### Main Program & Subroutine Style 主程序与子程序风格
 
-🎯 适用问题（Problem）
+ 适用问题（Problem）
 
 适用于**可分解为过程调用层级的应用程序**，例如排序、搜索、数值分析等。
 
-📎 上下文（Context）
+上下文（Context）
 
 大多数过程式编程语言（如 C, Pascal）天然支持此结构：支持过程嵌套、命名空间、模块化、单线程控制等。
 
-💡 解决方案（Solution）
+解决方案（Solution）
 
 | 构成项            | 内容                                                    |
 | ----------------- | ------------------------------------------------------- |
@@ -276,7 +276,7 @@
 
 ------
 
-🔍 模块分解策略（Parnas 模块化建议）
+模块分解策略（Parnas 模块化建议）
 
 | 原则                                    | 说明                                                         |
 | --------------------------------------- | ------------------------------------------------------------ |
@@ -287,16 +287,16 @@
 
 ### Object-Oriented Style 面向对象风格
 
-🎯 Problem
+Problem
 
 当软件系统的核心是**管理与封装数据及其行为**时，OO风格是最适合的结构。
 
-📎 Context
+ Context
 
 - 面向对象语言（如 Java、C++、Python）支持对象封装、继承、多态等特性，天然契合此风格。
 - 同时有大量设计方法（如 UML、领域建模）支撑对象识别与设计。
 
-💡 Solution
+Solution
 
 | 构成项            | 内容                                              |
 | ----------------- | ------------------------------------------------- |
@@ -305,7 +305,7 @@
 | Connectors        | 方法调用（Procedure Call）                        |
 | Control Structure | 去中心化，通常为单线程（Decentralized）           |
 
-🔑特性（Characteristics）
+特性（Characteristics）
 
 | 特性       | 英文术语              | 中文说明                   |
 | ---------- | --------------------- | -------------------------- |
@@ -315,7 +315,7 @@
 | 交互       | Interaction           | 通过方法调用或协议         |
 | 复用与维护 | Reuse and Maintenance | 通过模块化与封装提升生产力 |
 
-❗Problems of Object Oriented
+Problems of Object Oriented
 
 | 类别 | 问题描述 | 英文说明 |
 | ---- | -------- | -------- |
@@ -336,7 +336,7 @@ Solutions to OO Problems（问题解决策略）
 
 ### Layered System Style 分层风格
 
-**🎯 Problem **
+**Problem**
 
 - 适用于**服务层次分明、职责清晰**的系统，如操作系统、网络协议栈、Web 应用结构。
 - 系统服务可以自然划分为多个层级，例如：
@@ -344,13 +344,13 @@ Solutions to OO Problems（问题解决策略）
   - 中间为通用功能层（如数据库访问）
   - 顶层为具体应用逻辑（如用户界面）
 
-🌐 Context（上下文）
+ Context（上下文）
 
 - 高层设计阶段中经常使用分层思想
 - 每一层服务类任务被归为一组
 - 可以结合不同架构模式来细化每层
 
-💡 Solution（解决方案）
+ Solution（解决方案）
 
 | 构成要素          | 英文术语                                    | 描述                                    |
 | ----------------- | ------------------------------------------- | --------------------------------------- |
@@ -386,7 +386,7 @@ Solutions to OO Problems（问题解决策略）
 
  **Definition**
 
-> **Client/Server architecture** is a style where components are divided into clients and servers. The client initiates requests, and the server processes and returns responses.↳
+> **Client/Server architecture** is a style where components are divided into clients and servers. The client initiates requests, and the server processes and returns responses.
 
 即：将系统划分为两个角色：
 
@@ -395,12 +395,12 @@ Solutions to OO Problems（问题解决策略）
 
 这是一种**资源不对等结构（asymmetric interaction）**，客户端依赖服务器。
 
-🎯 Application Context（适用场景）
+Application Context（适用场景）
 
 - **适用于网络环境下的分布式系统**，如企业管理系统、数据库系统、Web 应用等。
 - 多用户共享资源（如数据库、文件、打印机）或分布式任务处理。
 
-🧩 Structural Elements（结构组成）
+Structural Elements（结构组成）
 
 | 元素                 | 英文术语                              | 描述                               |
 | -------------------- | ------------------------------------- | ---------------------------------- |
@@ -410,7 +410,7 @@ Solutions to OO Problems（问题解决策略）
 
 ------
 
-🧱 Characteristics（特征）
+Characteristics（特征）
 
 | 特征                         | 英文术语                           | 解释 |
 | ---------------------------- | ---------------------------------- | ---- |
@@ -424,7 +424,7 @@ Solutions to OO Problems（问题解决策略）
 
 ------
 
-✅ Advantages of Client/Server Style（PPT p33）
+Advantages of Client/Server Style（PPT p33）
 
 | 优势编号 | 英文描述                       | 中文解释                                    |
 | -------- | ------------------------------ | ------------------------------------------- |
@@ -437,7 +437,7 @@ Solutions to OO Problems（问题解决策略）
 
 ------
 
- 🟥 Disadvantages of Client/Server Style
+  Disadvantages of Client/Server Style
 
 | 问题编号 | 英文描述                                | 中文解释                                   |
 | -------- | --------------------------------------- | ------------------------------------------ |
@@ -450,9 +450,9 @@ Solutions to OO Problems（问题解决策略）
 
 ------
 
-**✅ Two-Tier vs Three-Tier Architecture（二层与三层结构）**
+**Two-Tier vs Three-Tier Architecture（二层与三层结构）**
 
-🟦 Two-Tier（厚客户端 Thick Client）
+Two-Tier（厚客户端 Thick Client）
 
 | 层次   | 功能                                       |
 | ------ | ------------------------------------------ |
@@ -471,7 +471,7 @@ Solutions to OO Problems（问题解决策略）
 - Software maintenance and upgrades are difficult. Software
   on each client requires maintenance
 
-🟩 Three-Tier（三层架构 Thin Client）
+ Three-Tier（三层架构 Thin Client）
 
 | 层级   | 英文名称          | 功能                         |
 | ------ | ----------------- | ---------------------------- |
@@ -506,6 +506,9 @@ Solutions to OO Problems（问题解决策略）
 
 该风格强调数据是“第一公民”（first-class citizen），即所有操作都以数据为中心展开，而不是以过程或事件为中心。
 
+- Window注册表
+- 剪切板
+
 ### Repository Style
 
 > A **repository** is a central place where data is stored and maintained. Components operate on this shared data via defined interfaces. (仓库是储存和维护数据的中心场所)
@@ -529,12 +532,29 @@ Solutions to OO Problems（问题解决策略）
 
 > The **Blackboard architecture** is used when no deterministic solution sequence exists, and problem-solving relies on collaborative, opportunistic interaction among specialized components.
 
+**定义：**
+
+- *State-driven execution based on changes in the shared data (blackboard).*
+
+- *Multiple independent knowledge sources collaborate by reading/writing to the blackboard.*
+
+- *A central controller monitors blackboard state and activates appropriate knowledge sources.*
+
 **适用问题特征**
 
-- 无法提前定义明确的处理流程
-- 可能存在多个中间解、多个解法路径
-- 问题需要跨多个领域的知识源协作求解
+- 可能存在多个中间解、多个解法路径 (Multiple methods may solve the problem)
+
+- 无法提前定义明确的处理流程 （Unable to find a define solution strategy)
+- 问题需要跨多个领域的知识源协作求解 (Requires expertise in multiple fields to be solved collaboratively)
 - 举例场景：自然语言处理、图像识别、模式识别等 AI 系统
+
+**Blackboard Style如何解决上述问题**
+
+- Solves a large problem by dividing it into multiple sub-problems.
+- Each solver (knowledge source) focuses on a specific aspect of the problem.
+- Knowledge sources are independent and do not call each other directly.
+- A global data structure (the blackboard) maintains the current state of the solution.
+- All solvers read from and write to the blackboard to share information.
 
 **核心结构组成（Structure）**
 
@@ -543,6 +563,30 @@ Solutions to OO Problems（问题解决策略）
 | 黑板     | Blackboard        | 全局共享数据空间，存储当前求解状态       |
 | 知识源   | Knowledge Sources | 独立的求解程序，仅通过黑板通信           |
 | 控制器   | Controller        | 监视黑板状态，决定哪个知识源可被激活执行 |
+
+**Blackboard data structure**
+
+1. Globle database containing entire state of problem solution.
+2. Problem-solving data is structured in an application-specific hierarchy.
+3. Incremental Updates by Knowledge Sources
+4. All interactions between solvers occur only through the blackboard.
+
+**Knowledge Sources**
+
+1. Each knowledge source solves a specific sub-problem independently.
+2. Knowledge sources encapsulate expertise in particular domains.
+3. Once executed, a knowledge source updates the blackboard state.
+4. Blackboard-based Communication Only
+
+**Controller**
+
+1. The controller includes a **supervisor** and a **scheduler** to support reasoning.
+2. The supervisor monitors the blackboard and activates relevant knowledge sources based on state changes.
+3. The scheduler selects the most appropriate knowledge source and updates the blackboard with its result.
+4. The controller coordinates the collaborative execution of all knowledge sources.
+5. It understands each knowledge source’s capabilities and makes real-time decisions during problem-solving.
+
+
 
 **Blackboard 特征总结**
 
@@ -563,10 +607,14 @@ Solutions to OO Problems（问题解决策略）
 **系统分类**
 
 1. **Interpreters**：解释器，模拟执行非原生语言/功能
-2. **Rule-based Systems**：规则系统，是解释器的一种特殊形式
-3. 其他如 **Shell**, **Command Language Processors**↳
+2. **Rule-based Systems**：Specializatio of an interpreter
+3. 其他如 **Shell**, **Command Language Processors**
 
 ### Interpreter Style（解释器风格）
+
+**速记**
+
+Interpreter Style is used when a problem requires defining a custom language or when the execution machine is not directly available. It uses a virtual machine model with a state-driven execution engine. Components include the execution engine and three types of memory (interpreter state, program, program state). Control is input-driven. Expert systems are a typical variant where rules are interpreted as programs.
 
 > When the target execution language/machine is not natively available.
 >  适用于目标平台不支持直接执行解决方案语言的场景，或需要用脚本描述解决方案。
@@ -589,33 +637,68 @@ Solutions to OO Problems（问题解决策略）
 | 连接器   | Data access, Procedure Call    | 解释流程驱动 + 状态转移机制  |
 | 控制结构 | Input-driven state transitions | 由输入触发状态迁移           |
 
+
+
+**Interpreter architectural style and its components.**
+
+*Problem*
+
+1. Used when the **target language or machine is not directly executable**.
+2. Suitable for applications where the key problem is **defining a custom notation or scripting language**.
+
+*Context*
+
+1. Bridges the gap between a **desired abstract language** and an **available execution environment**.
+
+*Solution*
+
+1. Based on a **virtual machine** model.
+2. Executes input programs via **interpretation, not compilation**.
+
+*Components*
+
+1. One state machine
+2. **Three memories**:
+    a) program to interpret
+    b) interpreter state
+    c) program state (variables, stack)
+
+*Connector*
+
+1. data access and procedure call
+
+*Control Structure*
+
+1. Based on **state transitions in the interpreter**.
+2. input driven for selection of what to interpret
+
 **优点（Advantages）**
 
-| 类型          | 内容                           |
-| ------------- | ------------------------------ |
-| Functionality | 可以模拟底层硬件不支持的功能   |
-| Testing       | 可用于灾难模式测试（安全系统） |
-| Flexibility   | 通用、可复用性强的解释逻辑     |
+| 类型          | 内容                                  |
+| ------------- | ------------------------------------- |
+| Functionality | Can simulate non-native functionality |
+| Testing       | Can simulate “disaster” modes         |
+| Flexibility   | Very general-purpose tool             |
 
 缺点（Disadvantages）
 
-| 类型       | 内容                                   |
-| ---------- | -------------------------------------- |
-| Efficiency | 解释器通常**远慢于编译执行或硬件执行** |
-| Complexity | 多一层解释结构 → 软件层次更复杂        |
+| 类型       | 内容                                          |
+| ---------- | --------------------------------------------- |
+| Efficiency | Much slower than hardware and compiled system |
+| Complexity | 多一层解释结构 → 软件层次更复杂               |
 
 **应用实例（Applications）**
 
-| 应用类型   | 举例                                       |
-| ---------- | ------------------------------------------ |
-| 解释型语言 | JavaScript, Python, VBScript, HTML, Matlab |
-| 配置系统   | 脚本、命令文件、嵌入配置语言               |
-| 用户输入   | 游戏热键、菜单选择处理                     |
-| 通信协议   | 输入指令解析、FSM 解释器                   |
+| 应用类型                   | 举例                                       |
+| -------------------------- | ------------------------------------------ |
+| **Interpreted language**   | JavaScript, Python, VBScript, HTML, Matlab |
+| 配置系统                   | 脚本、命令文件、嵌入配置语言               |
+| **user input**             | 游戏热键、菜单选择处理                     |
+| **Communication Protocol** | 输入指令解析、FSM 解释器                   |
 
 ### Rule-based System
 
-> A **Rule-based system** is a specialization of an interpreter that executes **condition-action rules** from a **knowledge base**.↳
+> A **Rule-based system** is a specialization of an interpreter that executes **condition-action rules** from a **knowledge base**.
 
 本质上，它是一个**以规则集合为程序**、以**推理引擎（inference engine）**作为执行器的解释器系统。
 
@@ -634,6 +717,8 @@ Solutions to OO Problems（问题解决策略）
 
 ## Software Architecture Description
 
+> “前几章教你如何设计架构（选风格） → 这一章教你如何**表达和建模你的架构**，让别人理解和维护它。”
+
 ### Software Architecture Description（软件架构描述）
 
 #### **What is Software Architecture Description**
@@ -644,13 +729,17 @@ Solutions to OO Problems（问题解决策略）
 - **Data components**：表示处理信息的数据组件；
 - **Connection components**：用于将其他组件组合和连接的连接组件。
 
-架构描述的作用：
+**架构描述的作用：**
 
-- 定义工作分配（Work Distribution）；
-- 是质量属性（Quality Attributes）的承载体；
-- 支持早期架构分析（Early Analysis）；
-- 支撑部署后的维护与架构挖掘（Maintenance and Mining）；
-- 长期表达设计思想的蓝图（Blueprint）。
+- It served as blueprint of software system
+
+- It defines **Work Distribution**；
+- Carrier of Quality Attributes；
+- Tool for **Early Analysis**；
+- Support to maintenance and Mining；
+- Design Communication
+
+> Software architecture description is the blueprint of a system. It defines work distribution, carries quality attributes, enables early analysis, supports maintenance, and communicates design decisions for long-term understanding.
 
 #### **Traditional Method 问题**
 
@@ -666,7 +755,7 @@ Solutions to OO Problems（问题解决策略）
 #### **架构文档编写七项原则**
 
 1. **以读者为中心**(Write from reader's perspective)：让读者容易找到所需信息；
-2. **避免重复** (Avoid duplication)：每条信息只描述一次；
+2. **避免重复** (Avoid unnecessary duplication)：每条信息只描述一次；
 3. **避免歧义** (Avoid ambiguity)：使用明确定义的语言或图例；
 4. **使用标准结构** (Use standard organizational structures)：保持文档风格统一；
 5. **记录决策理由** (Record the reasons)：解释为何作出特定设计；
@@ -708,6 +797,8 @@ Solutions to OO Problems（问题解决策略）
 
 #### **视图建模标准与4+1模型**
 
+**View-based architecture modeling specification.**
+
  **视图选择：**
 
 - 列出架构关注点；
@@ -716,19 +807,21 @@ Solutions to OO Problems（问题解决策略）
 
 **4+1 View Model（Rational公司提出）**：
 
-1. **Logical View**：抽象描述系统结构，如类、对象、状态、交互；
-2. **Process View**：解决并发和分布问题；
-3. **Development View**：开发模块组织结构；
-4. **Physical View**：系统物理部署结构；
-5. **Use Case View**：以用户场景串联以上视图。
+1. **Logical View**：Focus: *Behavioral requirements*，如类、对象、状态、交互；包含：Class diagrams, object diagrams, state diagrams and communication diagrams
+2. **Process View**：解决并发和分布问题；Concurrency and distribution: 包含： activity diagram
+3. **Development View**：Organizes *modules, libraries, packages, and components*; 包含：package diagrams and component diagrams
+4. **Physical View**：系统物理部署结构；Maps *software elements to hardware nodes and communication links*: 包含： deployment diagram.
+5. **Use Case View**：以用户场景串联以上视图。System functionality from user perspective; 包括： Use Case Diagram
+
+> The 4+1 View Model describes software architecture from five perspectives: Logical View (object structure), Process View (concurrency), Development View (module organization), Physical View (deployment), and Use Case View (scenarios). These views address different concerns and together ensure a comprehensive understanding of the system.
 
 #### **UML 建模元素综述**
 
 **Modeling Elements**
 
 - Structural：类、接口、组件等；
-- Behavioral：状态机、交互；
-- Grouping：包、子系统；
+- Behavioral：状态机、交互；Interaction, State machine
+- Grouping：包、子系统；Package, subsystem
 - Others：注释等辅助元素。
 
 **Relationships**
@@ -741,8 +834,8 @@ Solutions to OO Problems（问题解决策略）
 
 **UML共13种标准图：**
 
-- 静态视图：Use Case、Class、Object、Component、Deployment、Package、Composite；↳
-- 动态视图：Sequence、Communication、State Machine、Activity、Timing、Interaction Overview。↳
+- 静态视图：Use Case、Class、Object、Component、Deployment、Package、Composite；
+- 动态视图：Sequence、Communication、State Machine、Activity、Timing、Interaction Overview
 
 ## Quality Attributes- Availability
 
@@ -750,11 +843,13 @@ Solutions to OO Problems（问题解决策略）
 
 质量属性（Quality Attributes, QA）是非功能性需求，**并不由功能决定**。要实现系统功能，必须赋予系统模块正确的职责、资源、调度顺序。只有在功能实现之后，才讨论质量属性。
 
+It is a non-functional requirement and is not determined by function.
+
 **质量属性的实现依赖于三方面**
 
-必须在**设计、实现和部署**三个方面同时考虑：
+必须在**设计、实现和部署**三个方面同时考虑：Design, implementation,deployment
 
-- 不可或缺；
+- 不可或缺；Indispensable
 - 尤其在架构阶段就应考虑其实现方式。
 
  **常见质量属性**
@@ -774,26 +869,26 @@ Solutions to OO Problems（问题解决策略）
 
 **质量属性场景的六要素**
 
-1. **Source**（刺激源）：引发刺激的实体；
-2. **Stimulus**（刺激）：触发系统反应的事件；
-3. **Artifact**（受影响构件）：被影响的系统部分；
-4. **Environment**（环境）：事件发生时系统状态；
-5. **Response**（响应）：系统的应对行为；
-6. **Response Measure**（响应度量）：评估响应的标准。
+1. **Source**（刺激源）：谁触发了该事件（如用户、攻击者、系统进程）
+2. **Stimulus**（刺激）：触发系统反应的事件（如请求到达、系统崩溃、数据泄露）
+3. **Artifact**（受影响构件）：受影响的系统部分（如数据库、服务模块、UI）
+4. **Environment**（环境）：刺激发生时的系统状态（正常运行、高负载、维护中）
+5. **Response**（响应）：系统对刺激的反应行为（如返回结果、切换备份、报警）
+6. **Response Measure**（响应度量）：如何评估响应质量（如响应时间 < 2s，恢复时间 < 10min）
 
 ### Meaning of Availability
 
 **Definition**
 
-- The probability that the system is available when a user uses当用户
+- The probability that the system is available when a user uses；当用户
 使用系统时，系统可用的概率
 - Maintenance shutdowns determined in advance are not included in
 the calculation提前确定的停机维护不计入
 
-**关注点**
+**Concerns**
 
-- 是否发生了故障（故障会被外部感知）；
-- 故障造成的后果严重性。
+- Whether a failure occurered; 是否发生了故障（故障会被外部感知）；
+- Consequences of failure; 故障造成的后果严重性。
 
 **Metrics**
 
@@ -803,12 +898,12 @@ the calculation提前确定的停机维护不计入
 
 **场景举例**
 
-- Source：内外部的故障征兆；
-- Stimulus：系统崩溃、无法及时返回结果、返回错误结果；
-- Artifact：计算、存储、网络等系统部分；
-- Environment：正常或“亚健康”状态；
+- Source：Signs of failure; 内外部的故障征兆；
+- Stimulus：System faults、Return wrong results、System crash；
+- Artifact：计算、存储、网络等系统部分；Compute or storage or network transmission
+- Environment：正常或“亚健康”状态；Normal state or "sub-healthy" state
 - Response：记录日志、通知管理员、下线维护；
-- Response Measure：故障发生比例、修复耗时。
+- Response Measure：故障发生比例、修复耗时。Percentage of time to failure, time to repair failure
 
 ### Tactics to Improve Availability-Definition
 
@@ -823,13 +918,13 @@ the calculation提前确定的停机维护不计入
 2. **Fault Recovery（故障恢复）**
 3. **Fault Avoidance（故障规避）**
 
-**Fault Detection 战术**
+**Fault Detection**
 
 - **Ping/echo**：监控组件定期发送 Ping，检查是否有回应；
 - **Heartbeat**（心跳）：被监控节点定期发送心跳包，如果多个心跳缺失则认为其失效；
 - **Exception Handling**：基于编程语言机制的异常抛出、捕获与处理。
 
-**Fault Recovery 战术**
+**Fault Recovery**
 
 - **Vote（投票）**：多个冗余模块通过多数投票决策输出；
 - **Active Redundancy**：主备同时运行，主失效后立即切换；
@@ -837,7 +932,7 @@ the calculation提前确定的停机维护不计入
 - **Internal Testing（内测 Alpha）**：开发阶段尽早发现问题；
 - **Checkpoint/Rollback**：定期保存状态，一旦失败可回滚。
 
-**Fault Avoidance 战术**
+**Fault Avoidance**
 
 - **Service offline**：预知攻击时主动下线；
 - **Transaction**：事务机制确保操作的原子性；
@@ -849,10 +944,10 @@ the calculation提前确定的停机维护不计入
 
 **Concerns**
 
-- Cost of Modification
-- Which parts of the system are modified
-- When the modification occurs
-- Who performs the modification
+- Cost of Modification; 修改的花费
+- Which parts of the system are modified; 
+- When the modification occurs;
+- Who performs the modification; 
 
 **Measurement Metrics**
 
@@ -864,14 +959,12 @@ the calculation提前确定的停机维护不计入
 
 使用场景（Scenarios）可帮助理解：
 
-- **Source of Stimulus（刺激源）**：如开发者、管理员或用户；
-- **Stimulus（刺激）**：需要实施的特定修改；
+- **Source of Stimulus（刺激源）**：Who Performs the Modification; 如开发者、管理员或用户；
+- **Stimulus（刺激）**：Specific Modifications to Be made; 需要实施的特定修改；
 - **Artifacts（受影响构件）**：如功能、UI、交互系统等；
 - **Environment（环境）**：如设计阶段、开发阶段或运行阶段；
 - **Response（响应）**：操作人员完成修改、测试并部署；
-- **Response Measure（度量）**：时间和成本。
-
-
+- **Response Measure（度量）**：Time & Cost
 
 ### Tactics to Improve Modifiability（提升可修改性的策略）
 
@@ -879,7 +972,25 @@ the calculation提前确定的停机维护不计入
  **策略方向**：
 
 1. 限制修改范围（Limiting the Scope of Modification）；
-2. 延迟绑定时间（Delaying Binding Time）。
+2. 延迟绑定时间（Delaying Binding Time）
+
+**Limiting the Scope of Modification**
+
+- High cohesion, low coupling
+- Consider potential modifications
+- Make modules generic
+- Hide information
+- Maintain Consistent interface
+- Limit communication paths
+- Use intermediaries
+- Name server
+- Create instance on demand
+
+**Delaying Binding Time**
+
+- Configuration files
+- Publish-subscribe style
+- Polymorphism
 
 ## QA-Performance
 
@@ -888,7 +999,7 @@ the calculation提前确定的停机维护不计入
 **性能关注点（Concerns）**
 
 - 系统响应事件的速度（**Speed of system response to events**）；
-- 取决于事件的数量与到达模式（arrival pattern）；
+- 取决于事件的数量与到达模式（Related to the number and arrival pattern of events）；
 - **事件来源**包括User requests, inside the system, outside the system
 
  **事件到达模式（Arrival Patterns）**
@@ -899,15 +1010,15 @@ the calculation提前确定的停机维护不计入
 
 **性能场景要素（Performance Scenario）**
 
-- **Source of Stimulus**：来自系统内外的触发源；
-- **Stimulus**：事件到达并要求系统响应；
-- **Artifact**：系统提供的服务（即被影响的构件）；
+- **Source of Stimulus**：May come from inside or outside the system
+- **Stimulus**：Event arrival (requires response)
+- **Artifact**：系统提供的服务（即被影响的构件）Service；
 - **Environment**：系统当前所处的状态，例如正常、紧急、过载；
-- **Response**：系统处理事件（可能伴随状态变化）；
+- **Response**：System processes incoming events, which may lead to state changes
 - **Response Measure**：度量系统响应效果的指标：
   - 响应时间（Time taken to process）；
-  - 单位时间内处理事件数量；
-  - 错误率或丢失率。
+  - 单位时间内处理事件数量；Number of events processed per unit of time
+  - Error rate/loss rate
 
 ### Tactics to Improve Performance（提升性能的策略）
 
@@ -923,13 +1034,13 @@ the calculation提前确定的停机维护不计入
 
 **资源需求相关策略（Resource Requirements）**
 
-1. **提升计算效率**
+1. **Improve computational efficiency without changing the amount of data**
    - 使用更高效的算法；
    - 减少处理事件所占用的资源。
-2. **减少处理数据总量**
+2. **Reduce the total amount of data to be processed**
    - 限制事件到达速率（例如限流）；
    - 选择性处理部分请求（如采样、预筛）。
-3. **限制执行时间**
+3. **Limit execution time**
    - 在指定时间内提供近似解；
    - 限制待处理事件队列长度（如队满即丢弃）。
 
@@ -938,16 +1049,16 @@ the calculation提前确定的停机维护不计入
 1. **并发机制（Concurrency）**
    - 使用多线程、多进程、多核、多机协作以提升吞吐量；
    - 合适的并发模型可大幅提升性能。
-2. **增加资源**
+2. **Increase available resources**
    - 例如扩大计算资源、存储容量、带宽等。
 
  **资源仲裁策略（Resource Arbitration）**
 
-1. **先到先服务（FCFS）**
+1. **先到先服务（FCFS）Fiert-come, Firt-served**
    - 最基础的调度策略。
-2. **固定优先级调度**
+2. **固定优先级调度 Fixed priority scheduling**
    - 高优先级任务（如军用、高端服务）可优先调度。
-3. **动态优先级调度**
+3. **动态优先级调度 Dynamic priority**
    - 防止饥饿（Starvation）；
    - 常见策略如 Earliest Deadline First。
 
@@ -1010,9 +1121,9 @@ ____
    - 密码、图形验证码、生物识别（如人脸、指纹）等。
 2. **User Authorization（用户授权）**
    - 确保用户的行为在其权限范围内。
-3. **Confidentiality（保密性）**
+3. **Maintain data Confidentiality（保密性）**
    - 对数据和传输过程进行加密（如 HTTPS、VPN）。
-4. **Integrity（完整性）**
+4. **Maintain data Integrity（完整性）**
    - 使用 MD5、SHA 等哈希算法确保数据未被篡改。
 5. **Reducing Exposure（减少暴露面）**
    - 关闭不必要的端口、服务、SSID 等。
@@ -1023,10 +1134,10 @@ ____
 
  **检测攻击（Detecting Attacks）**
 
-1. **软件+人工协同检测**
+1. **Combine Software and Human**
    - 使用 IDS（入侵检测系统），辅以人工安全专家分析；
    - 监控系统行为是否异常。
-2. **攻击者识别**
+2. **Identification of Attackers**
    - 有助于威慑潜在攻击者；
    - 为后续恢复提供线索。
 
@@ -1035,6 +1146,8 @@ ____
 
 
  **从攻击中恢复（Recovering）**
+
+- Restoring State
 
 - 可借助“可用性”策略（如热备份、容灾恢复）进行状态恢复。
 
@@ -1072,7 +1185,7 @@ ____
 3. **Artifact**：被测试对象，如一个模块、一段代码、一个子系统
 4. **Environment**：测试发生的环境（设计期/开发期/部署期/运行时）
 5. **Response**：测试过程应当可以顺利执行，且**能观察测试结果**
-6. **Response Measure**：如何评估？如代码覆盖率、错误发现率等
+6. **Response Measure**：如何评估？如Statement coverage.、Decision coverage/branch coverage、Condition coverage
 
 ### Tactics to Improve Testability（提升可测试性的策略）
 
@@ -1089,13 +1202,19 @@ ____
   - 可重复地重放输入场景，用于调试与回归测试。
 - **Separate interfaces from implementations**：
   - 例如使用同一排序接口测试不同的排序算法。
+- **Provide specific test paths**
 - 核心思想：提供输入，捕获输出。
 
  **白盒测试策略（White-box）**
 
-- 使用 IDE 的调试工具（如断点、堆栈查看器）；
-- 使用操作系统级别工具（如 WinDbg）；
-- 这些方法允许深入系统内部观察执行路径与状态。
+- Internal monitoring
+
+  - 使用 IDE 的调试工具（如断点、堆栈查看器）；
+
+  - 使用操作系统级别工具（如 WinDbg）；
+
+  - 这些方法允许深入系统内部观察执行路径与状态。
+
 
 ## QA-Usability
 
@@ -1108,6 +1227,8 @@ ____
 > 可用性指用户学习、操作、与系统交互的容易程度。
 
 **Concerns**
+
+Reduce the difficulty for user to use software.
 
 **Facilitate user onboarding**
 
@@ -1213,7 +1334,7 @@ ____
 - Availability（可用性）
 - Security（安全性）
 
-## ATAM
+### ATAM
 
 **Key Idea 核心思想**
 
@@ -1292,3 +1413,4 @@ Step 6: Analyze scenarios & identify risks
 ---
 
 后面省略不学了。
+

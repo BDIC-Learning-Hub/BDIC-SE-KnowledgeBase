@@ -410,45 +410,293 @@ Stemming is also known as suffix stripping
 - Slower than stemming
 - More accuracy
 
+# 03a-Phrase Queries
 
+Want to answer queries such as "stanford university" as phrase
 
-# Vector Space Model
+## 1. Biword indexs (双词索引)
 
-## Intro
+**基本思路**
 
-### Boolean Model 的缺点
+- Index every consecutiive pair of terms(每两个连续单词) in the text as a phrase
+- 例如：“Friends, Romans, Countrymen” 生成的 biwords 为：
+  - friends romans
+  - romans countrymen
+
+**问题**
+
+- False positives
+- Index blowup due tob bigger dictionary
+
+## Positional Indexes（位置索引）(2023年考察)
+
+ **定义：**
+
+位置索引在每个倒排记录中不仅记录文档ID，还记录**词项在文档中的位置**。
+
+数据结构如下所示：
+
+```
+<term, number of docs;
+ doc1: position1, position2, ...;
+ doc2: position1, position2, ...;
+ ... >
+```
+
+ **作用：**
+
+通过词项出现的位置，可以判断两个或多个词项是否**连续**出现，从而支持任意长度的短语查询。
+
+## 成本
+
+**Positional Index**
+
+- Expand postings storage
+- A positional index is 2–4 times as large as a non-positional index.
+- Positional index size 35–50% of volume of original text
+
+# 03b-Vector-Space-Model-Introduction
+
+## 1. Boolean Model 的缺点
 
 - Either relevant or non-relevant to the query
 - No partial match to query conditions lead to too few documents being retrieved.
 - No Ranking
 
-VSM 将文档和查询表示为N-dimensional space
+## 2. Introduction to Vector Space Model
 
-## Document and Query Representation
+**This model both documents and queries in an N-dimensional space**
 
-### Document Representation
+>  VSM 将文档和查询表示为N-dimensional space
+
+## 3. Vector Space Basis（向量空间的构建基础）
+
+ **核心概念：Bag of Words（词袋模型）**
+
+- 每个文档被视为一个词项集合（无序），忽略词序；
+- 集合中每个**唯一词项**构成向量空间的一个维度 Each unique term in the collection is represented by a dimension in the vector space；
+- 如果一个文档包含某个词项，该维度取值为对应的**权重（term weight）**；
+- 若文档不包含某词项，该维度为 0；
+- 最终通过向量之间的距离来计算相似度 similarity score。
+
+## 4. Partial Matching and Ranking（部分匹配与排序）
+
+**VSM facilitates partial matching by using non-binary term weights.**
+
+$sim(q,d)$: 计算查询和文档的相似度得分
+
+Returna ranked list of docs
+
+## 5. Document and Query Representation
+
+**示例语料：**
+
+1. “**Information** **Retrieval** is an **exciting** **subject**”
+2. “**Mathematics** is **important** in **Information** **Retrieval**”
+
+ **去除停用词后提取的 6 个词项：**
+
+- information
+- retrieval
+- exciting
+- subject
+- mathematics
+- important
+
+ **向量空间维度 = 6（每个词项一个维度）**
+
+____
+
+
+
+**Document Representation**
 
 选取terms, 根据terms的数量决定向量的维度。
 
-### Query Representation
+采用简化的权重方案：
+$$
+w_{i, j}= \begin{cases}1, & \text { if term } i \text { is in document } j \\ 0, & \text { otherwise }\end{cases}
+$$
+
+| Term        | Doc 1 | Doc 2 |
+| ----------- | ----- | ----- |
+| information | 1     | 1     |
+| retrieval   | 1     | 1     |
+| exciting    | 1     | 0     |
+| subject     | 1     | 0     |
+| mathematics | 0     | 1     |
+| important   | 0     | 1     |
+
+
+
+**说明：**所有文档向量都是 6 维的，未出现的词项取值为 0。
+
+____
+
+
+
+ **Query Representation**
+
+> important information
 
 (1, 0, 0, 0, 0, 1)
 
-需要对应词表的顺序
+需要对应词表的顺序. Order of the terms in the vector is the same as corpus
 
-## Cosine Similarity
+## 03c-Vector-Space-Model-Cosine-Similarity
 
 原理：The smaller the angle between two vectors, the more similar they are.
+$$
+\vec{a} \cdot \vec{b}=|\vec{a}||\vec{b}| \cos \theta
+$$
 
-## Term Weighting
+## 1. Why Use Cosine Similarity?
+
+**范围清晰**：因为所有权重非负（如 TF、TF-IDF），角度在 [0°, 90°]；
+
+- 相似度最大（cos 0° = 1）：完全一致；
+- 相似度最小（cos 90° = 0）：完全无关；
+
+**易于计算和解释**；
+
+**适用于稀疏向量**：实际文档向量维度极高（数万），但大部分为 0
+
+## 2. Cosine Similarity
+
+$$
+\operatorname{sim}\left(d_j, q\right)=\frac{\vec{d}_j \cdot \vec{q}}{\left|\vec{d}_j\right||\vec{q}|}
+$$
+
+$$
+\operatorname{sim}\left(d_j, q\right)=\frac{\sum_{i=1}^T w_{i, j} \cdot w_{i, q}}{\sqrt{\sum_{i=1}^T w_{i, j}^2} \cdot \sqrt{\sum_{i=1}^T w_{i, q}^2}}
+$$
+
+- T是语料库中不同词项的总数
+- $w_{i,j}$: 词i 在文档j中的权重
+- $w_{i,j}$: 词 i 在查询 q 中的权重
+
+![image-20250528115107776](./image-20250528115107776.png)
+
+## 3. Some Questions
+
+几个关键问题帮助实际实现：
+
+- 若某 term 不在查询中，对相似度 **没有影响（乘积为 0）**；
+- 若 term 不在文档中，也不会影响点积；
+- 向量维度始终固定（词项总数），但实际为**稀疏表示**（sparse representation）；
+- 实际中我们不显式存储完整向量，而使用倒排索引记录非零维度。
+
+# 03d-Vector-Space-Model-Term-Weights
 
 Term Frequency(TF)
 
 Inverse Document Frequency(IDF)
 
+## 1. Term  Frequency (TF)
+
+The more frequently a term appears, the greater its importance to the document should be.
+
+## 2. 为什么频率不能直接用
+
+- A word that appears in every documents is not very useful.(类似stopwords)
+- Long documents naturally contain more terms;
+
+## 3. TF-IDF 权重模型
+
+**TF (Term Frequency)**：
+
+- 衡量某个词项在**当前文档中出现的频率**；
+- 频率越高，代表该词对文档内容越重要。
+
+**IDF (Inverse Document Frequency)**：
+
+- 衡量某个词项在**整个文档集合中出现的稀有度**；
+- 越少文档包含某词，说明它越有区分力 → 权重应更高。
+
+$$
+w_{i, j}=t f_{i, j} \cdot i d f_i
+$$
+
+## 4. Term Frequency（TF）公式
+
+$$
+t f_{i, j}=\frac{\text { freq }_{i, j}}{\max \text { freq }_j}
+$$
+
+其中：
+
+- $freq_{i,j}$：词项 i在文档 j 中出现的次数；
+- $\max freq_j$​：文档 j 中出现次数最多的词的频率。
+
+目的：
+
+- Ensure that terns in long documents do not get an unfair advantage
+
+## 5. Inverse Document Frequency（IDF）公式
+
+$$
+i d f_i=\log \frac{N}{n_i}
+$$
+
+其中：
+
+- $N$：整个文档集合中的文档总数；
+- $n_i$：包含词项 $i$ 的文档数。
+
+目的：
+
+- Give a higher weight to terms that are rare
+
+
+
+## **6：TF-IDF 权重**
+
+$$
+w_{i, j}=t f_{i, j} \cdot i d f_i
+$$
+
+**每个词项在每个文档中的权重都是唯一的**，因 TF 随文档而变，IDF 仅随词项在整个集合中的分布而变。
+
+# 03e-Vector_Space_Model_Conclusions
+
+## **1. TF-IDF Advantages:**
+
+- TF gives more influence to a document that contains many occurrences of a particular term
+- IDF lessens the impact of terms that appear very often in the collection.
+
+## 2. 向量空间模型的优缺点
+
+Advantages:
+
+- Term weighting can improve retrieval performance
+- Partial matching strategy allows for retrieval of documents taht match part of the query
+- consine similarity can be used to return ranked list of docs
+
+Disadvantages:
+
+- Assumption terms are independent, which sometimes harm performance
+
+
+
+##3.  **向量空间模型的实现步骤（Implementation）**
+
+1. **读取文档（Read in documents）**
+2. **分词（Tokenisation）**
+3. **去除停用词（Stopword Removal）**
+4. **词干提取（Stemming）**
+5. **加入索引结构（Add to index）**
+6. **计算 TF-IDF 权重**
+   - 每个词项具有一个 IDF 值（全局）；
+   - 每个文档中每个词项有自己的 TF 值（局部）。
+7. **接收查询（Receive query）**
+8. **返回查询结果（Retrieve results）**
+
+该流程构成了现代 IR 系统基于向量空间模型的标准处理框架。
+
 # 08a Fusion
 
 ## 1. 为什么研究Fusion
+
    - IR算法多而复杂
    - 将**多套检索系统**（或多种算法）对同一查询返回的结果整合成**单一的排序列表**，期望整体质量优于任一输入列表。
    - 召回率和精确率好
