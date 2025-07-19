@@ -31,7 +31,7 @@
 ## 学习资源
 
 ### 📚 课程笔记
-- [Lecture 笔记](https://github.com/beihaizhang11/COMP3033J-Computer-Graphics-Notes) - 详细的课程知识点整理
+- [Lecture 笔记](https://github.com/beihaizhang11/COMP3033J-Computer-Graphics-Notes) 
 
 ### 🎮 项目参考
 - [Project Demo](https://github.com/mrle0429/SpaceStation3D) - 3D空间站动画项目示例

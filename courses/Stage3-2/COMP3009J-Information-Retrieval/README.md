@@ -23,6 +23,9 @@
 - **大作业**：实现一个简化版的 IR 系统，基于布尔模型/向量空间模型等方法，并计算相关评估指标。需结合课程内容理解实现逻辑。
 - **期末考试**：题型固定但内容会变动，覆盖面广，建议全面掌握各个知识模块。
 
+## Assignment
+- [Assignment](https://github.com/mrle0429/IR_Assignment_1.git)
+
 # 00b-What is IR?
 
 ## 1. 什么是信息检索系统(Information Retrieval, IR)

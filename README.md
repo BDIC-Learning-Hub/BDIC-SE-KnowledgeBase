@@ -9,16 +9,29 @@
 
 本仓库按课程分类整理，包括课程简介、授课老师、考核方式、复习建议、经验分享、往年资料等内容。课程如下：
 
+### Stage 3 Autumn
+- [分布式系统](courses/Stage3-1/COMP3008J-Distributed-Systems/README.md)
+
+- [计算机图形](courses/Stage3-1/COMP3033J-Computer-Graphics/README.md)
+
+- [面向对象设计](courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md)
+
+- [软件工程方法](courses/Stage3-1/COMP3017J-Software-Methodology/README.md)
+
+- [Web应用开发](courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md)
+  
+- [移动计算](courses/Stage3-1/COMP3011J-Mobile-Computing/README.md)
+
 ### Stage 3 Spring
--[软件项目管理](courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md)
+- [软件项目管理](courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md)
 
--[软件系统架构](courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
+- [软件系统架构](courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
 
--[系统设计与验证](courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md)
+- [系统设计与验证](courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md)
 
--[软件工程课设2](courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md)
+- [软件工程课设2](courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md)
 
--[信息获取](courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
+- [信息获取](courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
 
 
 ## 🙌 贡献者鸣谢
