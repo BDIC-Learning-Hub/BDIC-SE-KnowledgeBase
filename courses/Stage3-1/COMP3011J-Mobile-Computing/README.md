@@ -61,6 +61,11 @@ Project需要自己定主题，并且需要和Prof讨论共同决定你的想法
 ### 📝 课程笔记
 - [Example Quiz](courses/Stage3-1/COMP3011J-Mobile-Computing/Quiz/ExampleQuiz.md) 
 
+
+## Assignment
+- [FruitApp(Ass1)](https://github.com/mrle0429/FruitApp.git)
+- [(Ass2)]() -[待补充]
+
 ### 📱 项目案例
 
 - [tally](https://github.com/beihaizhang11/COMP3011J_Project.git)

@@ -8,6 +8,24 @@
 ## 📚项目内容
 
 本仓库按课程分类整理，包括课程简介、授课老师、考核方式、复习建议、经验分享、往年资料等内容。课程如下：
+### Stage 1 Autumn
+
+### Stage 1 Spring
+
+### Stage 2 Autumn
+- [数据结构与算法I](courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md)
+- [面向对象编程](courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md)
+- [操作系统](courses/Stage2-1/COMP2012J-Operating-Systems/README.md)
+- [概率论与数理统计](courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md)
+- [大学物理Ⅰ-2](courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md)
+
+
+### Stage 2 Spring
+- [数据结构与算法II](courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md)
+- [离散数学](courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md)
+- [数据库和信息系统](courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md)
+- [软件工程课设1](courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md)
+- [计算机网络](courses/Stage2-2/COMP2009J-Computer-Networks/README.md)
 
 ### Stage 3 Autumn
 - [分布式系统](courses/Stage3-1/COMP3008J-Distributed-Systems/README.md)
@@ -35,6 +53,7 @@
 
 
 ## 🙌 贡献者鸣谢
+- [Mrle](https://github.com/mrle0429)
 - [beihaizhang11](https://github.com/beihaizhang11)
 
 - [YunhanGa0](https://github.com/YunhanGa0)
