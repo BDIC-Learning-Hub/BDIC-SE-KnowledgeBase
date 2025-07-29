@@ -2,7 +2,7 @@
 
 > 课程编号：COMP2010J
 >
-> 考核形式：[待补充]% Final + [待补充]% Coursework
+> 考核形式：60% Final + 40% Coursework
 >
 > 授课教师：[Nima Afraz](https://nimaafraz.github.io/)
 >
@@ -32,8 +32,8 @@ Lecture: Nima十分认真，是BDIC的好老师之一。邮件回复及时，有
 - [参考书籍](Data_Structures_and_Algorithms_in_Java_-_PDF_Room.pdf)
 
 ### 🚀 项目案例
-- [Assignment1](./projects/) - [未公开]
-- [Assignment2](./projects/) - [未公开]
+- [Assignment1](https://github.com/buzhidaoqusm/COMP2010J_Assignment1.git)
+- [Assignment2](https://github.com/buzhidaoqusm/COMP2010J_Assignment2.git)
 
 ## 💡 学习建议
 

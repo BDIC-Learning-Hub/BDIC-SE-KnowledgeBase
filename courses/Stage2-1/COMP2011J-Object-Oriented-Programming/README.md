@@ -2,7 +2,7 @@
 
 > 课程编号：COMP2011J
 >
-> 考核形式：[待补充]% Final + [待补充]% Coursework
+> 考核形式：35% Written Exam + 35% Programming Exam + 20% Assignment + 10% Quiz
 >
 > 授课教师：[Seán Russell](https://people.ucd.ie/sean.russell/grants)
 >
@@ -36,6 +36,7 @@ Ass: 在学期中间Sean会发布本学期的Ass任务，可以算是Java编程�
 
 ### 🚀 项目案例
 - [Asteroids](https://github.com/mrle0429/Asteroids.git) 
+- [Defender](https://github.com/buzhidaoqusm/COMP2011J-assignment.git)
 
 ## 💡 学习建议
 
