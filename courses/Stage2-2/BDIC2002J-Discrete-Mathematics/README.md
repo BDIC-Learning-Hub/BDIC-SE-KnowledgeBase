@@ -2,7 +2,7 @@
 
 > 课程编号：BDIC2002J
 >
-> 考核形式：100% Final Exam
+> 考核形式：90% Final Exam + 10% Attendance 
 >
 > 授课教师：[王少帆](https://bdic.bjut.edu.cn/info/1034/1279.htm)
 >
