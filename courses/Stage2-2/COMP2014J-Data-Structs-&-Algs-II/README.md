@@ -29,8 +29,8 @@ Lecture: David十分认真负责，讲课内容很干很有用，是BDIC的好�
 
 
 ### 🚀 项目案例
-- [Ass1]() - [未公开]
-- [Ass2]() - [未公开]
+- [Ass1](https://github.com/buzhidaoqusm/COMP2014J_Assignment1.git)
+- [Ass2](https://github.com/buzhidaoqusm/COMP2014J_Assignment2.git)
 
 
 ## 💡 学习建议
