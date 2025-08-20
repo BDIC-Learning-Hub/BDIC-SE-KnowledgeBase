@@ -22,7 +22,7 @@ Lecture: Nima十分认真，是BDIC的好老师之一。邮件回复及时，有
 ## 学习资源
 
 ### 📝 课程笔记
-- [Notes](./notes/) - [待补充]
+- [Notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/Data%20Structures%20%26%20Algorithms%20I)
 
 ### 🛠️ 历年试卷/实验
 - [Exam](./Exam/)

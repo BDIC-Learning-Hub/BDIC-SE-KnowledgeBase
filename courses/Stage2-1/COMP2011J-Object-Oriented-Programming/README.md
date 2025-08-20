@@ -25,7 +25,7 @@ Ass: 在学期中间Sean会发布本学期的Ass任务，可以算是Java编程�
 ## 学习资源
 
 ### 📝 课程笔记
-- [Notes](./notes/) 
+- [Notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/Object-Oriented%20Programming) 
 - [试题整理](https://mrlepro.com/2023/12/19/Stage2/OOP-%E8%AF%95%E9%A2%98%E7%AD%94%E6%A1%88%E6%95%B4%E7%90%86/) -无法打开请尝试切换节点
 - [OOPFinalProgrammingExam2021](https://mrlepro.com/2023/12/08/Stage2/OOPFinalProgrammingExam2021/) -无法打开请尝试切换节点
 - [OOPFinalProgrammingExam2022](https://mrlepro.com/2023/12/01/Stage2/OOPFinalProgrammingExam2022/)

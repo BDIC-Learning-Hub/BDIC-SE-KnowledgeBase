@@ -35,7 +35,7 @@ Assignment: 一个scheduling，一个memory management，总体难度不大。
 
 ### 📝 课程笔记
 - [Notes](https://mrlepro.com/2023/11/27/Stage2/OS_Notes/) - [无法打开请尝试切换节点]
-
+- [另一版notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/Operating%20System)
 ### 🛠️ 历年试卷
 - [Exam](./Exam/) 
 - [Quiz](./OS-Quiz.md) 

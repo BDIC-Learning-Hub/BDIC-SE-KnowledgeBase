@@ -16,7 +16,7 @@
 ## 学习资源
 
 ### 📝 课程笔记
-
+- [Notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/University%20Physics%20I-2)
 ### 🛠️ 历年试卷/实验
 - [Exam](./Exam/)
 
