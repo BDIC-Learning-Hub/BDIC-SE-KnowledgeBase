@@ -23,7 +23,7 @@ Phase 2占70%，需要一个小组协作，老师很看重teamwork，尽量保�
 ## 学习资源
 
 ### 📝 课程笔记
-- [Notes](./notes/) - [待补充]
+- [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Software%20Engineering%20Project%201)
 
 
 ### 🚀 项目案例

@@ -20,7 +20,7 @@
 ## 学习资源
 
 ### 📝 课程笔记
-
+- [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Computer%20Networks)
 
 ### 🛠️ 往年试卷
 - [Exam](./试卷/) - 仅供参考

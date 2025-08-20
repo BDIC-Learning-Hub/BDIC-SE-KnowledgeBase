@@ -22,7 +22,7 @@ Lecture: David十分认真负责，讲课内容很干很有用，是BDIC的好�
 ## 学习资源
 
 ### 📝 课程笔记
-
+- [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Data%20Structures%20%26%20Algorithms%20II)
 
 ### 🛠️ 历年试卷
 - [Exam](./Exam/) 
