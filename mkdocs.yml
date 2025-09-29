@@ -1,0 +1,216 @@
+site_name: BDIC 软件工程知识库
+site_description: 北京都柏林国际学院软件工程专业学习资源与经验分享
+site_author: BDIC Learning Hub
+site_url: https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/
+
+# Repository
+repo_name: BDIC-Learning-Hub/BDIC-SE-KnowledgeBase
+repo_url: https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: Copyright &copy; 2025 BDIC Learning Hub
+
+# Configuration
+theme:
+  name: material
+  language: zh
+  
+  # Static files
+  static_templates:
+    - 404.html
+  
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+  
+  # Default values, taken from mkdocs_theme.yml
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  
+  font:
+    text: Roboto
+    code: Roboto Mono
+  
+  favicon: assets/favicon.png
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
+  
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+  - minify:
+      minify_html: true
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/BDIC-Learning-Hub
+    - icon: fontawesome/solid/envelope
+      link: mailto:le.liu1@ucdconnect.ie
+  
+  generator: false
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: BDIC-Learning-Hub
+      repo: BDIC-SE-KnowledgeBase
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+# Page tree
+nav:
+  - 首页: index.md
+  - 第一学年:
+    - 秋季学期:
+      - 概览: courses/Stage1-1/index.md
+      - 高等数学（工）1: courses/Stage1-1/BDIC1029J-Maths(Engineering)-1/README.md
+      - 高等数学（工）2: courses/Stage1-1/BDIC1030J-Maths(Engineering)-2/README.md
+      - 线性代数: courses/Stage1-1/BDIC1014J-Linear-Algebra(Engineering)/README.md
+      - 程序设计概论1: courses/Stage1-1/COMP1004J-Intro-to-Prog-Construction-1/README.md
+    - 春季学期:
+      - 概览: courses/Stage1-2/index.md
+      - 高等数学（工）3: courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md
+      - 高等数学（工）4: courses/Stage1-2/BDIC1032J-Maths (Engineering) 4/README.md
+      - 大学物理Ⅰ-1: courses/Stage1-2/BDIC1015J-University-Physics-1/README.md
+      - 软件工程导论: courses/Stage1-2/COMP1003J- Introduction-to-Software/README.md
+      - 程序设计概论2: courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md
+  - 第二学年:
+    - 秋季学期:
+      - 概览: courses/Stage2-1/index.md
+      - 数据结构与算法I: courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md
+      - 面向对象编程: courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md
+      - 操作系统: courses/Stage2-1/COMP2012J-Operating-Systems/README.md
+      - 概率论与数理统计: courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md
+      - 大学物理Ⅰ-2: courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md
+    - 春季学期:
+      - 概览: courses/Stage2-2/index.md
+      - 数据结构与算法II: courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md
+      - 离散数学: courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md
+      - 数据库和信息系统: courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md
+      - 软件工程课设1: courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md
+      - 计算机网络: courses/Stage2-2/COMP2009J-Computer-Networks/README.md
+  - 第三学年:
+    - 秋季学期:
+      - 概览: courses/Stage3-1/index.md
+      - 分布式系统: courses/Stage3-1/COMP3008J-Distributed-Systems/README.md
+      - 计算机图形学: courses/Stage3-1/COMP3033J-Computer-Graphics/README.md
+      - 面向对象设计: courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md
+      - 软件工程方法: courses/Stage3-1/COMP3017J-Software-Methodology/README.md
+      - Web应用开发: courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md
+      - 移动计算: courses/Stage3-1/COMP3011J-Mobile-Computing/README.md
+    - 春季学期:
+      - 概览: courses/Stage3-2/index.md
+      - 软件项目管理: courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md
+      - 软件系统架构: courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md
+      - 系统设计与验证: courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md
+      - 软件工程课设2: courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md
+      - 信息获取: courses/Stage3-2/COMP3009J-Information-Retrieval/README.md
+  - 关于:
+    - 项目介绍: about/index.md
+    - 贡献者: about/contributors.md
+    - 学术诚信: about/academic-integrity.md
+    - 如何贡献: about/how-to-contribute.md
+
+# JavaScript
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

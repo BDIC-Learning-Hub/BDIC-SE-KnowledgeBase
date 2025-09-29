@@ -1,9 +1,18 @@
 # BDIC-SE-KnowledgeBase
 
+[![部署状态](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/workflows/%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3%E5%88%B0%20GitHub%20Pages/badge.svg)](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/actions)
+[![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-GitHub%20Pages-brightgreen)](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
+
 本仓库旨在帮助北京都柏林国际学院（BDIC）同学更系统地了解课程内容、掌握复习重点、获得学习资源与经验建议。
 
 >  专业方向：软件工程（Software Engineering）  
->  当前状态：持续更新中（最后更新：2025年7月） 
+>  当前状态：持续更新中（最后更新：2025年7月）
+
+## 🌐 在线访问
+
+📖 **在线文档**: [https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
+
+> 推荐使用在线版本，提供更好的阅读体验和搜索功能！ 
 
 ## 📚项目内容
 
