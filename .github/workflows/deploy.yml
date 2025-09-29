@@ -1,70 +1,29 @@
-name: 部署文档到 GitHub Pages
-
+name: ci 
 on:
-  # 当推送到 main 分支时触发
   push:
-    branches: [ main ]
-  
-  # 允许手动触发工作流
-  workflow_dispatch:
-
-# 设置 GITHUB_TOKEN 权限以允许部署到 GitHub Pages
+    branches:
+      - master 
+      - main
 permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# 允许一个并发部署
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
+  contents: write
 jobs:
-  # 构建作业
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - name: 检出代码
-      uses: actions/checkout@v4
-      with:
-        # 获取完整的历史记录，用于最后修改日期
-        fetch-depth: 0
-    
-    - name: 设置 Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
-    
-    - name: 缓存依赖
-      uses: actions/cache@v4
-      with:
-        key: ${{ github.ref }}
-        path: .cache
-    
-    - name: 安装依赖
-      run: |
-        pip install --upgrade pip
-        pip install -r requirements.txt
-    
-    - name: 设置 GitHub Pages
-      uses: actions/configure-pages@v4
-    
-    - name: 构建 MkDocs
-      run: mkdocs build --clean
-    
-    - name: 上传构建产物
-      uses: actions/upload-pages-artifact@v3
-      with:
-        path: ./site
-
-  # 部署作业
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
     steps:
-    - name: 部署到 GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v4
+      - uses: actions/checkout@v4
+      - name: Configure Git Credentials
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v4
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: ~/.cache 
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install -r requirements.txt 
+      - run: mkdocs gh-deploy --force
