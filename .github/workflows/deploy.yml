@@ -31,12 +31,12 @@ jobs:
         fetch-depth: 0
     
     - name: 设置 Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
     
     - name: 缓存依赖
-      uses: actions/cache@v3
+      uses: actions/cache@v4
       with:
         key: ${{ github.ref }}
         path: .cache
@@ -47,13 +47,13 @@ jobs:
         pip install -r requirements.txt
     
     - name: 设置 GitHub Pages
-      uses: actions/configure-pages@v3
+      uses: actions/configure-pages@v4
     
     - name: 构建 MkDocs
       run: mkdocs build --clean
     
     - name: 上传构建产物
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v3
       with:
         path: ./site
 
@@ -67,4 +67,4 @@ jobs:
     steps:
     - name: 部署到 GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v2
+      uses: actions/deploy-pages@v4
