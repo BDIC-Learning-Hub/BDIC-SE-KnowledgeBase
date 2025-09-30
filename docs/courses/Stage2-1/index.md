@@ -2,12 +2,10 @@
 
 ## 秋季学期 (Stage 2-1)
 
-### 核心计算机科学课程
+
 - [数据结构与算法I](COMP2010J-Data-Structs-&-Algs-I/README.md)
 - [面向对象编程](COMP2011J-Object-Oriented-Programming/README.md)
 - [操作系统](COMP2012J-Operating-Systems/README.md)
-
-### 数学与物理基础
 - [概率论与数理统计](BDIC2005J-Probability-and-Statistics/README.md)
 - [大学物理Ⅰ-2](BDIC2008J-University-Physics-I-2/README.md)
 

@@ -15,15 +15,13 @@
 说回这门课，大家坚持学习，勿过多计较这门课程分数得失，把握自己能拿到的分数，加油。
 
 
-
-
 ## 学习资源
 
 ### 📝 课程笔记
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Computer%20Networks)
 
 ### 🛠️ 往年试卷
-- [Exam](./试卷/) - 仅供参考
+- [Exam](./试卷/) 
 
 ### 📚 参考资料
 - [小林coding](https://xiaolincoding.com/) - 推荐在线资源

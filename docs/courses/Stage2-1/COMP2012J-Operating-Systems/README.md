@@ -21,16 +21,6 @@ Lecture: 口音奇怪，很难听懂，课程也难，自甘堕落。
 Assignment: 一个scheduling，一个memory management，总体难度不大。
 
 
-### 核心内容
-- **操作系统概述**：系统调用、内核态与用户态
-- **进程管理**：进程创建、调度算法、进程同步
-- **线程管理**：多线程编程、线程同步机制
-- **内存管理**：虚拟内存、分页、分段、内存分配
-- **文件系统**：文件存储、目录结构、文件系统实现
-- **输入输出系统**：设备管理、缓冲机制
-- **死锁处理**：死锁检测、预防、避免算法
-
-
 ## 学习资源
 
 ### 📝 课程笔记
@@ -48,6 +38,4 @@ Assignment: 一个scheduling，一个memory management，总体难度不大。
 - [Assignment1](https://github.com/buzhidaoqusm/COMP2012J_Assignment1.git)
 - [Assignment2](https://github.com/buzhidaoqusm/COMP2012J_Assignment2.git)
 
-## 💡 学习建议
 
-[待补充学习建议和经验分享]

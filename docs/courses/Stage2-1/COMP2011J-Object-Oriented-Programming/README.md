@@ -35,9 +35,5 @@ Ass: 在学期中间Sean会发布本学期的Ass任务，可以算是Java编程�
 
 
 ### 🚀 项目案例
-- [Asteroids](https://github.com/mrle0429/Asteroids.git) 
+- [Asteroids](https://github.com/mrle0429/Asteroids.git) - 2023 Project
 - [Defender](https://github.com/buzhidaoqusm/COMP2011J-assignment.git)
-
-## 💡 学习建议
-
-[待补充学习建议和经验分享]

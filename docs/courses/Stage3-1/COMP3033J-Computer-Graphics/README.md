@@ -34,9 +34,6 @@
 - [Lecture 笔记](https://github.com/beihaizhang11/COMP3033J-Computer-Graphics-Notes) 
 
 ### 🎮 项目参考
-- [Project Demo](https://github.com/mrle0429/SpaceStation3D) - 3D空间站动画项目示例
+- [Project Demo](https://github.com/mrle0429/SpaceStation3D) - 3D空间站动画项目示例(2024年)
 
-### 💡 学习建议
-1. **数学基础**：重点掌握线性代数，特别是矩阵运算和向量操作
-2. **编程实践**：多动手实现图形算法，理论结合实践
-3. **项目规划**：Final Project需要提前规划，选择合适的主题
+

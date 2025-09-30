@@ -19,16 +19,16 @@ Lecture: Sean是BDIC元老级人物，后续的每个学年都会上Sean的课�
 
 ## 学习资源
 
-### 📝 课程笔记
+###  课程笔记
+暂无资源
 
 
 ### 历年试卷
-
-
+暂无资源
 
 
 ### 🚀 项目作品
-- [MineSweeper](https://github.com/mrle0429/MineSweeper.git) - 文字版扫雷
+- [MineSweeper](https://github.com/mrle0429/MineSweeper.git) - 文字版扫雷 22 Project
 
 ## 💡 学习建议
 

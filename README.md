@@ -1,18 +1,26 @@
 # BDIC-SE-KnowledgeBase
 
-[![部署状态](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/workflows/%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3%E5%88%B0%20GitHub%20Pages/badge.svg)](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/actions)
+[![部署状态](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/workflows/ci/badge.svg)](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/actions)
 [![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-GitHub%20Pages-brightgreen)](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
 
 本仓库旨在帮助北京都柏林国际学院（BDIC）同学更系统地了解课程内容、掌握复习重点、获得学习资源与经验建议。
 
->  专业方向：软件工程（Software Engineering）  
->  当前状态：持续更新中（最后更新：2025年7月）
+>  专业方向：软件工程（Software Engineering）  - 欢迎major的同学贡献
+>  当前状态：持续更新中
 
 ## 🌐 在线访问
 
 📖 **在线文档**: [https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
 
-> 推荐使用在线版本，提供更好的阅读体验和搜索功能！ 
+> 推荐使用在线版本，提供更好的阅读体验和搜索功能！
+
+## 友链
+- [BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper.git)
+
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&type=Date)](https://star-history.com/#BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&Date)
+
 
 ## 📚项目内容
 
@@ -46,42 +54,32 @@
 
 ### Stage 3 Autumn
 - [分布式系统](courses/Stage3-1/COMP3008J-Distributed-Systems/README.md)
-
 - [计算机图形](courses/Stage3-1/COMP3033J-Computer-Graphics/README.md)
-
 - [面向对象设计](courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md)
-
 - [软件工程方法](courses/Stage3-1/COMP3017J-Software-Methodology/README.md)
-
 - [Web应用开发](courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md)
-  
 - [移动计算](courses/Stage3-1/COMP3011J-Mobile-Computing/README.md)
 
 ### Stage 3 Spring
 - [软件项目管理](courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md)
-
 - [软件系统架构](courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md)
-
 - [系统设计与验证](courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md)
-
 - [软件工程课设2](courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md)
-
 - [信息获取](courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
 
 
 ## 🙌 贡献者鸣谢
 - [Mrle](https://github.com/mrle0429)
 - [beihaizhang11](https://github.com/beihaizhang11)
-
 - [YunhanGa0](https://github.com/YunhanGa0)
-
 - [ShirleyBell](https://github.com/ShirleyBell)
+- [**buzhidaoqusm**](https://github.com/buzhidaoqusm)
 
 ## 📬 联系我们 / Contact Us
 
 如果你有建议、想加入维护团队，欢迎联系：  
 If you have suggestions or want to join the maintenance team, feel free to contact:
-- ✉️ `le.liu1@ucdconnect.ie`
+- ✉️ `bdicfun@gmail.com`
 
 
 ## 🎯 项目目标与价值 / Project Goals & Value

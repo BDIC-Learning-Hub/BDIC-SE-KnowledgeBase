@@ -1,17 +1,13 @@
 # 第三学年秋季学期课程
 
 ## 秋季学期 (Stage 3-1)
+最忙碌的学期
 
-### 高级软件工程
 - [分布式系统](COMP3008J-Distributed-Systems/README.md)
 - [面向对象设计](COMP3013J-Object-Oriented-Design/README.md)
 - [软件工程方法](COMP3017J-Software-Methodology/README.md)
-
-### 应用开发
 - [Web应用开发](COMP3019J-Web-Application-Develop/README.md)
 - [移动计算](COMP3011J-Mobile-Computing/README.md)
-
-### 专业选修
 - [计算机图形学](COMP3033J-Computer-Graphics/README.md)
 
 ---

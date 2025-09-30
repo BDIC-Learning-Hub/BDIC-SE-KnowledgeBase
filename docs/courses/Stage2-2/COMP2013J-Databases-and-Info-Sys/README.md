@@ -24,7 +24,7 @@ Ass: 四人小组作业，做一个简单的信息系统，主要是利用数据
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Databases%20and%20Information%20Systems)
 
 ### 🚀 项目案例
-- [RailwayBookingSystem](https://github.com/mrle0429/RailwayBookingSystem.git)
+- [RailwayBookingSystem](https://github.com/mrle0429/RailwayBookingSystem.git) 2024 Project
 
 ## 💡 学习建议
 
