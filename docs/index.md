@@ -63,7 +63,7 @@
 
 ## :busts_in_silhouette: 联系我们
 
-- :material-email: **邮箱**：`le.liu1@ucdconnect.ie`
+- :material-email: **邮箱**：`bdicfun@gmail.com`
 - :material-github: **GitHub**：[BDIC-Learning-Hub](https://github.com/BDIC-Learning-Hub)
 
 ---
