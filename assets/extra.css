@@ -1,0 +1,159 @@
+/* 自定义样式 */
+
+/* 首页卡片样式 */
+.md-typeset .grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 0.75rem;
+}
+
+.md-typeset .grid.cards > * {
+  border: 0.05rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.1rem;
+  display: block;
+  margin: 0;
+  padding: 0.8rem;
+  transition: border 0.25s, box-shadow 0.25s;
+}
+
+.md-typeset .grid.cards > *:hover {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: var(--md-shadow-z2);
+}
+
+/* 心形图标动画 */
+.heart {
+  animation: heartbeat 1.5s ease-in-out infinite both;
+}
+
+@keyframes heartbeat {
+  from {
+    transform: scale(1);
+    transform-origin: center center;
+    animation-timing-function: ease-out;
+  }
+  10% {
+    transform: scale(0.91);
+    animation-timing-function: ease-in;
+  }
+  17% {
+    transform: scale(0.98);
+    animation-timing-function: ease-out;
+  }
+  33% {
+    transform: scale(0.87);
+    animation-timing-function: ease-in;
+  }
+  45% {
+    transform: scale(1);
+    animation-timing-function: ease-out;
+  }
+}
+
+/* 课程标签样式 */
+.course-tag {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  margin: 0.1rem;
+  border-radius: 0.2rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+}
+
+.course-tag.math {
+  background-color: #e3f2fd;
+  color: #1976d2;
+}
+
+.course-tag.programming {
+  background-color: #f3e5f5;
+  color: #7b1fa2;
+}
+
+.course-tag.engineering {
+  background-color: #e8f5e8;
+  color: #388e3c;
+}
+
+/* 深色模式下的标签颜色 */
+[data-md-color-scheme="slate"] .course-tag.math {
+  background-color: #1976d2;
+  color: #e3f2fd;
+}
+
+[data-md-color-scheme="slate"] .course-tag.programming {
+  background-color: #7b1fa2;
+  color: #f3e5f5;
+}
+
+[data-md-color-scheme="slate"] .course-tag.engineering {
+  background-color: #388e3c;
+  color: #e8f5e8;
+}
+
+/* 突出显示框 */
+.highlight-box {
+  background: var(--md-accent-fg-color--transparent);
+  border-left: 0.2rem solid var(--md-accent-fg-color);
+  border-radius: 0.1rem;
+  padding: 0.8rem 1.2rem;
+  margin: 1.5em 0;
+}
+
+/* 资源链接样式 */
+.resource-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  margin: 0.25rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.2rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.resource-link:hover {
+  background-color: var(--md-accent-fg-color--transparent);
+  border-color: var(--md-accent-fg-color);
+  text-decoration: none;
+}
+
+.resource-link .icon {
+  margin-right: 0.5rem;
+  font-size: 1.2em;
+}
+
+/* 进度指示器 */
+.progress-indicator {
+  display: flex;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.progress-bar {
+  flex: 1;
+  height: 0.5rem;
+  background-color: var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  overflow: hidden;
+  margin: 0 1rem;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--md-primary-fg-color), var(--md-accent-fg-color));
+  transition: width 0.3s ease;
+}
+
+/* 响应式调整 */
+@media screen and (max-width: 76.1875em) {
+  .md-typeset .grid.cards {
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+  }
+}
+
+@media screen and (max-width: 45em) {
+  .md-typeset .grid.cards {
+    grid-template-columns: 1fr;
+  }
+}
