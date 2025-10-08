@@ -2,11 +2,14 @@
 
 > 课程编码：COMP3027J
 >
-> 授课教师：邓勇舰
+> 授课教师：[邓勇舰](https://yongjiandeng.github.io/)
 >
 > 考核方式：Attendance(20%) + Assignments(20%) （分组）+ Final Exam (60%)
 >
 > 期末考试侧重于知识的记忆，考核内容很具体很详细，考前需要花大量时间来记忆，也比较难记，建议使用关键词或自编短语等方法辅助记忆。上课
+
+## 历史试卷
+暂无资源
 
 ## Lseeson21: Data Flow Architectural Style(Data Flow Style)
 

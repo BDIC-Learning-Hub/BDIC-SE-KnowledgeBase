@@ -5,8 +5,10 @@
 
 本仓库旨在帮助北京都柏林国际学院（BDIC）同学更系统地了解课程内容、掌握复习重点、获得学习资源与经验建议。
 
->  专业方向：软件工程（Software Engineering）  - 欢迎major的同学贡献
->  当前状态：持续更新中
+>  专业方向：软件工程（Software Engineering）  - 欢迎EIE,IOT,FIN的同学贡献
+>  本项目不收录任何教师的课件
+>  当前状态：Stage 1部分由于时间久远，原作者无准确的信息，需要新的贡献
+
 
 ## 🌐 在线访问
 
@@ -73,7 +75,7 @@
 - [beihaizhang11](https://github.com/beihaizhang11)
 - [YunhanGa0](https://github.com/YunhanGa0)
 - [ShirleyBell](https://github.com/ShirleyBell)
-- [**buzhidaoqusm**](https://github.com/buzhidaoqusm)
+- [buzhidaoqusm](https://github.com/buzhidaoqusm)
 
 ## 📬 联系我们 / Contact Us
 
