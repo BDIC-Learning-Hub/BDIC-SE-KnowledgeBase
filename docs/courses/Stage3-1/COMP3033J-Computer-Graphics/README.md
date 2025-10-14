@@ -35,5 +35,6 @@
 
 ### 🎮 项目参考
 - [Project Demo](https://github.com/mrle0429/SpaceStation3D) - 3D空间站动画项目示例(2024年)
+- [NASCAR](https://github.com/YunhanGa0/COMP3033J-Project-NASCAR-Animation.git) - 纳斯卡赛车动画项目示例(2024年)
 
 
