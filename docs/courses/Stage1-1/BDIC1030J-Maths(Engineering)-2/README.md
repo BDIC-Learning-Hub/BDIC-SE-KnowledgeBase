@@ -20,3 +20,4 @@
 
 
 ### 历年试卷
+[都柏林教务网站](https://bdica.bjut.edu.cn/jwglxt/xtgl/xwck_ckXw.html?xwbh=03A3D7964173CEBDE0635A0414AC79E3&doType=save)

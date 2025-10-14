@@ -1,6 +1,6 @@
-# Mathematics (Engineering) 1 & 2 (高等数学（工）1 & 2)
+# Math (Engineering) 1 (高等数学（工）1)
 
-> 课程编号：BDIC1029J & BDIC1030J
+> 课程编号：BDIC1029J 
 >
 > 考核形式：[待补充]% Final + [待补充]% Coursework
 >
@@ -15,15 +15,12 @@
 
 ## 学习资源
 
-### 📝 课程笔记
-
 
 ### 历年试卷
+[都柏林教务网站](https://bdica.bjut.edu.cn/jwglxt/xtgl/xwck_ckXw.html?xwbh=03A3D7964173CEBDE0635A0414AC79E3&doType=save)
 
 
-### 📚 参考资料
 
 
-## 💡 学习建议
 
 

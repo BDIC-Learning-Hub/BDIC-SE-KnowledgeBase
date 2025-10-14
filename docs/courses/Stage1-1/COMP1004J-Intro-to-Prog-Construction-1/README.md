@@ -17,14 +17,12 @@ Project: 课程有大作业，大致是做一个棋牌小游戏，会有具体�
 
 Lecture: Sean是BDIC元老级人物，后续的每个学年都会上Sean的课程。
 
+关于AI：AI是帮助你快速学习编程的好帮手，请记住要让AI把你教会，而不是利用AI完成任务。
+
 ## 学习资源
 
-### 📝 课程笔记
-
-
 ### 历年试卷
-
-
+[都柏林教务网站](https://bdica.bjut.edu.cn/jwglxt/xtgl/xwck_ckXw.html?xwbh=03A3D7964173CEBDE0635A0414AC79E3&doType=save)
 
 
 ### 🚀 项目作品
