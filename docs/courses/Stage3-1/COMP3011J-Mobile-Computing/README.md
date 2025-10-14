@@ -24,7 +24,6 @@ Project需要自己定主题，并且需要和Prof讨论共同决定你的想法
 ### 技术要求
 - **编程语言**：Java 或 Kotlin 
 - **开发平台**：Android Studio
-- **先修要求**：Java编
 
 ## 考核结构
 
@@ -45,35 +44,24 @@ Project需要自己定主题，并且需要和Prof讨论共同决定你的想法
 - **设计** (0-30分)：UI/UX设计质量
 - **性能** (0-10分)：应用运行效率
 
-## 核心学习内容
-
-### 📱 技术知识点
-- Android平台概述与系统架构
-- 应用内部结构与安全机制
-- Activities, Intents, Layouts
-- 资源管理与数据存储
-- Services 和 Content Providers
-- 应用发布与最佳实践
-
-
 ## 学习资源
 
-### 📝 课程笔记
-- [Example Quiz](courses/Stage3-1/COMP3011J-Mobile-Computing/Quiz/ExampleQuiz.md) 
+###  Quiz样例
+- [Example Quiz](Quiz/ExampleQuiz.md) 
 
 
-## Assignment
+### Assignment
 - [FruitApp(Ass1)](https://github.com/mrle0429/FruitApp.git)
 - [(Ass2)]() -[待补充]
 
-### 📱 项目案例
+### 📱 项目案例 Please Star
 
 - [tally](https://github.com/beihaizhang11/COMP3011J_Project.git)
 - [BrewPal](https://github.com/YunhanGa0/BrewPal.git)
 - [Health Assistant](https://github.com/wangLyndon/Android-Health-App.git)
 - [SportCalendar](https://github.com/mrle0429/SportCalendar.git) 
 
-**如果您希望您的项目被展示，请[email](le.liu1@ucdconnect.ie). 并提供：**
+**如果您希望您的项目被展示，请[email](bdicfun@gmail.com). 并提供：**
 - 项目名称
 - 链接
 

@@ -1,8 +1,8 @@
 # Software Engineering Project
 
 > 课程编码：COMP3030J
-> 授课教师：MOONEY Catherine Louise
-> 考核方式：100%(Assignment) (分组)
+> 授课教师：[MOONEY Catherine Louise](https://people.ucd.ie/CATHERINE.MOONEY)
+> 考核方式：100%(Assignment) (分组) No Final Exam
 
 ## 课程简介
 
@@ -23,4 +23,4 @@ Final Presentation：视频 + 演讲，每个人脱稿。
 主要得分点在两次视频和演讲，重要的是有新意，整活为主，吸引Catherine的关注。得很高分和很低分都很难，大家都差不多。
 
 ## Project
-[Coffee SDG Platform](https://github.com/YunhanGa0/Coffee_SDG_Platform)
+[Coffee SDG Platform](https://github.com/YunhanGa0/Coffee_SDG_Platform) -- 2025 Project

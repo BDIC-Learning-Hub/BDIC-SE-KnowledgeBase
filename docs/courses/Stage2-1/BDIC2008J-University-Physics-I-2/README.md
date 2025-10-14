@@ -17,10 +17,14 @@
 
 ### 📝 课程笔记
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/University%20Physics%20I-2)
-### 🛠️ 历年试卷/实验
-- [Exam](./Exam/)
+### 🛠️ 历年试卷
+
+- 📄 [2023-2024学年试卷](./Exam/BDIC2008J%20University%20Physics2%2023-24.pdf)
+- 📄 [2021-2022学年试卷](./Exam/BDIC2008J%20University%20Physics2%2021-22.pdf)
+- 📄 [2019-2020学年试卷](./Exam/BDIC2008J%20University%20Physics2%2019-20.pdf)
+- 📄 [2018-2019学年试卷](./Exam/BDIC2008J%20University%20Physics2%2018-19.pdf)
+- 📄 [2017-2018学年试卷](./Exam/BDIC2008J%20University%20Physics2%2017-18.pdf)
+- 📄 [2016-2017学年试卷](./Exam/BDIC2008J%20University%20Physics2%2016-17.pdf)
+- 📄 [2015-2016学年试卷](./Exam/BDIC2008J%20University%20Physics2%2015-16.pdf)
 
 
-## 💡 学习建议
-
-[待补充学习建议和经验分享]

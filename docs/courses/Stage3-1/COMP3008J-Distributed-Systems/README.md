@@ -2,9 +2,9 @@
 
 > 课程编号：COMP3008J
 >
-> 考核形式：70% Final + 15% Tut + 15% Project
+> 考核形式：70% Final Exam + 15% Tut + 15% Project
 >
-> 授课教师：[Aidan Murphy](https://csmoodle.ucd.ie/moodle/user/profile.php?id=22466)
+> 授课教师：[Aidan Murphy](https://people.ucd.ie/aidan.murphy/)
 >
 
 ## 课程介绍
@@ -29,4 +29,7 @@ Project是一个案例研究，调研写报告。
 - [Notes](https://github.com/mrle0429/COMP3008J-Distributed-System) 
 
 - [Tut + Project](https://github.com/mrle0429/COMP3008J-Distributed-System)
+
+### 历年试卷
+暂无收录
 

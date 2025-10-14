@@ -28,13 +28,6 @@
 
     [:octicons-arrow-right-24: 查看课程](courses/Stage3-1/)
 
--   :material-book-open-page-variant:{ .lg .middle } __原始README__
-
-    ---
-
-    查看项目的详细说明和使用指南
-
-    [:octicons-arrow-right-24: 查看详情](../README.md)
 
 </div>
 
@@ -63,7 +56,7 @@
 
 ## :busts_in_silhouette: 联系我们
 
-- :material-email: **邮箱**：`le.liu1@ucdconnect.ie`
+- :material-email: **邮箱**：`bdicfun@gmail.com`
 - :material-github: **GitHub**：[BDIC-Learning-Hub](https://github.com/BDIC-Learning-Hub)
 
 ---

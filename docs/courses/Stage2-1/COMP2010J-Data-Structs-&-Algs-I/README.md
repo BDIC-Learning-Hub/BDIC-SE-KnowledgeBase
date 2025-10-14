@@ -24,9 +24,22 @@ Lecture: Nima十分认真，是BDIC的好老师之一。邮件回复及时，有
 ### 📝 课程笔记
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/Data%20Structures%20%26%20Algorithms%20I)
 
-### 🛠️ 历年试卷/实验
-- [Exam](./Exam/)
-- [Labs](./labs/) - [待补充]
+### 🛠️ 历年试卷
+
+#### 数据结构与算法I试卷
+- 📄 [COMP2010J 数据结构与算法](./Exam/COMP2010J%20Data%20Structures%20and%20Algorithms.pdf)
+- 📄 [COMP2002J 数据结构与算法 2017-2018学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%20Semester%201%202017_18.pdf)
+- 📄 [COMP2002J 数据结构与算法 2016-2017学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%20Semester%201%202016_17.pdf)
+- 📄 [COMP2002J 数据结构与算法1 2015-2016学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%201%20Semester%201%202015_16.pdf)
+- 📄 [COMP2002J 数据结构与算法1 2014-2015学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%201%20Semester%201%202014_15.pdf)
+- 📄 [COMP2002J 数据结构与算法](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms.pdf)
+
+#### 补考试卷
+- 📄 [COMP2002J 数据结构与算法 (补考) 2017-2018学年第2学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%20%28Resit%29%20Semester%202%202017_18.pdf)
+- 📄 [COMP2002J 数据结构与算法1 (补考) 2016-2017学年第2学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%201%20%28Resit%29%20Semester%202%202016_17.pdf)
+- 📄 [COMP2002J 数据结构与算法1 (补考) 2016-2017学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%201%20%28Resit%29%20Semester%201%202016_17.pdf)
+- 📄 [COMP2002J 数据结构与算法1 (补考) 2014-2015学年第2学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%201%20%28Resit%29%20Semester%202%202014_15.pdf)
+
 
 ### 📚 参考资料
 - [参考书籍](Data_Structures_and_Algorithms_in_Java_-_PDF_Room.pdf)
@@ -35,6 +48,4 @@ Lecture: Nima十分认真，是BDIC的好老师之一。邮件回复及时，有
 - [Assignment1](https://github.com/buzhidaoqusm/COMP2010J_Assignment1.git)
 - [Assignment2](https://github.com/buzhidaoqusm/COMP2010J_Assignment2.git)
 
-## 💡 学习建议
 
-[待补充学习建议和经验分享]

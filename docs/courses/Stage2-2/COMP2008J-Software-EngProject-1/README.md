@@ -27,7 +27,7 @@ Phase 2占70%，需要一个小组协作，老师很看重teamwork，尽量保�
 
 
 ### 🚀 项目案例
-- [Mahjong](https://github.com/mrle0429/Mahjong_COMP2008J)
+- [Mahjong](https://github.com/mrle0429/Mahjong_COMP2008J) 2024 Project
 - [Forbidden Island](https://github.com/buzhidaoqusm/Forbidden-Island.git)
 
-## 💡 学习建议
+

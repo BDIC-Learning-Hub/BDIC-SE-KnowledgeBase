@@ -14,9 +14,9 @@
 ## 快速导航
 
 ### 按学年浏览
-- [第一学年课程](../courses/Stage1-1/) - 基础数学、编程入门
-- [第二学年课程](../courses/Stage2-1/) - 核心计算机科学课程
-- [第三学年课程](../courses/Stage3-1/) - 高级软件工程和专业选修
+- [第一学年课程](../courses/Stage1-1/) 
+- [第二学年课程](../courses/Stage2-1/) 
+- [第三学年课程](../courses/Stage3-1/)
 
 ### 重要提醒
 
@@ -38,7 +38,7 @@
 
 ## 联系方式
 
-- 📧 **邮箱**：le.liu1@ucdconnect.ie
+- 📧 **邮箱**：bdicfun@gmail.com
 - 🐙 **GitHub**：[BDIC-Learning-Hub](https://github.com/BDIC-Learning-Hub)
 
 ---

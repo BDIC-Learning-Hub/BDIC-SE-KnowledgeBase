@@ -8,6 +8,7 @@
 - [**beihaizhang11**](https://github.com/beihaizhang11) - 内容贡献和完善
 - [**YunhanGa0**](https://github.com/YunhanGa0) - 课程资料整理
 - [**ShirleyBell**](https://github.com/ShirleyBell) - 文档编写和维护
+- [**buzhidaoqusm**](https://github.com/buzhidaoqusm) - 课程资料整理
 
 ## 📝 内容贡献
 
@@ -46,7 +47,7 @@
 - **🔍 质量控制**：审核提交的内容和资料
 - **💬 社区管理**：协调贡献者和回答问题
 
-如果您有兴趣，请通过邮箱 `le.liu1@ucdconnect.ie` 联系我们！
+如果您有兴趣，请通过邮箱 `bdicfun@gmail.com` 联系我们！
 
 ---
 

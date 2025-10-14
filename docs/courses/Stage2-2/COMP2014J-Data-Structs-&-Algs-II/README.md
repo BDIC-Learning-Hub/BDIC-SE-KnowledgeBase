@@ -17,15 +17,22 @@ Ass：两个大作业，一个与Tree有关，一个与Graph有关。目的是�
 Lecture: David十分认真负责，讲课内容很干很有用，是BDIC的好老师。邮件回复及时，有问必答，解答很详细。同时，也建议大家在BS中的Forum中发起讨论。
 
 
-
-
 ## 学习资源
 
 ### 📝 课程笔记
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Data%20Structures%20%26%20Algorithms%20II)
 
 ### 🛠️ 历年试卷
-- [Exam](./Exam/) 
+
+
+- 📄 [COMP2014J 2023学年试卷](./Exam/COMP2014J-2023-Exam-Paper.pdf)
+- 📄 [COMP2014J 2019学年试卷A(已修正)](./Exam/COMP2014J-2019-Exam-Paper-A-corrected.pdf)
+- 📄 [COMP2003J 数据结构与算法2 2017-2018学年第2学期](./Exam/COMP2003J%20Data%20Structures%20and%20Algorithms%202%20Semester%202%202017_18.pdf)
+- 📄 [COMP2003J 数据结构与算法2 2016-2017学年第2学期](./Exam/COMP2003J%20Data%20Structures%20and%20Algorithms%202%20Semester%202%202016_17.pdf)
+- 📄 [COMP2003J 数据结构与算法2 2015-2016学年第2学期](./Exam/COMP2003J%20Data%20Structures%20and%20Algorithms%202%20Semester%202%202015_16.pdf)
+- 📄 [COMP2003J 数据结构与算法2 2014-2015学年第2学期](./Exam/COMP2003J%20Data%20Structures%20and%20Algorithms%202%20Semester%202%202014_15.pdf)
+- 📄 [COMP2003J 数据结构与算法II](./Exam/COMP2003J-Data%20Structures%20and%20Algorithms2.pdf)
+- 📄 [COMP2003J 数据结构与算法2 (补考) 2015-2016学年第1学期](./Exam/COMP2003J%20Data%20Structures%20and%20Algorithms%202%20%28Resit%29%20Semester%201%202015_16.pdf)
 
 
 ### 🚀 项目案例
