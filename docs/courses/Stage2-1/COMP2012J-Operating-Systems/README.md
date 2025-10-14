@@ -27,8 +27,26 @@ Assignment: 一个scheduling，一个memory management，总体难度不大。
 - [Notes](https://mrlepro.com/2023/11/27/Stage2/OS_Notes/) - [无法打开请尝试切换节点]
 - [另一版notes](https://github.com/buzhidaoqusm/Stage-2-1-notes/tree/master/Operating%20System)
 ### 🛠️ 历年试卷
-- [Exam](./Exam/) 
-- [Quiz](./OS-Quiz.md) 
+
+#### 📝 期末考试 (Final Exam)
+- [2023-24 Final Exam](./Exam/2012J-OperatingSystems-FinalExam_2023_24.pdf)
+- [2017-18 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202017_18.pdf)
+- [2016-17 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202016_17.pdf)
+- [2015-16 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202015_16.pdf)
+- [2014-15 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202014_15.pdf)
+- [2028-2019 Final](./Exam/COMP2006J%20OperatingSystems-FinalExam.pdf)
+
+#### 🔄 补考试卷 (Resit Exam)
+- [2016-17 Semester 2 Resit](./Exam/COMP2006J%20Operating%20Systems%20%28Resit%29%20Semester%202%202016_17.pdf)
+- [2015-16 Semester 2 Resit](./Exam/COMP2006J%20Operating%20Systems%20%28Resit%29%20Semester%202%202015_16.pdf)
+- [2014-15 Semester 2 Resit](./Exam/COMP2006J%20Operating%20Systems%20%28Resit%29%20Semester%202%202014_15.pdf)
+
+#### 📖 参考资料
+- [试卷答案参考](./Exam/%28WITH%20ANSWER%29COMP2006J%20COMP2012J%20Operating%20Systems.pdf)
+- [加密试卷 (密码: Comp2016J)](./Exam/COMP2006J-Operating%20Systems%20%28password%20Comp2016J%29.pdf)
+
+#### 📊 在线测验
+- [Quiz 题目汇总](./OS-Quiz.md) 
 
 ### 📚 参考资料
 - [小林Coding](https://xiaolincoding.com/os/) 

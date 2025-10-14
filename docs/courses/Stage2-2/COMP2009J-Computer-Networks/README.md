@@ -21,7 +21,19 @@
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Computer%20Networks)
 
 ### 🛠️ 往年试卷
-- [Exam](./试卷/) 
+
+#### 📝 期末考试 (Final Exam)
+- [2022-23 Computer Networks](./exam/COMP2009J%20Computer%20Networks%202022%202023.pdf)
+- [2018-19 Computer Networks](./exam/COMP2001J%20Computer%20Networks%202018-2019.pdf)
+- [2017-18 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202017_18.pdf)
+- [2016-17 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202016_17.pdf)
+- [2015-16 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202015_16.pdf)
+- [2014-15 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202014_15.pdf)
+- [Computer Networks 通用试卷](./exam/COMP2009J_Computer%20Networks.pdf)
+
+#### 🔄 补考试卷 (Resit Exam)
+- [2014-15 Semester 1 Resit](./exam/COMP2001J%20Computer%20Networks%20%28Resit%29%20Semester%201%20%202015_16.pdf)
+ 
 
 ### 📚 参考资料
 - [小林coding](https://xiaolincoding.com/) - 推荐在线资源

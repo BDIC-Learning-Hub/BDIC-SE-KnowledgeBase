@@ -31,7 +31,17 @@ Ass: 在学期中间Sean会发布本学期的Ass任务，可以算是Java编程�
 - [OOPFinalProgrammingExam2022](https://mrlepro.com/2023/12/01/Stage2/OOPFinalProgrammingExam2022/)
 
 ### 🛠️ 历年试卷
-- [Exam](./Exam/) 
+
+#### 📝 笔试试卷 (Written Exam)
+- [2020 Final Exam](./Exam/2020.Final.COMP2011J.Exam.students.pdf)
+- [2020 Resit Exam](./Exam/2020.Resit.COMP2011J.Exam.students.pdf)
+- [2021 Final Exam](./Exam/2021.Final.COMP2011J.Exam.students.pdf)
+- [2021 Resit Exam](./Exam/2021.Resit.COMP2011J.Exam.students.pdf)
+- [2022 Resit Exam](./Exam/2022.Resit.COMP2011J.Exam.students.pdf)
+
+#### 💻 编程考试 (Programming Exam)
+- [2021 Programming Exam](./Exam/2021_Programming_Exam.pdf)
+- [2022 Programming Exam](./Exam/2022_Programming_Exam.pdf)
 
 
 ### 🚀 项目案例

@@ -24,7 +24,23 @@
 
 
 ### 🛠️ 往年试卷
-[试卷](./Exam/)
+
+#### 📝 期末考试 (Final Exam)
+- [2023-24 离散数学期末试卷](./Exam/BDIC%20Final_Exam_Template_23-24离散数学.pdf)
+- [2022-23 离散数学A卷](./Exam/BDIC%20Final_Exam_Template_22-23离散数学A卷.pdf)
+- [2022-23 期末模板 (Word版)](./Exam/BDIC_Final_Exam_Template_22-23%20%281%29.docx)
+- [2017-18 Semester 1](./Exam/BDIC2002J%20Discrete%20Mathematics%20Semester%201%202017_18.pdf)
+- [2016-17 Semester 1](./Exam/BDIC2002J%20Discrete%20Mathematics%20Semester%201%202016_17.pdf)
+- [2015-16 Semester 1](./Exam/BDIC2002J%20Discrete%20Mathematics%20Semester%201%202015_16.pdf)
+- [2014-15 Semester 1](./Exam/BDIC2002J%20Discrete%20Mathematics%20Semester%201%202014_15.pdf)
+- [离散数学 Final Exam](./Exam/BDIC2002J%20离散数学Final_Exam.pdf)
+- [Discrete Mathematics 通用试卷](./Exam/BDIC2002J%20Discrete%20Mathematics.pdf)
+- [BDIC2025J BDIC2002J 试卷](./Exam/BDIC2025J%20BDIC2002J%20Discrete%20Maths.pdf)
+
+#### 🔄 补考试卷 (Resit Exam)
+- [2016-17 Semester 2 Resit](./Exam/BDIC2002J%20Discrete%20Mathematics%20%28Resit%29%20Semester%202%202016_17.pdf)
+- [2015-16 Semester 2 Resit](./Exam/BDIC2002J%20Discrete%20Mathematics%20%28Resit%29%20Semester2%202015_16.pdf)
+- [2014-15 Semester 2 Resit](./Exam/BDIC2002J%20Discrete%20Mathematics%20%28Resit%29%20Semester%202%202014_15.pdf)
 
 
 

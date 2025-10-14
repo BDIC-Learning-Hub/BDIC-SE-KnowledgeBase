@@ -15,13 +15,6 @@
 
 Project是一个案例研究，调研写报告。
 
-### 核心知识点
-- 分布式系统模型与架构
-- 通信机制 (RPC, 消息传递)
-- 时间同步与分布式算法
-- 一致性与复制 (CAP定理)
-- 容错机制与分布式事务
-- 分布式存储与云计算
 
 ## 学习资源
 
@@ -30,6 +23,18 @@ Project是一个案例研究，调研写报告。
 
 - [Tut + Project](https://github.com/mrle0429/COMP3008J-Distributed-System)
 
-### 历年试卷
-暂无收录
+### 🛠️ 历年试卷
+
+#### 📝 期末考试 (Final Exam)
+- [2021-2022 Exam Paper](./exam/COMP3008J%20Distributed%20Systems%20Exam%20Paper%202021.pdf)
+- [2018-2019 Exam Paper](./exam/COMP3008J%20Exam%20Paper%202019.pdf)
+- [2017-18 Exam Paper](./exam/COMP3008J%20Distributed%20Systems%20Semester%201%202017_18%20.pdf)
+- [2016-17 Exam Paper](./exam/COMP3008J%20Distributed%20Systems%20Semester%201%202016_17.pdf)
+- [2015-16 Exam Paper](./exam/COMP3008J%20Distributed%20Systems%20Semester%201%202015_16.pdf)
+- [2019-2020 Exam Paper](./exam/COMP3008J-Distributed%20System.pdf)
+
+#### 🔄 补考试卷 (Resit Exam)
+- [2017-18  Resit](./exam/COMP3008J%20Distributed%20Systems%20%28Resit%29%20Semester%202%202017_18.pdf)
+- [2016-17  Resit](./exam/COMP3008J%20Distributed%20Systems%20%28Resit%29%20Semester%202%202016_17.pdf)
+- [2015-16  Resit](./exam/COMP3008J%20Distributed%20Systems%20%28Resit%29%20Semester%202%202015_16.pdf)
 
