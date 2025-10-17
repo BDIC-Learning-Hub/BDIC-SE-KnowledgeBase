@@ -1,6 +1,21 @@
-# BDIC 软件工程知识库
+# BDIC-Fun
 
-欢迎来到北京都柏林国际学院（BDIC）软件工程专业知识库！
+感谢本项目贡献者：
+<div class="contributors-grid">
+      <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" alt="贡献者" />
+      </a>
+</div>
+<div class="contributors-avatars">
+  <a href="https://github.com/beihaizhang11" title="beihaizhang11">
+    <img src="https://github.com/beihaizhang11.png?size=60" alt="beihaizhang11" />
+  </a>
+  <a href="https://github.com/ShirleyBell" title="ShirleyBell">
+    <img src="https://github.com/ShirleyBell.png?size=60" alt="ShirleyBell" />
+  </a>
+</div>
+
+
 
 <div class="grid cards" markdown>
 
@@ -32,18 +47,19 @@
 </div>
 
 ## 计算机资源推荐
--[CS自学指南](https://csdiy.wiki/)
+- [CS自学指南](https://csdiy.wiki/)
 
-## :wave: 欢迎贡献
+## 贡献
 
-本知识库旨在帮助 BDIC 软件工程专业的同学们更好地学习和成长。我们欢迎所有同学参与贡献！
+欢迎贡献！
 
-!!! tip "如何开始"
+添加资料，纠错，课程学习攻略，您的学习经验......
 
-    1. :material-git: **Fork 本仓库**到你的 GitHub 账户
-    2. :material-pencil: **编辑或添加**课程内容、学习心得
-    3. :material-source-pull: **提交 Pull Request**等待审核合并
-    
+欢迎大家成为仓库的贡献者！
+
+希望加入仓库的同学欢迎通过`bdicfun@gmail.com`联系我们，加入仓库。
+
+
     详细贡献指南请参考：[如何贡献](about/how-to-contribute.md)
 
 ## :warning: 学术诚信
