@@ -59,8 +59,14 @@
 
 希望加入仓库的同学欢迎通过`bdicfun@gmail.com`联系我们，加入仓库。
 
+对于课程的评价可以直接写入对应课程的REDME中，注明课程的年份。
 
-    详细贡献指南请参考：[如何贡献](about/how-to-contribute.md)
+其他内容的格式建议为PDF，Markdown格式，本仓库不收录老师的课件。
+
+二进制文件和代码文件储存到自己的仓库中，并在本项目提供链接。
+
+
+详细贡献指南请参考：[如何贡献](about/how-to-contribute.md)
 
 ## :warning: 学术诚信
 
@@ -73,6 +79,13 @@
     
     详细了解：[学术诚信说明](about/academic-integrity.md)
 
+## 许可
+资料来源于北京-都柏林国际学院，相关权利归仍作者所有，本仓库仅作信息收集。
+
+本仓库不会为收集的资料付费，也不会收取捐赠。
+
+若您认为仓库中的资料侵犯您的权益，请发起issue或邮件联系，我们将及时停止使用。
+
 ## :busts_in_silhouette: 联系我们
 
 - :material-email: **邮箱**：`bdicfun@gmail.com`
@@ -80,6 +93,8 @@
 
 ---
 
-<div class="result" markdown>
-  :material-heart:{ .heart } **感谢所有贡献者让这个项目变得更好！**
-</div>
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&type=Date)](https://star-history.com/#BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&Date)
+
+## 相关项目
+- [北京工业大学课程共享计划](https://helper.bjutswift.cn/)

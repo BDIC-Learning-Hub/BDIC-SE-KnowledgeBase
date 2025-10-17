@@ -5,6 +5,7 @@
 ## 🚀 快速开始
 
 ### 简单贡献（推荐新手）
+您可以观看这个视频了解如何贡献[3分钟成为开源项目的贡献者](https://www.bilibili.com/video/BV1Fs4y1C7kS/?vd_source=0d0027b2a15be6333ab384009d32163d)
 
 如果您是第一次贡献，可以从这些简单的任务开始：
 
@@ -15,22 +16,63 @@
 
 ### 通过 GitHub 贡献
 
-!!! tip "GitHub 贡献流程"
+!!! tip "GitHub Web 端贡献流程（推荐）"
 
-    1. **Fork 仓库**：点击右上角的 "Fork" 按钮
-    2. **克隆到本地**：`git clone your-fork-url`
-    3. **创建分支**：`git checkout -b your-feature-branch`
-    4. **进行修改**：编辑或添加内容
-    5. **提交更改**：`git commit -m "描述您的更改"`
-    6. **推送分支**：`git push origin your-feature-branch`
-    7. **创建 Pull Request**：在 GitHub 上提交 PR
+    由于项目较大，推荐直接通过 GitHub Web 端进行贡献：
+
+#### 🍴 第一步：Fork 仓库
+1. 访问 [BDIC-SE-KnowledgeBase](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase)
+2. 点击右上角的 **"Fork"** 按钮
+3. 点击 **"Create fork"** 完成复制
+
+#### ✏️ 第二步：进行修改（选择其中一种方式）
+
+=== "编辑现有文件"
+
+1. 在您的 Fork 仓库中，找到要修改的文件（如 `docs/index.md`）
+2. 点击文件名进入文件详情页
+3. 点击右上角的 ✏️ **"Edit this file"** 按钮
+4. 在编辑器中进行修改
+5. 修改完成后，滚动到页面底部
+6. 在 **"Commit changes"** 区域：
+    - 输入简短的提交标题（必填）
+    - 可选：添加详细描述
+    - 选择 **"Commit directly to the main branch"**
+7. 点击 **"Commit changes"** 保存
+
+=== "添加新文件"
+
+1. 在您的 Fork 中导航到目标目录
+2. 点击 **"Add file"** → **"Create new file"**
+3. 输入文件名（如 `study-notes.md`）
+4. 在编辑器中输入内容
+5. 滚动到底部，填写提交信息
+6. 点击 **"Commit new file"**
+
+=== "上传文件"
+
+1. 在您的 Fork 中导航到目标目录
+2. 点击 **"Add file"** → **"Upload files"**
+3. 拖拽文件或点击 **"choose your files"**
+4. 等待文件上传完成
+5. 填写提交信息
+6. 点击 **"Commit changes"**
+
+#### 🔄 第三步：创建 Pull Request
+1. 回到您的 Fork 仓库主页
+2. GitHub 会自动显示 **"Compare & pull request"** 按钮，点击它
+3. 填写 PR 信息：
+   - **标题**：简洁描述您的贡献
+   - **描述**：详细说明修改内容和原因
+4. 点击 **"Create pull request"** 提交
+5. 等待维护者审核和合并
 
 ### 通过邮件贡献
 
 如果您不熟悉 Git，也可以通过邮件发送内容：
 
 - 📧 **邮箱**：`bdicfun@gmail.com`
-- 📎 **附件格式**：Markdown、Word、PDF 均可
+- 📎 **附件格式**：Markdown、PDF 均可
 - 📝 **邮件标题**：`[BDIC知识库] 贡献内容 - 您的主题`
 
 ## 📚 贡献类型
