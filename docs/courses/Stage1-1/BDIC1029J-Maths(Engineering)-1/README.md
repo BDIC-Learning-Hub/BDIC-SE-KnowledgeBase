@@ -18,7 +18,6 @@
 
 
 ### 历年试卷
-[都柏林教务网站](https://bdica.bjut.edu.cn/jwglxt/xtgl/xwck_ckXw.html?xwbh=03A3D7964173CEBDE0635A0414AC79E3&doType=save)
 - [2021-2022 Math 1](./source/BDIC1029J%20BDIC1040J%20高等数学%20I%20Math1-Final-Q.pdf)
 - [2020-2021 Math 1](./source/BDIC1029J%20BDIC1040J%20Maths%20I.pdf)
 - [2020-2021 Math 1 (Resit)](./source/2021-5-1M1resit(1).pdf)
