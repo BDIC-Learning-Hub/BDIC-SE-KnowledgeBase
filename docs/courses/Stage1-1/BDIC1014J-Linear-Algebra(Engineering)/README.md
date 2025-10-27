@@ -14,9 +14,20 @@
 Xin Liu讲的深入浅出，值得跟随Profesor的思路学习
 ## 学习资源
 
-### 历年试卷
+### 🛠️ 历年试卷
+- [BDIC1014J Linear Algebra 2021-2022](./source/BDIC1014J%20BDIC1044J%20线性代数Final试卷.pdf)
+- [BDIC1014J Linear Algebra 2020-2021](./source/BDIC1014J%20BDIC1044J%20BDIC1014J%20Linear%20Algebra.pdf)
+- [BDIC1014J Linear Algebra 2019-2020](./source/BDIC1014J%20BDIC1044J%20Linear%20Algebra.pdf)
+- [BDIC1014J Linear Algebra 2018-2019](./source/BDIC1014J%20&%20BDIC1044J%20Linear%20Algebra.pdf)
+- [BDIC1014J Linear Algebra 2017-2018](./source/BDIC1014J%20Linear%20Algebra%20Semester%201%202017_18.pdf)
+- [BDIC1014J Linear Algebra 2016-2017](./source/BDIC1014J%20Linear%20Algebra%20%28Engineering%29%20Semester%201%202016_17.pdf)
+- [BDIC1014J Linear Algebra 2015-2016](./source/BDIC1014J%20Linear%20Algebra%20%28Engineering%29%20Semester%201%202015_16.pdf)
+- [Resit Semester 2 2017-18](./source/BDIC1014J%20Linear%20Algebra%20%28Resit%29%20Semester%202%202017_18.pdf)
+- [Resit Semester 2 2016-17](./source/BDIC1014%20Linear%20Algebra%20%28Engineering%29%20%28Resit%29%20Semester%202%202016_17.pdf)
+- [Resit Semester 2 2015-16](./source/BDIC1014J%20Linear%20Algebra%20%28Engineering%29%20%28Resit%29%20Semester%202%202015_16.pdf)
+- [Resit Semester 2 2014-15](./source/BDIC1014J%20Linear%20Algebra%20%28Engineering%29%20%28Resit%29%20Semester%202%202014_15.pdf)
 
-[都柏林教务网站](https://bdica.bjut.edu.cn/jwglxt/xtgl/xwck_ckXw.html?xwbh=03A3D7964173CEBDE0635A0414AC79E3&doType=save)
+
 
 
 ### Tut
