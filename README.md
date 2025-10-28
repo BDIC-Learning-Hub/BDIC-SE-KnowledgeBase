@@ -28,46 +28,46 @@
 
 本仓库按课程分类整理，包括课程简介、授课老师、考核方式、复习建议、经验分享、往年资料等内容。课程如下：
 ### Stage 1 Autumn
-- [高等数学（工）1 && 高等数学（工）2](courses/Stage1-1/BDIC1029J-Maths(Engineering)-1/README.md)
-- [程序设计概论1](courses/Stage1-1/COMP1004J-Intro-to-Prog-Construction-1/README.md)
-- [线性代数](courses/Stage1-1/BDIC1014J-Linear-Algebra(Engineering)/README.md)
+- [高等数学（工）1 && 高等数学（工）2](docs/courses/Stage1-1/BDIC1029J-Maths(Engineering)-1/README.md)
+- [程序设计概论1](docs/courses/Stage1-1/COMP1004J-Intro-to-Prog-Construction-1/README.md)
+- [线性代数](docs/courses/Stage1-1/BDIC1014J-Linear-Algebra(Engineering)/README.md)
 
 ### Stage 1 Spring
-- [高等数学（工）3](courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md)
-- [高等数学（工）4](courses/Stage1-2/BDIC1032J-Maths%20(Engineering)%204/README.md)
-- [大学物理Ⅰ-1](courses/Stage1-2/BDIC1015J-University-Physics-1/README.md)
-- [软件工程导论](courses/Stage1-2/COMP1003J-%20Introduction-to-Software/README.md)
-- [程序设计概论2](courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md)
+- [高等数学（工）3](docs/courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md)
+- [高等数学（工）4](docs/courses/Stage1-2/BDIC1032J-Maths%20(Engineering)%204/README.md)
+- [大学物理Ⅰ-1](docs/courses/Stage1-2/BDIC1015J-University-Physics-1/README.md)
+- [软件工程导论](docs/courses/Stage1-2/COMP1003J-%20Introduction-to-Software/README.md)
+- [程序设计概论2](docs/courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md)
 
 ### Stage 2 Autumn
-- [数据结构与算法I](courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md)
-- [面向对象编程](courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md)
-- [操作系统](courses/Stage2-1/COMP2012J-Operating-Systems/README.md)
-- [概率论与数理统计](courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md)
-- [大学物理Ⅰ-2](courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md)
+- [数据结构与算法I](docs/courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md)
+- [面向对象编程](docs/courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md)
+- [操作系统](docs/courses/Stage2-1/COMP2012J-Operating-Systems/README.md)
+- [概率论与数理统计](docs/courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md)
+- [大学物理Ⅰ-2](docs/courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md)
 
 
 ### Stage 2 Spring
-- [数据结构与算法II](courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md)
-- [离散数学](courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md)
-- [数据库和信息系统](courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md)
-- [软件工程课设1](courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md)
-- [计算机网络](courses/Stage2-2/COMP2009J-Computer-Networks/README.md)
+- [数据结构与算法II](docs/courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md)
+- [离散数学](docs/courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md)
+- [数据库和信息系统](docs/courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md)
+- [软件工程课设1](docs/courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md)
+- [计算机网络](docs/courses/Stage2-2/COMP2009J-Computer-Networks/README.md)
 
 ### Stage 3 Autumn
-- [分布式系统](courses/Stage3-1/COMP3008J-Distributed-Systems/README.md)
-- [计算机图形](courses/Stage3-1/COMP3033J-Computer-Graphics/README.md)
-- [面向对象设计](courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md)
-- [软件工程方法](courses/Stage3-1/COMP3017J-Software-Methodology/README.md)
-- [Web应用开发](courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md)
-- [移动计算](courses/Stage3-1/COMP3011J-Mobile-Computing/README.md)
+- [分布式系统](docs/courses/Stage3-1/COMP3008J-Distributed-Systems/README.md)
+- [计算机图形](docs/courses/Stage3-1/COMP3033J-Computer-Graphics/README.md)
+- [面向对象设计](docs/courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md)
+- [软件工程方法](docs/courses/Stage3-1/COMP3017J-Software-Methodology/README.md)
+- [Web应用开发](docs/courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md)
+- [移动计算](docs/courses/Stage3-1/COMP3011J-Mobile-Computing/README.md)
 
 ### Stage 3 Spring
-- [软件项目管理](courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md)
-- [软件系统架构](courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md)
-- [系统设计与验证](courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md)
-- [软件工程课设2](courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md)
-- [信息获取](courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
+- [软件项目管理](docs/courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md)
+- [软件系统架构](docs/courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md)
+- [系统设计与验证](docs/courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md)
+- [软件工程课设2](docs/courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md)
+- [信息获取](docs/courses/Stage3-2/COMP3009J-Information-Retrieval/README.md)
 
 
 ## 🙌 贡献者鸣谢
