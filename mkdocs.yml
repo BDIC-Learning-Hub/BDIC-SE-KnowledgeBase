@@ -105,6 +105,11 @@ extra:
       link: mailto:le.liu1@ucdconnect.ie
   
   generator: false
+  
+  # Google Analytics
+  analytics:
+    provider: google
+    property: G-P8KZ5DG8DY
 
 # Extensions
 markdown_extensions:
