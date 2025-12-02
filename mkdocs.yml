@@ -215,6 +215,10 @@ nav:
     - 学术诚信: about/academic-integrity.md
     - 如何贡献: about/how-to-contribute.md
 
+# CSS
+extra_css:
+  - assets/extra.css
+
 # JavaScript
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6

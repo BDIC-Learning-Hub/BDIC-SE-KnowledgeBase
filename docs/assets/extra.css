@@ -1,5 +1,71 @@
 /* 自定义样式 */
 
+/* Star 提醒框样式 */
+.star-reminder {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 1rem 1.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+  margin: 1.5rem 0 2rem 0;
+  font-size: 1rem;
+  font-weight: 500;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  animation: subtle-pulse 3s ease-in-out infinite;
+}
+
+.star-reminder a {
+  color: #ffd700;
+  text-decoration: underline;
+  font-weight: 600;
+  transition: color 0.3s ease;
+}
+
+.star-reminder a:hover {
+  color: #ffed4e;
+  text-decoration: none;
+}
+
+@keyframes subtle-pulse {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+}
+
+/* 深色模式下的 Star 提醒框 */
+[data-md-color-scheme="slate"] .star-reminder {
+  background: linear-gradient(135deg, #4c5fd4 0%, #5a3d7a 100%);
+}
+
+/* GitHub 图标提示文字 */
+.md-social__link[href*="github.com"] {
+  position: relative;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.md-social__link[href*="github.com"]::after {
+  content: "如果仓库对你有帮助，欢迎点亮上方的星星";
+  position: absolute;
+  top: 100%;
+  margin-top: 0.5rem;
+  font-size: 0.7rem;
+  color: var(--md-default-fg-color--light);
+  white-space: nowrap;
+  text-align: center;
+  line-height: 1.2;
+  pointer-events: none;
+}
+
+/* 深色模式下的提示文字 */
+[data-md-color-scheme="slate"] .md-social__link[href*="github.com"]::after {
+  color: var(--md-default-fg-color--lighter);
+}
+
 /* 首页卡片样式 */
 .md-typeset .grid.cards {
   display: grid;

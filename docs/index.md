@@ -15,7 +15,9 @@
   </a>
 </div>
 
-
+<div class="star-reminder">
+  ⭐ 如果这个仓库对你有帮助，欢迎 <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" target="_blank">点亮星星</a> 支持我们！
+</div>
 
 <div class="grid cards" markdown>
 
