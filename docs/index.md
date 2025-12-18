@@ -1,23 +1,6 @@
 # BDIC-Fun
 
-感谢本项目贡献者：
-<div class="contributors-grid">
-      <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" alt="贡献者" />
-      </a>
-</div>
-<div class="contributors-avatars">
-  <a href="https://github.com/beihaizhang11" title="beihaizhang11">
-    <img src="https://github.com/beihaizhang11.png?size=60" alt="beihaizhang11" />
-  </a>
-  <a href="https://github.com/ShirleyBell" title="ShirleyBell">
-    <img src="https://github.com/ShirleyBell.png?size=60" alt="ShirleyBell" />
-  </a>
-</div>
-
-<div class="star-reminder">
-  ⭐ 如果这个仓库对你有帮助，欢迎 <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" target="_blank">点亮星星</a> 支持我们！
-</div>
+<div class="news-container"></div>
 
 <div class="grid cards" markdown>
 
@@ -100,3 +83,18 @@
 
 ## 相关项目
 - [北京工业大学课程共享计划](https://helper.bjutswift.cn/)
+
+## 感谢本项目贡献者
+<div class="contributors-grid">
+      <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" alt="贡献者" />
+      </a>
+</div>
+<div class="contributors-avatars">
+  <a href="https://github.com/beihaizhang11" title="beihaizhang11">
+    <img src="https://github.com/beihaizhang11.png?size=60" alt="beihaizhang11" />
+  </a>
+  <a href="https://github.com/ShirleyBell" title="ShirleyBell">
+    <img src="https://github.com/ShirleyBell.png?size=60" alt="ShirleyBell" />
+  </a>
+</div>

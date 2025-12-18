@@ -405,3 +405,6 @@ site/
 .cache/
 *.pyc
 __pycache__/
+
+.vscode/
+.DS_Store

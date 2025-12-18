@@ -113,4 +113,165 @@ document.addEventListener('DOMContentLoaded', function() {
             backToTop.style.opacity = '0';
         }
     });
+
+    // ==================== News 栏位功能 ====================
+    const newsToggleBtn = document.querySelector('.news-toggle-btn');
+    const newsArchive = document.querySelector('.news-archive');
+    
+    if (newsToggleBtn && newsArchive) {
+        newsToggleBtn.addEventListener('click', function() {
+            newsArchive.classList.toggle('active');
+            this.textContent = newsArchive.classList.contains('active') ? '收起归档' : '查看归档';
+        });
+    }
+
+    // 初始化 News 数据（可以从 JSON 配置读取）
+    initializeNews();
 });
+
+// News 初始化函数
+function initializeNews() {
+    // News 数据配置（管理者可在此修改）
+    const newsData = {
+        active: [
+            {
+                text: '请同学们不要将本知识库内容与任何其他外部机构分享，以免引起不必要的版权纠纷。同学间分享可直接发送本网站链接。新增内容会及时更新在本仓库中，若您希望向本仓库贡献资料，请参阅贡献指南或联系我们',
+                date: '2025-12-18',
+                badge: 'important'
+            },
+            {
+                text: '<strong>新功能上线</strong>：添加了 News 通知栏，管理员可以快速发布重要公告。',
+                date: '2025-12-18',
+                badge: 'update'
+            },
+            {
+                text: '如果这个仓库对你有帮助，欢迎 <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" target="_blank">点亮星星</a> 支持我们！',
+                date: '2025-12-18',
+                badge: 'important'
+            },
+            {
+                text: '欢迎来到BDIC知识库！',
+                date: '2025-12-18',
+                badge: 'announcement'
+            }
+        ],
+        archived: [
+        ]
+    };
+
+    // 生成 HTML
+    const newsContainer = document.querySelector('.news-container');
+    if (!newsContainer) return;
+
+    let newsHTML = '<h3 class="news-title">最新通知</h3>';
+    newsHTML += '<ul class="news-list">';
+
+    // 活跃消息
+    newsData.active.forEach(item => {
+        const badgeClass = item.badge === 'important' ? 'news-badge important' 
+                          : item.badge === 'update' ? 'news-badge update'
+                          : item.badge === 'event' ? 'news-badge event'
+                          : 'news-badge';
+        
+        newsHTML += `
+            <li class="news-item">
+                <div class="news-content">
+                    <p class="news-text">
+                        <span class="${badgeClass}">${getBadgeText(item.badge)}</span>
+                        ${item.text}
+                    </p>
+                </div>
+                <span class="news-date">${formatDate(item.date)}</span>
+            </li>
+        `;
+    });
+
+    newsHTML += '</ul>';
+
+    // 归档区域
+    if (newsData.archived && newsData.archived.length > 0) {
+        newsHTML += '<div class="news-archive">';
+        newsHTML += `<div class="news-archive-title">📚 归档通知（${newsData.archived.length}条）</div>`;
+        newsHTML += '<ul class="news-list">';
+
+        newsData.archived.forEach(item => {
+            const badgeClass = item.badge === 'important' ? 'news-badge important' 
+                              : item.badge === 'update' ? 'news-badge update'
+                              : item.badge === 'event' ? 'news-badge event'
+                              : 'news-badge';
+            
+            newsHTML += `
+                <li class="news-item news-archive-item">
+                    <div class="news-content">
+                        <p class="news-text">
+                            <span class="${badgeClass}">${getBadgeText(item.badge)}</span>
+                            ${item.text}
+                        </p>
+                    </div>
+                    <span class="news-date">${formatDate(item.date)}</span>
+                </li>
+            `;
+        });
+
+        newsHTML += '</ul>';
+        newsHTML += '</div>';
+    }
+
+    // 页脚
+    newsHTML += `<div class="news-footer">
+        <span class="news-count">共 ${newsData.active.length} 条最新通知</span>
+        ${newsData.archived && newsData.archived.length > 0 ? '<button class="news-toggle-btn">查看归档</button>' : ''}
+    </div>`;
+
+    // 替换内容
+    const newsTitle = newsContainer.querySelector('.news-title');
+    const newsList = newsContainer.querySelector('.news-list');
+    const newsFooter = newsContainer.querySelector('.news-footer');
+    
+    if (newsTitle) newsTitle.remove();
+    if (newsList) newsList.remove();
+    if (newsFooter) newsFooter.remove();
+    const oldArchive = newsContainer.querySelector('.news-archive');
+    if (oldArchive) oldArchive.remove();
+
+    newsContainer.innerHTML = newsHTML;
+
+    // 重新绑定事件
+    const newsToggleBtn = newsContainer.querySelector('.news-toggle-btn');
+    const newsArchive = newsContainer.querySelector('.news-archive');
+    
+    if (newsToggleBtn && newsArchive) {
+        newsToggleBtn.addEventListener('click', function() {
+            newsArchive.classList.toggle('active');
+            this.textContent = newsArchive.classList.contains('active') ? '收起归档' : '查看归档';
+        });
+    }
+}
+
+// 辅助函数
+function getBadgeText(badge) {
+    const badgeMap = {
+        'announcement': '公告',
+        'important': '重要',
+        'update': '更新',
+        'event': '活动'
+    };
+    return badgeMap[badge] || '通知';
+}
+
+function formatDate(dateStr) {
+    const date = new Date(dateStr);
+    const now = new Date();
+    const diffMs = now - date;
+    const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+    if (diffDays === 0) {
+        return '今天';
+    } else if (diffDays === 1) {
+        return '昨天';
+    } else if (diffDays < 7) {
+        return `${diffDays}天前`;
+    } else {
+        return dateStr;
+    }
+}
