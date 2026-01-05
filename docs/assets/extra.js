@@ -135,6 +135,11 @@ function initializeNews() {
     const newsData = {
         active: [
             {
+                text: '更新24级大二OOP评分标准',
+                date: '2025-12-29',
+                badge: 'update'
+            },
+            {
                 text: '请同学们不要将本知识库内容与任何其他外部机构分享，以免引起不必要的版权纠纷。同学间分享可直接发送本网站链接。新增内容会及时更新在本仓库中，若您希望向本仓库贡献资料，请参阅贡献指南或联系我们',
                 date: '2025-12-18',
                 badge: 'important'

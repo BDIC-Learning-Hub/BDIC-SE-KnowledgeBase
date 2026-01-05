@@ -2,7 +2,9 @@
 
 > 课程编号：COMP2011J
 >
-> 考核形式：35% Written Exam + 35% Programming Exam + 20% Assignment + 10% Quiz
+> 考核形式：
+> 35% Written Exam + 35% Programming Exam + 20% Assignment + 10% Quiz  (22级)
+> 20% All CA + 25% Writting Exam + 55% Programming Exam (24级) 
 >
 > 授课教师：[Seán Russell](https://people.ucd.ie/sean.russell/grants)
 >

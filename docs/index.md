@@ -28,6 +28,13 @@
 
     [:octicons-arrow-right-24: 查看课程](courses/Stage3-1/)
 
+-   :material-rocket-launch:{ .lg .middle } __第四学年课程__
+
+    ---
+
+
+    [:octicons-arrow-right-24: 查看课程](courses/Stage4-1/)
+
 
 </div>
 
