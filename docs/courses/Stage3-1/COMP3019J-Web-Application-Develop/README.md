@@ -2,7 +2,7 @@
 
 > 课程编号：COMP3019J
 >
-> 考核形式：100% Continuous Assessment (无期末考试)
+> 考核形式：30% 期中考 + 70% 项目
 >
 > 授课教师：[Aidan Murphy](https://people.ucd.ie/aidan.murphy/)
 >
@@ -49,7 +49,7 @@ Web应用开发是一门实践性课程，专注于现代Web开发技术栈。�
 ## 学习资源
 
 ### 📝 课程笔记
-*目前没有较好的整理资料，欢迎贡献*
+- [Notes](https://github.com/buzhidaoqusm/Stage-3-1-notes/tree/main/Web)
 
 ### 🚀 项目案例
 - [Projects(ZBH最得意的一个项目)](https://github.com/beihaizhang11/beihaizhang11-COMP3019J_Web-Application-Developement-Project.git) 

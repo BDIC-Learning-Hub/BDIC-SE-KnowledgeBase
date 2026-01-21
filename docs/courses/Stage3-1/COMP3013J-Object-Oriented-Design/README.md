@@ -1,5 +1,5 @@
-# Object-Oriented Design (面向对象设计)
-
+# ~~Object-Oriented Design (面向对象设计)~~
+该课程已替换为Multi-Paradigm Programming
 > 课程编号：COMP3013J
 >
 > 考核形式：50% Group Assignment + 50% Individual Exam

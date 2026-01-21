@@ -2,7 +2,8 @@
 
 > 课程编号：COMP3033J
 >
-> 考核形式：60% Final + 40% (3个Assignment + 1个Project)
+> ~~考核形式：60% Final + 40% (3个Assignment + 1个Project) （24年）~~
+> 考核形式：60% 期末考 + 15% 3个Assignment + 10% 小项目 + 15% 期中考
 >
 > 授课教师：[Mohamed Saadeldin](https://csmoodle.ucd.ie/moodle/user/profile.php?id=18677)
 >
@@ -25,13 +26,15 @@
 - **Final Project**：自由发挥的3D动画项目，创意和技术并重
 
 ### 考试形式
-- **期末考试**：线上选择题（单选+多选），占总成绩60%
-- **平时成绩**：3个作业 + 1个项目，占总成绩40%
+- **期末考试**：线上选择题（单选+多选+match），占总成绩60%
+- **期中考试**：线上选择题（单选+多选+match），占总成绩15%
+- **平时成绩**：3个作业 + 1个项目，占总成绩25%
 
 ## 学习资源
 
 ### 📚 课程笔记
 - [Lecture 笔记](https://github.com/beihaizhang11/COMP3033J-Computer-Graphics-Notes) 
+- [Notes by CJ](https://github.com/buzhidaoqusm/Stage-3-1-notes/tree/main/Computer%20Graphics)
 
 ### 🎮 项目参考
 - [Project Demo](https://github.com/mrle0429/SpaceStation3D) - 3D空间站动画项目示例(2024年)

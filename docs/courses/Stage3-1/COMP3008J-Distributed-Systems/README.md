@@ -15,6 +15,7 @@
 
 Project是一个案例研究，调研写报告。
 
+期末考大约有50分是Tut的题，其中30分简答题（与Tut相同），20分计算题（与Tut很类似）
 
 ## 学习资源
 
@@ -22,6 +23,8 @@ Project是一个案例研究，调研写报告。
 - [Notes](https://github.com/mrle0429/COMP3008J-Distributed-System) 
 
 - [Tut + Project](https://github.com/mrle0429/COMP3008J-Distributed-System)
+
+-[Notes by CJ](https://github.com/buzhidaoqusm/Stage-3-1-notes/tree/main/Distributed%20Systems)
 
 ### 🛠️ 历年试卷
 

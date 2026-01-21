@@ -2,7 +2,7 @@
 
 > 课程编号：COMP3011J
 >
-> 考核形式：100% Continuous Assessment (无期末考试)
+> 考核形式：10% Assignment + 20% 期中Quiz + 70% Project
 >
 > 授课教师：[Mohamed Saadeldin](https://people.ucd.ie/mohamed.saadeldin/grants)
 >
@@ -28,27 +28,37 @@ Project需要自己定主题，并且需要和Prof讨论共同决定你的想法
 ## 考核结构
 
 ### 📊 成绩构成 (100% 持续评估)
-- **Course Work (40%)**
-  - 2个Assignment (20%)
+- **Course Work (30%)**
+  - 2个Assignment (10%)
   - Quiz (20%) 
-- **项目 (60%)**：个人Android应用开发项目
-  - 项目大纲 (5%) 
-  - Alpha版本 (10%) 
-  - Beta版本 (15%) 
-  - 最终提交与展示 (30%) 
+- **项目 (70%)**：个人Android应用开发项目
+  - 项目大纲 
+  - Alpha版本 
+  - Beta版本 
+  - 最终提交与展示 
 
 ### 🚀 项目评估标准
-- **新颖性** (0-10分)：创新性和独特性
-- **实用性/娱乐性** (0-20分)：应用价值和用户体验
-- **功能性** (0-30分)：功能完整度和稳定性
-- **设计** (0-30分)：UI/UX设计质量
-- **性能** (0-10分)：应用运行效率
+1. Open source detailed explanation including the main features and code modules. 
+2. Detailed technical explanation regarding how open source components are utilized and integrated in the project. 
+3. Detailed technical explanation regarding how APIs and third party tools are utilized and integrated in the project. 
+4. Detailed outline document highlighting the group proposed work and plan for completing the work with detailed tasks, workflow, and team members coordinations.
+5. Detailed explanation of the added new features from functional and user experience point of view, this should answer the question of why these features matter and can be useful to users 
+6. Detailed technical report regarding the implementation of the added features, step by step with code snippets, high level modular components, block diagram, and each member contribution. 
+7. Details report about workflow, challenges, coding assistant tools, and learning outcomes.
+8. Progress follow up and adherence to feedback and suggestions.
+9. Amount of effort, technical depth and work done at each stage of the project.
+10. Novelty and usefulness of the app.
+11. GUI, ease of use, and responsiveness of the app [user experience].
+12. Commitment to submissions on time, and attendance at feedback sessions.
+13. Submissions (reports, videos, etc) quality and adherence to guidelines at different stages [outline, alpha, beta].
 
 ## 学习资源
 
 ###  Quiz样例
 - [Example Quiz](Quiz/ExampleQuiz.md) 
 
+### 📝 课程笔记
+- [Note](https://github.com/buzhidaoqusm/Stage-3-1-notes/tree/main/Mobile%20Computing)
 
 ### Assignment
 - [FruitApp(Ass1)](https://github.com/mrle0429/FruitApp.git)
@@ -60,9 +70,14 @@ Project需要自己定主题，并且需要和Prof讨论共同决定你的想法
 - [BrewPal](https://github.com/YunhanGa0/BrewPal.git)
 - [Health Assistant](https://github.com/wangLyndon/Android-Health-App.git)
 - [SportCalendar](https://github.com/mrle0429/SportCalendar.git) 
+- [StudyMate](https://github.com/buzhidaoqusm/COMP3011J_Group10)
 
 **如果您希望您的项目被展示，请[email](bdicfun@gmail.com). 并提供：**
 - 项目名称
 - 链接
 
+## 💡 学习建议
 
+个人感觉期中考难度较大（相比于图形学来说），需要好好准备。
+
+项目必须要根据评分标准来，介绍开源项目是很重要的一个环节。
