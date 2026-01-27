@@ -24,7 +24,7 @@ Project是一个案例研究，调研写报告。
 
 - [Tut + Project](https://github.com/mrle0429/COMP3008J-Distributed-System)
 
--[Notes by CJ](https://github.com/buzhidaoqusm/Stage-3-1-notes/tree/main/Distributed%20Systems)
+- [Notes by CJ](https://github.com/buzhidaoqusm/Stage-3-1-notes/tree/main/Distributed%20Systems)
 
 ### 🛠️ 历年试卷
 

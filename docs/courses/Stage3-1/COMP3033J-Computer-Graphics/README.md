@@ -3,6 +3,7 @@
 > 课程编号：COMP3033J
 >
 > ~~考核形式：60% Final + 40% (3个Assignment + 1个Project) （24年）~~
+> 
 > 考核形式：60% 期末考 + 15% 3个Assignment + 10% 小项目 + 15% 期中考
 >
 > 授课教师：[Mohamed Saadeldin](https://csmoodle.ucd.ie/moodle/user/profile.php?id=18677)

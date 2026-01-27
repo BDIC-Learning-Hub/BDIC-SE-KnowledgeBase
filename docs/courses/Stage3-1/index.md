@@ -4,7 +4,7 @@
 最忙碌的学期
 
 - [分布式系统](COMP3008J-Distributed-Systems/README.md)
-- [面向对象设计](COMP3013J-Object-Oriented-Design/README.md)
+- [多范式编程](COMP3038J - Multi-Paradigm Programming/README.md)
 - [软件工程方法](COMP3017J-Software-Methodology/README.md)
 - [Web应用开发](COMP3019J-Web-Application-Develop/README.md)
 - [移动计算](COMP3011J-Mobile-Computing/README.md)
