@@ -209,6 +209,17 @@ nav:
       - 系统设计与验证: courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md
       - 软件工程课设2: courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md
       - 信息获取: courses/Stage3-2/COMP3009J-Information-Retrieval/README.md
+  - 第四学年:
+    - 秋季学期:
+      - 概览: courses/Stage4-1/index.md
+      - 设计模式: courses/Stage4-1/BDIC3024J-Design-Patterns/README.md
+#      - 机器学习:
+#      - 高级软件技术:
+#      - 虚拟现实:
+#      - 安全与隐私:
+#      - 计算机性能:
+    - 春季学期:
+#      - 概览: courses/Stage4-2/index.md
   - 关于:
     - 项目介绍: about/index.md
     - 贡献者: about/contributors.md
