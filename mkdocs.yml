@@ -198,7 +198,8 @@ nav:
       - 概览: courses/Stage3-1/index.md
       - 分布式系统: courses/Stage3-1/COMP3008J-Distributed-Systems/README.md
       - 计算机图形学: courses/Stage3-1/COMP3033J-Computer-Graphics/README.md
-      - 面向对象设计: courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md
+      - 面向对象设计(2025年移除): courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md
+      - 多范式编程(2025年新增): courses/Stage3-1/COMP3038J-Multi-Paradigm-Programming/README.md
       - 软件工程方法: courses/Stage3-1/COMP3017J-Software-Methodology/README.md
       - Web应用开发: courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md
       - 移动计算: courses/Stage3-1/COMP3011J-Mobile-Computing/README.md

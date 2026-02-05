@@ -8,7 +8,7 @@
 >
 
 ## 课程介绍
-计网是计算机很核心的课程之一，无论是考研、保研面试、找工作（八股）都是重中之重，个人认为是计算机基础的核心部分。同时，计算机网络比较难，建议持续学习，即使结束这门课程的学习，也不要停止对计算机网络的学习。
+计网是计算机很核心的课程之一，无论是考研、保研面试、找工作（八股）都是重中之重，是计算机基础的核心部分。同时，计算机网络比较难，建议持续学习，即使结束这门课程的学习，也不要停止对计算机网络的学习。
 
 网络中的概念较为抽象，需要同学们先构建系统的概念，在理解的基础上记忆知识点，才有可能弄懂计算机网络。
 
@@ -17,32 +17,29 @@
 
 ## 学习资源
 
-### 📝 课程笔记
+### 课程笔记
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Computer%20Networks)
 
-### 🛠️ 往年试卷
+###  往年试卷
 
-#### 📝 期末考试 (Final Exam)
+
 - [2022-23 Computer Networks](./exam/COMP2009J%20Computer%20Networks%202022%202023.pdf)
-- [2018-19 Computer Networks](./exam/COMP2001J%20Computer%20Networks%202018-2019.pdf)
+- [2018-2019 Computer Networks](./exam/COMP2009J_Computer%20Networks.pdf)
 - [2017-18 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202017_18.pdf)
 - [2016-17 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202016_17.pdf)
 - [2015-16 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202015_16.pdf)
 - [2014-15 Semester 2](./exam/COMP2001J%20Computer%20Networks%20Semester%202%202014_15.pdf)
-- [Computer Networks 通用试卷](./exam/COMP2009J_Computer%20Networks.pdf)
-
-#### 🔄 补考试卷 (Resit Exam)
 - [2014-15 Semester 1 Resit](./exam/COMP2001J%20Computer%20Networks%20%28Resit%29%20Semester%201%20%202015_16.pdf)
  
 
-### 📚 参考资料
+### 参考资料
 - [小林coding](https://xiaolincoding.com/) - 推荐在线资源
 
-### 🚀 Lab
+###  Lab
 - [Ass1(WireShark)]() - [不公开]
 - [Ass2(Packet tracer)]() - [不公开]
 
-## 💡 学习建议
+##  学习建议
 
 以下内容是听说：
 

@@ -17,26 +17,27 @@
 Ass: 四人小组作业，做一个简单的信息系统，主要是利用数据库知识，关注于数据库设计。
 
 老师很好，是中国人，但是上课/工作场景只说英语，课下会说中文和大家交流。
+
 ## 学习资源
 
-### 📝 课程笔记
+### 课程笔记
 
 - [Notes](https://github.com/buzhidaoqusm/Stage-2-2-notes/tree/main/Databases%20and%20Information%20Systems)
 
-### �️ 往年试卷
+### 往年试卷
 
-#### 📝 期末考试 (Final Exam)
+#### 期末考试 (Final Exam)
 - [2022-2023 Exam Paper](./Exam/COMP2013J-2023-EXAM-PAPER-V2.pdf)
-- [2023 Exam Answer (Mrle版答案)](./Exam/Answer_Mrle_COMP2013J-2023-EXAM-PAPER-V2.pdf)
-- [2019 Databases and Information Systems](./Exam/COMP2013J-2019-Databases%20and%20Information%20Systems.pdf)
+- [2022-2023 Exam Answer](./Exam/Answer_Mrle_COMP2013J-2023-EXAM-PAPER-V2.pdf)
+- [2018-2019 Exam Paper](./Exam/COMP2013J-2019-Databases%20and%20Information%20Systems.pdf)
 - [2017-18 Semester 2](./Exam/COMP2004J%20Databases%20and%20Information%20Systems%20Semester%202%202017_18.pdf)
 - [2016-17 Semester 2](./Exam/COMP2004J%20Databases%20and%20Information%20Systems%20Semester%202%202016_17.pdf)
 - [2015-16 Semester 2](./Exam/COMP2004J%20Databases%20and%20Information%20Systems%20Semester%202%202015_16.pdf)
 - [2014-15 Semester 2](./Exam/COMP2004J%20Database%20and%20Information%20Systems%20Semester%202%202014_15.pdf)
 
-### �🚀 项目案例
+###  项目案例
 - [RailwayBookingSystem](https://github.com/mrle0429/RailwayBookingSystem.git) 2024 Project
 
-## 💡 学习建议
+## 学习建议
 
 [待补充学习建议]

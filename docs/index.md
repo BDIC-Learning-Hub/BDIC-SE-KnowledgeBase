@@ -1,42 +1,7 @@
-# BDIC-Fun
 
 <div class="news-container"></div>
 
-<div class="grid cards" markdown>
 
--   :material-school:{ .lg .middle } __第一学年课程__
-
-    ---
-
-    程序设计基础、数学基础和软件工程入门
-
-    [:octicons-arrow-right-24: 查看课程](courses/Stage1-1/)
-
--   :material-code-braces:{ .lg .middle } __第二学年课程__
-
-    ---
-
-    数据结构、算法、面向对象编程和系统基础
-
-    [:octicons-arrow-right-24: 查看课程](courses/Stage2-1/)
-
--   :material-cog:{ .lg .middle } __第三学年课程__
-
-    ---
-
-    高级软件工程、系统设计和专业选修
-
-    [:octicons-arrow-right-24: 查看课程](courses/Stage3-1/)
-
--   :material-rocket-launch:{ .lg .middle } __第四学年课程__
-
-    ---
-
-
-    [:octicons-arrow-right-24: 查看课程](courses/Stage4-1/)
-
-
-</div>
 
 ## 计算机资源推荐
 - [CS自学指南](https://csdiy.wiki/)
@@ -72,11 +37,13 @@
     详细了解：[学术诚信说明](about/academic-integrity.md)
 
 ## 许可
-资料来源于北京-都柏林国际学院，相关权利归仍作者所有，本仓库仅作信息收集。
+由贡献者编写部分的许可如下：
 
-本仓库不会为收集的资料付费，也不会收取捐赠。
+[CC-BY-NC-SA：署名-非商业性使用-相同方式共享](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
 
-若您认为仓库中的资料侵犯您的权益，请发起issue或邮件联系，我们将及时停止使用。
+其他部分的版权归属于其各自的作者。
+
+由于资料来源复杂，如果收录的资料侵犯了您的著作权，请发起 issue 或发邮件至 bdicfun@gmail.com ，我们将立即停止使用您的资料。
 
 ## :busts_in_silhouette: 联系我们
 
@@ -98,9 +65,6 @@
       </a>
 </div>
 <div class="contributors-avatars">
-  <a href="https://github.com/beihaizhang11" title="beihaizhang11">
-    <img src="https://github.com/beihaizhang11.png?size=60" alt="beihaizhang11" />
-  </a>
   <a href="https://github.com/ShirleyBell" title="ShirleyBell">
     <img src="https://github.com/ShirleyBell.png?size=60" alt="ShirleyBell" />
   </a>

@@ -10,5 +10,3 @@
 - [软件工程课设2](COMP3030J-Software-Engineering-Project/README.md)
 
 ---
-
-上一阶段：[第三学年秋季学期](../Stage3-1/) 
