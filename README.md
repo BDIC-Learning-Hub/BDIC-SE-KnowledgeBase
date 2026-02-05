@@ -55,7 +55,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
   </thead>
   <tbody>
     <tr>
-      <td rowspan="12"><b>Stage 1</b></td>
+      <td rowspan="16"><b>Stage 1</b></td>
       <td rowspan="7"><b>Autumn</b></td>
       <td><a href="docs/courses/Stage1-1/BDIC1029J-Maths(Engineering)-1/README.md">高等数学（工）1 && 高等数学（工）2</a></td>
       <td>10</td>
@@ -92,146 +92,211 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
       <td>5</td>
     </tr>
     <tr>
-      <td rowspan="5"><b>Spring</b></td>
+      <td rowspan="9"><b>Spring</b></td>
       <td><a href="docs/courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md">高等数学（工）3</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage1-2/BDIC1032J-Maths%20(Engineering)%204/README.md">高等数学（工）4</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage1-2/BDIC1015J-University-Physics-1/README.md">大学物理Ⅰ-1</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage1-2/COMP1003J-%20Introduction-to-Software/README.md">软件工程导论</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md">程序设计概论2</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td rowspan="10"><b>Stage 2</b></td>
-      <td rowspan="5"><b>Autumn</b></td>
+      <td>爱尔兰文化</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>习近平新时代中国特色社会主义思想概论</td>
+      <td>3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>体育-1</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>通用学术英语</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td rowspan="19"><b>Stage 2</b></td>
+      <td rowspan="8"><b>Autumn</b></td>
       <td><a href="docs/courses/Stage2-1/COMP2010J-Data-Structs-&-Algs-I/README.md">数据结构与算法I</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-1/COMP2011J-Object-Oriented-Programming/README.md">面向对象编程</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-1/COMP2012J-Operating-Systems/README.md">操作系统</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-1/BDIC2005J-Probability-and-Statistics/README.md">概率论与数理统计</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-1/BDIC2008J-University-Physics-I-2/README.md">大学物理Ⅰ-2</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td rowspan="5"><b>Spring</b></td>
+      <td>学术写作与沟通技巧</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>体育-3</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>马克思主义基本原理</td>
+      <td>3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td rowspan="11"><b>Spring</b></td>
       <td><a href="docs/courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md">数据结构与算法II</a></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md">离散数学</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-2/COMP2013J-Databases-and-Info-Sys/README.md">数据库和信息系统</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-2/COMP2008J-Software-EngProject-1/README.md">软件工程课设1</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-2/COMP2009J-Computer-Networks/README.md">计算机网络</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>体育-4</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>专门用途学术英语</td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>军事理论</td>
+      <td>2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>军事训练</td>
+      <td>2</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>四史</td>
+      <td>1</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <td>毛泽东思想和中国特色社会主义理论体系概论</td>
+      <td>3</td>
+      <td>0</td>
     </tr>
     <tr>
       <td rowspan="12"><b>Stage 3</b></td>
       <td rowspan="7"><b>Autumn</b></td>
       <td><a href="docs/courses/Stage3-1/COMP3008J-Distributed-Systems/README.md">分布式系统</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td><a href="docs/courses/Stage3-1/COMP3033J-Computer-Graphics/README.md">计算机图形</a></td>
-      <td></td>
-      <td></td>
+      <td><a href="docs/courses/Stage3-1/COMP3033J-Computer-Graphics/README.md">计算机图形学</a></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-1/COMP3013J-Object-Oriented-Design/README.md">面向对象设计(2025年移除)</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-1/COMP3015J-Multiparadigm-Programming/README.md">多范式编程(2025年新增)</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td><a href="docs/courses/Stage3-1/COMP3017J-Software-Methodology/README.md">软件工程方法</a></td>
-      <td></td>
-      <td></td>
+      <td><a href="docs/courses/Stage3-1/COMP3017J-Software-Methodology/README.md">软件工程方法学</a></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-1/COMP3019J-Web-Application-Develop/README.md">Web应用开发</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-1/COMP3011J-Mobile-Computing/README.md">移动计算</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td rowspan="5"><b>Spring</b></td>
       <td><a href="docs/courses/Stage3-2/BDIC3026J-Software-Project-Management/README.md">软件项目管理</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-2/BDIC3027J-Software-System-Architecture/README.md">软件系统架构</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-2/COMP3018J-System-Des-&-Verification/README.md">系统设计与验证</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md">软件工程课设2</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-2/COMP3009J-Information-Retrieval/README.md">信息获取</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td rowspan="2"><b>Stage 4</b></td>
