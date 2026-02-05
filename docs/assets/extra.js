@@ -114,146 +114,151 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // ==================== News 栏位功能 ====================
-    const newsToggleBtn = document.querySelector('.news-toggle-btn');
-    const newsArchive = document.querySelector('.news-archive');
-    
-    if (newsToggleBtn && newsArchive) {
-        newsToggleBtn.addEventListener('click', function() {
-            newsArchive.classList.toggle('active');
-            this.textContent = newsArchive.classList.contains('active') ? '收起归档' : '查看归档';
-        });
-    }
-
-    // 初始化 News 数据（可以从 JSON 配置读取）
+    // 初始化 News 栏位
     initializeNews();
 });
 
 // News 初始化函数
-function initializeNews() {
-    // News 数据配置（管理者可在此修改）
-    const newsData = {
-        active: [
-            {
-                text: '更新24级大二OOP评分标准',
-                date: '2025-12-29',
-                badge: 'update'
-            },
-            {
-                text: '请同学们不要将本知识库内容与任何其他外部机构分享，以免引起不必要的版权纠纷。同学间分享可直接发送本网站链接。新增内容会及时更新在本仓库中，若您希望向本仓库贡献资料，请参阅贡献指南或联系我们',
-                date: '2025-12-18',
-                badge: 'important'
-            },
-            {
-                text: '<strong>新功能上线</strong>：添加了 News 通知栏，管理员可以快速发布重要公告。',
-                date: '2025-12-18',
-                badge: 'update'
-            },
-            {
-                text: '如果这个仓库对你有帮助，欢迎 <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" target="_blank">点亮星星</a> 支持我们！',
-                date: '2025-12-18',
-                badge: 'important'
-            },
-            {
-                text: '欢迎来到BDIC知识库！',
-                date: '2025-12-18',
-                badge: 'announcement'
-            }
-        ],
-        archived: [
-        ]
-    };
-
-    // 生成 HTML
+async function initializeNews() {
     const newsContainer = document.querySelector('.news-container');
     if (!newsContainer) return;
 
-    let newsHTML = '<h3 class="news-title">最新通知</h3>';
-    newsHTML += '<ul class="news-list">';
+    // 1. 渲染骨架屏 (Skeleton Screen)
+    renderSkeleton(newsContainer);
 
-    // 活跃消息
-    newsData.active.forEach(item => {
-        const badgeClass = item.badge === 'important' ? 'news-badge important' 
-                          : item.badge === 'update' ? 'news-badge update'
-                          : item.badge === 'event' ? 'news-badge event'
-                          : 'news-badge';
+    try {
+        // 2. 异步获取数据
+        // 尝试从根目录获取 news.json
+        // 如果当前页面在子目录，可能需要调整路径，但通常 docs/news.json 构建后在根目录
+        const response = await fetch('news.json');
         
-        newsHTML += `
-            <li class="news-item">
-                <div class="news-content">
-                    <p class="news-text">
-                        <span class="${badgeClass}">${getBadgeText(item.badge)}</span>
-                        ${item.text}
-                    </p>
-                </div>
-                <span class="news-date">${formatDate(item.date)}</span>
-            </li>
+        if (!response.ok) {
+            // 尝试加个前缀，应对可能的子目录部署情况（如果不是在根目录访问）
+            // 这里简单处理，如果失败则尝试 ../news.json，或者直接报错
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const data = await response.json();
+
+        // 3. 数据处理
+        // 按日期倒序排序
+        data.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        // 自动归档逻辑：前 3 条为 active，其余为 archived
+        // 如果 active 数量少于 3，则全部显示
+        const ACTIVE_COUNT = 3;
+        const activeNews = data.slice(0, ACTIVE_COUNT);
+        const archivedNews = data.slice(ACTIVE_COUNT);
+
+        // 4. 渲染 UI
+        renderNewsUI(newsContainer, activeNews, archivedNews);
+
+    } catch (error) {
+        console.error('Failed to load news:', error);
+        newsContainer.innerHTML = `
+            <div class="news-error">
+                <p>无法加载公告数据，请刷新重试。</p>
+            </div>
         `;
+    }
+}
+
+function renderSkeleton(container) {
+    container.innerHTML = `
+        <div class="news-skeleton">
+            <div class="skeleton-header"></div>
+            <div class="skeleton-list">
+                <div class="skeleton-item"></div>
+                <div class="skeleton-item"></div>
+                <div class="skeleton-item"></div>
+            </div>
+        </div>
+    `;
+}
+
+function renderNewsUI(container, active, archived) {
+    let html = `
+        <div class="news-header">
+            <h3 class="news-title">最新公告</h3>
+            <span class="news-update-badge">Update</span>
+        </div>
+        <div class="news-body">
+            <ul class="news-list active-list">
+    `;
+
+    // 渲染 Active 列表
+    active.forEach(item => {
+        html += createNewsItemHTML(item);
     });
 
-    newsHTML += '</ul>';
+    html += `</ul>`;
 
-    // 归档区域
-    if (newsData.archived && newsData.archived.length > 0) {
-        newsHTML += '<div class="news-archive">';
-        newsHTML += `<div class="news-archive-title">📚 归档通知（${newsData.archived.length}条）</div>`;
-        newsHTML += '<ul class="news-list">';
-
-        newsData.archived.forEach(item => {
-            const badgeClass = item.badge === 'important' ? 'news-badge important' 
-                              : item.badge === 'update' ? 'news-badge update'
-                              : item.badge === 'event' ? 'news-badge event'
-                              : 'news-badge';
-            
-            newsHTML += `
-                <li class="news-item news-archive-item">
-                    <div class="news-content">
-                        <p class="news-text">
-                            <span class="${badgeClass}">${getBadgeText(item.badge)}</span>
-                            ${item.text}
-                        </p>
-                    </div>
-                    <span class="news-date">${formatDate(item.date)}</span>
-                </li>
-            `;
+    // 渲染 Archived 列表（如果有）
+    if (archived && archived.length > 0) {
+        html += `
+            <div class="news-archive-section">
+                <button class="news-toggle-btn" aria-expanded="false">
+                    <span class="toggle-text">查看历史公告 (${archived.length})</span>
+                    <span class="toggle-icon">▼</span>
+                </button>
+                <ul class="news-list archive-list" style="display: none;">
+        `;
+        
+        archived.forEach(item => {
+            html += createNewsItemHTML(item, true);
         });
 
-        newsHTML += '</ul>';
-        newsHTML += '</div>';
+        html += `
+                </ul>
+            </div>
+        `;
     }
 
-    // 页脚
-    newsHTML += `<div class="news-footer">
-        <span class="news-count">共 ${newsData.active.length} 条最新通知</span>
-        ${newsData.archived && newsData.archived.length > 0 ? '<button class="news-toggle-btn">查看归档</button>' : ''}
-    </div>`;
+    html += `</div>`; // end news-body
+    container.innerHTML = html;
 
-    // 替换内容
-    const newsTitle = newsContainer.querySelector('.news-title');
-    const newsList = newsContainer.querySelector('.news-list');
-    const newsFooter = newsContainer.querySelector('.news-footer');
-    
-    if (newsTitle) newsTitle.remove();
-    if (newsList) newsList.remove();
-    if (newsFooter) newsFooter.remove();
-    const oldArchive = newsContainer.querySelector('.news-archive');
-    if (oldArchive) oldArchive.remove();
-
-    newsContainer.innerHTML = newsHTML;
-
-    // 重新绑定事件
-    const newsToggleBtn = newsContainer.querySelector('.news-toggle-btn');
-    const newsArchive = newsContainer.querySelector('.news-archive');
-    
-    if (newsToggleBtn && newsArchive) {
-        newsToggleBtn.addEventListener('click', function() {
-            newsArchive.classList.toggle('active');
-            this.textContent = newsArchive.classList.contains('active') ? '收起归档' : '查看归档';
+    // 绑定交互事件
+    const toggleBtn = container.querySelector('.news-toggle-btn');
+    if (toggleBtn) {
+        const archiveList = container.querySelector('.archive-list');
+        const toggleIcon = container.querySelector('.toggle-icon');
+        
+        toggleBtn.addEventListener('click', () => {
+            const isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true';
+            toggleBtn.setAttribute('aria-expanded', !isExpanded);
+            
+            if (isExpanded) {
+                // 收起
+                archiveList.style.display = 'none';
+                toggleIcon.style.transform = 'rotate(0deg)';
+                toggleBtn.querySelector('.toggle-text').textContent = `查看历史公告 (${archived.length})`;
+            } else {
+                // 展开
+                archiveList.style.display = 'block';
+                toggleIcon.style.transform = 'rotate(180deg)';
+                toggleBtn.querySelector('.toggle-text').textContent = '收起历史公告';
+            }
         });
     }
 }
 
-// 辅助函数
+function createNewsItemHTML(item, isArchive = false) {
+    const badgeClass = `news-badge ${item.badge || 'default'}`;
+    const dateStr = formatDate(item.date);
+    
+    return `
+        <li class="news-item ${isArchive ? 'archive-item' : ''}">
+            <div class="news-item-main">
+                <span class="${badgeClass}">${getBadgeText(item.badge)}</span>
+                <span class="news-text">${item.text}</span>
+            </div>
+            <div class="news-item-meta">
+                <span class="news-date">${dateStr}</span>
+            </div>
+        </li>
+    `;
+}
+
 function getBadgeText(badge) {
     const badgeMap = {
         'announcement': '公告',
@@ -270,13 +275,10 @@ function formatDate(dateStr) {
     const diffMs = now - date;
     const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
 
-    if (diffDays === 0) {
-        return '今天';
-    } else if (diffDays === 1) {
-        return '昨天';
-    } else if (diffDays < 7) {
-        return `${diffDays}天前`;
-    } else {
-        return dateStr;
-    }
+    if (diffDays === 0) return '今天';
+    if (diffDays === 1) return '昨天';
+    if (diffDays < 7 && diffDays > 0) return `${diffDays}天前`;
+    
+    // 格式化为 YYYY-MM-DD
+    return dateStr;
 }
