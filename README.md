@@ -290,8 +290,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-2/COMP3030J-Software-Engineering-Project/README.md">软件工程课设2</a></td>
-      <td>5</td>
-      <td>5</td>
+      <td>10</td>
+      <td>10</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage3-2/COMP3009J-Information-Retrieval/README.md">信息获取</a></td>
