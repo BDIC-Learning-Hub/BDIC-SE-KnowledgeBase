@@ -182,8 +182,8 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
     <tr>
       <td rowspan="11"><b>Spring</b></td>
       <td><a href="docs/courses/Stage2-2/COMP2014J-Data-Structs-&-Algs-II/README.md">数据结构与算法II</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><a href="docs/courses/Stage2-2/BDIC2002J-Discrete-Mathematics/README.md">离散数学</a></td>
