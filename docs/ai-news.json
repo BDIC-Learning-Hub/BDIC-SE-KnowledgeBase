@@ -1,0 +1,74 @@
+[
+  {
+    "title": "AI 工作流在淘宝交易舆情巡检上的探索与实践",
+    "summary": "淘宝交易团队分享了如何利用大模型构建从舆情采集到闭环复盘的智能巡检系统，重点介绍了从“自由归类”转向“语义匹配”的技术演进过程。",
+    "url": "https://www.bestblogs.dev/article/6283b671",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "model"
+  },
+  {
+    "title": "对话 Elys 创始人 Tristan：人的灵魂是所有 context 的总和，我们从未被真正连接过",
+    "summary": "对话 Elys 创始人 Tristan，探讨以“Context（上下文）工程”为核心的 AI 社交哲学，旨在通过数字化“灵魂”创造人与人之间的低熵连接。",
+    "url": "https://www.bestblogs.dev/article/7dee92a3",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "featured"
+  },
+  {
+    "title": "大模型之后：人类与机器的分工重写｜万字圆桌实录",
+    "summary": "本文通过科幻作家陈楸帆与提示词专家李继刚的圆桌对话，深度探讨了大模型时代人机分工的重构：AI 消除时间障碍并承接技法，人类则需聚焦于想法、品味与直觉。",
+    "url": "https://www.bestblogs.dev/article/a5e6b529",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "model"
+  },
+  {
+    "title": "Anthropic 对阵美国政府，Nano Banana 的蜕变，Frontier 智能体管理，以及更多内容...",
+    "summary": "本期 The Batch 介绍了用于编程智能体的 Context Hub，分析了 Google 的 Nano Banana 2 图像生成器，并详述了 Anthropic 与美国军方之间在伦理和政治上的分歧。",
+    "url": "https://www.bestblogs.dev/article/08c8a4c7",
+    "source": "BestBlogs / Analytics DeepLearning.AI",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "tooling"
+  },
+  {
+    "title": "GPT-5.4：专业工作流进入“可执行时代”",
+    "summary": "GPT-5.4 标志着 AI 从对话助手向自主执行代理的跨越，通过原生计算机使用、动态工具搜索和交互式思考，深度嵌入专业工作流。",
+    "url": "https://www.bestblogs.dev/article/bfed7323",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "model"
+  },
+  {
+    "title": "游戏数据分析 Agent 的全栈架构演进",
+    "summary": "本文深度解析了 B 站游戏数据分析 Agent 从简单链式到复杂 LangGraph 图架构的演进历程，涵盖了上下文工程、SQL 安全校验及企业级落地实践。",
+    "url": "https://www.bestblogs.dev/article/67c4dccd",
+    "source": "BestBlogs / 哔哩哔哩技术",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "agent"
+  },
+  {
+    "title": "Cursor 的第三个时代：云端智能体",
+    "summary": "本文探讨了 Cursor 向“云端智能体”时代的转型，在这一时代，AI 智能体利用完整的虚拟机和“计算机使用（Computer Use）”能力来自主构建、测试和演示软件。",
+    "url": "https://www.bestblogs.dev/article/862a3021",
+    "source": "BestBlogs / Latent.Space",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "tooling"
+  },
+  {
+    "title": "GPT-5.4 发布：OpenAI 首个大一统模型，简直是龙虾原生",
+    "summary": "OpenAI 发布 GPT-5.4，通过整合推理、编程、计算机原生交互等能力，打造首个支持原生 Computer Use 的大一统 Agent 模型。",
+    "url": "https://www.bestblogs.dev/article/6f17468b",
+    "source": "BestBlogs / 衡宇",
+    "topic": "人工智能",
+    "date": "2026-03-06",
+    "badge": "agent"
+  }
+]

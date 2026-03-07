@@ -1,7 +1,9 @@
 # Software Engineering Project
 
 > 课程编码：COMP3030J
+>
 > 授课教师：[MOONEY Catherine Louise](https://people.ucd.ie/CATHERINE.MOONEY)
+>
 > 考核方式：100%(Assignment) (分组) No Final Exam
 
 ## 课程简介
@@ -14,9 +16,9 @@ Mid-semester progress assessment（20%）：录制一个4min的视频介绍团�
 
 Overleaf report(20%)：System and User documentation：两个文档
 
-Teamwork and Participation（20%）：团队之间一定不要有矛盾，每周要交周报
+Teamwork and Participation（20%）：团队内部不要有矛盾，每周要交周报
 
-Software testing (20%)：不要在这上面浪费太多时间，最终提交不看代码，仅将网站部署到远程服务器，通过域名访问，所以重要是实现功能，代码不重要。
+Software testing (20%)：最终提交不需源代码，仅将网站部署到远程服务器，通过域名访问。
 
 Final Presentation：视频 + 演讲，每个人脱稿。
 

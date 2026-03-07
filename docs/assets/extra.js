@@ -114,98 +114,72 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // 初始化 News 栏位
+    // 初始化已预渲染的 News 栏位交互
     initializeNews();
 });
 
-// News 初始化函数
-async function initializeNews() {
+const FEED_CONFIG = {
+    announcements: {
+        key: 'announcements',
+        title: '最新公告',
+        subtitle: '站内通知与仓库更新',
+        badge: 'Update',
+        icon: '📢',
+        sourceUrl: 'news.json',
+        activeCount: 2
+    },
+    industry: {
+        key: 'industry',
+        title: '行业精选',
+        subtitle: 'BestBlogs 精选来源，面向 AI 学习与工程实践',
+        badge: 'AI Radar',
+        icon: '✨',
+        sourceUrl: 'ai-news.json',
+        activeCount: 4
+    }
+};
+
+function initializeNews() {
     const newsContainer = document.querySelector('.news-container');
     if (!newsContainer) return;
+    const newsShell = newsContainer.querySelector('.news-shell');
+    if (!newsShell) return;
 
-    // 1. 渲染骨架屏 (Skeleton Screen)
-    renderSkeleton(newsContainer);
-
-    try {
-        // 2. 异步获取数据
-        // 尝试从根目录获取 news.json
-        // 如果当前页面在子目录，可能需要调整路径，但通常 docs/news.json 构建后在根目录
-        const response = await fetch('news.json');
-        
-        if (!response.ok) {
-            // 尝试加个前缀，应对可能的子目录部署情况（如果不是在根目录访问）
-            // 这里简单处理，如果失败则尝试 ../news.json，或者直接报错
-            throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        
-        const data = await response.json();
-
-        // 3. 数据处理
-        // 按日期倒序排序
-        data.sort((a, b) => new Date(b.date) - new Date(a.date));
-
-        // 自动归档逻辑：前 3 条为 active，其余为 archived
-        // 如果 active 数量少于 3，则全部显示
-        const ACTIVE_COUNT = 3;
-        const activeNews = data.slice(0, ACTIVE_COUNT);
-        const archivedNews = data.slice(ACTIVE_COUNT);
-
-        // 4. 渲染 UI
-        renderNewsUI(newsContainer, activeNews, archivedNews);
-
-    } catch (error) {
-        console.error('Failed to load news:', error);
-        newsContainer.innerHTML = `
-            <div class="news-error">
-                <p>无法加载公告数据，请刷新重试。</p>
-            </div>
-        `;
-    }
+    bindFeedEvents(newsContainer);
 }
 
-function renderSkeleton(container) {
-    container.innerHTML = `
-        <div class="news-skeleton">
-            <div class="skeleton-header"></div>
-            <div class="skeleton-list">
-                <div class="skeleton-item"></div>
-                <div class="skeleton-item"></div>
-                <div class="skeleton-item"></div>
-            </div>
-        </div>
-    `;
-}
-
-function renderNewsUI(container, active, archived) {
+function createPanelHTML(feed, isActive) {
     let html = `
-        <div class="news-header">
-            <h3 class="news-title">最新公告</h3>
-            <span class="news-update-badge">Update</span>
-        </div>
-        <div class="news-body">
-            <ul class="news-list active-list">
+        <section class="news-panel news-panel-${feed.key} ${isActive ? 'is-active' : ''}" data-feed-panel="${feed.key}" role="tabpanel">
+            <div class="news-header">
+                <div class="news-heading">
+                    <h3 class="news-title" data-icon="${feed.icon}">${feed.title}</h3>
+                    <p class="news-subtitle">${feed.subtitle}</p>
+                </div>
+                <span class="news-update-badge">${feed.badge}</span>
+            </div>
+            <div class="news-body">
+                <ul class="news-list active-list ${feed.key}-list">
     `;
 
-    // 渲染 Active 列表
-    active.forEach(item => {
-        html += createNewsItemHTML(item);
+    feed.active.forEach(item => {
+        html += createNewsItemHTML(feed.key, item);
     });
 
     html += `</ul>`;
 
-    // 渲染 Archived 列表（如果有）
-    if (archived && archived.length > 0) {
+    if (feed.archived && feed.archived.length > 0) {
         html += `
             <div class="news-archive-section">
-                <button class="news-toggle-btn" aria-expanded="false">
-                    <span class="toggle-text">查看历史公告 (${archived.length})</span>
+                <button class="news-toggle-btn" aria-expanded="false" data-archive-count="${feed.archived.length}">
+                    <span class="toggle-text">查看更多 (${feed.archived.length})</span>
                     <span class="toggle-icon">▼</span>
                 </button>
-                <ul class="news-list archive-list" style="display: none;">
+                <ul class="news-list archive-list ${feed.key}-list" style="display: none;">
         `;
-        
-        archived.forEach(item => {
-            html += createNewsItemHTML(item, true);
+
+        feed.archived.forEach(item => {
+            html += createNewsItemHTML(feed.key, item, true);
         });
 
         html += `
@@ -214,38 +188,70 @@ function renderNewsUI(container, active, archived) {
         `;
     }
 
-    html += `</div>`; // end news-body
-    container.innerHTML = html;
+    html += `
+            </div>
+        </section>
+    `;
 
-    // 绑定交互事件
-    const toggleBtn = container.querySelector('.news-toggle-btn');
-    if (toggleBtn) {
-        const archiveList = container.querySelector('.archive-list');
-        const toggleIcon = container.querySelector('.toggle-icon');
-        
+    return html;
+}
+
+function bindFeedEvents(container) {
+    const tabs = container.querySelectorAll('.news-tab');
+    const panels = container.querySelectorAll('.news-panel');
+
+    tabs.forEach(tab => {
+        const isDefault = tab.dataset.feed === 'industry';
+        tab.classList.toggle('is-active', isDefault);
+        tab.setAttribute('aria-selected', isDefault ? 'true' : 'false');
+
+        tab.addEventListener('click', () => {
+            const feedKey = tab.dataset.feed;
+            tabs.forEach(item => {
+                const isActive = item === tab;
+                item.classList.toggle('is-active', isActive);
+                item.setAttribute('aria-selected', isActive ? 'true' : 'false');
+            });
+
+            panels.forEach(panel => {
+                panel.classList.toggle('is-active', panel.dataset.feedPanel === feedKey);
+            });
+        });
+    });
+
+    container.querySelectorAll('.news-toggle-btn').forEach(toggleBtn => {
+        const archiveSection = toggleBtn.closest('.news-archive-section');
+        const archiveList = archiveSection.querySelector('.archive-list');
+        const toggleIcon = archiveSection.querySelector('.toggle-icon');
+        const panel = toggleBtn.closest('.news-panel');
+        const feedKey = panel.dataset.feedPanel;
+        const archiveCount = Number(toggleBtn.dataset.archiveCount || archiveList.children.length);
+
         toggleBtn.addEventListener('click', () => {
             const isExpanded = toggleBtn.getAttribute('aria-expanded') === 'true';
             toggleBtn.setAttribute('aria-expanded', !isExpanded);
-            
+
             if (isExpanded) {
-                // 收起
                 archiveList.style.display = 'none';
                 toggleIcon.style.transform = 'rotate(0deg)';
-                toggleBtn.querySelector('.toggle-text').textContent = `查看历史公告 (${archived.length})`;
+                toggleBtn.querySelector('.toggle-text').textContent = `查看更多 (${archiveCount})`;
             } else {
-                // 展开
-                archiveList.style.display = 'block';
+                archiveList.style.display = feedKey === 'industry' ? 'grid' : 'block';
                 toggleIcon.style.transform = 'rotate(180deg)';
-                toggleBtn.querySelector('.toggle-text').textContent = '收起历史公告';
+                toggleBtn.querySelector('.toggle-text').textContent = '收起更多内容';
             }
         });
-    }
+    });
 }
 
-function createNewsItemHTML(item, isArchive = false) {
+function createNewsItemHTML(feedKey, item, isArchive = false) {
+    if (feedKey === 'industry') {
+        return createIndustryItemHTML(item, isArchive);
+    }
+
     const badgeClass = `news-badge ${item.badge || 'default'}`;
     const dateStr = formatDate(item.date);
-    
+
     return `
         <li class="news-item ${isArchive ? 'archive-item' : ''}">
             <div class="news-item-main">
@@ -259,12 +265,43 @@ function createNewsItemHTML(item, isArchive = false) {
     `;
 }
 
+function createIndustryItemHTML(item, isArchive = false) {
+    const badgeClass = `news-badge ${item.badge || 'default'}`;
+    const dateStr = formatDate(item.date);
+    const topic = item.topic ? `<span class="news-topic">${item.topic}</span>` : '';
+    const source = item.source ? `<span class="news-source">${item.source}</span>` : '';
+    const summary = item.summary ? `<p class="news-summary">${item.summary}</p>` : '';
+    const link = item.url
+        ? `<a class="news-link" href="${item.url}" target="_blank" rel="noopener noreferrer">阅读原文</a>`
+        : '';
+
+    return `
+        <li class="news-item news-item-featured ${isArchive ? 'archive-item' : ''}">
+            <div class="news-featured-meta">
+                <span class="${badgeClass}">${getBadgeText(item.badge)}</span>
+                ${topic}
+                ${source}
+                <span class="news-date news-date-inline">${dateStr}</span>
+            </div>
+            <div class="news-featured-content">
+                <span class="news-text news-text-title">${item.title}</span>
+                ${summary}
+                ${link}
+            </div>
+        </li>
+    `;
+}
+
 function getBadgeText(badge) {
     const badgeMap = {
         'announcement': '公告',
         'important': '重要',
         'update': '更新',
-        'event': '活动'
+        'event': '活动',
+        'featured': '精选',
+        'tooling': '工具',
+        'model': '模型',
+        'agent': 'Agent'
     };
     return badgeMap[badge] || '通知';
 }
