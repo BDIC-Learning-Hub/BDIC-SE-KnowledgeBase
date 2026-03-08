@@ -1,11 +1,11 @@
-# Performance of Comp Systems (设计模式)
+# Performance of Comp Systems (计算机系统性能)
 
 > 课程编号：COMP3014J
 >
 > 考核形式：30% Group Project + 70% Final Exam
 >
 > 授课教师: 
-> [Nima Afraz](https://people.ucd.ie/nima.afraz/professional) -- 2026
+> [Nima Afraz](https://people.ucd.ie/nima.afraz/professional) -- 2025
 
 
 ## 课程介绍
