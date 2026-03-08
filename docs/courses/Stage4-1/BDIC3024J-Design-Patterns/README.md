@@ -9,13 +9,15 @@
 
 
 ## 课程介绍
-Haiyang Yu 五星好评，考试极爽，可以不用担心这门课。大作业是给定一些设计模式，小组制作PPT讲解并提交一份报告。
+Haiyang Yu 五星好评，考试让人联想到北京高考的合格考，可以不用担心这门课。大作业是给定一些设计模式，小组制作PPT讲解并提交一份报告。非常怀旧温馨的一门课程，有机会深度了解一些设计模式（如单例模式），可以以此为契机准备相关面试八股。
 
 
 ## 学习资源
 
 ### 课程笔记
 [LL笔记](https://mrlepro.com/2025/11/24/Stage4/notebook-Design-Pattern/)
+
+[GYH笔记](https://www.lab.withyunhan.com/posts/design-pattern-notes/)
 
 ### 历年试卷
 **25年真题回忆版本**
