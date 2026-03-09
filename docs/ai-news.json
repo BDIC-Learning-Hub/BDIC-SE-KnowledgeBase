@@ -1,5 +1,23 @@
 [
   {
+    "title": "阿里巴巴通义实验室开源 Mobile-Agent-v3.5：一套真正“多平台可用”的原生 GUI Agent 基座模型",
+    "summary": "阿里巴巴通义实验室开源了 Mobile-Agent-v3.5 及 GUI-Owl-1.5 模型家族，通过混合数据飞轮和多平台强化学习技术，构建了支持多端统一的原生 GUI Agent 基座。",
+    "url": "https://www.bestblogs.dev/article/03667b92",
+    "source": "BestBlogs / 魔搭ModelScope社区",
+    "topic": "人工智能",
+    "date": "2026-03-08",
+    "badge": "agent"
+  },
+  {
+    "title": "OpenClaw 生态正在疯长，我们拆解了 PH 上 40 多款相关产品",
+    "summary": "本文深度拆解了围绕 OpenClaw 框架形成的 AI Agent 生态，涵盖社交、记忆、部署、安全及硬件等五个核心赛道，揭示了互联网正从“为人服务”向“为 Agent 服务”转型的趋势。",
+    "url": "https://www.bestblogs.dev/article/23e840fe",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-03-08",
+    "badge": "agent"
+  },
+  {
     "title": "2026，写给 AI 创业者的慷慨、残酷、与迷雾",
     "summary": "文章通过技术史视角深度剖析了 AI 编程能力商品化带来的行业巨变，指出创业者的核心竞争力已从“代码实现”转向“问题定义”与“产品判断”。",
     "url": "https://www.bestblogs.dev/article/eb5bf321",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-06",
     "badge": "model"
-  },
-  {
-    "title": "GPT-5.4：专业工作流进入“可执行时代”",
-    "summary": "GPT-5.4 标志着 AI 从对话助手向自主执行代理的跨越，通过原生计算机使用、动态工具搜索和交互式思考，深度嵌入专业工作流。",
-    "url": "https://www.bestblogs.dev/article/bfed7323",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-03-06",
-    "badge": "model"
-  },
-  {
-    "title": "游戏数据分析 Agent 的全栈架构演进",
-    "summary": "本文深度解析了 B 站游戏数据分析 Agent 从简单链式到复杂 LangGraph 图架构的演进历程，涵盖了上下文工程、SQL 安全校验及企业级落地实践。",
-    "url": "https://www.bestblogs.dev/article/67c4dccd",
-    "source": "BestBlogs / 哔哩哔哩技术",
-    "topic": "人工智能",
-    "date": "2026-03-06",
-    "badge": "agent"
   }
 ]
