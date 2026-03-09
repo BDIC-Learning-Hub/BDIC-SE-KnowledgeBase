@@ -1,5 +1,23 @@
 [
   {
+    "title": "【第 3665 期】WebMCP：让每个网站都能与智能代理互动的新标准",
+    "summary": "WebMCP 是一种新兴的 W3C 标准，允许网站通过结构化工具（JS 函数或 HTML 表单）直接与 AI 代理交互，从而替代低效的截图识别和 DOM 解析。",
+    "url": "https://www.bestblogs.dev/article/1e9d9524",
+    "source": "BestBlogs / 前端早读课",
+    "topic": "人工智能",
+    "date": "2026-03-09",
+    "badge": "tooling"
+  },
+  {
+    "title": "给“氛围编程”系上安全带：阿里集团 AI 代码评审实践与 Benchmark 开源",
+    "summary": "阿里分享了其基于 Agent 架构的 AI 代码评审实践，强调通过自定义规则解决“氛围编程”风险，并开源了业界首个多语言仓库级评测集 AACR-Bench。",
+    "url": "https://www.bestblogs.dev/article/597cca8c",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-09",
+    "badge": "agent"
+  },
+  {
     "title": "阿里巴巴通义实验室开源 Mobile-Agent-v3.5：一套真正“多平台可用”的原生 GUI Agent 基座模型",
     "summary": "阿里巴巴通义实验室开源了 Mobile-Agent-v3.5 及 GUI-Owl-1.5 模型家族，通过混合数据飞轮和多平台强化学习技术，构建了支持多端统一的原生 GUI Agent 基座。",
     "url": "https://www.bestblogs.dev/article/03667b92",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-06",
     "badge": "featured"
-  },
-  {
-    "title": "大模型之后：人类与机器的分工重写｜万字圆桌实录",
-    "summary": "本文通过科幻作家陈楸帆与提示词专家李继刚的圆桌对话，深度探讨了大模型时代人机分工的重构：AI 消除时间障碍并承接技法，人类则需聚焦于想法、品味与直觉。",
-    "url": "https://www.bestblogs.dev/article/a5e6b529",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "人工智能",
-    "date": "2026-03-06",
-    "badge": "model"
-  },
-  {
-    "title": "全面解析“世界模型”：定义、路线、实践与 AGI 的更近一步",
-    "summary": "本文深度解析了世界模型的定义、演进历程及四大技术路线，探讨了其作为通往 AGI 关键路径对机器人、自动驾驶等行业的重构潜力。",
-    "url": "https://www.bestblogs.dev/article/2192fa71",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-03-06",
-    "badge": "model"
   }
 ]
