@@ -299,11 +299,16 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
       <td>5</td>
     </tr>
     <tr>
-      <td rowspan="2"><b>Stage 4</b></td>
-      <td><b>Autumn</b></td>
+      <td rowspan="3"><b>Stage 4</b></td>
+      <td rowspan="2"><b>Autumn</b></td>
       <td><a href="docs/courses/Stage4-1/BDIC3024J-Design-Patterns/README.md">设计模式</a></td>
-      <td></td>
-      <td></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-1/COMP3014J-Performance-of-Comp-Systems/README.md">计算机系统性能</a></td>
+      <td>5</td>
+      <td>5</td>
     </tr>
     <tr>
       <td><b>Spring</b></td>
