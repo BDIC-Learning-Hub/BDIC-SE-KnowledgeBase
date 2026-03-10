@@ -1,5 +1,23 @@
 [
   {
+    "title": "玩转 OpenClaw，你需要了解的：核心架构、运作原理、Agent 部署步骤",
+    "summary": "本文深入解析了 AI Agent 框架 OpenClaw 的核心架构、内存管理机制及多智能体协作原理，并提供了详尽的硬件部署建议与实战案例。",
+    "url": "https://www.bestblogs.dev/article/df3015cc",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-03-09",
+    "badge": "agent"
+  },
+  {
+    "title": "采纳率从 7.9%到 54%：快手智能 Code Review 的三阶进化",
+    "summary": "本文详述了快手智能代码审查系统从纯 LLM 启发式到知识引擎驱动，再到 Agentic 自主决策的三代架构演进，将 CR 采纳率从 7.9% 提升至 54%。",
+    "url": "https://www.bestblogs.dev/article/288cbab6",
+    "source": "BestBlogs / 快手技术",
+    "topic": "人工智能",
+    "date": "2026-03-09",
+    "badge": "agent"
+  },
+  {
     "title": "【第 3665 期】WebMCP：让每个网站都能与智能代理互动的新标准",
     "summary": "WebMCP 是一种新兴的 W3C 标准，允许网站通过结构化工具（JS 函数或 HTML 表单）直接与 AI 代理交互，从而替代低效的截图识别和 DOM 解析。",
     "url": "https://www.bestblogs.dev/article/1e9d9524",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-07",
     "badge": "agent"
-  },
-  {
-    "title": "AI 工作流在淘宝交易舆情巡检上的探索与实践",
-    "summary": "淘宝交易团队分享了如何利用大模型构建从舆情采集到闭环复盘的智能巡检系统，重点介绍了从“自由归类”转向“语义匹配”的技术演进过程。",
-    "url": "https://www.bestblogs.dev/article/6283b671",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-03-06",
-    "badge": "model"
-  },
-  {
-    "title": "对话 Elys 创始人 Tristan：人的灵魂是所有 context 的总和，我们从未被真正连接过",
-    "summary": "对话 Elys 创始人 Tristan，探讨以“Context（上下文）工程”为核心的 AI 社交哲学，旨在通过数字化“灵魂”创造人与人之间的低熵连接。",
-    "url": "https://www.bestblogs.dev/article/7dee92a3",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-03-06",
-    "badge": "featured"
   }
 ]
