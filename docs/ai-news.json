@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI 编程能力边界探索：基于 Claude Code 的 Spec Coding 项目实战｜得物技术",
+    "summary": "得物技术通过 10 天 2.5 万行代码的 Claude Code 实战，复盘了“规格驱动编码”（Spec Coding）工作流，并构建出“约束+示范+视觉”三层规范体系，深度拆解 AI 编程的能力边界。",
+    "url": "https://www.bestblogs.dev/article/9c6c68a5",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-03-11",
+    "badge": "model"
+  },
+  {
+    "title": "构建会思考的测试 Agent：从自动化到自主智能的演进",
+    "summary": "阿里云分享了如何通过大模型和多 Agent 架构构建具备自主意识的“质量数字人”，实现从被动自动化到主动智能测试的演进。",
+    "url": "https://www.bestblogs.dev/article/55bc6d71",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-11",
+    "badge": "agent"
+  },
+  {
     "title": "我们做了比你更懂 Java 的 AI-Agent -- Arthas Agent",
     "summary": "阿里云推出的 Arthas Agent 通过 AI 驱动的自然语言交互，将复杂的 Java 线上诊断流程自动化，显著降低了 Arthas 的使用门槛并提升了排障效率。",
     "url": "https://www.bestblogs.dev/article/0463c402",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-08",
     "badge": "agent"
-  },
-  {
-    "title": "OpenClaw 生态正在疯长，我们拆解了 PH 上 40 多款相关产品",
-    "summary": "本文深度拆解了围绕 OpenClaw 框架形成的 AI Agent 生态，涵盖社交、记忆、部署、安全及硬件等五个核心赛道，揭示了互联网正从“为人服务”向“为 Agent 服务”转型的趋势。",
-    "url": "https://www.bestblogs.dev/article/23e840fe",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-03-08",
-    "badge": "agent"
-  },
-  {
-    "title": "2026，写给 AI 创业者的慷慨、残酷、与迷雾",
-    "summary": "文章通过技术史视角深度剖析了 AI 编程能力商品化带来的行业巨变，指出创业者的核心竞争力已从“代码实现”转向“问题定义”与“产品判断”。",
-    "url": "https://www.bestblogs.dev/article/eb5bf321",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "人工智能",
-    "date": "2026-03-07",
-    "badge": "tooling"
   }
 ]
