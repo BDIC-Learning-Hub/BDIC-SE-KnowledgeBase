@@ -1,5 +1,23 @@
 [
   {
+    "title": "你不知道的 Claude Code：架构、治理与工程实践 - Tw93",
+    "summary": "本文深度解析了 Claude Code 的六层架构与工程实践，提出了从上下文治理、技能设计到验证闭环的系统化 Agent 开发方法论。",
+    "url": "https://www.bestblogs.dev/article/5c79977a",
+    "source": "BestBlogs / Tw93",
+    "topic": "人工智能",
+    "date": "2026-03-12",
+    "badge": "agent"
+  },
+  {
+    "title": "从“截图大法”到真实交互：B 站专栏视频卡的技术革命",
+    "summary": "本文详细介绍了 B 站专栏编辑器从 Quill 的 Canvas 截图方案迁移至 ProseMirror 真实交互组件的技术实践，解决了复杂卡片的交互、性能与数据同步难题。",
+    "url": "https://www.bestblogs.dev/article/3eddbeb8",
+    "source": "BestBlogs / 哔哩哔哩技术",
+    "topic": "软件编程",
+    "date": "2026-03-12",
+    "badge": "tooling"
+  },
+  {
     "title": "AI 编程能力边界探索：基于 Claude Code 的 Spec Coding 项目实战｜得物技术",
     "summary": "得物技术通过 10 天 2.5 万行代码的 Claude Code 实战，复盘了“规格驱动编码”（Spec Coding）工作流，并构建出“约束+示范+视觉”三层规范体系，深度拆解 AI 编程的能力边界。",
     "url": "https://www.bestblogs.dev/article/9c6c68a5",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-09",
     "badge": "tooling"
-  },
-  {
-    "title": "给“氛围编程”系上安全带：阿里集团 AI 代码评审实践与 Benchmark 开源",
-    "summary": "阿里分享了其基于 Agent 架构的 AI 代码评审实践，强调通过自定义规则解决“氛围编程”风险，并开源了业界首个多语言仓库级评测集 AACR-Bench。",
-    "url": "https://www.bestblogs.dev/article/597cca8c",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-03-09",
-    "badge": "agent"
-  },
-  {
-    "title": "阿里巴巴通义实验室开源 Mobile-Agent-v3.5：一套真正“多平台可用”的原生 GUI Agent 基座模型",
-    "summary": "阿里巴巴通义实验室开源了 Mobile-Agent-v3.5 及 GUI-Owl-1.5 模型家族，通过混合数据飞轮和多平台强化学习技术，构建了支持多端统一的原生 GUI Agent 基座。",
-    "url": "https://www.bestblogs.dev/article/03667b92",
-    "source": "BestBlogs / 魔搭ModelScope社区",
-    "topic": "人工智能",
-    "date": "2026-03-08",
-    "badge": "agent"
   }
 ]
