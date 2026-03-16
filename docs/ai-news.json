@@ -1,5 +1,14 @@
 [
   {
+    "title": "我复刻了 Claude 刚发布的生成式 UI 交互！",
+    "summary": "文章详细复盘了作者复刻 Claude 生成式 UI 的工程路径，重点展示流式渲染、组件协议与交互体验打磨。",
+    "url": "https://www.bestblogs.dev/article/15435105",
+    "source": "BestBlogs / 歸藏的AI工具箱",
+    "topic": "人工智能",
+    "date": "2026-03-15",
+    "badge": "model"
+  },
+  {
     "title": "提示词工程、上下文工程都过时了，现在是 Harness Engineering 的时代",
     "summary": "本文介绍了 Harness Engineering（线束工程）这一 AI 开发新范式，强调工程师的核心工作正从编写代码转向为 AI Agent 设计运行环境与反馈回路。",
     "url": "https://www.bestblogs.dev/article/7117df66",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-12",
     "badge": "agent"
-  },
-  {
-    "title": "从“截图大法”到真实交互：B 站专栏视频卡的技术革命",
-    "summary": "本文详细介绍了 B 站专栏编辑器从 Quill 的 Canvas 截图方案迁移至 ProseMirror 真实交互组件的技术实践，解决了复杂卡片的交互、性能与数据同步难题。",
-    "url": "https://www.bestblogs.dev/article/3eddbeb8",
-    "source": "BestBlogs / 哔哩哔哩技术",
-    "topic": "软件编程",
-    "date": "2026-03-12",
-    "badge": "tooling"
   }
 ]
