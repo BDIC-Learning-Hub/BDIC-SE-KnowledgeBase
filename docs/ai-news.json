@@ -1,5 +1,59 @@
 [
   {
+    "title": "兄弟！你真的懂 Skill 吗？",
+    "summary": "本文深度拆解了 Anthropic 的 Skill 框架源码与 16 个官方技能，揭示了其通过“Markdown 注入 + 沙箱执行”取代传统 Function Calling 的核心机制。",
+    "url": "https://www.bestblogs.dev/article/a39df55f",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-17",
+    "badge": "featured"
+  },
+  {
+    "title": "Agent/Skills/Teams 架构演进过程及技术选型之道",
+    "summary": "本文系统梳理了 AI Agent 从单体到多智能体、再到 Skills 插件化及 Teams 并行协作的演进脉络，并结合 Google 与 Anthropic 的最新研究给出了科学的选型方法论。",
+    "url": "https://www.bestblogs.dev/article/2902aba4",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-17",
+    "badge": "agent"
+  },
+  {
+    "title": "软件为何越做越乱？万字长文讲透软件的“复杂性”",
+    "summary": "本文通过电商案例深入剖析软件复杂性的成因与表现，对比战术与战略编程，并系统性地提出了通过深模块设计、信息隐藏及合理抽象来管理复杂性的实战方法论。",
+    "url": "https://www.bestblogs.dev/article/a389a9b9",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-03-16",
+    "badge": "tooling"
+  },
+  {
+    "title": "独家对话谢赛宁：逃出硅谷！",
+    "summary": "深度对话 AMI Labs 联合创始人谢赛宁，探讨其“反硅谷、反 LLM”的世界模型创业之路，以及对 AI 范式转移与表征学习的深刻洞察。",
+    "url": "https://www.bestblogs.dev/article/1eb42def",
+    "source": "BestBlogs / 张小珺",
+    "topic": "人工智能",
+    "date": "2026-03-16",
+    "badge": "model"
+  },
+  {
+    "title": "如何定义“人味儿”？——HeartBench 评测体系建设实践",
+    "summary": "文章系统复盘 HeartBench 从 0 到 1 的构建过程，提出了一套可迁移的 AI 拟人化评测方法论与人机协作流程。",
+    "url": "https://www.bestblogs.dev/article/0558e7f7",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-16",
+    "badge": "featured"
+  },
+  {
+    "title": "智能体工程的 8 个等级",
+    "summary": "本文系统性地提出了智能体工程的八个进阶等级，阐述了从简单的代码补全到自主多智能体协作的演进路径，并强调了上下文、复合工程与反馈环在提升 AI 编程效率中的核心作用。",
+    "url": "https://www.bestblogs.dev/article/bb49c81d",
+    "source": "BestBlogs / Bassim Eledath",
+    "topic": "人工智能",
+    "date": "2026-03-16",
+    "badge": "tooling"
+  },
+  {
     "title": "我复刻了 Claude 刚发布的生成式 UI 交互！",
     "summary": "文章详细复盘了作者复刻 Claude 生成式 UI 的工程路径，重点展示流式渲染、组件协议与交互体验打磨。",
     "url": "https://www.bestblogs.dev/article/15435105",
@@ -15,60 +69,6 @@
     "source": "BestBlogs / Founder Park",
     "topic": "人工智能",
     "date": "2026-03-13",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 操作系统：从指令到意图",
-    "summary": "本文深度探讨了从传统 GUI 操作系统向意图驱动的 AI 操作系统演进的范式转移，分析了软件从“人机界面”向“代理能力”退化的必然趋势。",
-    "url": "https://www.bestblogs.dev/article/c5d9d9be",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-03-13",
-    "badge": "featured"
-  },
-  {
-    "title": "一文搞懂爆火的 SKills 原理及实践案例",
-    "summary": "本文深入探讨了 AI 辅助开发中“Skills”的核心原理，提出了基于中台思维的 Prompt 复用理念，并详细介绍了逆向建模、问题定位及 AI-CR 等实战案例。",
-    "url": "https://www.bestblogs.dev/article/a9529ba9",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-03-13",
-    "badge": "featured"
-  },
-  {
-    "title": "给“氛围编程”系上安全带：阿里集团 AI 代码评审实践与 Benchmark 开源",
-    "summary": "本文介绍了阿里集团基于 Agent 架构的 AI 代码评审实践，探讨了如何通过人机协作与自定义规则规避“氛围编程”风险，并发布了业界首个仓库级上下文感知的评测基准 AACR-Bench。",
-    "url": "https://www.bestblogs.dev/article/7a6e51dd",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-03-13",
-    "badge": "agent"
-  },
-  {
-    "title": "你的 AI Agent 真的在受控运行吗？",
-    "summary": "本文以 OpenClaw 为例，系统阐述了如何通过 Session 审计日志、应用日志和 OTEL 遥测构建 AI Agent 的可观测体系，解决其行为非确定性带来的安全与受控运行难题。",
-    "url": "https://www.bestblogs.dev/article/e2b00eaa",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-03-13",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 388 期）：测试是新的护城河",
-    "summary": "阮一峰在本期周刊中指出，AI 快速复刻大型软件的能力正在瓦解传统代码护城河，使得测试用例成为软件公司保护核心资产的新壁垒。",
-    "url": "https://www.bestblogs.dev/article/d5a2715b",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "商业科技",
-    "date": "2026-03-12",
-    "badge": "featured"
-  },
-  {
-    "title": "你不知道的 Claude Code：架构、治理与工程实践 - Tw93",
-    "summary": "本文深度解析了 Claude Code 的六层架构与工程实践，提出了从上下文治理、技能设计到验证闭环的系统化 Agent 开发方法论。",
-    "url": "https://www.bestblogs.dev/article/5c79977a",
-    "source": "BestBlogs / Tw93",
-    "topic": "人工智能",
-    "date": "2026-03-12",
     "badge": "agent"
   }
 ]
