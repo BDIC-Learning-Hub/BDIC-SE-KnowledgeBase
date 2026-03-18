@@ -18,6 +18,15 @@
     "badge": "agent"
   },
   {
+    "title": "构建 Claude Code 的经验：我们如何使用 Skills",
+    "summary": "Anthropic 工程师分享了构建 Claude Code Skills 的实战经验，系统性地提出了九大技能类别及编写、分发和衡量 AI 智能体技能的核心技巧。",
+    "url": "https://www.bestblogs.dev/article/2614f825",
+    "source": "BestBlogs / Thariq",
+    "topic": "人工智能",
+    "date": "2026-03-17",
+    "badge": "model"
+  },
+  {
     "title": "软件为何越做越乱？万字长文讲透软件的“复杂性”",
     "summary": "本文通过电商案例深入剖析软件复杂性的成因与表现，对比战术与战略编程，并系统性地提出了通过深模块设计、信息隐藏及合理抽象来管理复杂性的实战方法论。",
     "url": "https://www.bestblogs.dev/article/a389a9b9",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-15",
     "badge": "model"
-  },
-  {
-    "title": "提示词工程、上下文工程都过时了，现在是 Harness Engineering 的时代",
-    "summary": "本文介绍了 Harness Engineering（线束工程）这一 AI 开发新范式，强调工程师的核心工作正从编写代码转向为 AI Agent 设计运行环境与反馈回路。",
-    "url": "https://www.bestblogs.dev/article/7117df66",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-03-13",
-    "badge": "agent"
   }
 ]
