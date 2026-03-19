@@ -1,5 +1,23 @@
 [
   {
+    "title": "深入理解 OpenClaw 技术架构与实现原理（上）",
+    "summary": "本文深度解析了个人 AI 助手 OpenClaw 的技术架构，重点介绍了其本地优先、以 Gateway 为核心的分布式设计，以及推理循环、定时任务和工具系统的实现原理。",
+    "url": "https://www.bestblogs.dev/article/278b3853",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-19",
+    "badge": "tooling"
+  },
+  {
+    "title": "MiniMax M2.7: 开启模型的自我进化",
+    "summary": "MiniMax 发布 M2.7 模型，主打“模型自我进化”能力，在软件工程、专业办公及多智能体协作领域实现显著突破。",
+    "url": "https://www.bestblogs.dev/article/1d6d969d",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-03-18",
+    "badge": "model"
+  },
+  {
     "title": "兄弟！你真的懂 Skill 吗？",
     "summary": "本文深度拆解了 Anthropic 的 Skill 框架源码与 16 个官方技能，揭示了其通过“Markdown 注入 + 沙箱执行”取代传统 Function Calling 的核心机制。",
     "url": "https://www.bestblogs.dev/article/a39df55f",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-16",
     "badge": "featured"
-  },
-  {
-    "title": "智能体工程的 8 个等级",
-    "summary": "本文系统性地提出了智能体工程的八个进阶等级，阐述了从简单的代码补全到自主多智能体协作的演进路径，并强调了上下文、复合工程与反馈环在提升 AI 编程效率中的核心作用。",
-    "url": "https://www.bestblogs.dev/article/bb49c81d",
-    "source": "BestBlogs / Bassim Eledath",
-    "topic": "人工智能",
-    "date": "2026-03-16",
-    "badge": "tooling"
-  },
-  {
-    "title": "我复刻了 Claude 刚发布的生成式 UI 交互！",
-    "summary": "文章详细复盘了作者复刻 Claude 生成式 UI 的工程路径，重点展示流式渲染、组件协议与交互体验打磨。",
-    "url": "https://www.bestblogs.dev/article/15435105",
-    "source": "BestBlogs / 歸藏的AI工具箱",
-    "topic": "人工智能",
-    "date": "2026-03-15",
-    "badge": "model"
   }
 ]
