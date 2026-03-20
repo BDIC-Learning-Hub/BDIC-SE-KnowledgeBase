@@ -1,5 +1,14 @@
 [
   {
+    "title": "科技爱好者周刊（第 389 期）：未来如何招聘程序员",
+    "summary": "本期周刊探讨了 AI 时代程序员招聘模式的范式转移，并汇总了红外通信、机柜水培及 Meilisearch 等多项前沿技术动态与开发者工具。",
+    "url": "https://www.bestblogs.dev/article/f23e5fb2",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "商业科技",
+    "date": "2026-03-19",
+    "badge": "tooling"
+  },
+  {
     "title": "深入理解 OpenClaw 技术架构与实现原理（上）",
     "summary": "本文深度解析了个人 AI 助手 OpenClaw 的技术架构，重点介绍了其本地优先、以 Gateway 为核心的分布式设计，以及推理循环、定时任务和工具系统的实现原理。",
     "url": "https://www.bestblogs.dev/article/278b3853",
@@ -7,6 +16,15 @@
     "topic": "人工智能",
     "date": "2026-03-19",
     "badge": "tooling"
+  },
+  {
+    "title": "Xiaomi MiMo-V2-Pro 发布：面向 Agent 时代的旗舰基座",
+    "summary": "小米发布旗舰基座模型 MiMo-V2-Pro，主打 Agent 场景，具备 1T 参数、1M 上下文及高性价比 API，并深度集成于小米及金山办公生态。",
+    "url": "https://www.bestblogs.dev/article/7ce5791b",
+    "source": "BestBlogs / 小米技术",
+    "topic": "人工智能",
+    "date": "2026-03-18",
+    "badge": "agent"
   },
   {
     "title": "MiniMax M2.7: 开启模型的自我进化",
@@ -52,23 +70,5 @@
     "topic": "软件编程",
     "date": "2026-03-16",
     "badge": "tooling"
-  },
-  {
-    "title": "独家对话谢赛宁：逃出硅谷！",
-    "summary": "深度对话 AMI Labs 联合创始人谢赛宁，探讨其“反硅谷、反 LLM”的世界模型创业之路，以及对 AI 范式转移与表征学习的深刻洞察。",
-    "url": "https://www.bestblogs.dev/article/1eb42def",
-    "source": "BestBlogs / 张小珺",
-    "topic": "人工智能",
-    "date": "2026-03-16",
-    "badge": "model"
-  },
-  {
-    "title": "如何定义“人味儿”？——HeartBench 评测体系建设实践",
-    "summary": "文章系统复盘 HeartBench 从 0 到 1 的构建过程，提出了一套可迁移的 AI 拟人化评测方法论与人机协作流程。",
-    "url": "https://www.bestblogs.dev/article/0558e7f7",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-03-16",
-    "badge": "featured"
   }
 ]
