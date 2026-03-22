@@ -1,5 +1,14 @@
 [
   {
+    "title": "你不知道的 Agent：原理、架构与工程实践 - Tw93",
+    "summary": "本文系统梳理了 Agent 架构的核心工程实践，涵盖 Agent Loop、Harness、上下文工程、工具设计、记忆系统、多 Agent 组织、评测与追踪等关键技术维度，并结合 OpenClaw 开源实现展示设计原则的落地方式。",
+    "url": "https://www.bestblogs.dev/article/58852dc5",
+    "source": "BestBlogs / Tw93",
+    "topic": "人工智能",
+    "date": "2026-03-21",
+    "badge": "agent"
+  },
+  {
     "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
     "summary": "快手通过自研“柯南 AI”平台，利用 Agent 架构深度集成底层排障工具，实现了亿级 DAU 规模下大前端性能稳定性的智能诊断与应急止血。",
     "url": "https://www.bestblogs.dev/article/51507f72",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-18",
     "badge": "agent"
-  },
-  {
-    "title": "MiniMax M2.7: 开启模型的自我进化",
-    "summary": "MiniMax 发布 M2.7 模型，主打“模型自我进化”能力，在软件工程、专业办公及多智能体协作领域实现显著突破。",
-    "url": "https://www.bestblogs.dev/article/1d6d969d",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-03-18",
-    "badge": "model"
   }
 ]
