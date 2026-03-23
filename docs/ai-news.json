@@ -1,5 +1,14 @@
 [
   {
+    "title": "当龙虾代替我们去工作和消费，传统经济学法则还会成立吗？",
+    "summary": "本文深度探讨了 AI 智能体（Agent）如何通过消除交易成本、转化管理成本为算力成本以及重构消费决策，从底层逻辑上瓦解科斯定理、索洛悖论和价格机制等传统经济学基石。",
+    "url": "https://www.bestblogs.dev/article/03ea930e",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "商业科技",
+    "date": "2026-03-22",
+    "badge": "agent"
+  },
+  {
     "title": "你不知道的 Agent：原理、架构与工程实践 - Tw93",
     "summary": "本文系统梳理了 Agent 架构的核心工程实践，涵盖 Agent Loop、Harness、上下文工程、工具设计、记忆系统、多 Agent 组织、评测与追踪等关键技术维度，并结合 OpenClaw 开源实现展示设计原则的落地方式。",
     "url": "https://www.bestblogs.dev/article/58852dc5",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-19",
     "badge": "tooling"
-  },
-  {
-    "title": "Xiaomi MiMo-V2-Pro 发布：面向 Agent 时代的旗舰基座",
-    "summary": "小米发布旗舰基座模型 MiMo-V2-Pro，主打 Agent 场景，具备 1T 参数、1M 上下文及高性价比 API，并深度集成于小米及金山办公生态。",
-    "url": "https://www.bestblogs.dev/article/7ce5791b",
-    "source": "BestBlogs / 小米技术",
-    "topic": "人工智能",
-    "date": "2026-03-18",
-    "badge": "agent"
   }
 ]
