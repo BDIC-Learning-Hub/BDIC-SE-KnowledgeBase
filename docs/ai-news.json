@@ -1,5 +1,14 @@
 [
   {
+    "title": "业务逻辑的“坍塌”：当应用层只剩下胶水代码，在 AI Agent 时代，我们该构建什么",
+    "summary": "本文深度探讨了 AI Agent 时代下软件架构的范式转移，分析了 LLM 不确定性的物理根源，提出 AI 开发本质上是围绕 Context 的状态管理，并预判了传统业务逻辑向模型内部「坍塌」的趋势。",
+    "url": "https://www.bestblogs.dev/article/ad7e6094",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-03-24",
+    "badge": "agent"
+  },
+  {
     "title": "拒绝重复造轮子！抽象 80% 工作场景，打造可复用的\"AI 助手工厂”",
     "summary": "本文介绍了阿里云智空间团队如何通过场景抽象与 Prompt 插拔架构，将 AI 助手开发从「作坊式」转向「工厂化」，实现业务方通过配置模板快速构建 AI Agent。",
     "url": "https://www.bestblogs.dev/article/1b7847dd",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-20",
     "badge": "model"
-  },
-  {
-    "title": "科技爱好者周刊（第 389 期）：未来如何招聘程序员",
-    "summary": "本期周刊探讨了 AI 时代程序员招聘模式的范式转移，并汇总了红外通信、机柜水培及 Meilisearch 等多项前沿技术动态与开发者工具。",
-    "url": "https://www.bestblogs.dev/article/f23e5fb2",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "商业科技",
-    "date": "2026-03-19",
-    "badge": "tooling"
   }
 ]
