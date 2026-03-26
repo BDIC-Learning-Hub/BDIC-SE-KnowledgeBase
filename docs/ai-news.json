@@ -1,5 +1,32 @@
 [
   {
+    "title": "拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫 AI Coding 实践系列】",
+    "summary": "本文介绍了天猫团队构建的一套三层 AI Coding 度量体系（质量、链路、结果），旨在将主观的「感觉有效」转化为可诊断、可优化的数据闭环。",
+    "url": "https://www.bestblogs.dev/article/0ef78861",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-03-25",
+    "badge": "tooling"
+  },
+  {
+    "title": "Anthropic 揭秘 Agent 长线开发架构：引入 GAN 机制，Claude 自主撸出全栈应用",
+    "summary": "本文深入解析了 Anthropic 公开的「Harness」多智能体架构，通过引入生成器与评估器的对抗机制，实现了 AI Agent 在长线复杂任务中的自主构建与迭代优化。",
+    "url": "https://www.bestblogs.dev/article/be3637aa",
+    "source": "BestBlogs / AI寒武纪",
+    "topic": "人工智能",
+    "date": "2026-03-25",
+    "badge": "agent"
+  },
+  {
+    "title": "MiniMax Office Skills：开源一套生产级办公文档引擎",
+    "summary": "MiniMax 开源了其生产级 Office Skills 引擎，通过深度优化 Word/Excel/PPT/PDF 的底层处理链路，解决 AI 生成文档在格式、公式和复杂结构上的「不可交付」痛点。",
+    "url": "https://www.bestblogs.dev/article/e359ba38",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-03-25",
+    "badge": "featured"
+  },
+  {
     "title": "业务逻辑的“坍塌”：当应用层只剩下胶水代码，在 AI Agent 时代，我们该构建什么",
     "summary": "本文深度探讨了 AI Agent 时代下软件架构的范式转移，分析了 LLM 不确定性的物理根源，提出 AI 开发本质上是围绕 Context 的状态管理，并预判了传统业务逻辑向模型内部「坍塌」的趋势。",
     "url": "https://www.bestblogs.dev/article/ad7e6094",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-20",
     "badge": "agent"
-  },
-  {
-    "title": "探索 GPU 加速向量检索：NVDIA Cagra 在微信大规模推荐系统中的应用实践",
-    "summary": "本文详细介绍了微信团队如何利用 NVIDIA Cagra GPU 图索引算法，通过三层分层存储架构与 CPU/GPU 协同优化，在超大规模推荐系统中实现向量检索性能的量级提升。",
-    "url": "https://www.bestblogs.dev/article/19553f10",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-03-20",
-    "badge": "tooling"
-  },
-  {
-    "title": "分享 10 个你可能不知道的 Claude Code 隐藏命令。",
-    "summary": "本文详细介绍了 Anthropic 官方命令行工具 Claude Code 的 10 个实用隐藏命令与快捷键，旨在提升开发者的 AI 辅助编程效率与交互体验。",
-    "url": "https://www.bestblogs.dev/article/485c8409",
-    "source": "BestBlogs / 数字生命卡兹克",
-    "topic": "人工智能",
-    "date": "2026-03-20",
-    "badge": "model"
-  },
-  {
-    "title": "别让格式杀死思想：Logics-Parsing V2 定义文档解析新边界",
-    "summary": "阿里巴巴发布 Logics-Parsing V2，这是一款基于 Qwen3-VL 的端到端多模态文档解析模型，实现了对复杂版面、公式、乐谱及思维导图等内容的 SOTA 级结构化还原。",
-    "url": "https://www.bestblogs.dev/article/f4dfb251",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-03-20",
-    "badge": "model"
   }
 ]
