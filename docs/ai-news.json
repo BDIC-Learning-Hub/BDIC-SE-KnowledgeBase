@@ -1,5 +1,32 @@
 [
   {
+    "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
+    "summary": "阮一峰科技周刊第 390 期探讨了大模型对训练语料的依赖性，并汇总了微软 MAI-Image-2、微信龙虾接口等最新科技动态与开发者工具。",
+    "url": "https://www.bestblogs.dev/article/2ee7fa4a",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "媒体资讯",
+    "date": "2026-03-26",
+    "badge": "model"
+  },
+  {
+    "title": "Harness is the New Dataset：模型智能提升的下一个关键方向",
+    "summary": "本文深入探讨了 AI Agent 时代的工程范式演进，指出随着模型能力成熟，构建围绕模型的系统工程（Harness Engineering）已成为决定 Agent 上限的关键，并强调了 Harness 作为数据飞轮的核心价值。",
+    "url": "https://www.bestblogs.dev/article/4895edc3",
+    "source": "BestBlogs / 海外独角兽",
+    "topic": "人工智能",
+    "date": "2026-03-26",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 越强，企业越迷茫：顶尖 CIO 们的十大真实之问",
+    "summary": "本文通过阿里云 CIO 与 40 余家头部企业 CXO 的深度对话，揭示了企业级 AI 落地中的十大核心困境，涵盖技术边界、知识工程、组织变革及研发效能等关键维度。",
+    "url": "https://www.bestblogs.dev/article/12e5b0cb",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-03-26",
+    "badge": "featured"
+  },
+  {
     "title": "拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫 AI Coding 实践系列】",
     "summary": "本文介绍了天猫团队构建的一套三层 AI Coding 度量体系（质量、链路、结果），旨在将主观的「感觉有效」转化为可诊断、可优化的数据闭环。",
     "url": "https://www.bestblogs.dev/article/0ef78861",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-03-23",
-    "badge": "agent"
-  },
-  {
-    "title": "当龙虾代替我们去工作和消费，传统经济学法则还会成立吗？",
-    "summary": "本文深度探讨了 AI 智能体（Agent）如何通过消除交易成本、转化管理成本为算力成本以及重构消费决策，从底层逻辑上瓦解科斯定理、索洛悖论和价格机制等传统经济学基石。",
-    "url": "https://www.bestblogs.dev/article/03ea930e",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "商业科技",
-    "date": "2026-03-22",
-    "badge": "agent"
-  },
-  {
-    "title": "你不知道的 Agent：原理、架构与工程实践 - Tw93",
-    "summary": "本文系统梳理了 Agent 架构的核心工程实践，涵盖 Agent Loop、Harness、上下文工程、工具设计、记忆系统、多 Agent 组织、评测与追踪等关键技术维度，并结合 OpenClaw 开源实现展示设计原则的落地方式。",
-    "url": "https://www.bestblogs.dev/article/58852dc5",
-    "source": "BestBlogs / Tw93",
-    "topic": "人工智能",
-    "date": "2026-03-21",
-    "badge": "agent"
-  },
-  {
-    "title": "AI x 大前端性能稳定性：快手亿级 DAU 下的智能诊断实践",
-    "summary": "快手通过自研“柯南 AI”平台，利用 Agent 架构深度集成底层排障工具，实现了亿级 DAU 规模下大前端性能稳定性的智能诊断与应急止血。",
-    "url": "https://www.bestblogs.dev/article/51507f72",
-    "source": "BestBlogs / 快手技术",
-    "topic": "人工智能",
-    "date": "2026-03-20",
     "badge": "agent"
   }
 ]
