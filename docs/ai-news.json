@@ -1,5 +1,32 @@
 [
   {
+    "title": "97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫 AI Coding 实践系列】",
+    "summary": "天猫团队分享了「胶水编程」AI 辅助开发方法论，通过构建任务规格、开发规范、代码模式和领域知识四层物料体系，将业务代码采纳率提升至 90% 以上。",
+    "url": "https://www.bestblogs.dev/article/1b54037f",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-03-27",
+    "badge": "tooling"
+  },
+  {
+    "title": "当数据库的主要用户不再是人类：我们在 AI Agent 场景下的架构实践与思考",
+    "summary": "本文探讨了 AI Agent 成为数据库主要用户后带来的架构挑战，分享了 TiDB 在成本控制、长上下文存储及架构简化方面的实战经验，并提出了面向 Agent 的记忆层基础设施 mem9。",
+    "url": "https://www.bestblogs.dev/article/bf736fa1",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-03-27",
+    "badge": "agent"
+  },
+  {
+    "title": "大模型的下半场是什么？林俊旸：从 Reasoning Thinking 到 Agentic Thinking",
+    "summary": "本文深入探讨了大模型演进的范式转移，指出下半场的核心将从“推理式思考”转向“智能体式思考”，强调模型需具备在真实环境中通过行动、工具调用和闭环反馈来解决问题的能力。",
+    "url": "https://www.bestblogs.dev/article/9d5136cf",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-03-27",
+    "badge": "agent"
+  },
+  {
     "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
     "summary": "阮一峰科技周刊第 390 期探讨了大模型对训练语料的依赖性，并汇总了微软 MAI-Image-2、微信龙虾接口等最新科技动态与开发者工具。",
     "url": "https://www.bestblogs.dev/article/2ee7fa4a",
@@ -27,6 +54,15 @@
     "badge": "featured"
   },
   {
+    "title": "谷歌 TurboQuant 论文：KV cache 压缩 6 倍且精度零损失",
+    "summary": "谷歌研究院发布 TurboQuant 算法，通过极坐标量化等技术实现 KV cache 至少 6 倍的无损压缩，显著降低大模型推理内存需求并提升速度。",
+    "url": "https://www.bestblogs.dev/article/50669f01",
+    "source": "BestBlogs / 梦晨",
+    "topic": "人工智能",
+    "date": "2026-03-26",
+    "badge": "model"
+  },
+  {
     "title": "拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫 AI Coding 实践系列】",
     "summary": "本文介绍了天猫团队构建的一套三层 AI Coding 度量体系（质量、链路、结果），旨在将主观的「感觉有效」转化为可诊断、可优化的数据闭环。",
     "url": "https://www.bestblogs.dev/article/0ef78861",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-25",
     "badge": "tooling"
-  },
-  {
-    "title": "Anthropic 揭秘 Agent 长线开发架构：引入 GAN 机制，Claude 自主撸出全栈应用",
-    "summary": "本文深入解析了 Anthropic 公开的「Harness」多智能体架构，通过引入生成器与评估器的对抗机制，实现了 AI Agent 在长线复杂任务中的自主构建与迭代优化。",
-    "url": "https://www.bestblogs.dev/article/be3637aa",
-    "source": "BestBlogs / AI寒武纪",
-    "topic": "人工智能",
-    "date": "2026-03-25",
-    "badge": "agent"
-  },
-  {
-    "title": "MiniMax Office Skills：开源一套生产级办公文档引擎",
-    "summary": "MiniMax 开源了其生产级 Office Skills 引擎，通过深度优化 Word/Excel/PPT/PDF 的底层处理链路，解决 AI 生成文档在格式、公式和复杂结构上的「不可交付」痛点。",
-    "url": "https://www.bestblogs.dev/article/e359ba38",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-03-25",
-    "badge": "featured"
-  },
-  {
-    "title": "业务逻辑的“坍塌”：当应用层只剩下胶水代码，在 AI Agent 时代，我们该构建什么",
-    "summary": "本文深度探讨了 AI Agent 时代下软件架构的范式转移，分析了 LLM 不确定性的物理根源，提出 AI 开发本质上是围绕 Context 的状态管理，并预判了传统业务逻辑向模型内部「坍塌」的趋势。",
-    "url": "https://www.bestblogs.dev/article/ad7e6094",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-03-24",
-    "badge": "agent"
-  },
-  {
-    "title": "拒绝重复造轮子！抽象 80% 工作场景，打造可复用的\"AI 助手工厂”",
-    "summary": "本文介绍了阿里云智空间团队如何通过场景抽象与 Prompt 插拔架构，将 AI 助手开发从「作坊式」转向「工厂化」，实现业务方通过配置模板快速构建 AI Agent。",
-    "url": "https://www.bestblogs.dev/article/1b7847dd",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-03-23",
-    "badge": "agent"
   }
 ]
