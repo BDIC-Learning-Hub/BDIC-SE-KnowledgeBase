@@ -18,6 +18,15 @@
     "badge": "agent"
   },
   {
+    "title": "深入解剖 .claude/ 文件夹：Claude Code 的隐藏控制中枢",
+    "summary": "本文深度拆解了 Claude Code 的核心配置目录 .claude/，详细介绍了如何通过指令文件、自定义命令、技能和代理来精准调教 AI 编程助手。",
+    "url": "https://www.bestblogs.dev/article/aee9f20b",
+    "source": "BestBlogs / 前端早读课",
+    "topic": "人工智能",
+    "date": "2026-03-27",
+    "badge": "model"
+  },
+  {
     "title": "大模型的下半场是什么？林俊旸：从 Reasoning Thinking 到 Agentic Thinking",
     "summary": "本文深入探讨了大模型演进的范式转移，指出下半场的核心将从“推理式思考”转向“智能体式思考”，强调模型需具备在真实环境中通过行动、工具调用和闭环反馈来解决问题的能力。",
     "url": "https://www.bestblogs.dev/article/9d5136cf",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-03-26",
     "badge": "model"
-  },
-  {
-    "title": "拒绝“感觉有效”：用数据证明 AI Coding 的真实团队价值【天猫 AI Coding 实践系列】",
-    "summary": "本文介绍了天猫团队构建的一套三层 AI Coding 度量体系（质量、链路、结果），旨在将主观的「感觉有效」转化为可诊断、可优化的数据闭环。",
-    "url": "https://www.bestblogs.dev/article/0ef78861",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-03-25",
-    "badge": "tooling"
   }
 ]
