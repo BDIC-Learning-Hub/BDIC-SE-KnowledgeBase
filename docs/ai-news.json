@@ -1,5 +1,32 @@
 [
   {
+    "title": "什么时候 Agent 能自己写 skill？",
+    "summary": "本文深度综述了 AI Agent 技能（Skill）从手动打磨向自主发现、封装组合及持续进化的演进历程，并系统梳理了 2025-2026 年间学术界与工业界在 Agent 技能生命周期管理上的核心突破。",
+    "url": "https://www.bestblogs.dev/article/401cc08f",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-03-30",
+    "badge": "agent"
+  },
+  {
+    "title": "认知重建之后，步入 Agentic Engineering 的工程革命",
+    "summary": "本文深度复盘了腾讯工程师从 Vibe Coding 转向 Agentic Engineering 的实践历程，提出了一套以上下文管理为核心、基于工具化设计的 AI 辅助工程体系。",
+    "url": "https://www.bestblogs.dev/article/66d6464a",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-03-30",
+    "badge": "agent"
+  },
+  {
+    "title": "从 Vibe Coding 到范式编程：用 Spec 打造淘系交易的 AI 领域专家",
+    "summary": "本文探讨了从「Vibe Coding」向「范式编程」演进的技术路径，重点介绍了淘系交易团队如何通过结构化规范（Spec）驱动 AI 生成符合企业级标准的可靠代码。",
+    "url": "https://www.bestblogs.dev/article/0a76d16b",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-03-30",
+    "badge": "tooling"
+  },
+  {
     "title": "97.9%采纳率，胶水编程：业务需求出码最佳实践【天猫 AI Coding 实践系列】",
     "summary": "天猫团队分享了「胶水编程」AI 辅助开发方法论，通过构建任务规格、开发规范、代码模式和领域知识四层物料体系，将业务代码采纳率提升至 90% 以上。",
     "url": "https://www.bestblogs.dev/article/1b54037f",
@@ -41,33 +68,6 @@
     "url": "https://www.bestblogs.dev/article/2ee7fa4a",
     "source": "BestBlogs / 阮一峰的网络日志",
     "topic": "媒体资讯",
-    "date": "2026-03-26",
-    "badge": "model"
-  },
-  {
-    "title": "Harness is the New Dataset：模型智能提升的下一个关键方向",
-    "summary": "本文深入探讨了 AI Agent 时代的工程范式演进，指出随着模型能力成熟，构建围绕模型的系统工程（Harness Engineering）已成为决定 Agent 上限的关键，并强调了 Harness 作为数据飞轮的核心价值。",
-    "url": "https://www.bestblogs.dev/article/4895edc3",
-    "source": "BestBlogs / 海外独角兽",
-    "topic": "人工智能",
-    "date": "2026-03-26",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 越强，企业越迷茫：顶尖 CIO 们的十大真实之问",
-    "summary": "本文通过阿里云 CIO 与 40 余家头部企业 CXO 的深度对话，揭示了企业级 AI 落地中的十大核心困境，涵盖技术边界、知识工程、组织变革及研发效能等关键维度。",
-    "url": "https://www.bestblogs.dev/article/12e5b0cb",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-03-26",
-    "badge": "featured"
-  },
-  {
-    "title": "谷歌 TurboQuant 论文：KV cache 压缩 6 倍且精度零损失",
-    "summary": "谷歌研究院发布 TurboQuant 算法，通过极坐标量化等技术实现 KV cache 至少 6 倍的无损压缩，显著降低大模型推理内存需求并提升速度。",
-    "url": "https://www.bestblogs.dev/article/50669f01",
-    "source": "BestBlogs / 梦晨",
-    "topic": "人工智能",
     "date": "2026-03-26",
     "badge": "model"
   }
