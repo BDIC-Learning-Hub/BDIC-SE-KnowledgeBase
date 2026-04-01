@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kimi 杨植麟「2026 中关村论坛」演讲全文（附视频）",
+    "summary": "杨植麟在 2026 中关村论坛上分享了月之暗面在 Scaling Law 下的效率提升路径，重点介绍了 Kimi K2.5 的 Agent 集群能力、注意力残差架构以及 AI 主导研发的未来趋势。",
+    "url": "https://www.bestblogs.dev/article/61ecfe69",
+    "source": "BestBlogs / 月之暗面 Kimi",
+    "topic": "人工智能",
+    "date": "2026-03-31",
+    "badge": "agent"
+  },
+  {
     "title": "什么时候 Agent 能自己写 skill？",
     "summary": "本文深度综述了 AI Agent 技能（Skill）从手动打磨向自主发现、封装组合及持续进化的演进历程，并系统梳理了 2025-2026 年间学术界与工业界在 Agent 技能生命周期管理上的核心突破。",
     "url": "https://www.bestblogs.dev/article/401cc08f",
@@ -7,6 +16,15 @@
     "topic": "人工智能",
     "date": "2026-03-30",
     "badge": "agent"
+  },
+  {
+    "title": "215 项 SOTA + 自然涌现 Vibe Coding！Qwen3.5-Omni 发布",
+    "summary": "通义实验室发布 Qwen3.5-Omni 原生全模态大模型，在 215 项基准测试中取得 SOTA，支持音视频实时交互、音色克隆及自然涌现的 Vibe Coding 能力。",
+    "url": "https://www.bestblogs.dev/article/7bae548b",
+    "source": "BestBlogs / 通义大模型",
+    "topic": "人工智能",
+    "date": "2026-03-30",
+    "badge": "model"
   },
   {
     "title": "认知重建之后，步入 Agentic Engineering 的工程革命",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 前端早读课",
     "topic": "人工智能",
     "date": "2026-03-27",
-    "badge": "model"
-  },
-  {
-    "title": "大模型的下半场是什么？林俊旸：从 Reasoning Thinking 到 Agentic Thinking",
-    "summary": "本文深入探讨了大模型演进的范式转移，指出下半场的核心将从“推理式思考”转向“智能体式思考”，强调模型需具备在真实环境中通过行动、工具调用和闭环反馈来解决问题的能力。",
-    "url": "https://www.bestblogs.dev/article/9d5136cf",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-03-27",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 390 期）：没有语料，大模型就是智障",
-    "summary": "阮一峰科技周刊第 390 期探讨了大模型对训练语料的依赖性，并汇总了微软 MAI-Image-2、微信龙虾接口等最新科技动态与开发者工具。",
-    "url": "https://www.bestblogs.dev/article/2ee7fa4a",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "媒体资讯",
-    "date": "2026-03-26",
     "badge": "model"
   }
 ]
