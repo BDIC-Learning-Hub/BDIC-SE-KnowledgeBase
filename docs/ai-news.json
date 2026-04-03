@@ -1,74 +1,74 @@
 [
   {
-    "title": "Wan2.7-Image：人更真，字更稳，色更准",
-    "summary": "通义实验室发布 Wan2.7-Image 图像生成模型，在人物写实、文字渲染稳定性和色彩精准度上实现显著提升。",
-    "url": "https://www.bestblogs.dev/article/96033a81",
-    "source": "BestBlogs / 通义大模型",
-    "topic": "人工智能",
-    "date": "2026-04-01",
-    "badge": "model"
+    "title": "携程 JDK 25 升级踩坑记：一场由 G1GC “偷走”对象引发的数据静默损坏",
+    "summary": "携程技术团队分享了在升级 JDK 25 过程中，通过 AI 辅助排查并定位到 G1GC 内部 Bug 导致数据静默损坏的完整过程与根因分析。",
+    "url": "https://www.bestblogs.dev/article/babe59ea",
+    "source": "BestBlogs / 携程技术",
+    "topic": "软件编程",
+    "date": "2026-04-02",
+    "badge": "tooling"
   },
   {
-    "title": "一文讲透如何构建 Harness——六大组件全解析",
-    "summary": "本文提出「Agent = Model + Harness」公式，深度解析了构建 AI Agent 基础设施的六大核心组件及其在克服模型原生缺陷中的关键作用。",
-    "url": "https://www.bestblogs.dev/article/8708ae87",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-01",
-    "badge": "agent"
-  },
-  {
-    "title": "Agent Skills：打通可复用专业领域知识的最后一公里",
-    "summary": "本文深度解析了 Anthropic 推出的 Agent Skills 标准，探讨其如何通过结构化、可移植的能力包实现 AI 代理从「建议者」向「执行者」的范式转变。",
-    "url": "https://www.bestblogs.dev/article/74801e65",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-01",
-    "badge": "agent"
-  },
-  {
-    "title": "Kimi 杨植麟「2026 中关村论坛」演讲全文（附视频）",
-    "summary": "杨植麟在 2026 中关村论坛上分享了月之暗面在 Scaling Law 下的效率提升路径，重点介绍了 Kimi K2.5 的 Agent 集群能力、注意力残差架构以及 AI 主导研发的未来趋势。",
-    "url": "https://www.bestblogs.dev/article/61ecfe69",
-    "source": "BestBlogs / 月之暗面 Kimi",
-    "topic": "人工智能",
-    "date": "2026-03-31",
-    "badge": "agent"
-  },
-  {
-    "title": "Claude Code 架构深度拆解：最强 AI Coding Agent 的工程实现全貌",
-    "summary": "本文深度拆解了 Claude Code 的核心架构，揭秘其作为顶级 AI Coding Agent 在主循环设计、五层上下文压缩管道、三层权限防御及流式工具执行等方面的工程实现细节。",
-    "url": "https://www.bestblogs.dev/article/97b7a7a2",
-    "source": "BestBlogs / sunny_",
-    "topic": "人工智能",
-    "date": "2026-03-31",
-    "badge": "agent"
-  },
-  {
-    "title": "什么时候 Agent 能自己写 skill？",
-    "summary": "本文深度综述了 AI Agent 技能（Skill）从手动打磨向自主发现、封装组合及持续进化的演进历程，并系统梳理了 2025-2026 年间学术界与工业界在 Agent 技能生命周期管理上的核心突破。",
-    "url": "https://www.bestblogs.dev/article/401cc08f",
+    "title": "一文读懂 Harness Engineering：从 14 篇工程文章中，寻找那个让 AI 不再离经叛道的壳｜Hao 好聊趋势",
+    "summary": "本文深度解析了 AI Agent 领域核心技术「Harness Engineering」（约束工程），揭示了如何通过三层管理架构弥补模型短板，并提出了随模型能力演进的「补偿面迁移」逻辑。",
+    "url": "https://www.bestblogs.dev/article/5b7ab5d5",
     "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
-    "date": "2026-03-30",
+    "date": "2026-04-02",
     "badge": "agent"
   },
   {
-    "title": "215 项 SOTA + 自然涌现 Vibe Coding！Qwen3.5-Omni 发布",
-    "summary": "通义实验室发布 Qwen3.5-Omni 原生全模态大模型，在 215 项基准测试中取得 SOTA，支持音视频实时交互、音色克隆及自然涌现的 Vibe Coding 能力。",
-    "url": "https://www.bestblogs.dev/article/7bae548b",
+    "title": "Qwen3.6-Plus：编码智能体能力全面跃升！",
+    "summary": "通义实验室发布 Qwen3.6-Plus，重点强化了编码智能体（Coding Agent）的稳定执行力，支持 100 万上下文及深度多模态推理。",
+    "url": "https://www.bestblogs.dev/article/a3553eb1",
     "source": "BestBlogs / 通义大模型",
     "topic": "人工智能",
-    "date": "2026-03-30",
-    "badge": "model"
+    "date": "2026-04-02",
+    "badge": "agent"
   },
   {
-    "title": "认知重建之后，步入 Agentic Engineering 的工程革命",
-    "summary": "本文深度复盘了腾讯工程师从 Vibe Coding 转向 Agentic Engineering 的实践历程，提出了一套以上下文管理为核心、基于工具化设计的 AI 辅助工程体系。",
-    "url": "https://www.bestblogs.dev/article/66d6464a",
-    "source": "BestBlogs / 腾讯技术工程",
+    "title": "Claude Code 是怎么知道你在骂他的？这 12 条发现值得关注",
+    "summary": "本文通过分析泄露的 Claude Code 51 万行源码，揭示了 Anthropic 在电子宠物彩蛋、员工卧底模式、正则情绪检测及自主 Agent 运行时 KAIROS 等方面的 12 项深度工程细节。",
+    "url": "https://www.bestblogs.dev/article/a3adde8e",
+    "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
-    "date": "2026-03-30",
+    "date": "2026-04-02",
     "badge": "agent"
+  },
+  {
+    "title": "2026 年 AI 编码的“渐进式 Spec”实战指南",
+    "summary": "本文提出了一套针对 AI 编码环境的「渐进式 Spec」实战框架，通过结构化文档驱动 AI 协作，旨在平衡开发规范与执行效率。",
+    "url": "https://www.bestblogs.dev/article/fc9e3786",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-02",
+    "badge": "featured"
+  },
+  {
+    "title": "GLM-5V-Turbo 发布：多模态 Coding 基座模型",
+    "summary": "智谱发布 GLM-5V-Turbo 多模态 Coding 基座模型，支持原生视觉理解与代码生成，深度适配 Agent 场景并提供 200k 上下文窗口。",
+    "url": "https://www.bestblogs.dev/article/36cd75e9",
+    "source": "BestBlogs / 智谱",
+    "topic": "人工智能",
+    "date": "2026-04-02",
+    "badge": "agent"
+  },
+  {
+    "title": "Claude Code 源码逆向工程与系统性分析：Harness Engineering 完全指南",
+    "summary": "本文通过对 Claude Code 50 万行源码的深度逆向工程，系统性地剖析了 AI Agent 基础设施「Harness Engineering」的设计哲学、核心架构及工程实现细节。",
+    "url": "https://www.bestblogs.dev/article/1b005217",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-04-01",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 时代，教育何往？",
+    "summary": "本文深度探讨了 AI 时代教育底层逻辑的重构，指出教育重心应从标准化知识传递转向培养 AI 无法替代的问题定义、跨域整合及内驱力等核心素养。",
+    "url": "https://www.bestblogs.dev/article/e3d02fd1",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "个人成长",
+    "date": "2026-04-01",
+    "badge": "featured"
   }
 ]
