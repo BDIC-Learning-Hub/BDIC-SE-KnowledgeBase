@@ -1,5 +1,41 @@
 [
   {
+    "title": "淘宝跨端体验优化 AI 演进之路",
+    "summary": "本文介绍了手淘跨端团队如何通过孵化体验优化 Agent 等 5 款 AI 技术产品，构建覆盖研发全链路的 AI 自驱动优化体系，解决复杂业务语意下的性能治理难题。",
+    "url": "https://www.bestblogs.dev/article/07c3b941",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-04-03",
+    "badge": "agent"
+  },
+  {
+    "title": "让老手机刷抖音也流畅：我们做对了这三件事",
+    "summary": "字节跳动分享了针对 Android 老旧机型在内存（ART 堆扩容）、FD（突破 1024 限制）和线程（M:N 用户态线程）三个维度的深度底层优化实践。",
+    "url": "https://www.bestblogs.dev/article/5dc9934f",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "软件编程",
+    "date": "2026-04-03",
+    "badge": "tooling"
+  },
+  {
+    "title": "赛博斗蛐蛐：9 大模型决战三国志，天命在谁？",
+    "summary": "本文通过一场由 9 个旗舰大模型参与的「三国志」策略游戏对战，深度评测了各模型在复杂环境下的战略推理、外交博弈及资源管理能力，并分享了 AI 原生游戏的开发实践。",
+    "url": "https://www.bestblogs.dev/article/092337e9",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-03",
+    "badge": "model"
+  },
+  {
+    "title": "科技爱好者周刊（第 391 期）：AI 的贫富分化",
+    "summary": "阮一峰在本期周刊中探讨了 AI 可能导致的社会贫富分化，并汇总了包括大模型能力衡量新标准、AI 辅助编程工具及各类开源项目在内的前沿科技动态。",
+    "url": "https://www.bestblogs.dev/article/cc170ede",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "商业科技",
+    "date": "2026-04-03",
+    "badge": "model"
+  },
+  {
     "title": "携程 JDK 25 升级踩坑记：一场由 G1GC “偷走”对象引发的数据静默损坏",
     "summary": "携程技术团队分享了在升级 JDK 25 过程中，通过 AI 辅助排查并定位到 G1GC 内部 Bug 导致数据静默损坏的完整过程与根因分析。",
     "url": "https://www.bestblogs.dev/article/babe59ea",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-02",
     "badge": "agent"
-  },
-  {
-    "title": "2026 年 AI 编码的“渐进式 Spec”实战指南",
-    "summary": "本文提出了一套针对 AI 编码环境的「渐进式 Spec」实战框架，通过结构化文档驱动 AI 协作，旨在平衡开发规范与执行效率。",
-    "url": "https://www.bestblogs.dev/article/fc9e3786",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-02",
-    "badge": "featured"
-  },
-  {
-    "title": "GLM-5V-Turbo 发布：多模态 Coding 基座模型",
-    "summary": "智谱发布 GLM-5V-Turbo 多模态 Coding 基座模型，支持原生视觉理解与代码生成，深度适配 Agent 场景并提供 200k 上下文窗口。",
-    "url": "https://www.bestblogs.dev/article/36cd75e9",
-    "source": "BestBlogs / 智谱",
-    "topic": "人工智能",
-    "date": "2026-04-02",
-    "badge": "agent"
-  },
-  {
-    "title": "Claude Code 源码逆向工程与系统性分析：Harness Engineering 完全指南",
-    "summary": "本文通过对 Claude Code 50 万行源码的深度逆向工程，系统性地剖析了 AI Agent 基础设施「Harness Engineering」的设计哲学、核心架构及工程实现细节。",
-    "url": "https://www.bestblogs.dev/article/1b005217",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-04-01",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 时代，教育何往？",
-    "summary": "本文深度探讨了 AI 时代教育底层逻辑的重构，指出教育重心应从标准化知识传递转向培养 AI 无法替代的问题定义、跨域整合及内驱力等核心素养。",
-    "url": "https://www.bestblogs.dev/article/e3d02fd1",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "个人成长",
-    "date": "2026-04-01",
-    "badge": "featured"
   }
 ]
