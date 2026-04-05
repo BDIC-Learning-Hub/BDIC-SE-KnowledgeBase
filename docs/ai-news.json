@@ -1,5 +1,32 @@
 [
   {
+    "title": "深度解析：Claude Code 源码架构与 Harness Engineering 实践",
+    "summary": "本文通过对 Claude Code 逆向源码的深度分析，揭示了其基于 Harness Engineering 的 Agent 架构设计，重点探讨了状态持久化、工具调度及系统提示词控制面等核心机制。",
+    "url": "https://www.bestblogs.dev/article/8c5068ba",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-04-04",
+    "badge": "agent"
+  },
+  {
+    "title": "你不知道的大模型训练：原理、路径与新实践",
+    "summary": "本文系统梳理了 2026 年大模型训练的全链路架构，深入剖析了从预训练、数据工程、后训练到 Agent 训练与 Harness 优化的关键技术决策与工程实践。",
+    "url": "https://www.bestblogs.dev/article/f6da23d9",
+    "source": "BestBlogs / Tw93",
+    "topic": "人工智能",
+    "date": "2026-04-03",
+    "badge": "agent"
+  },
+  {
+    "title": "当整个团队开始 0 人工 Coding：一份万字 AI Native 研发实战手册",
+    "summary": "本文详述了腾讯团队从 AI 辅助编程转向 AI Native 研发模式的实战经验，通过 OpenSpec 规范与 CodeBuddy 工具链实现「0 人工 Coding」的研发闭环。",
+    "url": "https://www.bestblogs.dev/article/3be156a2",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-04-03",
+    "badge": "tooling"
+  },
+  {
     "title": "淘宝跨端体验优化 AI 演进之路",
     "summary": "本文介绍了手淘跨端团队如何通过孵化体验优化 Agent 等 5 款 AI 技术产品，构建覆盖研发全链路的 AI 自驱动优化体系，解决复杂业务语意下的性能治理难题。",
     "url": "https://www.bestblogs.dev/article/07c3b941",
@@ -43,32 +70,5 @@
     "topic": "软件编程",
     "date": "2026-04-02",
     "badge": "tooling"
-  },
-  {
-    "title": "一文读懂 Harness Engineering：从 14 篇工程文章中，寻找那个让 AI 不再离经叛道的壳｜Hao 好聊趋势",
-    "summary": "本文深度解析了 AI Agent 领域核心技术「Harness Engineering」（约束工程），揭示了如何通过三层管理架构弥补模型短板，并提出了随模型能力演进的「补偿面迁移」逻辑。",
-    "url": "https://www.bestblogs.dev/article/5b7ab5d5",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-04-02",
-    "badge": "agent"
-  },
-  {
-    "title": "Qwen3.6-Plus：编码智能体能力全面跃升！",
-    "summary": "通义实验室发布 Qwen3.6-Plus，重点强化了编码智能体（Coding Agent）的稳定执行力，支持 100 万上下文及深度多模态推理。",
-    "url": "https://www.bestblogs.dev/article/a3553eb1",
-    "source": "BestBlogs / 通义大模型",
-    "topic": "人工智能",
-    "date": "2026-04-02",
-    "badge": "agent"
-  },
-  {
-    "title": "Claude Code 是怎么知道你在骂他的？这 12 条发现值得关注",
-    "summary": "本文通过分析泄露的 Claude Code 51 万行源码，揭示了 Anthropic 在电子宠物彩蛋、员工卧底模式、正则情绪检测及自主 Agent 运行时 KAIROS 等方面的 12 项深度工程细节。",
-    "url": "https://www.bestblogs.dev/article/a3adde8e",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-02",
-    "badge": "agent"
   }
 ]
