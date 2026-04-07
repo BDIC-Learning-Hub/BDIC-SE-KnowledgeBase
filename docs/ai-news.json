@@ -1,5 +1,14 @@
 [
   {
+    "title": "从多智能体编排到 AI 自主决策：资损防控体系的架构演进",
+    "summary": "本文介绍了阿里资损防控体系从多智能体编排（V1）向单智能体自主决策（V2）的架构演进，通过长上下文、MCP 工具链和 Git 知识管理实现了准确率与召回率的翻倍提升。",
+    "url": "https://www.bestblogs.dev/article/94d408d4",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-04-06",
+    "badge": "tooling"
+  },
+  {
     "title": "深度解析：Claude Code 源码架构与 Harness Engineering 实践",
     "summary": "本文通过对 Claude Code 逆向源码的深度分析，揭示了其基于 Harness Engineering 的 Agent 架构设计，重点探讨了状态持久化、工具调度及系统提示词控制面等核心机制。",
     "url": "https://www.bestblogs.dev/article/8c5068ba",
@@ -61,14 +70,5 @@
     "topic": "商业科技",
     "date": "2026-04-03",
     "badge": "model"
-  },
-  {
-    "title": "携程 JDK 25 升级踩坑记：一场由 G1GC “偷走”对象引发的数据静默损坏",
-    "summary": "携程技术团队分享了在升级 JDK 25 过程中，通过 AI 辅助排查并定位到 G1GC 内部 Bug 导致数据静默损坏的完整过程与根因分析。",
-    "url": "https://www.bestblogs.dev/article/babe59ea",
-    "source": "BestBlogs / 携程技术",
-    "topic": "软件编程",
-    "date": "2026-04-02",
-    "badge": "tooling"
   }
 ]
