@@ -1,5 +1,23 @@
 [
   {
+    "title": "Agentic 能力从哪里来？拆解基座大模型 GLM-5 /MiniMax M2/Kimi K2.5 的训练过程",
+    "summary": "本文深度拆解了以 GLM-5 为代表的现代 Agentic 大模型训练全链路，详细阐述了从基座预训练、多阶段后训练（RL）到 Agentic 数据合成的完整方法论。",
+    "url": "https://www.bestblogs.dev/article/caaf9172",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-04-07",
+    "badge": "agent"
+  },
+  {
+    "title": "Memory 架构与思考：从存储组件到 Agent 记忆操作系统",
+    "summary": "本文系统性地构建了 AI Agent 记忆系统的架构蓝图，提出由原始账本、派生视图和控制策略组成的 System 2 架构，旨在实现可审计、高可用的长程个性化智能。",
+    "url": "https://www.bestblogs.dev/article/0c853462",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-07",
+    "badge": "agent"
+  },
+  {
     "title": "从多智能体编排到 AI 自主决策：资损防控体系的架构演进",
     "summary": "本文介绍了阿里资损防控体系从多智能体编排（V1）向单智能体自主决策（V2）的架构演进，通过长上下文、MCP 工具链和 Git 知识管理实现了准确率与召回率的翻倍提升。",
     "url": "https://www.bestblogs.dev/article/94d408d4",
@@ -7,6 +25,15 @@
     "topic": "人工智能",
     "date": "2026-04-06",
     "badge": "tooling"
+  },
+  {
+    "title": "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点",
+    "summary": "本文深度解析了 OpenAI Codex 团队的「海盗船」运作模式，揭示了其极简规格文档、AI 驱动的开发流以及在 AGI 时代产品经理角色的根本性转变。",
+    "url": "https://www.bestblogs.dev/article/8bb002ea",
+    "source": "BestBlogs / 宝玉",
+    "topic": "人工智能",
+    "date": "2026-04-06",
+    "badge": "featured"
   },
   {
     "title": "深度解析：Claude Code 源码架构与 Harness Engineering 实践",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-03",
     "badge": "agent"
-  },
-  {
-    "title": "让老手机刷抖音也流畅：我们做对了这三件事",
-    "summary": "字节跳动分享了针对 Android 老旧机型在内存（ART 堆扩容）、FD（突破 1024 限制）和线程（M:N 用户态线程）三个维度的深度底层优化实践。",
-    "url": "https://www.bestblogs.dev/article/5dc9934f",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "软件编程",
-    "date": "2026-04-03",
-    "badge": "tooling"
-  },
-  {
-    "title": "赛博斗蛐蛐：9 大模型决战三国志，天命在谁？",
-    "summary": "本文通过一场由 9 个旗舰大模型参与的「三国志」策略游戏对战，深度评测了各模型在复杂环境下的战略推理、外交博弈及资源管理能力，并分享了 AI 原生游戏的开发实践。",
-    "url": "https://www.bestblogs.dev/article/092337e9",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-03",
-    "badge": "model"
-  },
-  {
-    "title": "科技爱好者周刊（第 391 期）：AI 的贫富分化",
-    "summary": "阮一峰在本期周刊中探讨了 AI 可能导致的社会贫富分化，并汇总了包括大模型能力衡量新标准、AI 辅助编程工具及各类开源项目在内的前沿科技动态。",
-    "url": "https://www.bestblogs.dev/article/cc170ede",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "商业科技",
-    "date": "2026-04-03",
-    "badge": "model"
   }
 ]
