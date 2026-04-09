@@ -1,5 +1,32 @@
 [
   {
+    "title": "GLM-5.1 开源：支持 8 小时独立工作的长程任务模型",
+    "summary": "智谱发布旗舰模型 GLM-5.1，主打 Long-Horizon Task（长程任务）能力，可独立持续工作 8 小时并自主完成工程级交付。",
+    "url": "https://www.bestblogs.dev/article/a799716e",
+    "source": "BestBlogs / 智谱",
+    "topic": "人工智能",
+    "date": "2026-04-08",
+    "badge": "model"
+  },
+  {
+    "title": "4 亿 token 买来 5 个教训：让 6 个 AI Agent 连写 4 天代码发生了什么？",
+    "summary": "本文通过一个为期四天的多 Agent 自动化编程实战，揭示了在构建 AI 系统时，围绕 Agent 的「胶水代码」和工程化稳定性比 Prompt 设计更具挑战且更为关键。",
+    "url": "https://www.bestblogs.dev/article/2cbb4f88",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-08",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 数据工程师在应用中如何\"返璞归真\"",
+    "summary": "本文反思了轻量级 AI Agent 构建模式的局限性，提出从提示词驱动转向以高质量、结构化、可推理的「上下文工程」与「本体建模」为核心的 AI 数据工程新范式。",
+    "url": "https://www.bestblogs.dev/article/3e64afcc",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-08",
+    "badge": "agent"
+  },
+  {
     "title": "Agentic 能力从哪里来？拆解基座大模型 GLM-5 /MiniMax M2/Kimi K2.5 的训练过程",
     "summary": "本文深度拆解了以 GLM-5 为代表的现代 Agentic 大模型训练全链路，详细阐述了从基座预训练、多阶段后训练（RL）到 Agentic 数据合成的完整方法论。",
     "url": "https://www.bestblogs.dev/article/caaf9172",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 浮之静",
     "topic": "人工智能",
     "date": "2026-04-04",
-    "badge": "agent"
-  },
-  {
-    "title": "你不知道的大模型训练：原理、路径与新实践",
-    "summary": "本文系统梳理了 2026 年大模型训练的全链路架构，深入剖析了从预训练、数据工程、后训练到 Agent 训练与 Harness 优化的关键技术决策与工程实践。",
-    "url": "https://www.bestblogs.dev/article/f6da23d9",
-    "source": "BestBlogs / Tw93",
-    "topic": "人工智能",
-    "date": "2026-04-03",
-    "badge": "agent"
-  },
-  {
-    "title": "当整个团队开始 0 人工 Coding：一份万字 AI Native 研发实战手册",
-    "summary": "本文详述了腾讯团队从 AI 辅助编程转向 AI Native 研发模式的实战经验，通过 OpenSpec 规范与 CodeBuddy 工具链实现「0 人工 Coding」的研发闭环。",
-    "url": "https://www.bestblogs.dev/article/3be156a2",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-04-03",
-    "badge": "tooling"
-  },
-  {
-    "title": "淘宝跨端体验优化 AI 演进之路",
-    "summary": "本文介绍了手淘跨端团队如何通过孵化体验优化 Agent 等 5 款 AI 技术产品，构建覆盖研发全链路的 AI 自驱动优化体系，解决复杂业务语意下的性能治理难题。",
-    "url": "https://www.bestblogs.dev/article/07c3b941",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-04-03",
     "badge": "agent"
   }
 ]
