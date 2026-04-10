@@ -1,5 +1,59 @@
 [
   {
+    "title": "Token 经济学七问：一份关于 AI 新经济的入门地图",
+    "summary": "本文系统阐述了 Token 作为 AI 时代核心计量单位的经济逻辑，涵盖产业背景、价值分层、成本演进及智能体驱动的未来趋势。",
+    "url": "https://www.bestblogs.dev/article/081cb613",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-04-09",
+    "badge": "featured"
+  },
+  {
+    "title": "技术教科书：顶级开发团队设计的 Harness 工程项目源码什么样",
+    "summary": "本文深度拆解了某顶级 AI Agent 团队的工业级 Harness 项目源码，从架构设计、启动优化、工具系统及 Agent 循环等维度提炼出构建 50 万行级 AI 工程的方法论。",
+    "url": "https://www.bestblogs.dev/article/3e1cd52f",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-04-09",
+    "badge": "agent"
+  },
+  {
+    "title": "VimRAG：通义实验室开源全模态 RAG 框架，实现图文视频统一检索记忆",
+    "summary": "通义实验室开源 VimRAG 框架，通过动态记忆图（DAG）和图引导策略优化，解决文本、图像、视频混合知识库中的跨模态检索与长上下文推理难题。",
+    "url": "https://www.bestblogs.dev/article/fe11aa56",
+    "source": "BestBlogs / 通义大模型",
+    "topic": "人工智能",
+    "date": "2026-04-09",
+    "badge": "featured"
+  },
+  {
+    "title": "对话大疆汪滔：求真理、得自由、活成故事",
+    "summary": "大疆创始人汪滔在十年沉寂后首次深度访谈，复盘了从年少轻狂的「天才极客」到成熟管理者的心路历程，探讨了企业管理、组织熵减及技术创新的核心哲学。",
+    "url": "https://www.bestblogs.dev/article/77fb48f0",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-04-09",
+    "badge": "featured"
+  },
+  {
+    "title": "MiniMax 发布 MMX-CLI：为 Agent 设计的全模态命令行工具",
+    "summary": "MiniMax 发布专为 AI Agent 设计的命令行工具 MMX-CLI，通过输出隔离、语义化状态码和异步控制，让 Agent 能原生调用全模态模型能力。",
+    "url": "https://www.bestblogs.dev/article/c8a04217",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-04-09",
+    "badge": "agent"
+  },
+  {
+    "title": "深度对比：Hermes Agent 与 OpenClaw 的架构差异与应用选型",
+    "summary": "本文通过深度代码级对比，剖析了 Hermes Agent 与 OpenClaw 在架构设计、技能进化机制及应用场景上的核心差异，并指出 Hermes 在自进化工作流方面的独特优势。",
+    "url": "https://www.bestblogs.dev/article/f4c7208e",
+    "source": "BestBlogs / Draco",
+    "topic": "人工智能",
+    "date": "2026-04-08",
+    "badge": "agent"
+  },
+  {
     "title": "GLM-5.1 开源：支持 8 小时独立工作的长程任务模型",
     "summary": "智谱发布旗舰模型 GLM-5.1，主打 Long-Horizon Task（长程任务）能力，可独立持续工作 8 小时并自主完成工程级交付。",
     "url": "https://www.bestblogs.dev/article/a799716e",
@@ -15,60 +69,6 @@
     "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-04-08",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 数据工程师在应用中如何\"返璞归真\"",
-    "summary": "本文反思了轻量级 AI Agent 构建模式的局限性，提出从提示词驱动转向以高质量、结构化、可推理的「上下文工程」与「本体建模」为核心的 AI 数据工程新范式。",
-    "url": "https://www.bestblogs.dev/article/3e64afcc",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-08",
-    "badge": "agent"
-  },
-  {
-    "title": "Agentic 能力从哪里来？拆解基座大模型 GLM-5 /MiniMax M2/Kimi K2.5 的训练过程",
-    "summary": "本文深度拆解了以 GLM-5 为代表的现代 Agentic 大模型训练全链路，详细阐述了从基座预训练、多阶段后训练（RL）到 Agentic 数据合成的完整方法论。",
-    "url": "https://www.bestblogs.dev/article/caaf9172",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-04-07",
-    "badge": "agent"
-  },
-  {
-    "title": "Memory 架构与思考：从存储组件到 Agent 记忆操作系统",
-    "summary": "本文系统性地构建了 AI Agent 记忆系统的架构蓝图，提出由原始账本、派生视图和控制策略组成的 System 2 架构，旨在实现可审计、高可用的长程个性化智能。",
-    "url": "https://www.bestblogs.dev/article/0c853462",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-07",
-    "badge": "agent"
-  },
-  {
-    "title": "从多智能体编排到 AI 自主决策：资损防控体系的架构演进",
-    "summary": "本文介绍了阿里资损防控体系从多智能体编排（V1）向单智能体自主决策（V2）的架构演进，通过长上下文、MCP 工具链和 Git 知识管理实现了准确率与召回率的翻倍提升。",
-    "url": "https://www.bestblogs.dev/article/94d408d4",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-04-06",
-    "badge": "tooling"
-  },
-  {
-    "title": "访谈｜Codex 团队如何用自己的产品构建产品——整个 Spec 只有 10 个要点",
-    "summary": "本文深度解析了 OpenAI Codex 团队的「海盗船」运作模式，揭示了其极简规格文档、AI 驱动的开发流以及在 AGI 时代产品经理角色的根本性转变。",
-    "url": "https://www.bestblogs.dev/article/8bb002ea",
-    "source": "BestBlogs / 宝玉",
-    "topic": "人工智能",
-    "date": "2026-04-06",
-    "badge": "featured"
-  },
-  {
-    "title": "深度解析：Claude Code 源码架构与 Harness Engineering 实践",
-    "summary": "本文通过对 Claude Code 逆向源码的深度分析，揭示了其基于 Harness Engineering 的 Agent 架构设计，重点探讨了状态持久化、工具调度及系统提示词控制面等核心机制。",
-    "url": "https://www.bestblogs.dev/article/8c5068ba",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-04-04",
     "badge": "agent"
   }
 ]
