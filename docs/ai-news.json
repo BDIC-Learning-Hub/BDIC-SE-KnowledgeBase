@@ -1,5 +1,41 @@
 [
   {
+    "title": "拥抱 AI 这一年：我的工具、实践和思考",
+    "summary": "本文系统总结了资深开发者在 AI 浪潮中的实战经验，涵盖从 MAC 工具链优化到 Harness Engineering 架构约束，以及如何构建 Agent 驱动的自动化学习闭环。",
+    "url": "https://www.bestblogs.dev/article/83fa2a78",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-10",
+    "badge": "agent"
+  },
+  {
+    "title": "OpenClaw 实战：一个人、一台 Mac、六个 AI Agent 的工程进化论",
+    "summary": "本文详细介绍了基于 OpenClaw 框架构建的六 Agent 协同系统，重点探讨了上下文管理、五层记忆架构及三态通信协议等核心工程问题的解决方案与自主进化机制。",
+    "url": "https://www.bestblogs.dev/article/02471f5f",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-10",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
+    "summary": "本期周刊深度解析了 axios 库遭受的「剧本杀」式社会工程攻击，并探讨了全球算力紧缺现状及 AI 对前端开发模式的潜在变革。",
+    "url": "https://www.bestblogs.dev/article/275d5812",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "媒体资讯",
+    "date": "2026-04-09",
+    "badge": "featured"
+  },
+  {
+    "title": "2026 年第一季度 AI Agent 趋势白皮书深度解读",
+    "summary": "本文深度解析了 2026 年 Q1 AI Agent 的四大结构性趋势：长程产品化、约束工程、递归研发与 Skill 生态，揭示了 Agent 从工具向独立「新同事」演进的飞轮效应。",
+    "url": "https://www.bestblogs.dev/article/0eb56b31",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-04-09",
+    "badge": "agent"
+  },
+  {
     "title": "Token 经济学七问：一份关于 AI 新经济的入门地图",
     "summary": "本文系统阐述了 Token 作为 AI 时代核心计量单位的经济逻辑，涵盖产业背景、价值分层、成本演进及智能体驱动的未来趋势。",
     "url": "https://www.bestblogs.dev/article/081cb613",
@@ -34,41 +70,5 @@
     "topic": "商业科技",
     "date": "2026-04-09",
     "badge": "featured"
-  },
-  {
-    "title": "MiniMax 发布 MMX-CLI：为 Agent 设计的全模态命令行工具",
-    "summary": "MiniMax 发布专为 AI Agent 设计的命令行工具 MMX-CLI，通过输出隔离、语义化状态码和异步控制，让 Agent 能原生调用全模态模型能力。",
-    "url": "https://www.bestblogs.dev/article/c8a04217",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-04-09",
-    "badge": "agent"
-  },
-  {
-    "title": "深度对比：Hermes Agent 与 OpenClaw 的架构差异与应用选型",
-    "summary": "本文通过深度代码级对比，剖析了 Hermes Agent 与 OpenClaw 在架构设计、技能进化机制及应用场景上的核心差异，并指出 Hermes 在自进化工作流方面的独特优势。",
-    "url": "https://www.bestblogs.dev/article/f4c7208e",
-    "source": "BestBlogs / Draco",
-    "topic": "人工智能",
-    "date": "2026-04-08",
-    "badge": "agent"
-  },
-  {
-    "title": "GLM-5.1 开源：支持 8 小时独立工作的长程任务模型",
-    "summary": "智谱发布旗舰模型 GLM-5.1，主打 Long-Horizon Task（长程任务）能力，可独立持续工作 8 小时并自主完成工程级交付。",
-    "url": "https://www.bestblogs.dev/article/a799716e",
-    "source": "BestBlogs / 智谱",
-    "topic": "人工智能",
-    "date": "2026-04-08",
-    "badge": "model"
-  },
-  {
-    "title": "4 亿 token 买来 5 个教训：让 6 个 AI Agent 连写 4 天代码发生了什么？",
-    "summary": "本文通过一个为期四天的多 Agent 自动化编程实战，揭示了在构建 AI 系统时，围绕 Agent 的「胶水代码」和工程化稳定性比 Prompt 设计更具挑战且更为关键。",
-    "url": "https://www.bestblogs.dev/article/2cbb4f88",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-08",
-    "badge": "agent"
   }
 ]
