@@ -1,5 +1,23 @@
 [
   {
+    "title": "浅谈 Agent Memory",
+    "summary": "本文深入探讨了 AI Agent 记忆系统的本质、架构哲学与治理挑战，指出真正的记忆不是简单的存储与检索，而是对过去经验的持续再解释、分层治理与能力固化，并批判了将 RAG 或长上下文等同于记忆的常见误解。",
+    "url": "https://www.bestblogs.dev/article/2e49e0d0",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-04-12",
+    "badge": "agent"
+  },
+  {
+    "title": "这大概是我读过最硬核的一次 Linux 内核重构文章了",
+    "summary": "本文系统梳理了腾讯工程师 Kairui Song 主导的 Linux 内核 Swap 子系统现代化重构工程，详细解读了从引入 swap table、移除 swap map 到探索虚拟 swap 空间等多个阶段的技术细节、性能收益与社区影响。",
+    "url": "https://www.bestblogs.dev/article/c67b2af9",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-04-12",
+    "badge": "tooling"
+  },
+  {
     "title": "拥抱 AI 这一年：我的工具、实践和思考",
     "summary": "本文系统总结了资深开发者在 AI 浪潮中的实战经验，涵盖从 MAC 工具链优化到 Harness Engineering 架构约束，以及如何构建 Agent 驱动的自动化学习闭环。",
     "url": "https://www.bestblogs.dev/article/83fa2a78",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-09",
     "badge": "agent"
-  },
-  {
-    "title": "VimRAG：通义实验室开源全模态 RAG 框架，实现图文视频统一检索记忆",
-    "summary": "通义实验室开源 VimRAG 框架，通过动态记忆图（DAG）和图引导策略优化，解决文本、图像、视频混合知识库中的跨模态检索与长上下文推理难题。",
-    "url": "https://www.bestblogs.dev/article/fe11aa56",
-    "source": "BestBlogs / 通义大模型",
-    "topic": "人工智能",
-    "date": "2026-04-09",
-    "badge": "featured"
-  },
-  {
-    "title": "对话大疆汪滔：求真理、得自由、活成故事",
-    "summary": "大疆创始人汪滔在十年沉寂后首次深度访谈，复盘了从年少轻狂的「天才极客」到成熟管理者的心路历程，探讨了企业管理、组织熵减及技术创新的核心哲学。",
-    "url": "https://www.bestblogs.dev/article/77fb48f0",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-04-09",
-    "badge": "featured"
   }
 ]
