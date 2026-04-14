@@ -1,11 +1,29 @@
 [
   {
-    "title": "浅谈 Agent Memory",
-    "summary": "本文深入探讨了 AI Agent 记忆系统的本质、架构哲学与治理挑战，指出真正的记忆不是简单的存储与检索，而是对过去经验的持续再解释、分层治理与能力固化，并批判了将 RAG 或长上下文等同于记忆的常见误解。",
-    "url": "https://www.bestblogs.dev/article/2e49e0d0",
-    "source": "BestBlogs / 浮之静",
+    "title": "万字综述 Harness 革命！",
+    "summary": "本文基于 2026 年 AI 发展背景，系统阐述了 Agent Harness 作为驾驭智能体复杂性的战略基础设施，从软件工程演进史切入，分析了其核心组件、生态格局，并探讨了工程师在 Agent 时代的能力转型方向。",
+    "url": "https://www.bestblogs.dev/article/f0f5a2f7",
+    "source": "BestBlogs / Datawhale",
     "topic": "人工智能",
-    "date": "2026-04-12",
+    "date": "2026-04-13",
+    "badge": "agent"
+  },
+  {
+    "title": "深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践",
+    "summary": "本文深入剖析了 OpenClaw 这一现象级 AI Agent 系统的核心设计哲学，从 Prompt Engineering、Context Engineering 和 Harness Engineering 三个维度，提炼出其结构化动态组装、上下文压缩与分层记忆管理等可复用的方法论。",
+    "url": "https://www.bestblogs.dev/article/824a229d",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-13",
+    "badge": "agent"
+  },
+  {
+    "title": "Harness 刚火，可能就要成为过去时了",
+    "summary": "本文深度解读了 Yandex 关于大模型在长上下文中会主动「偷懒」的论文《Reasoning Shift》，并结合 Anthropic 的情绪向量研究，探讨了从模型内部机制而非外部工程脚手架解决 Agent 长程任务退化的可能性。",
+    "url": "https://www.bestblogs.dev/article/c7d5f93e",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-04-13",
     "badge": "agent"
   },
   {
@@ -16,6 +34,24 @@
     "topic": "软件编程",
     "date": "2026-04-12",
     "badge": "tooling"
+  },
+  {
+    "title": "浅谈 Agent Memory",
+    "summary": "本文深入探讨了 AI Agent 记忆系统的本质、架构哲学与治理挑战，指出真正的记忆不是简单的存储与检索，而是对过去经验的持续再解释、分层治理与能力固化，并批判了将 RAG 或长上下文等同于记忆的常见误解。",
+    "url": "https://www.bestblogs.dev/article/2e49e0d0",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-04-12",
+    "badge": "agent"
+  },
+  {
+    "title": "BestBlogs 2.0 内测开启：我想重新做一款更适合自己的阅读产品",
+    "summary": "本文是作者对其个人项目 BestBlogs 2.0 版本升级的深度复盘，阐述了从「内容聚合」转向「阅读工作流」的产品理念，旨在解决信息过载时代高质量内容的发现、判断与高效阅读问题。",
+    "url": "https://www.bestblogs.dev/article/30ef25a5",
+    "source": "BestBlogs / Gino",
+    "topic": "产品设计",
+    "date": "2026-04-12",
+    "badge": "featured"
   },
   {
     "title": "拥抱 AI 这一年：我的工具、实践和思考",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-04-10",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 392 期）：axios 投毒与好莱坞式骗术",
-    "summary": "本期周刊深度解析了 axios 库遭受的「剧本杀」式社会工程攻击，并探讨了全球算力紧缺现状及 AI 对前端开发模式的潜在变革。",
-    "url": "https://www.bestblogs.dev/article/275d5812",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "媒体资讯",
-    "date": "2026-04-09",
-    "badge": "featured"
-  },
-  {
-    "title": "2026 年第一季度 AI Agent 趋势白皮书深度解读",
-    "summary": "本文深度解析了 2026 年 Q1 AI Agent 的四大结构性趋势：长程产品化、约束工程、递归研发与 Skill 生态，揭示了 Agent 从工具向独立「新同事」演进的飞轮效应。",
-    "url": "https://www.bestblogs.dev/article/0eb56b31",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-04-09",
-    "badge": "agent"
-  },
-  {
-    "title": "Token 经济学七问：一份关于 AI 新经济的入门地图",
-    "summary": "本文系统阐述了 Token 作为 AI 时代核心计量单位的经济逻辑，涵盖产业背景、价值分层、成本演进及智能体驱动的未来趋势。",
-    "url": "https://www.bestblogs.dev/article/081cb613",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "人工智能",
-    "date": "2026-04-09",
-    "badge": "featured"
-  },
-  {
-    "title": "技术教科书：顶级开发团队设计的 Harness 工程项目源码什么样",
-    "summary": "本文深度拆解了某顶级 AI Agent 团队的工业级 Harness 项目源码，从架构设计、启动优化、工具系统及 Agent 循环等维度提炼出构建 50 万行级 AI 工程的方法论。",
-    "url": "https://www.bestblogs.dev/article/3e1cd52f",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-04-09",
     "badge": "agent"
   }
 ]
