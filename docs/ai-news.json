@@ -1,5 +1,32 @@
 [
   {
+    "title": "一文搞懂 Hermes：新顶流 Agent 如何从经验中自我进化",
+    "summary": "本文深入解析了 Hermes Agent 的核心创新——Skills 闭环系统，详细拆解了其从经验提取、知识存储、智能检索到自改进的完整实现机制、工程权衡与安全考量。",
+    "url": "https://www.bestblogs.dev/article/2adc9c3e",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-15",
+    "badge": "agent"
+  },
+  {
+    "title": "MiniMax Agent 更新：这次我们重新设计了 Agent 操作电脑的方式",
+    "summary": "MiniMax 发布了其 Agent 桌面端的两项重要更新：Pocket 功能支持通过 IM 远程操控电脑，以及 Computer Use 功能使 Agent 能像人一样通过视觉识别操作图形界面软件，并详细阐述了其背后的技术实现与设计思考。",
+    "url": "https://www.bestblogs.dev/article/810d6b64",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-04-14",
+    "badge": "agent"
+  },
+  {
+    "title": "浏览器自动化：从 GUI 到 OpenCLI",
+    "summary": "本文介绍了 OpenCLI 这一开源工具，它通过解析和复现网页底层 API 请求，而非模拟前端 UI 交互，来解决浏览器自动化的效率与稳定性难题，并阐述了其面向 AI Agent 的自动化工作流和未来软件“可调用性”的竞争维度。",
+    "url": "https://www.bestblogs.dev/article/42acaf7d",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-14",
+    "badge": "agent"
+  },
+  {
     "title": "万字综述 Harness 革命！",
     "summary": "本文基于 2026 年 AI 发展背景，系统阐述了 Agent Harness 作为驾驭智能体复杂性的战略基础设施，从软件工程演进史切入，分析了其核心组件、生态格局，并探讨了工程师在 Agent 时代的能力转型方向。",
     "url": "https://www.bestblogs.dev/article/f0f5a2f7",
@@ -27,6 +54,15 @@
     "badge": "agent"
   },
   {
+    "title": "为什么你的“AI 优先”战略可能大错特错？",
+    "summary": "本文通过深度解读一篇关于“AI 优先”战略的英文文章，结合自身思考，指出真正的 AI 优先并非简单使用 AI 工具，而是需要以坚实的软件工程基础（自动化测试、CI/CD、监控、架构等）为前提，并分析了其适用场景与组织变革挑战。",
+    "url": "https://www.bestblogs.dev/article/98bd3626",
+    "source": "BestBlogs / 宝玉",
+    "topic": "人工智能",
+    "date": "2026-04-13",
+    "badge": "tooling"
+  },
+  {
     "title": "这大概是我读过最硬核的一次 Linux 内核重构文章了",
     "summary": "本文系统梳理了腾讯工程师 Kairui Song 主导的 Linux 内核 Swap 子系统现代化重构工程，详细解读了从引入 swap table、移除 swap map 到探索虚拟 swap 空间等多个阶段的技术细节、性能收益与社区影响。",
     "url": "https://www.bestblogs.dev/article/c67b2af9",
@@ -34,41 +70,5 @@
     "topic": "软件编程",
     "date": "2026-04-12",
     "badge": "tooling"
-  },
-  {
-    "title": "浅谈 Agent Memory",
-    "summary": "本文深入探讨了 AI Agent 记忆系统的本质、架构哲学与治理挑战，指出真正的记忆不是简单的存储与检索，而是对过去经验的持续再解释、分层治理与能力固化，并批判了将 RAG 或长上下文等同于记忆的常见误解。",
-    "url": "https://www.bestblogs.dev/article/2e49e0d0",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-04-12",
-    "badge": "agent"
-  },
-  {
-    "title": "BestBlogs 2.0 内测开启：我想重新做一款更适合自己的阅读产品",
-    "summary": "本文是作者对其个人项目 BestBlogs 2.0 版本升级的深度复盘，阐述了从「内容聚合」转向「阅读工作流」的产品理念，旨在解决信息过载时代高质量内容的发现、判断与高效阅读问题。",
-    "url": "https://www.bestblogs.dev/article/30ef25a5",
-    "source": "BestBlogs / Gino",
-    "topic": "产品设计",
-    "date": "2026-04-12",
-    "badge": "featured"
-  },
-  {
-    "title": "拥抱 AI 这一年：我的工具、实践和思考",
-    "summary": "本文系统总结了资深开发者在 AI 浪潮中的实战经验，涵盖从 MAC 工具链优化到 Harness Engineering 架构约束，以及如何构建 Agent 驱动的自动化学习闭环。",
-    "url": "https://www.bestblogs.dev/article/83fa2a78",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-10",
-    "badge": "agent"
-  },
-  {
-    "title": "OpenClaw 实战：一个人、一台 Mac、六个 AI Agent 的工程进化论",
-    "summary": "本文详细介绍了基于 OpenClaw 框架构建的六 Agent 协同系统，重点探讨了上下文管理、五层记忆架构及三态通信协议等核心工程问题的解决方案与自主进化机制。",
-    "url": "https://www.bestblogs.dev/article/02471f5f",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-10",
-    "badge": "agent"
   }
 ]
