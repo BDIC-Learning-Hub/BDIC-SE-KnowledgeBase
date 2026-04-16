@@ -1,5 +1,23 @@
 [
   {
+    "title": "Notion Custom Agents 复盘：三年重写 5 次，Notion 历史上最成功的新功能之一",
+    "summary": "本文通过 Notion AI 工程负责人 Sarah Sachs 和技术负责人 Simon Last 的访谈，深度复盘了 Notion Custom Agents 功能从 2022 年至今的曲折开发历程、核心设计理念、团队管理哲学以及对 AI Agent 未来发展的前瞻性思考。",
+    "url": "https://www.bestblogs.dev/article/c2980e6b",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-04-15",
+    "badge": "agent"
+  },
+  {
+    "title": "Hermes 凭什么两个月接棒 OpenClaw？",
+    "summary": "本文深度对比了开源 AI Agent 新星 Hermes 与前任王者 OpenClaw，指出 Hermes 的成功并非源于功能碾压，而是通过将技能自动进化、主动记忆管理等决策复杂度封装在底层确定性规则中，以兜底工程卡位，在技术将将够用时率先提供了“越用越好”的自动化体验。",
+    "url": "https://www.bestblogs.dev/article/71f5de13",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-04-15",
+    "badge": "agent"
+  },
+  {
     "title": "一文搞懂 Hermes：新顶流 Agent 如何从经验中自我进化",
     "summary": "本文深入解析了 Hermes Agent 的核心创新——Skills 闭环系统，详细拆解了其从经验提取、知识存储、智能检索到自改进的完整实现机制、工程权衡与安全考量。",
     "url": "https://www.bestblogs.dev/article/2adc9c3e",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-13",
     "badge": "agent"
-  },
-  {
-    "title": "为什么你的“AI 优先”战略可能大错特错？",
-    "summary": "本文通过深度解读一篇关于“AI 优先”战略的英文文章，结合自身思考，指出真正的 AI 优先并非简单使用 AI 工具，而是需要以坚实的软件工程基础（自动化测试、CI/CD、监控、架构等）为前提，并分析了其适用场景与组织变革挑战。",
-    "url": "https://www.bestblogs.dev/article/98bd3626",
-    "source": "BestBlogs / 宝玉",
-    "topic": "人工智能",
-    "date": "2026-04-13",
-    "badge": "tooling"
-  },
-  {
-    "title": "这大概是我读过最硬核的一次 Linux 内核重构文章了",
-    "summary": "本文系统梳理了腾讯工程师 Kairui Song 主导的 Linux 内核 Swap 子系统现代化重构工程，详细解读了从引入 swap table、移除 swap map 到探索虚拟 swap 空间等多个阶段的技术细节、性能收益与社区影响。",
-    "url": "https://www.bestblogs.dev/article/c67b2af9",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-04-12",
-    "badge": "tooling"
   }
 ]
