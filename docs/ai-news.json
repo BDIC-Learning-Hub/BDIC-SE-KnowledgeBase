@@ -1,5 +1,14 @@
 [
   {
+    "title": "神级开源插件！一句话让 QClaw 变 3D 小镇，Agent 工作可视化，赛博云监工",
+    "summary": "本文介绍了一款名为 Agentshire 的开源插件，它通过将 QClaw/OpenClaw 的 AI Agent 映射为 3D 小镇中的 NPC，实现了多 Agent 协作过程的可视化、可交互与可观测，并提供了 UGC 编辑器让用户自定义角色和世界。",
+    "url": "https://www.bestblogs.dev/article/6be2657f",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-16",
+    "badge": "agent"
+  },
+  {
     "title": "Notion Custom Agents 复盘：三年重写 5 次，Notion 历史上最成功的新功能之一",
     "summary": "本文通过 Notion AI 工程负责人 Sarah Sachs 和技术负责人 Simon Last 的访谈，深度复盘了 Notion Custom Agents 功能从 2022 年至今的曲折开发历程、核心设计理念、团队管理哲学以及对 AI Agent 未来发展的前瞻性思考。",
     "url": "https://www.bestblogs.dev/article/c2980e6b",
@@ -58,15 +67,6 @@
     "summary": "本文深入剖析了 OpenClaw 这一现象级 AI Agent 系统的核心设计哲学，从 Prompt Engineering、Context Engineering 和 Harness Engineering 三个维度，提炼出其结构化动态组装、上下文压缩与分层记忆管理等可复用的方法论。",
     "url": "https://www.bestblogs.dev/article/824a229d",
     "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-13",
-    "badge": "agent"
-  },
-  {
-    "title": "Harness 刚火，可能就要成为过去时了",
-    "summary": "本文深度解读了 Yandex 关于大模型在长上下文中会主动「偷懒」的论文《Reasoning Shift》，并结合 Anthropic 的情绪向量研究，探讨了从模型内部机制而非外部工程脚手架解决 Agent 长程任务退化的可能性。",
-    "url": "https://www.bestblogs.dev/article/c7d5f93e",
-    "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
     "date": "2026-04-13",
     "badge": "agent"
