@@ -1,5 +1,41 @@
 [
   {
+    "title": "从 Vibe Coding 到 Agentic Engineering：重构后台开发全流程",
+    "summary": "本文详细介绍了腾讯技术团队如何通过构建一套基于 Claude Code、自定义 Skill/Command/MCP 体系的 Agentic Engineering 工作流，将后台开发从需求到发布的全流程自动化，实现从“提示即祈祷”的 Vibe Coding 到“流程驱动、人工审核”的智能体工程的转变。",
+    "url": "https://www.bestblogs.dev/article/0c4e8a58",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-04-17",
+    "badge": "agent"
+  },
+  {
+    "title": "卡片式对话的协议方案探索和思考",
+    "summary": "本文系统性地探讨了在智能助手对话流中实现卡片式交互的工程挑战，提出了包含 Markdown 标记、消息传输、UI 渲染及事件通信的四层统一协议体系，为构建标准化、可协作的卡片式对话系统提供了落地的架构参考。",
+    "url": "https://www.bestblogs.dev/article/a82455f1",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-04-17",
+    "badge": "featured"
+  },
+  {
+    "title": "一文讲透：Harness Engineering 即控制论！",
+    "summary": "本文通过将 OpenAI 提出的 Harness Engineering 与控制论（Cybernetics）进行深度类比，论证了 AI 编程的本质是构建一个以人类为“控制器”、AI 为“执行器”、代码仓库为“被控系统”的反馈循环，并系统阐述了如何通过设计环境、明确意图、构建传感器（验证工具）来高效驾驭 AI 生成代码。",
+    "url": "https://www.bestblogs.dev/article/0dc310c3",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-17",
+    "badge": "tooling"
+  },
+  {
+    "title": "科技爱好者周刊（第 393 期）：脑腐状态",
+    "summary": "本期周刊探讨了由碎片化信息导致的‘脑腐’现象，并汇总了开源大模型版权争议、摄像头耳机、AI 歌手、经济舱座椅改进等科技动态，以及多篇精选文章、工具和资源。",
+    "url": "https://www.bestblogs.dev/article/6ede391b",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "媒体资讯",
+    "date": "2026-04-16",
+    "badge": "model"
+  },
+  {
     "title": "神级开源插件！一句话让 QClaw 变 3D 小镇，Agent 工作可视化，赛博云监工",
     "summary": "本文介绍了一款名为 Agentshire 的开源插件，它通过将 QClaw/OpenClaw 的 AI Agent 映射为 3D 小镇中的 NPC，实现了多 Agent 协作过程的可视化、可交互与可观测，并提供了 UGC 编辑器让用户自定义角色和世界。",
     "url": "https://www.bestblogs.dev/article/6be2657f",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-04-15",
-    "badge": "agent"
-  },
-  {
-    "title": "MiniMax Agent 更新：这次我们重新设计了 Agent 操作电脑的方式",
-    "summary": "MiniMax 发布了其 Agent 桌面端的两项重要更新：Pocket 功能支持通过 IM 远程操控电脑，以及 Computer Use 功能使 Agent 能像人一样通过视觉识别操作图形界面软件，并详细阐述了其背后的技术实现与设计思考。",
-    "url": "https://www.bestblogs.dev/article/810d6b64",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-04-14",
-    "badge": "agent"
-  },
-  {
-    "title": "浏览器自动化：从 GUI 到 OpenCLI",
-    "summary": "本文介绍了 OpenCLI 这一开源工具，它通过解析和复现网页底层 API 请求，而非模拟前端 UI 交互，来解决浏览器自动化的效率与稳定性难题，并阐述了其面向 AI Agent 的自动化工作流和未来软件“可调用性”的竞争维度。",
-    "url": "https://www.bestblogs.dev/article/42acaf7d",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-14",
-    "badge": "agent"
-  },
-  {
-    "title": "万字综述 Harness 革命！",
-    "summary": "本文基于 2026 年 AI 发展背景，系统阐述了 Agent Harness 作为驾驭智能体复杂性的战略基础设施，从软件工程演进史切入，分析了其核心组件、生态格局，并探讨了工程师在 Agent 时代的能力转型方向。",
-    "url": "https://www.bestblogs.dev/article/f0f5a2f7",
-    "source": "BestBlogs / Datawhale",
-    "topic": "人工智能",
-    "date": "2026-04-13",
-    "badge": "agent"
-  },
-  {
-    "title": "深度解析 OpenClaw 在 Prompt / Context / Harness 三个维度中的设计哲学与实践",
-    "summary": "本文深入剖析了 OpenClaw 这一现象级 AI Agent 系统的核心设计哲学，从 Prompt Engineering、Context Engineering 和 Harness Engineering 三个维度，提炼出其结构化动态组装、上下文压缩与分层记忆管理等可复用的方法论。",
-    "url": "https://www.bestblogs.dev/article/824a229d",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-13",
     "badge": "agent"
   }
 ]
