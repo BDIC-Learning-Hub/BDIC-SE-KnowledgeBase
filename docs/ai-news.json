@@ -1,5 +1,23 @@
 [
   {
+    "title": "从提需求到部署发布，全 AI 全自动化后，研发效能全面跃升",
+    "summary": "本文系统阐述了腾讯审核团队如何通过构建 AI 全自动化交付平台，实现从需求、设计、开发、测试到部署的全链路自动化，并分享了其 L2（人机协同）到 L3（全自动）的演进路径、核心挑战、具体实践与量化收益。",
+    "url": "https://www.bestblogs.dev/article/1d18d5d0",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-04-20",
+    "badge": "featured"
+  },
+  {
+    "title": "如何正确 Vibe Coding？这是来自 Anthropic 编程智能体负责人的大师课",
+    "summary": "本文基于 Anthropic 研究员 Erik Schluntz 的演讲，系统阐述了在生产环境中负责任地进行 Vibe Coding 的方法论，包括定义、核心理念、风险控制策略以及具体的实践技巧。",
+    "url": "https://www.bestblogs.dev/article/07248488",
+    "source": "BestBlogs / 机器之心",
+    "topic": "人工智能",
+    "date": "2026-04-20",
+    "badge": "tooling"
+  },
+  {
     "title": "大模型架构的下半场",
     "summary": "本文提出大模型架构已进入以「扩展通信」为核心的下半场，批判了传统残差连接的「累加」范式，并介绍了通过 Flash Depth Attention 和 MoDA 实现层间「选择性检索」的创新方案。",
     "url": "https://www.bestblogs.dev/article/2ce38f07",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-04-16",
-    "badge": "agent"
-  },
-  {
-    "title": "Notion Custom Agents 复盘：三年重写 5 次，Notion 历史上最成功的新功能之一",
-    "summary": "本文通过 Notion AI 工程负责人 Sarah Sachs 和技术负责人 Simon Last 的访谈，深度复盘了 Notion Custom Agents 功能从 2022 年至今的曲折开发历程、核心设计理念、团队管理哲学以及对 AI Agent 未来发展的前瞻性思考。",
-    "url": "https://www.bestblogs.dev/article/c2980e6b",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-04-15",
-    "badge": "agent"
-  },
-  {
-    "title": "Hermes 凭什么两个月接棒 OpenClaw？",
-    "summary": "本文深度对比了开源 AI Agent 新星 Hermes 与前任王者 OpenClaw，指出 Hermes 的成功并非源于功能碾压，而是通过将技能自动进化、主动记忆管理等决策复杂度封装在底层确定性规则中，以兜底工程卡位，在技术将将够用时率先提供了“越用越好”的自动化体验。",
-    "url": "https://www.bestblogs.dev/article/71f5de13",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-04-15",
     "badge": "agent"
   }
 ]
