@@ -1,5 +1,50 @@
 [
   {
+    "title": "万字干货！Harness Engineering 如何工程化落地？",
+    "summary": "本文以 JK Launcher 项目为例，详细拆解了 Harness Engineering 从概念到工程化落地的完整实践路径，系统阐述了如何通过 SPEC、Rule、Skill、多 Agent、Workflow、Scripts 等组件构建一套让 AI 在复杂项目中稳定、规范、可协作的工程系统。",
+    "url": "https://www.bestblogs.dev/article/d34819ba",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-22",
+    "badge": "agent"
+  },
+  {
+    "title": "Harness Engineering：AI 能在真正“出事会炸”的后端系统里写代码吗？",
+    "summary": "本文分享了腾讯 CDN LEGO 团队在超大规模、高可靠性后端系统中实践 AI 编码的完整方法论——Harness Engineering，通过五层架构、三大抓手（上下文、约束、反馈）和多模型对抗式 CR，构建了一套让 AI 安全、可控地产出高质量代码的工程体系。",
+    "url": "https://www.bestblogs.dev/article/e32a066c",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-04-21",
+    "badge": "model"
+  },
+  {
+    "title": "全方位对比：Hermes VS OpenClaw",
+    "summary": "本文深度对比了新兴 AI Agent Hermes 与传统霸主 OpenClaw，从技术架构、应用场景、市场策略等维度，分析了 Hermes 凭借“可写运行时”实现自我进化的革命性优势，并为开发者提供了清晰的技术选型指南。",
+    "url": "https://www.bestblogs.dev/article/25d3e7a6",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-21",
+    "badge": "agent"
+  },
+  {
+    "title": "从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering",
+    "summary": "本文基于真实项目 Aegis 的实践经验，系统阐述了 Harness Engineering 的理念、架构边界与实施方法，论证了在企业工程环境中，通过构建控制面来约束和治理非确定性大模型，是 AI Agent 从玩具变为生产力的关键，并促使工程师角色从代码执行者向目标控盘者迁移。",
+    "url": "https://www.bestblogs.dev/article/9dd92132",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-21",
+    "badge": "agent"
+  },
+  {
+    "title": "Kimi K2.6 发布并开源，全面精进代码和 Agent 集群能力",
+    "summary": "月之暗面发布并开源 Kimi K2.6 模型，在代码能力、长程任务执行和 Agent 集群协作方面实现显著提升，并宣布开启 Claw 群组内测。",
+    "url": "https://www.bestblogs.dev/article/ef138a82",
+    "source": "BestBlogs / 月之暗面 Kimi",
+    "topic": "人工智能",
+    "date": "2026-04-20",
+    "badge": "agent"
+  },
+  {
     "title": "从提需求到部署发布，全 AI 全自动化后，研发效能全面跃升",
     "summary": "本文系统阐述了腾讯审核团队如何通过构建 AI 全自动化交付平台，实现从需求、设计、开发、测试到部署的全链路自动化，并分享了其 L2（人机协同）到 L3（全自动）的演进路径、核心挑战、具体实践与量化收益。",
     "url": "https://www.bestblogs.dev/article/1d18d5d0",
@@ -25,50 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-19",
     "badge": "model"
-  },
-  {
-    "title": "从 Vibe Coding 到 Agentic Engineering：重构后台开发全流程",
-    "summary": "本文详细介绍了腾讯技术团队如何通过构建一套基于 Claude Code、自定义 Skill/Command/MCP 体系的 Agentic Engineering 工作流，将后台开发从需求到发布的全流程自动化，实现从“提示即祈祷”的 Vibe Coding 到“流程驱动、人工审核”的智能体工程的转变。",
-    "url": "https://www.bestblogs.dev/article/0c4e8a58",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-04-17",
-    "badge": "agent"
-  },
-  {
-    "title": "卡片式对话的协议方案探索和思考",
-    "summary": "本文系统性地探讨了在智能助手对话流中实现卡片式交互的工程挑战，提出了包含 Markdown 标记、消息传输、UI 渲染及事件通信的四层统一协议体系，为构建标准化、可协作的卡片式对话系统提供了落地的架构参考。",
-    "url": "https://www.bestblogs.dev/article/a82455f1",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-04-17",
-    "badge": "featured"
-  },
-  {
-    "title": "一文讲透：Harness Engineering 即控制论！",
-    "summary": "本文通过将 OpenAI 提出的 Harness Engineering 与控制论（Cybernetics）进行深度类比，论证了 AI 编程的本质是构建一个以人类为“控制器”、AI 为“执行器”、代码仓库为“被控系统”的反馈循环，并系统阐述了如何通过设计环境、明确意图、构建传感器（验证工具）来高效驾驭 AI 生成代码。",
-    "url": "https://www.bestblogs.dev/article/0dc310c3",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-17",
-    "badge": "tooling"
-  },
-  {
-    "title": "科技爱好者周刊（第 393 期）：脑腐状态",
-    "summary": "本期周刊探讨了由碎片化信息导致的‘脑腐’现象，并汇总了开源大模型版权争议、摄像头耳机、AI 歌手、经济舱座椅改进等科技动态，以及多篇精选文章、工具和资源。",
-    "url": "https://www.bestblogs.dev/article/6ede391b",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "媒体资讯",
-    "date": "2026-04-16",
-    "badge": "model"
-  },
-  {
-    "title": "神级开源插件！一句话让 QClaw 变 3D 小镇，Agent 工作可视化，赛博云监工",
-    "summary": "本文介绍了一款名为 Agentshire 的开源插件，它通过将 QClaw/OpenClaw 的 AI Agent 映射为 3D 小镇中的 NPC，实现了多 Agent 协作过程的可视化、可交互与可观测，并提供了 UGC 编辑器让用户自定义角色和世界。",
-    "url": "https://www.bestblogs.dev/article/6be2657f",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-16",
-    "badge": "agent"
   }
 ]
