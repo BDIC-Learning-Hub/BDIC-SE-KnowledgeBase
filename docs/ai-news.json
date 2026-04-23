@@ -1,9 +1,27 @@
 [
   {
+    "title": "流量 2.0 时代",
+    "summary": "本文系统论述了互联网流量正从以用户注意力为核心的 1.0 范式，向以智能体行为和词元消耗为核心的 2.0 范式转型，并分析了这一变革对消费互联网各细分领域及产业链参与者的深远影响。",
+    "url": "https://www.bestblogs.dev/article/e4816743",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-04-22",
+    "badge": "featured"
+  },
+  {
     "title": "万字干货！Harness Engineering 如何工程化落地？",
     "summary": "本文以 JK Launcher 项目为例，详细拆解了 Harness Engineering 从概念到工程化落地的完整实践路径，系统阐述了如何通过 SPEC、Rule、Skill、多 Agent、Workflow、Scripts 等组件构建一套让 AI 在复杂项目中稳定、规范、可协作的工程系统。",
     "url": "https://www.bestblogs.dev/article/d34819ba",
     "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-22",
+    "badge": "agent"
+  },
+  {
+    "title": "基于 Spring AI 从 0 到 1 构建 AI Agent",
+    "summary": "本文是一份基于 Spring AI 框架，从零开始构建一个功能完备的 AI Agent 的详细实践指南，涵盖核心编排、RAG、工具调用、子代理、MCP 协议等核心模块的架构设计与代码实现。",
+    "url": "https://www.bestblogs.dev/article/48e04876",
+    "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-04-22",
     "badge": "agent"
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-20",
     "badge": "featured"
-  },
-  {
-    "title": "如何正确 Vibe Coding？这是来自 Anthropic 编程智能体负责人的大师课",
-    "summary": "本文基于 Anthropic 研究员 Erik Schluntz 的演讲，系统阐述了在生产环境中负责任地进行 Vibe Coding 的方法论，包括定义、核心理念、风险控制策略以及具体的实践技巧。",
-    "url": "https://www.bestblogs.dev/article/07248488",
-    "source": "BestBlogs / 机器之心",
-    "topic": "人工智能",
-    "date": "2026-04-20",
-    "badge": "tooling"
-  },
-  {
-    "title": "大模型架构的下半场",
-    "summary": "本文提出大模型架构已进入以「扩展通信」为核心的下半场，批判了传统残差连接的「累加」范式，并介绍了通过 Flash Depth Attention 和 MoDA 实现层间「选择性检索」的创新方案。",
-    "url": "https://www.bestblogs.dev/article/2ce38f07",
-    "source": "BestBlogs / 衡宇",
-    "topic": "人工智能",
-    "date": "2026-04-19",
-    "badge": "model"
   }
 ]
