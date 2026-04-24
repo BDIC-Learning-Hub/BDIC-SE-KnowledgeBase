@@ -1,5 +1,41 @@
 [
   {
+    "title": "DeepSeek-V4 预览版：迈入百万上下文普惠时代",
+    "summary": "DeepSeek 发布 V4 预览版，推出 Pro 和 Flash 两个版本，标配百万上下文，在 Agent、推理和知识能力上达到开源领先水平，并同步开源。",
+    "url": "https://www.bestblogs.dev/article/95d5e07c",
+    "source": "BestBlogs / DeepSeek",
+    "topic": "人工智能",
+    "date": "2026-04-24",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
+    "summary": "本期周刊的核心观点是，随着大模型达到生产可用临界点，AI 自动化需要调用外部平台，正推动第二次 API 开放浪潮，其开放程度、易用性和使用目的均与第一次截然不同。",
+    "url": "https://www.bestblogs.dev/article/1f0d1cae",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "媒体资讯",
+    "date": "2026-04-23",
+    "badge": "model"
+  },
+  {
+    "title": "从第一性原理思考 Agentic Engineering",
+    "summary": "本文从第一性原理出发，系统性地推导了 Agentic Engineering 的六条核心最佳实践，并介绍了一个基于 Skill 的模块化开源框架，旨在将工程纪律与 AI 能力结合，在复杂约束下可靠地提升软件工程质量。",
+    "url": "https://www.bestblogs.dev/article/f5d1601a",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-23",
+    "badge": "agent"
+  },
+  {
+    "title": "深入源码：Hermes Agent 如何实现 \"Self-Improving\"",
+    "summary": "本文通过深入分析 Hermes Agent 的源码，系统阐述了其实现自我进化的核心机制，包括 Memory、Skill 和 Nudge Engine 三个子系统的协同工作，并与 OpenClaw 进行对比，最后介绍了其商业化产品 RDSHermes 如何降低使用门槛。",
+    "url": "https://www.bestblogs.dev/article/97a41c9c",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-23",
+    "badge": "agent"
+  },
+  {
     "title": "流量 2.0 时代",
     "summary": "本文系统论述了互联网流量正从以用户注意力为核心的 1.0 范式，向以智能体行为和词元消耗为核心的 2.0 范式转型，并分析了这一变革对消费互联网各细分领域及产业链参与者的深远影响。",
     "url": "https://www.bestblogs.dev/article/e4816743",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-21",
     "badge": "model"
-  },
-  {
-    "title": "全方位对比：Hermes VS OpenClaw",
-    "summary": "本文深度对比了新兴 AI Agent Hermes 与传统霸主 OpenClaw，从技术架构、应用场景、市场策略等维度，分析了 Hermes 凭借“可写运行时”实现自我进化的革命性优势，并为开发者提供了清晰的技术选型指南。",
-    "url": "https://www.bestblogs.dev/article/25d3e7a6",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-21",
-    "badge": "agent"
-  },
-  {
-    "title": "从玩具到生产力：用真实项目讲透 AI Agent 的 Harness Engineering",
-    "summary": "本文基于真实项目 Aegis 的实践经验，系统阐述了 Harness Engineering 的理念、架构边界与实施方法，论证了在企业工程环境中，通过构建控制面来约束和治理非确定性大模型，是 AI Agent 从玩具变为生产力的关键，并促使工程师角色从代码执行者向目标控盘者迁移。",
-    "url": "https://www.bestblogs.dev/article/9dd92132",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-21",
-    "badge": "agent"
-  },
-  {
-    "title": "Kimi K2.6 发布并开源，全面精进代码和 Agent 集群能力",
-    "summary": "月之暗面发布并开源 Kimi K2.6 模型，在代码能力、长程任务执行和 Agent 集群协作方面实现显著提升，并宣布开启 Claw 群组内测。",
-    "url": "https://www.bestblogs.dev/article/ef138a82",
-    "source": "BestBlogs / 月之暗面 Kimi",
-    "topic": "人工智能",
-    "date": "2026-04-20",
-    "badge": "agent"
-  },
-  {
-    "title": "从提需求到部署发布，全 AI 全自动化后，研发效能全面跃升",
-    "summary": "本文系统阐述了腾讯审核团队如何通过构建 AI 全自动化交付平台，实现从需求、设计、开发、测试到部署的全链路自动化，并分享了其 L2（人机协同）到 L3（全自动）的演进路径、核心挑战、具体实践与量化收益。",
-    "url": "https://www.bestblogs.dev/article/1d18d5d0",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-04-20",
-    "badge": "featured"
   }
 ]
