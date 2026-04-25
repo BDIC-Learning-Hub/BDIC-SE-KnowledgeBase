@@ -36,6 +36,15 @@
     "badge": "agent"
   },
   {
+    "title": "Qwen3.6-27B：无需 MoE 路由，旗舰级编程能力",
+    "summary": "通义实验室发布 Qwen3.6-27B，以 270 亿稠密参数在编程基准上全面超越前代 397B MoE 旗舰模型，并原生支持多模态与长上下文。",
+    "url": "https://www.bestblogs.dev/article/8c23d079",
+    "source": "BestBlogs / 通义大模型",
+    "topic": "人工智能",
+    "date": "2026-04-22",
+    "badge": "model"
+  },
+  {
     "title": "流量 2.0 时代",
     "summary": "本文系统论述了互联网流量正从以用户注意力为核心的 1.0 范式，向以智能体行为和词元消耗为核心的 2.0 范式转型，并分析了这一变革对消费互联网各细分领域及产业链参与者的深远影响。",
     "url": "https://www.bestblogs.dev/article/e4816743",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-22",
     "badge": "agent"
-  },
-  {
-    "title": "Harness Engineering：AI 能在真正“出事会炸”的后端系统里写代码吗？",
-    "summary": "本文分享了腾讯 CDN LEGO 团队在超大规模、高可靠性后端系统中实践 AI 编码的完整方法论——Harness Engineering，通过五层架构、三大抓手（上下文、约束、反馈）和多模型对抗式 CR，构建了一套让 AI 安全、可控地产出高质量代码的工程体系。",
-    "url": "https://www.bestblogs.dev/article/e32a066c",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-04-21",
-    "badge": "model"
   }
 ]
