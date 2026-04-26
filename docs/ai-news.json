@@ -1,5 +1,14 @@
 [
   {
+    "title": "DeepSeek V4 报告太详尽了！484 天换代之路全公开",
+    "summary": "DeepSeek V4 系列模型正式发布，通过 mHC 架构、混合注意力机制和 Muon 优化器，实现了百万 token 上下文下 KV cache 仅为 V3.2 的 10%，并全面开源、支持国产芯片。",
+    "url": "https://www.bestblogs.dev/article/1d95c0b8",
+    "source": "BestBlogs / henry",
+    "topic": "人工智能",
+    "date": "2026-04-25",
+    "badge": "model"
+  },
+  {
     "title": "DeepSeek-V4 预览版：迈入百万上下文普惠时代",
     "summary": "DeepSeek 发布 V4 预览版，推出 Pro 和 Flash 两个版本，标配百万上下文，在 Agent、推理和知识能力上达到开源领先水平，并同步开源。",
     "url": "https://www.bestblogs.dev/article/95d5e07c",
@@ -58,15 +67,6 @@
     "summary": "本文以 JK Launcher 项目为例，详细拆解了 Harness Engineering 从概念到工程化落地的完整实践路径，系统阐述了如何通过 SPEC、Rule、Skill、多 Agent、Workflow、Scripts 等组件构建一套让 AI 在复杂项目中稳定、规范、可协作的工程系统。",
     "url": "https://www.bestblogs.dev/article/d34819ba",
     "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-22",
-    "badge": "agent"
-  },
-  {
-    "title": "基于 Spring AI 从 0 到 1 构建 AI Agent",
-    "summary": "本文是一份基于 Spring AI 框架，从零开始构建一个功能完备的 AI Agent 的详细实践指南，涵盖核心编排、RAG、工具调用、子代理、MCP 协议等核心模块的架构设计与代码实现。",
-    "url": "https://www.bestblogs.dev/article/48e04876",
-    "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-04-22",
     "badge": "agent"
