@@ -25,7 +25,7 @@ Sean的经典课程，基于SpringBoot做一个演唱会系统。严格按照瀑
 ## 学习资源
 
 ### 📝 课程笔记
-- [Notes]([./notes/](https://github.com/beihaizhang11/COMP3013J-Object-Oriented-Design-Notes.git)) - 课程重点知识整理和UML图表
+- [Notes](https://github.com/beihaizhang11/COMP3013J-Object-Oriented-Design-Notes.git) - 课程重点知识整理和UML图表
 
 
 ### 📚 参考教材

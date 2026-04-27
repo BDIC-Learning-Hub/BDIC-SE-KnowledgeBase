@@ -211,6 +211,61 @@
   transition: width 0.3s ease;
 }
 
+/* 首页推荐文章 */
+.featured-post {
+  margin: 1rem 0 1.5rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-left: 0.18rem solid var(--md-accent-fg-color);
+  border-radius: 0.35rem;
+  background:
+    linear-gradient(135deg, rgba(63, 81, 181, 0.07), rgba(63, 81, 181, 0)),
+    var(--md-default-bg-color);
+}
+
+.featured-post__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.6rem;
+  margin-bottom: 0.35rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.62rem;
+  font-weight: 600;
+}
+
+.featured-post h2 {
+  margin: 0 0 0.35rem !important;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.featured-post p {
+  margin: 0 0 0.55rem;
+  color: var(--md-default-fg-color);
+  font-size: 0.72rem;
+  line-height: 1.55;
+}
+
+.featured-post a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  color: var(--md-accent-fg-color);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.featured-post a:hover {
+  text-decoration: underline;
+}
+
+[data-md-color-scheme="slate"] .featured-post {
+  background:
+    linear-gradient(135deg, rgba(117, 125, 232, 0.14), rgba(117, 125, 232, 0)),
+    var(--md-default-bg-color);
+}
+
 /* ==================== News 栏位样式 (现代化升级版) ==================== */
 
 .news-container {

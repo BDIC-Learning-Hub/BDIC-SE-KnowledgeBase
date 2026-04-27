@@ -35,4 +35,4 @@ GYH: 这门课程前期的学习曲线非常陡峭，你会发现在课上尝试
 - 与下方Sample exam题型一致，换数题
 - 把考试前Henry发的Sample中所有题型准备出答案就好，最难的题型大概率可以不写
 
-- [COMP3014J 24-25 Sample exam paper](./source/COMP 3018J Sample exam paper 24-25 pdf)
+- [COMP3014J 24-25 Sample exam paper](./source/COMP%203018J%20Sample%20exam%20paper%2024-25%20pdf.pdf)

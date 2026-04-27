@@ -48,7 +48,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   
-  favicon: assets/favicon.png
+  favicon: assets/BJUT_Logo.png
   icon:
     logo: material/school
     repo: fontawesome/brands/github

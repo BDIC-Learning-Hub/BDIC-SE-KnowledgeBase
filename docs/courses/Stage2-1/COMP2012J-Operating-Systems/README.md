@@ -33,7 +33,7 @@ Assignment: 一个scheduling，一个memory management，总体难度不大。
 - [2017-18 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202017_18.pdf)
 - [2016-17 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202016_17.pdf)
 - [2015-16 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202015_16.pdf)
-- [2014-15 Semester 1](./Exam/COMP2006J%20Operating%20Systems%20Semester%201%202014_15.pdf)
+- [2014-15 Semester 1](./Exam/COMP2006J%20Operating%C2%A0Systems%C2%A0Semester%201%202014_15.pdf)
 - [2028-2019 Final](./Exam/COMP2006J%20OperatingSystems-FinalExam.pdf)
 
 #### 🔄 补考试卷 (Resit Exam)
@@ -55,5 +55,4 @@ Assignment: 一个scheduling，一个memory management，总体难度不大。
 ### 🚀 项目
 - [Assignment1](https://github.com/buzhidaoqusm/COMP2012J_Assignment1.git)
 - [Assignment2](https://github.com/buzhidaoqusm/COMP2012J_Assignment2.git)
-
 

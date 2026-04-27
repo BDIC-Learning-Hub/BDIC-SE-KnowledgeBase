@@ -31,11 +31,10 @@ Xin Liu讲的深入浅出，值得跟随Profesor的思路学习
 
 
 ### Tut
-- [Tut 1](./source/Tut1.pdf)
-- [Tut 2](./source/Tut2.pdf)
-- [Tut 3](./source/Tut3.pdf)
-- [Tut 4](./source/Tut4.pdf)
-- [Tut 5](./source/Tut5.pdf)
-- [Tut 6](./source/Tut6.pdf)
-- [Tut 7](./source/Tut7.pdf)
-
+- [Tut 1](./source/Tut1.pdf.pdf)
+- [Tut 2](./source/Tut2.pdf.pdf)
+- [Tut 3](./source/Tut3.pdf.pdf)
+- [Tut 4](./source/Tut4.pdf.pdf)
+- [Tut 5](./source/Tut5.pdf.pdf)
+- [Tut 6](./source/Tut6.pdf.pdf)
+- [Tut 7](./source/Tut7.pdf.pdf)

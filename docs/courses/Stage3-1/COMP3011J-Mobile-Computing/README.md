@@ -72,7 +72,7 @@ Project需要自己定主题，并且需要和Prof讨论共同决定你的想法
 - [SportCalendar](https://github.com/mrle0429/SportCalendar.git) 
 - [StudyMate](https://github.com/buzhidaoqusm/COMP3011J_Group10)
 
-**如果您希望您的项目被展示，请[email](bdicfun@gmail.com). 并提供：**
+**如果您希望您的项目被展示，请[email](mailto:bdicfun@gmail.com). 并提供：**
 - 项目名称
 - 链接
 
