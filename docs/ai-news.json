@@ -18,6 +18,15 @@
     "badge": "agent"
   },
   {
+    "title": "为 Agent 设计产品",
+    "summary": "本文探讨了为 AI 智能体设计产品的核心理念，强调产品应主动教会智能体如何成功、建立反馈循环并留意上下文缺口，而非仅仅提供 API 接口。",
+    "url": "https://www.bestblogs.dev/article/6738cfeb",
+    "source": "BestBlogs / 宝玉",
+    "topic": "人工智能",
+    "date": "2026-04-24",
+    "badge": "agent"
+  },
+  {
     "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
     "summary": "本期周刊的核心观点是，随着大模型达到生产可用临界点，AI 自动化需要调用外部平台，正推动第二次 API 开放浪潮，其开放程度、易用性和使用目的均与第一次截然不同。",
     "url": "https://www.bestblogs.dev/article/1f0d1cae",
@@ -61,14 +70,5 @@
     "topic": "商业科技",
     "date": "2026-04-22",
     "badge": "featured"
-  },
-  {
-    "title": "万字干货！Harness Engineering 如何工程化落地？",
-    "summary": "本文以 JK Launcher 项目为例，详细拆解了 Harness Engineering 从概念到工程化落地的完整实践路径，系统阐述了如何通过 SPEC、Rule、Skill、多 Agent、Workflow、Scripts 等组件构建一套让 AI 在复杂项目中稳定、规范、可协作的工程系统。",
-    "url": "https://www.bestblogs.dev/article/d34819ba",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-22",
-    "badge": "agent"
   }
 ]
