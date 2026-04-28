@@ -1,5 +1,23 @@
 [
   {
+    "title": "Harness 不是目的，知识才是护城河 —— 一个 AI 工程交付团队的知识沉淀实践",
+    "summary": "本文基于 AI Team 工程交付实践，提出知识沉淀比工作流编排更重要的核心观点，并系统介绍了五层知识存储架构、三级成熟度体系及工作流如何服务于知识沉淀的完整方法论。",
+    "url": "https://www.bestblogs.dev/article/93462cd7",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-04-27",
+    "badge": "featured"
+  },
+  {
+    "title": "淘天营销中后台生码工作流最佳实践",
+    "summary": "本文系统总结了淘天营销中后台团队将 AI 生码从本地分散模式收敛至云端托管一体化工作流的实践路径，核心方法论是给恰好够用的精确知识、确定性逻辑交工程、知识建正向循环。",
+    "url": "https://www.bestblogs.dev/article/275a3d14",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-04-27",
+    "badge": "featured"
+  },
+  {
     "title": "DeepSeek V4 报告太详尽了！484 天换代之路全公开",
     "summary": "DeepSeek V4 系列模型正式发布，通过 mHC 架构、混合注意力机制和 Muon 优化器，实现了百万 token 上下文下 KV cache 仅为 V3.2 的 10%，并全面开源、支持国产芯片。",
     "url": "https://www.bestblogs.dev/article/1d95c0b8",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-23",
     "badge": "agent"
-  },
-  {
-    "title": "Qwen3.6-27B：无需 MoE 路由，旗舰级编程能力",
-    "summary": "通义实验室发布 Qwen3.6-27B，以 270 亿稠密参数在编程基准上全面超越前代 397B MoE 旗舰模型，并原生支持多模态与长上下文。",
-    "url": "https://www.bestblogs.dev/article/8c23d079",
-    "source": "BestBlogs / 通义大模型",
-    "topic": "人工智能",
-    "date": "2026-04-22",
-    "badge": "model"
-  },
-  {
-    "title": "流量 2.0 时代",
-    "summary": "本文系统论述了互联网流量正从以用户注意力为核心的 1.0 范式，向以智能体行为和词元消耗为核心的 2.0 范式转型，并分析了这一变革对消费互联网各细分领域及产业链参与者的深远影响。",
-    "url": "https://www.bestblogs.dev/article/e4816743",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-04-22",
-    "badge": "featured"
   }
 ]
