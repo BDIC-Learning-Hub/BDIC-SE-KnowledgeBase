@@ -1,8 +1,26 @@
 [
   {
+    "title": "Harness Engineering 实践心得：如何高效驾驭 AI？",
+    "summary": "本文通过真实项目案例，系统阐述了从 Prompt 到 Context 再到 Harness Engineering 的 AI 编程方法论演进，详细介绍了多 Agent 协作体系、规则脚本分离和事后验证机制等实践。",
+    "url": "https://www.bestblogs.dev/article/1d828539?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-28",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 的经济账根本算不通",
+    "summary": "本文深入剖析了生成式 AI 行业不可持续的经济模式，指出基于月费订阅的定价方式掩盖了高昂的 token 成本，并预测随着补贴退坡和按量计费普及，整个行业将面临严峻的盈利挑战。",
+    "url": "https://www.bestblogs.dev/article/77300b30?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 宝玉",
+    "topic": "商业科技",
+    "date": "2026-04-28",
+    "badge": "featured"
+  },
+  {
     "title": "Harness 不是目的，知识才是护城河 —— 一个 AI 工程交付团队的知识沉淀实践",
     "summary": "本文基于 AI Team 工程交付实践，提出知识沉淀比工作流编排更重要的核心观点，并系统介绍了五层知识存储架构、三级成熟度体系及工作流如何服务于知识沉淀的完整方法论。",
-    "url": "https://www.bestblogs.dev/article/93462cd7",
+    "url": "https://www.bestblogs.dev/article/93462cd7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
     "date": "2026-04-27",
@@ -11,7 +29,7 @@
   {
     "title": "淘天营销中后台生码工作流最佳实践",
     "summary": "本文系统总结了淘天营销中后台团队将 AI 生码从本地分散模式收敛至云端托管一体化工作流的实践路径，核心方法论是给恰好够用的精确知识、确定性逻辑交工程、知识建正向循环。",
-    "url": "https://www.bestblogs.dev/article/275a3d14",
+    "url": "https://www.bestblogs.dev/article/275a3d14?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 大淘宝技术",
     "topic": "人工智能",
     "date": "2026-04-27",
@@ -20,7 +38,7 @@
   {
     "title": "DeepSeek V4 报告太详尽了！484 天换代之路全公开",
     "summary": "DeepSeek V4 系列模型正式发布，通过 mHC 架构、混合注意力机制和 Muon 优化器，实现了百万 token 上下文下 KV cache 仅为 V3.2 的 10%，并全面开源、支持国产芯片。",
-    "url": "https://www.bestblogs.dev/article/1d95c0b8",
+    "url": "https://www.bestblogs.dev/article/1d95c0b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / henry",
     "topic": "人工智能",
     "date": "2026-04-25",
@@ -29,7 +47,7 @@
   {
     "title": "DeepSeek-V4 预览版：迈入百万上下文普惠时代",
     "summary": "DeepSeek 发布 V4 预览版，推出 Pro 和 Flash 两个版本，标配百万上下文，在 Agent、推理和知识能力上达到开源领先水平，并同步开源。",
-    "url": "https://www.bestblogs.dev/article/95d5e07c",
+    "url": "https://www.bestblogs.dev/article/95d5e07c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / DeepSeek",
     "topic": "人工智能",
     "date": "2026-04-24",
@@ -38,7 +56,7 @@
   {
     "title": "为 Agent 设计产品",
     "summary": "本文探讨了为 AI 智能体设计产品的核心理念，强调产品应主动教会智能体如何成功、建立反馈循环并留意上下文缺口，而非仅仅提供 API 接口。",
-    "url": "https://www.bestblogs.dev/article/6738cfeb",
+    "url": "https://www.bestblogs.dev/article/6738cfeb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 宝玉",
     "topic": "人工智能",
     "date": "2026-04-24",
@@ -47,28 +65,10 @@
   {
     "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
     "summary": "本期周刊的核心观点是，随着大模型达到生产可用临界点，AI 自动化需要调用外部平台，正推动第二次 API 开放浪潮，其开放程度、易用性和使用目的均与第一次截然不同。",
-    "url": "https://www.bestblogs.dev/article/1f0d1cae",
+    "url": "https://www.bestblogs.dev/article/1f0d1cae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阮一峰的网络日志",
     "topic": "媒体资讯",
     "date": "2026-04-23",
     "badge": "model"
-  },
-  {
-    "title": "从第一性原理思考 Agentic Engineering",
-    "summary": "本文从第一性原理出发，系统性地推导了 Agentic Engineering 的六条核心最佳实践，并介绍了一个基于 Skill 的模块化开源框架，旨在将工程纪律与 AI 能力结合，在复杂约束下可靠地提升软件工程质量。",
-    "url": "https://www.bestblogs.dev/article/f5d1601a",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-23",
-    "badge": "agent"
-  },
-  {
-    "title": "深入源码：Hermes Agent 如何实现 \"Self-Improving\"",
-    "summary": "本文通过深入分析 Hermes Agent 的源码，系统阐述了其实现自我进化的核心机制，包括 Memory、Skill 和 Nudge Engine 三个子系统的协同工作，并与 OpenClaw 进行对比，最后介绍了其商业化产品 RDSHermes 如何降低使用门槛。",
-    "url": "https://www.bestblogs.dev/article/97a41c9c",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-23",
-    "badge": "agent"
   }
 ]
