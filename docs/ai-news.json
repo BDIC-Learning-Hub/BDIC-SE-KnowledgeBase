@@ -1,5 +1,32 @@
 [
   {
+    "title": "杨斌：我为什么要提“AI 次方变革”",
+    "summary": "清华大学杨斌教授提出“AI 次方变革”概念，批判“+AI”的线性思维，主张企业 AI 转型的核心障碍在于“组织的中年”心智与“技术的青春期”之间的深度错位，需通过“破执重构”和“生成式涌现变革”实现心智与组织的同步升级。",
+    "url": "https://www.bestblogs.dev/article/9d66aff0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "商业科技",
+    "date": "2026-04-29",
+    "badge": "featured"
+  },
+  {
+    "title": "深入浅出 Harness Engineerring 之核心模式与理念",
+    "summary": "本文系统梳理了 Claude Code、Claude Managed Agents 和 Hermes 三种智能体架构的核心模式与设计理念，涵盖持久化指令、上下文压缩、三组件解耦、多智能体协作及五层记忆架构等关键技术。",
+    "url": "https://www.bestblogs.dev/article/b9e79f8b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-29",
+    "badge": "agent"
+  },
+  {
+    "title": "深度拆解 Hermes Agent 的记忆系统：它如何修正 OpenClaw 的误区",
+    "summary": "本文深入拆解了开源 AI 智能体 Hermes Agent 的四层记忆系统架构，揭示了其如何通过冷热分离、缓存优先和分层记忆设计，解决了 OpenClaw 等同类系统在记忆管理上的核心误区。",
+    "url": "https://www.bestblogs.dev/article/7aeb8781?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 宝玉",
+    "topic": "人工智能",
+    "date": "2026-04-29",
+    "badge": "agent"
+  },
+  {
     "title": "Harness Engineering 实践心得：如何高效驾驭 AI？",
     "summary": "本文通过真实项目案例，系统阐述了从 Prompt 到 Context 再到 Harness Engineering 的 AI 编程方法论演进，详细介绍了多 Agent 协作体系、规则脚本分离和事后验证机制等实践。",
     "url": "https://www.bestblogs.dev/article/1d828539?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / henry",
     "topic": "人工智能",
     "date": "2026-04-25",
-    "badge": "model"
-  },
-  {
-    "title": "DeepSeek-V4 预览版：迈入百万上下文普惠时代",
-    "summary": "DeepSeek 发布 V4 预览版，推出 Pro 和 Flash 两个版本，标配百万上下文，在 Agent、推理和知识能力上达到开源领先水平，并同步开源。",
-    "url": "https://www.bestblogs.dev/article/95d5e07c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeepSeek",
-    "topic": "人工智能",
-    "date": "2026-04-24",
-    "badge": "agent"
-  },
-  {
-    "title": "为 Agent 设计产品",
-    "summary": "本文探讨了为 AI 智能体设计产品的核心理念，强调产品应主动教会智能体如何成功、建立反馈循环并留意上下文缺口，而非仅仅提供 API 接口。",
-    "url": "https://www.bestblogs.dev/article/6738cfeb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
-    "topic": "人工智能",
-    "date": "2026-04-24",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 394 期）：第二次 API 开放浪潮",
-    "summary": "本期周刊的核心观点是，随着大模型达到生产可用临界点，AI 自动化需要调用外部平台，正推动第二次 API 开放浪潮，其开放程度、易用性和使用目的均与第一次截然不同。",
-    "url": "https://www.bestblogs.dev/article/1f0d1cae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "媒体资讯",
-    "date": "2026-04-23",
     "badge": "model"
   }
 ]
