@@ -1,5 +1,23 @@
 [
   {
+    "title": "京东广告大模型实战：GRAM 架构如何在 50ms 内完成生成式推荐？",
+    "summary": "京东广告团队公开了 GRAM 架构，通过意图与商品的直接语义对齐、快慢双链路、知识工程及工程优化，在 50ms 内实现生成式推荐，并有效抑制幻觉。",
+    "url": "https://www.bestblogs.dev/article/bfc8df6e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-04-30",
+    "badge": "model"
+  },
+  {
+    "title": "RAG 已死？不，是 Grep 回归了！",
+    "summary": "本文基于 Claude Code 泄露源码，深入拆解其放弃 RAG 和向量检索、采用 LLM 驱动 Grep 的多轮循环搜索机制，并与 Cursor、Codex 对比，论证在代码搜索场景下零索引方案的可行性与设计哲学。",
+    "url": "https://www.bestblogs.dev/article/409d9979?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-04-30",
+    "badge": "model"
+  },
+  {
     "title": "杨斌：我为什么要提“AI 次方变革”",
     "summary": "清华大学杨斌教授提出“AI 次方变革”概念，批判“+AI”的线性思维，主张企业 AI 转型的核心障碍在于“组织的中年”心智与“技术的青春期”之间的深度错位，需通过“破执重构”和“生成式涌现变革”实现心智与组织的同步升级。",
     "url": "https://www.bestblogs.dev/article/9d66aff0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-04-27",
     "badge": "featured"
-  },
-  {
-    "title": "淘天营销中后台生码工作流最佳实践",
-    "summary": "本文系统总结了淘天营销中后台团队将 AI 生码从本地分散模式收敛至云端托管一体化工作流的实践路径，核心方法论是给恰好够用的精确知识、确定性逻辑交工程、知识建正向循环。",
-    "url": "https://www.bestblogs.dev/article/275a3d14?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-04-27",
-    "badge": "featured"
-  },
-  {
-    "title": "DeepSeek V4 报告太详尽了！484 天换代之路全公开",
-    "summary": "DeepSeek V4 系列模型正式发布，通过 mHC 架构、混合注意力机制和 Muon 优化器，实现了百万 token 上下文下 KV cache 仅为 V3.2 的 10%，并全面开源、支持国产芯片。",
-    "url": "https://www.bestblogs.dev/article/1d95c0b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / henry",
-    "topic": "人工智能",
-    "date": "2026-04-25",
-    "badge": "model"
   }
 ]
