@@ -43,32 +43,5 @@
     "topic": "人工智能",
     "date": "2026-04-29",
     "badge": "agent"
-  },
-  {
-    "title": "Harness Engineering 实践心得：如何高效驾驭 AI？",
-    "summary": "本文通过真实项目案例，系统阐述了从 Prompt 到 Context 再到 Harness Engineering 的 AI 编程方法论演进，详细介绍了多 Agent 协作体系、规则脚本分离和事后验证机制等实践。",
-    "url": "https://www.bestblogs.dev/article/1d828539?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-28",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 的经济账根本算不通",
-    "summary": "本文深入剖析了生成式 AI 行业不可持续的经济模式，指出基于月费订阅的定价方式掩盖了高昂的 token 成本，并预测随着补贴退坡和按量计费普及，整个行业将面临严峻的盈利挑战。",
-    "url": "https://www.bestblogs.dev/article/77300b30?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
-    "topic": "商业科技",
-    "date": "2026-04-28",
-    "badge": "featured"
-  },
-  {
-    "title": "Harness 不是目的，知识才是护城河 —— 一个 AI 工程交付团队的知识沉淀实践",
-    "summary": "本文基于 AI Team 工程交付实践，提出知识沉淀比工作流编排更重要的核心观点，并系统介绍了五层知识存储架构、三级成熟度体系及工作流如何服务于知识沉淀的完整方法论。",
-    "url": "https://www.bestblogs.dev/article/93462cd7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-04-27",
-    "badge": "featured"
   }
 ]
