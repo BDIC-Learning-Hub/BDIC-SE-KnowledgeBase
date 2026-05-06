@@ -16,32 +16,5 @@
     "topic": "人工智能",
     "date": "2026-04-30",
     "badge": "model"
-  },
-  {
-    "title": "杨斌：我为什么要提“AI 次方变革”",
-    "summary": "清华大学杨斌教授提出“AI 次方变革”概念，批判“+AI”的线性思维，主张企业 AI 转型的核心障碍在于“组织的中年”心智与“技术的青春期”之间的深度错位，需通过“破执重构”和“生成式涌现变革”实现心智与组织的同步升级。",
-    "url": "https://www.bestblogs.dev/article/9d66aff0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "商业科技",
-    "date": "2026-04-29",
-    "badge": "featured"
-  },
-  {
-    "title": "深入浅出 Harness Engineerring 之核心模式与理念",
-    "summary": "本文系统梳理了 Claude Code、Claude Managed Agents 和 Hermes 三种智能体架构的核心模式与设计理念，涵盖持久化指令、上下文压缩、三组件解耦、多智能体协作及五层记忆架构等关键技术。",
-    "url": "https://www.bestblogs.dev/article/b9e79f8b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-04-29",
-    "badge": "agent"
-  },
-  {
-    "title": "深度拆解 Hermes Agent 的记忆系统：它如何修正 OpenClaw 的误区",
-    "summary": "本文深入拆解了开源 AI 智能体 Hermes Agent 的四层记忆系统架构，揭示了其如何通过冷热分离、缓存优先和分层记忆设计，解决了 OpenClaw 等同类系统在记忆管理上的核心误区。",
-    "url": "https://www.bestblogs.dev/article/7aeb8781?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
-    "topic": "人工智能",
-    "date": "2026-04-29",
-    "badge": "agent"
   }
 ]
