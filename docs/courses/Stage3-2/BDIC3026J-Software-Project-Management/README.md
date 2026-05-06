@@ -21,6 +21,9 @@
 >
 > 《人月神话》(The Mythical Man-Month)
 
+## Ass
+- [2025年项目章程](./Resource/Project-Chapter(Group%2012).pdf)
+
 ## 历史试卷
 lv在2025年第一次教授这门课程，故22级无有价值的参考试卷
 - [2020年试卷](./Resource/COMP3028J-Software%20Proj%20Management-20~21.pdf)
