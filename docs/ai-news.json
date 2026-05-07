@@ -1,18 +1,27 @@
 [
   {
+    "title": "Harness Engineering：耗时一周，我是如何将应用的 AI Coding 率提升至 90%的",
+    "summary": "本文系统介绍了 Harness Engineering 这一 AI 编码新范式，通过构建规则、技能、知识和变更管理四大要素体系，将企业级 Java 应用的 AI 代码率从 25% 提升至 90% 以上。",
+    "url": "https://www.bestblogs.dev/article/70e2f298?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-07",
+    "badge": "tooling"
+  },
+  {
+    "title": "一个文件让 AI Coding 效率翻倍：AGENTS.md 实践指南",
+    "summary": "本文系统介绍了 AGENTS.md 的核心理念与实践方法，通过仓库聚合、统一环境配置、验证闭环和自动化检查等策略，构建「打开即理解、改完即验证」的 AI 辅助开发体验。",
+    "url": "https://www.bestblogs.dev/article/5593088c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-06",
+    "badge": "agent"
+  },
+  {
     "title": "京东广告大模型实战：GRAM 架构如何在 50ms 内完成生成式推荐？",
     "summary": "京东广告团队公开了 GRAM 架构，通过意图与商品的直接语义对齐、快慢双链路、知识工程及工程优化，在 50ms 内实现生成式推荐，并有效抑制幻觉。",
     "url": "https://www.bestblogs.dev/article/bfc8df6e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-04-30",
-    "badge": "model"
-  },
-  {
-    "title": "RAG 已死？不，是 Grep 回归了！",
-    "summary": "本文基于 Claude Code 泄露源码，深入拆解其放弃 RAG 和向量检索、采用 LLM 驱动 Grep 的多轮循环搜索机制，并与 Cursor、Codex 对比，论证在代码搜索场景下零索引方案的可行性与设计哲学。",
-    "url": "https://www.bestblogs.dev/article/409d9979?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-04-30",
     "badge": "model"
