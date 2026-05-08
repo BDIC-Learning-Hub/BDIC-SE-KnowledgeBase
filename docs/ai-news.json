@@ -1,5 +1,23 @@
 [
   {
+    "title": "Agent 时代的生产力悖论：当协作本身成为最大的瓶颈",
+    "summary": "本文深入剖析了在 AI Agent 时代，传统软件工程的分工协作模式和信息组织方式已成为效率瓶颈，并提出了一套面向 Agent 的研发范式重构方案。",
+    "url": "https://www.bestblogs.dev/article/bfee870e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "软件编程",
+    "date": "2026-05-08",
+    "badge": "agent"
+  },
+  {
+    "title": "十年老技术开发的 AI Agent 探索之路",
+    "summary": "一位十年经验的技术开发者，通过从手动管理多个 AI 终端到构建 24 小时无人值守的 Agent 系统，分享了从 Task-Driven 到 Goal-Driven 的认知跃迁和工程实践方法论。",
+    "url": "https://www.bestblogs.dev/article/d9acc233?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-05-07",
+    "badge": "agent"
+  },
+  {
     "title": "Harness Engineering：耗时一周，我是如何将应用的 AI Coding 率提升至 90%的",
     "summary": "本文系统介绍了 Harness Engineering 这一 AI 编码新范式，通过构建规则、技能、知识和变更管理四大要素体系，将企业级 Java 应用的 AI 代码率从 25% 提升至 90% 以上。",
     "url": "https://www.bestblogs.dev/article/70e2f298?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,14 +34,5 @@
     "topic": "人工智能",
     "date": "2026-05-06",
     "badge": "agent"
-  },
-  {
-    "title": "京东广告大模型实战：GRAM 架构如何在 50ms 内完成生成式推荐？",
-    "summary": "京东广告团队公开了 GRAM 架构，通过意图与商品的直接语义对齐、快慢双链路、知识工程及工程优化，在 50ms 内实现生成式推荐，并有效抑制幻觉。",
-    "url": "https://www.bestblogs.dev/article/bfc8df6e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-04-30",
-    "badge": "model"
   }
 ]
