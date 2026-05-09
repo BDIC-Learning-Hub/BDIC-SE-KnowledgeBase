@@ -1,5 +1,14 @@
 [
   {
+    "title": "抖音动态体验优化实践与思考",
+    "summary": "本文详细介绍了抖音自研的动态性能框架 DDPF，从框架设计、感知决策到虚拟机调节，系统阐述了如何通过端智能与动态调度技术解决复杂业务场景下的性能优化难题。",
+    "url": "https://www.bestblogs.dev/article/02552e6c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "软件编程",
+    "date": "2026-05-08",
+    "badge": "tooling"
+  },
+  {
     "title": "Agent 时代的生产力悖论：当协作本身成为最大的瓶颈",
     "summary": "本文深入剖析了在 AI Agent 时代，传统软件工程的分工协作模式和信息组织方式已成为效率瓶颈，并提出了一套面向 Agent 的研发范式重构方案。",
     "url": "https://www.bestblogs.dev/article/bfee870e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,5 +43,14 @@
     "topic": "人工智能",
     "date": "2026-05-06",
     "badge": "agent"
+  },
+  {
+    "title": "大多数公司根本没有为 AI 做好准备",
+    "summary": "大多数公司未能有效利用 AI 的根本原因并非技术不成熟，而是自身战略模糊、目标不清、流程混乱，无法为 AI 提供清晰明确的指令。",
+    "url": "https://www.bestblogs.dev/article/c38611c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 宝玉",
+    "topic": "商业科技",
+    "date": "2026-05-03",
+    "badge": "featured"
   }
 ]
