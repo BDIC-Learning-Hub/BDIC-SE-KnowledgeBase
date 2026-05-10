@@ -1,5 +1,14 @@
 [
   {
+    "title": "AI Native 时代 —— 研发组织何去何从",
+    "summary": "本文深入探讨了 AI Native 时代研发组织的范式转变，提出组织形态将从以人为中心的 Org Chart 演变为包含人与 AI Agent 的 Execution Graph，并系统分析了新瓶颈、管理塌缩、三类工作治理等核心议题。",
+    "url": "https://www.bestblogs.dev/article/8c2c877a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-05-08",
+    "badge": "agent"
+  },
+  {
     "title": "抖音动态体验优化实践与思考",
     "summary": "本文详细介绍了抖音自研的动态性能框架 DDPF，从框架设计、感知决策到虚拟机调节，系统阐述了如何通过端智能与动态调度技术解决复杂业务场景下的性能优化难题。",
     "url": "https://www.bestblogs.dev/article/02552e6c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,6 +25,15 @@
     "topic": "软件编程",
     "date": "2026-05-08",
     "badge": "agent"
+  },
+  {
+    "title": "使用 Claude Code：HTML 难以置信的奇效",
+    "summary": "本文论证了在 AI 智能体协作中，HTML 相比 Markdown 在信息密度、视觉清晰度、可分享性和交互性方面具有显著优势，并提供了丰富的实践场景和提示词示例。",
+    "url": "https://www.bestblogs.dev/article/97fffd9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Thariq",
+    "topic": "人工智能",
+    "date": "2026-05-08",
+    "badge": "model"
   },
   {
     "title": "十年老技术开发的 AI Agent 探索之路",
@@ -43,14 +61,5 @@
     "topic": "人工智能",
     "date": "2026-05-06",
     "badge": "agent"
-  },
-  {
-    "title": "大多数公司根本没有为 AI 做好准备",
-    "summary": "大多数公司未能有效利用 AI 的根本原因并非技术不成熟，而是自身战略模糊、目标不清、流程混乱，无法为 AI 提供清晰明确的指令。",
-    "url": "https://www.bestblogs.dev/article/c38611c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
-    "topic": "商业科技",
-    "date": "2026-05-03",
-    "badge": "featured"
   }
 ]
