@@ -1,5 +1,14 @@
 [
   {
+    "title": "缓存使用实践总结：以淘宝交易结算场景为例",
+    "summary": "本文以淘宝交易结算场景为例，系统总结了缓存使用的理论框架、五类典型场景的落地实践以及六大缓存安全风险的成因与治理方案。",
+    "url": "https://www.bestblogs.dev/article/4f327c3f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-05-11",
+    "badge": "tooling"
+  },
+  {
     "title": "AI Native 时代 —— 研发组织何去何从",
     "summary": "本文深入探讨了 AI Native 时代研发组织的范式转变，提出组织形态将从以人为中心的 Org Chart 演变为包含人与 AI Agent 的 Execution Graph，并系统分析了新瓶颈、管理塌缩、三类工作治理等核心议题。",
     "url": "https://www.bestblogs.dev/article/8c2c877a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
