@@ -1,5 +1,32 @@
 [
   {
+    "title": "Agent Infra 实践复盘：Kimi 如何搭建 Agent 背后的 Database 服务",
+    "summary": "PingCAP CTO 黄东旭复盘了 TiDB Cloud 为 Kimi K2.6 Agent 建站服务提供数据库支持的实践，揭示了 Agent 时代数据基础设施的核心挑战与架构选择。",
+    "url": "https://www.bestblogs.dev/article/70ea435c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-05-12",
+    "badge": "agent"
+  },
+  {
+    "title": "QCon 北京 2026 | 把自动化测试当 AI Coding 来做：小红书 GUI Agent 实战回顾",
+    "summary": "小红书质效研发部在 QCon 北京 2026 分享了其自研的 GUI Agent 智能化测试系统，通过分层架构、双 Agent 协作和 Code-as-Action 策略，在春节大促期间实现了 4.3 万+次自动执行和 82% 的 AI 用例生成采纳率。",
+    "url": "https://www.bestblogs.dev/article/852b6f4a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小红书技术REDtech",
+    "topic": "人工智能",
+    "date": "2026-05-12",
+    "badge": "agent"
+  },
+  {
+    "title": "Agent Skill 规范、构建与设计模式",
+    "summary": "本文系统梳理了 Agent Skill 的规范标准、三层渐进式加载机制、模型驱动触发逻辑，并深入解析了 Skill-Creator 和 Writing-Skills 两种工程化开发范式及五种设计模式。",
+    "url": "https://www.bestblogs.dev/article/ad38855c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-12",
+    "badge": "agent"
+  },
+  {
     "title": "缓存使用实践总结：以淘宝交易结算场景为例",
     "summary": "本文以淘宝交易结算场景为例，系统总结了缓存使用的理论框架、五类典型场景的落地实践以及六大缓存安全风险的成因与治理方案。",
     "url": "https://www.bestblogs.dev/article/4f327c3f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-08",
     "badge": "model"
-  },
-  {
-    "title": "十年老技术开发的 AI Agent 探索之路",
-    "summary": "一位十年经验的技术开发者，通过从手动管理多个 AI 终端到构建 24 小时无人值守的 Agent 系统，分享了从 Task-Driven 到 Goal-Driven 的认知跃迁和工程实践方法论。",
-    "url": "https://www.bestblogs.dev/article/d9acc233?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-05-07",
-    "badge": "agent"
-  },
-  {
-    "title": "Harness Engineering：耗时一周，我是如何将应用的 AI Coding 率提升至 90%的",
-    "summary": "本文系统介绍了 Harness Engineering 这一 AI 编码新范式，通过构建规则、技能、知识和变更管理四大要素体系，将企业级 Java 应用的 AI 代码率从 25% 提升至 90% 以上。",
-    "url": "https://www.bestblogs.dev/article/70e2f298?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-07",
-    "badge": "tooling"
-  },
-  {
-    "title": "一个文件让 AI Coding 效率翻倍：AGENTS.md 实践指南",
-    "summary": "本文系统介绍了 AGENTS.md 的核心理念与实践方法，通过仓库聚合、统一环境配置、验证闭环和自动化检查等策略，构建「打开即理解、改完即验证」的 AI 辅助开发体验。",
-    "url": "https://www.bestblogs.dev/article/5593088c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-06",
-    "badge": "agent"
   }
 ]
