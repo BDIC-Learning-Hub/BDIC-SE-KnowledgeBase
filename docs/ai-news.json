@@ -1,5 +1,41 @@
 [
   {
+    "title": "当我把 AI 变成一个\"算法\"：Skill 工程化设计的心路历程",
+    "summary": "本文深入阐述了腾讯工程师如何通过 CLI 执行层、Workflow 工作流引擎和 Gate 门禁机制，将不可控的 AI Agent 工程化为一个精确、可恢复、可审计的确定性组件。",
+    "url": "https://www.bestblogs.dev/article/dcaef2c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-05-13",
+    "badge": "agent"
+  },
+  {
+    "title": "AI-Generated UI 技术深度解析：模型流式输出与 UI 渲染实践",
+    "summary": "本文系统性地解析了 AI-Generated UI 的核心技术，聚焦于大语言模型流式输出与前端 UI 渲染的工程实践，涵盖流式传输协议、主流开源架构、流式渲染核心挑战及 AI 编辑器实现。",
+    "url": "https://www.bestblogs.dev/article/42f8648f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-05-13",
+    "badge": "model"
+  },
+  {
+    "title": "一个 AI 还是不够",
+    "summary": "MiniMax 推出多 Agent 协作系统 Mavis，通过 Leader-Worker-Verifier 架构和对抗性质量门禁，解决单 Agent 在复杂任务中的痛点，并分享了其设计理念、技术架构、成本考量与适用场景。",
+    "url": "https://www.bestblogs.dev/article/f0deaa0c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-05-13",
+    "badge": "agent"
+  },
+  {
+    "title": "从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解",
+    "summary": "本文从架构编排、工具治理、状态记忆、评估体系、成本控制到 MCP 接入，系统拆解了生产级 Multi-Agent Harness 的设计原则与工程实践。",
+    "url": "https://www.bestblogs.dev/article/878057b5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-13",
+    "badge": "agent"
+  },
+  {
     "title": "Agent Infra 实践复盘：Kimi 如何搭建 Agent 背后的 Database 服务",
     "summary": "PingCAP CTO 黄东旭复盘了 TiDB Cloud 为 Kimi K2.6 Agent 建站服务提供数据库支持的实践，揭示了 Agent 时代数据基础设施的核心挑战与架构选择。",
     "url": "https://www.bestblogs.dev/article/70ea435c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -18,6 +54,15 @@
     "badge": "agent"
   },
   {
+    "title": "把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践",
+    "summary": "本文分享了蚂蚁集团在生成式 UI 领域的工程实践，通过构建 prompt 工作台、需求改写、组件检测、风格管理、流式渲染和自动化评审体系，将 UI 生成从技术能力转化为可接入生产流水线的工程能力。",
+    "url": "https://www.bestblogs.dev/article/9612050d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-05-12",
+    "badge": "featured"
+  },
+  {
     "title": "Agent Skill 规范、构建与设计模式",
     "summary": "本文系统梳理了 Agent Skill 的规范标准、三层渐进式加载机制、模型驱动触发逻辑，并深入解析了 Skill-Creator 和 Writing-Skills 两种工程化开发范式及五种设计模式。",
     "url": "https://www.bestblogs.dev/article/ad38855c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-12",
     "badge": "agent"
-  },
-  {
-    "title": "缓存使用实践总结：以淘宝交易结算场景为例",
-    "summary": "本文以淘宝交易结算场景为例，系统总结了缓存使用的理论框架、五类典型场景的落地实践以及六大缓存安全风险的成因与治理方案。",
-    "url": "https://www.bestblogs.dev/article/4f327c3f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-05-11",
-    "badge": "tooling"
-  },
-  {
-    "title": "AI Native 时代 —— 研发组织何去何从",
-    "summary": "本文深入探讨了 AI Native 时代研发组织的范式转变，提出组织形态将从以人为中心的 Org Chart 演变为包含人与 AI Agent 的 Execution Graph，并系统分析了新瓶颈、管理塌缩、三类工作治理等核心议题。",
-    "url": "https://www.bestblogs.dev/article/8c2c877a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-05-08",
-    "badge": "agent"
-  },
-  {
-    "title": "抖音动态体验优化实践与思考",
-    "summary": "本文详细介绍了抖音自研的动态性能框架 DDPF，从框架设计、感知决策到虚拟机调节，系统阐述了如何通过端智能与动态调度技术解决复杂业务场景下的性能优化难题。",
-    "url": "https://www.bestblogs.dev/article/02552e6c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "软件编程",
-    "date": "2026-05-08",
-    "badge": "tooling"
-  },
-  {
-    "title": "Agent 时代的生产力悖论：当协作本身成为最大的瓶颈",
-    "summary": "本文深入剖析了在 AI Agent 时代，传统软件工程的分工协作模式和信息组织方式已成为效率瓶颈，并提出了一套面向 Agent 的研发范式重构方案。",
-    "url": "https://www.bestblogs.dev/article/bfee870e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "软件编程",
-    "date": "2026-05-08",
-    "badge": "agent"
-  },
-  {
-    "title": "使用 Claude Code：HTML 难以置信的奇效",
-    "summary": "本文论证了在 AI 智能体协作中，HTML 相比 Markdown 在信息密度、视觉清晰度、可分享性和交互性方面具有显著优势，并提供了丰富的实践场景和提示词示例。",
-    "url": "https://www.bestblogs.dev/article/97fffd9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Thariq",
-    "topic": "人工智能",
-    "date": "2026-05-08",
-    "badge": "model"
   }
 ]
