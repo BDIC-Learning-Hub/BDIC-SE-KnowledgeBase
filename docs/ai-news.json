@@ -1,5 +1,41 @@
 [
   {
+    "title": "首个 Java Harness Framework 来了｜AgentScope 把 OpenClaw 带到企业分布式场景",
+    "summary": "AgentScope Java 1.1.0 正式发布，通过 Harness Framework 将工作区、可插拔文件系统、记忆管理和子 Agent 编排等工程能力打包，解决了 OpenClaw 等个人助手模式在企业级分布式场景中无法落地的五个核心障碍。",
+    "url": "https://www.bestblogs.dev/article/321aed16?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-15",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
+    "summary": "阮一峰科技周刊第 396 期，以 LoRa 和 Meshtastic 开源项目为核心，介绍了互联网中断时个人组建通信网的替代方案，并汇总了 MonkeyCode、逆向验证码、AI 输出 HTML 等前沿技术动态。",
+    "url": "https://www.bestblogs.dev/article/dd5b83f4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "媒体资讯",
+    "date": "2026-05-15",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 让生产效率不再是瓶颈，然后呢？｜AI 跃迁者调研 02-flomo 少楠",
+    "summary": "本文深度对话 flomo 联合创始人少楠，探讨当 AI 将开发效率提升至 70% 代码贡献后，团队面临的新瓶颈：用户价值挖掘滞后、协作方式重构困难，以及如何重新定义 AI 时代的「摩擦」与笔记价值。",
+    "url": "https://www.bestblogs.dev/article/6af09fd5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-05-14",
+    "badge": "featured"
+  },
+  {
+    "title": "Skill Factory：三天手搓面向 Harness 设计的技能工厂（附 AI coding 实践）",
+    "summary": "本文介绍了阿里云开发者基于测试驱动开发（TDD）理念构建的 Skill Factory 技能工厂，通过多路并行生成、自动化测试回归和生态适配，实现面向 Harness 设计的标准化、高可靠技能生成流水线。",
+    "url": "https://www.bestblogs.dev/article/f8b20a39?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-14",
+    "badge": "tooling"
+  },
+  {
     "title": "当我把 AI 变成一个\"算法\"：Skill 工程化设计的心路历程",
     "summary": "本文深入阐述了腾讯工程师如何通过 CLI 执行层、Workflow 工作流引擎和 Gate 门禁机制，将不可控的 AI Agent 工程化为一个精确、可恢复、可审计的确定性组件。",
     "url": "https://www.bestblogs.dev/article/dcaef2c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-05-13",
-    "badge": "agent"
-  },
-  {
-    "title": "Agent Infra 实践复盘：Kimi 如何搭建 Agent 背后的 Database 服务",
-    "summary": "PingCAP CTO 黄东旭复盘了 TiDB Cloud 为 Kimi K2.6 Agent 建站服务提供数据库支持的实践，揭示了 Agent 时代数据基础设施的核心挑战与架构选择。",
-    "url": "https://www.bestblogs.dev/article/70ea435c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-05-12",
-    "badge": "agent"
-  },
-  {
-    "title": "QCon 北京 2026 | 把自动化测试当 AI Coding 来做：小红书 GUI Agent 实战回顾",
-    "summary": "小红书质效研发部在 QCon 北京 2026 分享了其自研的 GUI Agent 智能化测试系统，通过分层架构、双 Agent 协作和 Code-as-Action 策略，在春节大促期间实现了 4.3 万+次自动执行和 82% 的 AI 用例生成采纳率。",
-    "url": "https://www.bestblogs.dev/article/852b6f4a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小红书技术REDtech",
-    "topic": "人工智能",
-    "date": "2026-05-12",
-    "badge": "agent"
-  },
-  {
-    "title": "把 UI 生成接进流水线：基于半监督评测体系的 UI 自动化生产实践",
-    "summary": "本文分享了蚂蚁集团在生成式 UI 领域的工程实践，通过构建 prompt 工作台、需求改写、组件检测、风格管理、流式渲染和自动化评审体系，将 UI 生成从技术能力转化为可接入生产流水线的工程能力。",
-    "url": "https://www.bestblogs.dev/article/9612050d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-05-12",
-    "badge": "featured"
-  },
-  {
-    "title": "Agent Skill 规范、构建与设计模式",
-    "summary": "本文系统梳理了 Agent Skill 的规范标准、三层渐进式加载机制、模型驱动触发逻辑，并深入解析了 Skill-Creator 和 Writing-Skills 两种工程化开发范式及五种设计模式。",
-    "url": "https://www.bestblogs.dev/article/ad38855c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-12",
     "badge": "agent"
   }
 ]
