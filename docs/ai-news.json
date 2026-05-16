@@ -9,6 +9,15 @@
     "badge": "agent"
   },
   {
+    "title": "Kimi WebBridge：让 AI 帮你操作浏览器",
+    "summary": "Kimi 推出 WebBridge 浏览器插件，让 AI Agent 能像用户一样操作浏览器，实现网页自动化任务。",
+    "url": "https://www.bestblogs.dev/article/31884d93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 月之暗面 Kimi",
+    "topic": "人工智能",
+    "date": "2026-05-15",
+    "badge": "agent"
+  },
+  {
     "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
     "summary": "阮一峰科技周刊第 396 期，以 LoRa 和 Meshtastic 开源项目为核心，介绍了互联网中断时个人组建通信网的替代方案，并汇总了 MonkeyCode、逆向验证码、AI 输出 HTML 等前沿技术动态。",
     "url": "https://www.bestblogs.dev/article/dd5b83f4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -58,15 +67,6 @@
     "summary": "MiniMax 推出多 Agent 协作系统 Mavis，通过 Leader-Worker-Verifier 架构和对抗性质量门禁，解决单 Agent 在复杂任务中的痛点，并分享了其设计理念、技术架构、成本考量与适用场景。",
     "url": "https://www.bestblogs.dev/article/f0deaa0c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-05-13",
-    "badge": "agent"
-  },
-  {
-    "title": "从零设计生产级 Multi-Agent Harness：架构、评估、记忆、成本与 MCP 工具接入全拆解",
-    "summary": "本文从架构编排、工具治理、状态记忆、评估体系、成本控制到 MCP 接入，系统拆解了生产级 Multi-Agent Harness 的设计原则与工程实践。",
-    "url": "https://www.bestblogs.dev/article/878057b5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-05-13",
     "badge": "agent"
