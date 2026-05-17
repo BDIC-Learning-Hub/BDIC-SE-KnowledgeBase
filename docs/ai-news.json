@@ -1,5 +1,14 @@
 [
   {
+    "title": "面向智能导购的 Agent 评测实践",
+    "summary": "本文提出一套面向家居导购 Agent 的自动化评估链路，基于结构化多维度 Benchmark 和 LLM-as-a-judge 实现 91.9% 准确率的自动评分，并量化对比发现 gpt51 最优，较线上模型 qwen3-vl 提升 16.4%。",
+    "url": "https://www.bestblogs.dev/article/dcc796ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-05-15",
+    "badge": "agent"
+  },
+  {
     "title": "首个 Java Harness Framework 来了｜AgentScope 把 OpenClaw 带到企业分布式场景",
     "summary": "AgentScope Java 1.1.0 正式发布，通过 Harness Framework 将工作区、可插拔文件系统、记忆管理和子 Agent 编排等工程能力打包，解决了 OpenClaw 等个人助手模式在企业级分布式场景中无法落地的五个核心障碍。",
     "url": "https://www.bestblogs.dev/article/321aed16?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-13",
     "badge": "model"
-  },
-  {
-    "title": "一个 AI 还是不够",
-    "summary": "MiniMax 推出多 Agent 协作系统 Mavis，通过 Leader-Worker-Verifier 架构和对抗性质量门禁，解决单 Agent 在复杂任务中的痛点，并分享了其设计理念、技术架构、成本考量与适用场景。",
-    "url": "https://www.bestblogs.dev/article/f0deaa0c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-05-13",
-    "badge": "agent"
   }
 ]
