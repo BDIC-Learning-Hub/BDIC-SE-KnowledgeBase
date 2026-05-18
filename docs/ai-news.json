@@ -1,5 +1,14 @@
 [
   {
+    "title": "创始人手册：打造 AI 原生初创公司",
+    "summary": "本文是 Anthropic 官方发布的创始人手册，系统阐述了在 2026 年 AI 原生时代，创始人如何利用 Claude 系列工具（Chat、Cowork、Code）在构思、MVP、发布、扩展四个阶段，以极致精益的方式打造并规模化一家初创公司。",
+    "url": "https://www.bestblogs.dev/article/5efca4cf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 宝玉",
+    "topic": "商业科技",
+    "date": "2026-05-16",
+    "badge": "model"
+  },
+  {
     "title": "面向智能导购的 Agent 评测实践",
     "summary": "本文提出一套面向家居导购 Agent 的自动化评估链路，基于结构化多维度 Benchmark 和 LLM-as-a-judge 实现 91.9% 准确率的自动评分，并量化对比发现 gpt51 最优，较线上模型 qwen3-vl 提升 16.4%。",
     "url": "https://www.bestblogs.dev/article/dcc796ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-13",
     "badge": "agent"
-  },
-  {
-    "title": "AI-Generated UI 技术深度解析：模型流式输出与 UI 渲染实践",
-    "summary": "本文系统性地解析了 AI-Generated UI 的核心技术，聚焦于大语言模型流式输出与前端 UI 渲染的工程实践，涵盖流式传输协议、主流开源架构、流式渲染核心挑战及 AI 编辑器实现。",
-    "url": "https://www.bestblogs.dev/article/42f8648f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-13",
-    "badge": "model"
   }
 ]
