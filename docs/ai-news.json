@@ -1,5 +1,41 @@
 [
   {
+    "title": "从 0 开发大模型的 17 种 Agent 架构演进详细拆解",
+    "summary": "本文从控制流设计的角度，系统拆解了从单次生成到多 Agent 协作的 17 种 Agent 架构演化路径，并用 agno 框架给出了每种架构的代码实现。",
+    "url": "https://www.bestblogs.dev/article/4ab3a76d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-05-18",
+    "badge": "agent"
+  },
+  {
+    "title": "RAG 全链路技术详解",
+    "summary": "本文从实战角度系统拆解了 RAG 全链路核心技术，涵盖文档加载、智能切分、索引构建、检索优化、生成调优、Graph RAG 进阶及 Ragas 自动化评估体系，强调可测、可调、可信赖的工程化实践。",
+    "url": "https://www.bestblogs.dev/article/1eeddb21?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-05-18",
+    "badge": "featured"
+  },
+  {
+    "title": "CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘",
+    "summary": "阿里云 CIO 团队基于一年实战复盘，提出 AI 时代产研提效的核心在于「规模化」而非「生码率」，通过左移质量测试、知识工程、API 规约和 Half-Stack 岗位重构，实现前端人均有效代码量提升 3 倍、后端 2 倍、缺陷率下降 30%-55%。",
+    "url": "https://www.bestblogs.dev/article/339ffc01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-05-18",
+    "badge": "featured"
+  },
+  {
+    "title": "重新定义 Skill 开发：保姆级教程&一站式开发助手发布",
+    "summary": "本文系统介绍了 AI Agent Skill 的概念、目录结构、编写规范、发布流程和跨平台痛点，并发布了一站式 Skill 开发助手 skill-dev-aio，旨在将开发者从繁琐的工具学习中解放出来，聚焦于体验和判断。",
+    "url": "https://www.bestblogs.dev/article/b71c47ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-18",
+    "badge": "agent"
+  },
+  {
     "title": "创始人手册：打造 AI 原生初创公司",
     "summary": "本文是 Anthropic 官方发布的创始人手册，系统阐述了在 2026 年 AI 原生时代，创始人如何利用 Claude 系列工具（Chat、Cowork、Code）在构思、MVP、发布、扩展四个阶段，以极致精益的方式打造并规模化一家初创公司。",
     "url": "https://www.bestblogs.dev/article/5efca4cf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 月之暗面 Kimi",
     "topic": "人工智能",
     "date": "2026-05-15",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 396 期）：互联网通信的替代方案",
-    "summary": "阮一峰科技周刊第 396 期，以 LoRa 和 Meshtastic 开源项目为核心，介绍了互联网中断时个人组建通信网的替代方案，并汇总了 MonkeyCode、逆向验证码、AI 输出 HTML 等前沿技术动态。",
-    "url": "https://www.bestblogs.dev/article/dd5b83f4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "媒体资讯",
-    "date": "2026-05-15",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 让生产效率不再是瓶颈，然后呢？｜AI 跃迁者调研 02-flomo 少楠",
-    "summary": "本文深度对话 flomo 联合创始人少楠，探讨当 AI 将开发效率提升至 70% 代码贡献后，团队面临的新瓶颈：用户价值挖掘滞后、协作方式重构困难，以及如何重新定义 AI 时代的「摩擦」与笔记价值。",
-    "url": "https://www.bestblogs.dev/article/6af09fd5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-05-14",
-    "badge": "featured"
-  },
-  {
-    "title": "Skill Factory：三天手搓面向 Harness 设计的技能工厂（附 AI coding 实践）",
-    "summary": "本文介绍了阿里云开发者基于测试驱动开发（TDD）理念构建的 Skill Factory 技能工厂，通过多路并行生成、自动化测试回归和生态适配，实现面向 Harness 设计的标准化、高可靠技能生成流水线。",
-    "url": "https://www.bestblogs.dev/article/f8b20a39?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-14",
-    "badge": "tooling"
-  },
-  {
-    "title": "当我把 AI 变成一个\"算法\"：Skill 工程化设计的心路历程",
-    "summary": "本文深入阐述了腾讯工程师如何通过 CLI 执行层、Workflow 工作流引擎和 Gate 门禁机制，将不可控的 AI Agent 工程化为一个精确、可恢复、可审计的确定性组件。",
-    "url": "https://www.bestblogs.dev/article/dcaef2c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-05-13",
     "badge": "agent"
   }
 ]
