@@ -1,5 +1,23 @@
 [
   {
+    "title": "让 Skill 自己训练自己：8 阶段 Loop、3 层评测、5 维 AND 门控，从此实现自进化",
+    "summary": "本文提出并实现了一个名为 skill-evolver 的自进化框架，通过融合 Karpathy autoresearch 的外循环、Anthropic skill-creator 的评测引擎和 Stanford Meta-Harness 的 trace 诊断思想，让 AI Skill 能够像训练模型一样自主迭代、评测、回滚和选优，并以 19 轮零回滚的自我进化和真实业务场景验证了其可行性。",
+    "url": "https://www.bestblogs.dev/article/8fdfe4e8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-19",
+    "badge": "model"
+  },
+  {
+    "title": "基于浏览器请求录制与 AI 代码生成的 E2E 接口自动化测试实践",
+    "summary": "本文以阿里云 DataWorks 为例，详细介绍了通过浏览器录制插件捕获真实请求数据，结合 AI 编程工具自动生成接口封装与测试用例，从而解决复杂平台产品 E2E 自动化测试中接口多、参数杂、数据流深等核心难题的实践方法。",
+    "url": "https://www.bestblogs.dev/article/66799b09?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "软件编程",
+    "date": "2026-05-19",
+    "badge": "tooling"
+  },
+  {
     "title": "从 0 开发大模型的 17 种 Agent 架构演进详细拆解",
     "summary": "本文从控制流设计的角度，系统拆解了从单次生成到多 Agent 协作的 17 种 Agent 架构演化路径，并用 agno 框架给出了每种架构的代码实现。",
     "url": "https://www.bestblogs.dev/article/4ab3a76d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -49,24 +67,6 @@
     "summary": "本文提出一套面向家居导购 Agent 的自动化评估链路，基于结构化多维度 Benchmark 和 LLM-as-a-judge 实现 91.9% 准确率的自动评分，并量化对比发现 gpt51 最优，较线上模型 qwen3-vl 提升 16.4%。",
     "url": "https://www.bestblogs.dev/article/dcc796ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-15",
-    "badge": "agent"
-  },
-  {
-    "title": "首个 Java Harness Framework 来了｜AgentScope 把 OpenClaw 带到企业分布式场景",
-    "summary": "AgentScope Java 1.1.0 正式发布，通过 Harness Framework 将工作区、可插拔文件系统、记忆管理和子 Agent 编排等工程能力打包，解决了 OpenClaw 等个人助手模式在企业级分布式场景中无法落地的五个核心障碍。",
-    "url": "https://www.bestblogs.dev/article/321aed16?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-15",
-    "badge": "agent"
-  },
-  {
-    "title": "Kimi WebBridge：让 AI 帮你操作浏览器",
-    "summary": "Kimi 推出 WebBridge 浏览器插件，让 AI Agent 能像用户一样操作浏览器，实现网页自动化任务。",
-    "url": "https://www.bestblogs.dev/article/31884d93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 月之暗面 Kimi",
     "topic": "人工智能",
     "date": "2026-05-15",
     "badge": "agent"
