@@ -1,5 +1,23 @@
 [
   {
+    "title": "TLiveOmni 1.0: 直播视频多模态理解大模型",
+    "summary": "TLiveOmni 1.0 是阿里巴巴大淘宝技术团队推出的面向电商直播场景的全模态大模型，原生支持图像、文本、视频、音频四模态统一输入，在语音识别、商品定位等任务上达到 SOTA 水平。",
+    "url": "https://www.bestblogs.dev/article/c44121f6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-05-20",
+    "badge": "model"
+  },
+  {
+    "title": "从 Prompt、Context 到 Harness，工程的三次进化与终局之战",
+    "summary": "本文系统阐述了 AI 工程从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering 的三次进化，指出三者是嵌套关系而非替代关系，并提出了 Harness 衰变定律和工程师新范式。",
+    "url": "https://www.bestblogs.dev/article/ae472ac6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-20",
+    "badge": "featured"
+  },
+  {
     "title": "让 Skill 自己训练自己：8 阶段 Loop、3 层评测、5 维 AND 门控，从此实现自进化",
     "summary": "本文提出并实现了一个名为 skill-evolver 的自进化框架，通过融合 Karpathy autoresearch 的外循环、Anthropic skill-creator 的评测引擎和 Stanford Meta-Harness 的 trace 诊断思想，让 AI Skill 能够像训练模型一样自主迭代、评测、回滚和选优，并以 19 轮零回滚的自我进化和真实业务场景验证了其可行性。",
     "url": "https://www.bestblogs.dev/article/8fdfe4e8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-05-18",
-    "badge": "agent"
-  },
-  {
-    "title": "创始人手册：打造 AI 原生初创公司",
-    "summary": "本文是 Anthropic 官方发布的创始人手册，系统阐述了在 2026 年 AI 原生时代，创始人如何利用 Claude 系列工具（Chat、Cowork、Code）在构思、MVP、发布、扩展四个阶段，以极致精益的方式打造并规模化一家初创公司。",
-    "url": "https://www.bestblogs.dev/article/5efca4cf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
-    "topic": "商业科技",
-    "date": "2026-05-16",
-    "badge": "model"
-  },
-  {
-    "title": "面向智能导购的 Agent 评测实践",
-    "summary": "本文提出一套面向家居导购 Agent 的自动化评估链路，基于结构化多维度 Benchmark 和 LLM-as-a-judge 实现 91.9% 准确率的自动评分，并量化对比发现 gpt51 最优，较线上模型 qwen3-vl 提升 16.4%。",
-    "url": "https://www.bestblogs.dev/article/dcc796ec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-15",
     "badge": "agent"
   }
 ]
