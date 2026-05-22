@@ -1,5 +1,41 @@
 [
   {
+    "title": "Agent 核心技术概念与范式发生了哪些演变以及背后的思考",
+    "summary": "本文系统梳理了 Agent 技术从早期 ReAct 到自进化阶段的四个范式演变，并从 Prompt、Planning、Memory、Tools、Workflow、Environment 六个核心维度深入分析了技术概念与实现方式的前后变化及背后的工程化思考。",
+    "url": "https://www.bestblogs.dev/article/5aaeed82?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-22",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
+    "summary": "本期周刊以「财富正在向 AI 集中」为核心议题，探讨 AI 技术革命引发的社会财富再分配效应，并涵盖 AI 估算碳水含量的实验、微软淘汰短信验证码、亚马逊供应链服务等多个科技话题。",
+    "url": "https://www.bestblogs.dev/article/53a3eccf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰的网络日志",
+    "topic": "媒体资讯",
+    "date": "2026-05-21",
+    "badge": "featured"
+  },
+  {
+    "title": "QQ 音乐 Harness Engineering 实践",
+    "summary": "本文详细介绍了 QQ 音乐团队自研的 Harness Engineering 框架，旨在将 AI 协作从不可控的对话式编码升级为可控、可审计、可复用的工程化过程，以解决大仓多服务场景下的 AI 编程效率与质量矛盾。",
+    "url": "https://www.bestblogs.dev/article/ba2a6d8b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-05-21",
+    "badge": "tooling"
+  },
+  {
+    "title": "都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境",
+    "summary": "本文深入分析了 Java 微服务项目在 AI Coding 中体验差的原因，并提出了通过 Harness Engineering 构建本地可运行环境，让 AI 具备自主验证能力的方法论与实践方案。",
+    "url": "https://www.bestblogs.dev/article/ec64413d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "软件编程",
+    "date": "2026-05-21",
+    "badge": "tooling"
+  },
+  {
     "title": "TLiveOmni 1.0: 直播视频多模态理解大模型",
     "summary": "TLiveOmni 1.0 是阿里巴巴大淘宝技术团队推出的面向电商直播场景的全模态大模型，原生支持图像、文本、视频、音频四模态统一输入，在语音识别、商品定位等任务上达到 SOTA 水平。",
     "url": "https://www.bestblogs.dev/article/c44121f6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,6 +45,24 @@
     "badge": "model"
   },
   {
+    "title": "谷歌 AI 的 14 年、Gemini 翻身之战，与视觉理解模型：专访 DeepMind 前核心科学家 Andrew Dai｜Neolabs 特辑",
+    "summary": "DeepMind 前核心科学家 Andrew Dai 深度访谈，回顾谷歌 AI 14 年发展史，从错失 GPT 时刻到 Gemini 翻身，并阐述其创立 Elorian AI 探索视觉推理路线的愿景。",
+    "url": "https://www.bestblogs.dev/article/27c9df28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-05-20",
+    "badge": "model"
+  },
+  {
+    "title": "Qwen3.7-Max 重新定义 AI Agent 基座",
+    "summary": "通义实验室发布 Qwen3.7-Max，在 35 小时连续自主执行、1158 次工具调用零中断的极限压力测试中证明其长程智能体稳定性，并通过解耦训练架构实现跨框架泛化。",
+    "url": "https://www.bestblogs.dev/article/06f8ff33?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 通义大模型",
+    "topic": "人工智能",
+    "date": "2026-05-20",
+    "badge": "agent"
+  },
+  {
     "title": "从 Prompt、Context 到 Harness，工程的三次进化与终局之战",
     "summary": "本文系统阐述了 AI 工程从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering 的三次进化，指出三者是嵌套关系而非替代关系，并提出了 Harness 衰变定律和工程师新范式。",
     "url": "https://www.bestblogs.dev/article/ae472ac6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,59 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-20",
     "badge": "featured"
-  },
-  {
-    "title": "让 Skill 自己训练自己：8 阶段 Loop、3 层评测、5 维 AND 门控，从此实现自进化",
-    "summary": "本文提出并实现了一个名为 skill-evolver 的自进化框架，通过融合 Karpathy autoresearch 的外循环、Anthropic skill-creator 的评测引擎和 Stanford Meta-Harness 的 trace 诊断思想，让 AI Skill 能够像训练模型一样自主迭代、评测、回滚和选优，并以 19 轮零回滚的自我进化和真实业务场景验证了其可行性。",
-    "url": "https://www.bestblogs.dev/article/8fdfe4e8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-19",
-    "badge": "model"
-  },
-  {
-    "title": "基于浏览器请求录制与 AI 代码生成的 E2E 接口自动化测试实践",
-    "summary": "本文以阿里云 DataWorks 为例，详细介绍了通过浏览器录制插件捕获真实请求数据，结合 AI 编程工具自动生成接口封装与测试用例，从而解决复杂平台产品 E2E 自动化测试中接口多、参数杂、数据流深等核心难题的实践方法。",
-    "url": "https://www.bestblogs.dev/article/66799b09?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "软件编程",
-    "date": "2026-05-19",
-    "badge": "tooling"
-  },
-  {
-    "title": "从 0 开发大模型的 17 种 Agent 架构演进详细拆解",
-    "summary": "本文从控制流设计的角度，系统拆解了从单次生成到多 Agent 协作的 17 种 Agent 架构演化路径，并用 agno 框架给出了每种架构的代码实现。",
-    "url": "https://www.bestblogs.dev/article/4ab3a76d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-05-18",
-    "badge": "agent"
-  },
-  {
-    "title": "RAG 全链路技术详解",
-    "summary": "本文从实战角度系统拆解了 RAG 全链路核心技术，涵盖文档加载、智能切分、索引构建、检索优化、生成调优、Graph RAG 进阶及 Ragas 自动化评估体系，强调可测、可调、可信赖的工程化实践。",
-    "url": "https://www.bestblogs.dev/article/1eeddb21?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-18",
-    "badge": "featured"
-  },
-  {
-    "title": "CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘",
-    "summary": "阿里云 CIO 团队基于一年实战复盘，提出 AI 时代产研提效的核心在于「规模化」而非「生码率」，通过左移质量测试、知识工程、API 规约和 Half-Stack 岗位重构，实现前端人均有效代码量提升 3 倍、后端 2 倍、缺陷率下降 30%-55%。",
-    "url": "https://www.bestblogs.dev/article/339ffc01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-05-18",
-    "badge": "featured"
-  },
-  {
-    "title": "重新定义 Skill 开发：保姆级教程&一站式开发助手发布",
-    "summary": "本文系统介绍了 AI Agent Skill 的概念、目录结构、编写规范、发布流程和跨平台痛点，并发布了一站式 Skill 开发助手 skill-dev-aio，旨在将开发者从繁琐的工具学习中解放出来，聚焦于体验和判断。",
-    "url": "https://www.bestblogs.dev/article/b71c47ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-18",
-    "badge": "agent"
   }
 ]
