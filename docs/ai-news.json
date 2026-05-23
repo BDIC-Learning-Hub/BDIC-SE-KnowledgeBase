@@ -1,5 +1,23 @@
 [
   {
+    "title": "腾讯云 Agent Memory 节省 61% Token 提升 52%成功率的诀窍：Mermaid 无限画布×上下文卸载",
+    "summary": "腾讯云 Agent Memory 通过上下文卸载与 Mermaid 无限画布的组合方案，在超长 Session 中最高节省 61% Token 并提升 52% 任务通过率，实现了 Agent 短期记忆的高效压缩与结构化管理。",
+    "url": "https://www.bestblogs.dev/article/44a0ebaa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-05-22",
+    "badge": "agent"
+  },
+  {
+    "title": "GLM-5.1 高速版：400 tokens/s，顶尖模型跑出最快速度",
+    "summary": "智谱发布 GLM-5.1 高速版 API，输出速度达 400 tokens/s，在保留旗舰模型能力的同时实现极致低延迟，并介绍了背后的 TileRT 高性能推理引擎技术。",
+    "url": "https://www.bestblogs.dev/article/d28f2131?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智谱",
+    "topic": "人工智能",
+    "date": "2026-05-22",
+    "badge": "model"
+  },
+  {
     "title": "Agent 核心技术概念与范式发生了哪些演变以及背后的思考",
     "summary": "本文系统梳理了 Agent 技术从早期 ReAct 到自进化阶段的四个范式演变，并从 Prompt、Planning、Memory、Tools、Workflow、Environment 六个核心维度深入分析了技术概念与实现方式的前后变化及背后的工程化思考。",
     "url": "https://www.bestblogs.dev/article/5aaeed82?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-20",
     "badge": "model"
-  },
-  {
-    "title": "Qwen3.7-Max 重新定义 AI Agent 基座",
-    "summary": "通义实验室发布 Qwen3.7-Max，在 35 小时连续自主执行、1158 次工具调用零中断的极限压力测试中证明其长程智能体稳定性，并通过解耦训练架构实现跨框架泛化。",
-    "url": "https://www.bestblogs.dev/article/06f8ff33?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 通义大模型",
-    "topic": "人工智能",
-    "date": "2026-05-20",
-    "badge": "agent"
-  },
-  {
-    "title": "从 Prompt、Context 到 Harness，工程的三次进化与终局之战",
-    "summary": "本文系统阐述了 AI 工程从 Prompt Engineering 到 Context Engineering 再到 Harness Engineering 的三次进化，指出三者是嵌套关系而非替代关系，并提出了 Harness 衰变定律和工程师新范式。",
-    "url": "https://www.bestblogs.dev/article/ae472ac6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-20",
-    "badge": "featured"
   }
 ]
