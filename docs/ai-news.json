@@ -1,5 +1,14 @@
 [
   {
+    "title": "Multi-Agent 火了，但 AI 的组织病还没人治｜Hao 好聊趋势",
+    "summary": "本文深入剖析了多智能体系统在工程架构（Harness）成功解决外部协作问题后，内部浮现的群体认知病与个体解离病，指出当前主流对齐技术可能加剧而非解决这些深层问题。",
+    "url": "https://www.bestblogs.dev/article/4e8c22e7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-05-23",
+    "badge": "agent"
+  },
+  {
     "title": "腾讯云 Agent Memory 节省 61% Token 提升 52%成功率的诀窍：Mermaid 无限画布×上下文卸载",
     "summary": "腾讯云 Agent Memory 通过上下文卸载与 Mermaid 无限画布的组合方案，在超长 Session 中最高节省 61% Token 并提升 52% 任务通过率，实现了 Agent 短期记忆的高效压缩与结构化管理。",
     "url": "https://www.bestblogs.dev/article/44a0ebaa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,6 +16,15 @@
     "topic": "人工智能",
     "date": "2026-05-22",
     "badge": "agent"
+  },
+  {
+    "title": "我们用 150 个任务测试了 30 个 skill，跑出 7 个反直觉结论",
+    "summary": "腾讯玄武实验室通过 150 组任务级对照实验，系统评估了 30 个 AI Skill 的真实效果，发现装上 Skill 并不一定更好，且存在虹吸、成本增加、稳定性风险等反直觉结论。",
+    "url": "https://www.bestblogs.dev/article/808f49ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-05-22",
+    "badge": "featured"
   },
   {
     "title": "GLM-5.1 高速版：400 tokens/s，顶尖模型跑出最快速度",
@@ -52,23 +70,5 @@
     "topic": "软件编程",
     "date": "2026-05-21",
     "badge": "tooling"
-  },
-  {
-    "title": "TLiveOmni 1.0: 直播视频多模态理解大模型",
-    "summary": "TLiveOmni 1.0 是阿里巴巴大淘宝技术团队推出的面向电商直播场景的全模态大模型，原生支持图像、文本、视频、音频四模态统一输入，在语音识别、商品定位等任务上达到 SOTA 水平。",
-    "url": "https://www.bestblogs.dev/article/c44121f6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-20",
-    "badge": "model"
-  },
-  {
-    "title": "谷歌 AI 的 14 年、Gemini 翻身之战，与视觉理解模型：专访 DeepMind 前核心科学家 Andrew Dai｜Neolabs 特辑",
-    "summary": "DeepMind 前核心科学家 Andrew Dai 深度访谈，回顾谷歌 AI 14 年发展史，从错失 GPT 时刻到 Gemini 翻身，并阐述其创立 Elorian AI 探索视觉推理路线的愿景。",
-    "url": "https://www.bestblogs.dev/article/27c9df28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-05-20",
-    "badge": "model"
   }
 ]
