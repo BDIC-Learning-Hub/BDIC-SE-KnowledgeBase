@@ -1,5 +1,32 @@
 [
   {
+    "title": "让 AI 自己做增长：基于 OPC 和 Harness 思想的自主增长系统探索",
+    "summary": "本文详细介绍了基于 OPC 和 Harness Engineering 思想构建的 AI 自主增长系统，通过多 Agent 架构、状态机流程控制、独立评估门禁和 Benchmark 驱动的自进化机制，实现了从需求发现到代码上线的全链路自动化。",
+    "url": "https://www.bestblogs.dev/article/b4f0ee9e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-25",
+    "badge": "agent"
+  },
+  {
+    "title": "当软件容易被创作，新时代的产品长什么样？｜42 章经",
+    "summary": "本文通过深度对话，探讨了 AI 编程能力爆发后，软件创作门槛急剧降低，未来市场将呈现哑铃型结构，创业公司应聚焦于创造特殊性和情绪价值，而非追逐普遍性价值。",
+    "url": "https://www.bestblogs.dev/article/4ea16926?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 42章经",
+    "topic": "商业科技",
+    "date": "2026-05-24",
+    "badge": "tooling"
+  },
+  {
+    "title": "致超级个体 | To The Crazy Ones",
+    "summary": "本文深入探讨了「超级个体」的本质并非技能培训的结果，而是一种由好奇心驱动的底层人格结构，并指出大公司应通过提供完整闭环来激发而非培养这种个体。",
+    "url": "https://www.bestblogs.dev/article/cd8675e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "个人成长",
+    "date": "2026-05-24",
+    "badge": "featured"
+  },
+  {
     "title": "Multi-Agent 火了，但 AI 的组织病还没人治｜Hao 好聊趋势",
     "summary": "本文深入剖析了多智能体系统在工程架构（Harness）成功解决外部协作问题后，内部浮现的群体认知病与个体解离病，指出当前主流对齐技术可能加剧而非解决这些深层问题。",
     "url": "https://www.bestblogs.dev/article/4e8c22e7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-22",
     "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 397 期）：财富正在向 AI 集中",
-    "summary": "本期周刊以「财富正在向 AI 集中」为核心议题，探讨 AI 技术革命引发的社会财富再分配效应，并涵盖 AI 估算碳水含量的实验、微软淘汰短信验证码、亚马逊供应链服务等多个科技话题。",
-    "url": "https://www.bestblogs.dev/article/53a3eccf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰的网络日志",
-    "topic": "媒体资讯",
-    "date": "2026-05-21",
-    "badge": "featured"
-  },
-  {
-    "title": "QQ 音乐 Harness Engineering 实践",
-    "summary": "本文详细介绍了 QQ 音乐团队自研的 Harness Engineering 框架，旨在将 AI 协作从不可控的对话式编码升级为可控、可审计、可复用的工程化过程，以解决大仓多服务场景下的 AI 编程效率与质量矛盾。",
-    "url": "https://www.bestblogs.dev/article/ba2a6d8b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-05-21",
-    "badge": "tooling"
-  },
-  {
-    "title": "都是 AI Coding，为什么 Java 体验差了一个量级？五条方法论帮你构建自己的 Harness 环境",
-    "summary": "本文深入分析了 Java 微服务项目在 AI Coding 中体验差的原因，并提出了通过 Harness Engineering 构建本地可运行环境，让 AI 具备自主验证能力的方法论与实践方案。",
-    "url": "https://www.bestblogs.dev/article/ec64413d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "软件编程",
-    "date": "2026-05-21",
-    "badge": "tooling"
   }
 ]
