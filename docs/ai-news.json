@@ -1,5 +1,23 @@
 [
   {
+    "title": "Harness Engineering: C 端 AIGC 内容生产自优化实践",
+    "summary": "本文详细阐述了蚂蚁保保险快查深度解读页面生成系统（DIPG）如何通过离线生成、多 Agent 验证闭环和错误回灌机制，将 C 端 AIGC 内容交付质量从不可控的实时生成转变为可控的离线生产。",
+    "url": "https://www.bestblogs.dev/article/c2e45c87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-26",
+    "badge": "agent"
+  },
+  {
+    "title": "万级实时推理的商品领域 Agent 实践思考和总结",
+    "summary": "本文详细介绍了淘宝商品中心团队构建的万级实时推理商品领域 Agent 架构，采用事件驱动的 Function-Centric 设计，通过 AIFunction 标准化封装、三层知识库体系、在离线统一工作流和事务型领域事件，实现了亿级商品的智能化理解和实时推理，显著提升了信息完整性和研发效能。",
+    "url": "https://www.bestblogs.dev/article/5cdce5f6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-05-25",
+    "badge": "agent"
+  },
+  {
     "title": "让 AI 自己做增长：基于 OPC 和 Harness 思想的自主增长系统探索",
     "summary": "本文详细介绍了基于 OPC 和 Harness Engineering 思想构建的 AI 自主增长系统，通过多 Agent 架构、状态机流程控制、独立评估门禁和 Benchmark 驱动的自进化机制，实现了从需求发现到代码上线的全链路自动化。",
     "url": "https://www.bestblogs.dev/article/b4f0ee9e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,6 +25,15 @@
     "topic": "人工智能",
     "date": "2026-05-25",
     "badge": "agent"
+  },
+  {
+    "title": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
+    "summary": "美团正式开源 LongCat-Video-Avatar 1.5，这是一款在唇形同步、物理合理性、长视频稳定性、多人互动和高效推理上实现全面跃升的商业级数字人视频生成模型。",
+    "url": "https://www.bestblogs.dev/article/9c8068f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 作者: 美团LongCat",
+    "topic": "人工智能",
+    "date": "2026-05-25",
+    "badge": "model"
   },
   {
     "title": "当软件容易被创作，新时代的产品长什么样？｜42 章经",
@@ -36,39 +63,12 @@
     "badge": "agent"
   },
   {
-    "title": "腾讯云 Agent Memory 节省 61% Token 提升 52%成功率的诀窍：Mermaid 无限画布×上下文卸载",
-    "summary": "腾讯云 Agent Memory 通过上下文卸载与 Mermaid 无限画布的组合方案，在超长 Session 中最高节省 61% Token 并提升 52% 任务通过率，实现了 Agent 短期记忆的高效压缩与结构化管理。",
-    "url": "https://www.bestblogs.dev/article/44a0ebaa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-05-22",
-    "badge": "agent"
-  },
-  {
-    "title": "我们用 150 个任务测试了 30 个 skill，跑出 7 个反直觉结论",
-    "summary": "腾讯玄武实验室通过 150 组任务级对照实验，系统评估了 30 个 AI Skill 的真实效果，发现装上 Skill 并不一定更好，且存在虹吸、成本增加、稳定性风险等反直觉结论。",
-    "url": "https://www.bestblogs.dev/article/808f49ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-05-22",
-    "badge": "featured"
-  },
-  {
-    "title": "GLM-5.1 高速版：400 tokens/s，顶尖模型跑出最快速度",
-    "summary": "智谱发布 GLM-5.1 高速版 API，输出速度达 400 tokens/s，在保留旗舰模型能力的同时实现极致低延迟，并介绍了背后的 TileRT 高性能推理引擎技术。",
-    "url": "https://www.bestblogs.dev/article/d28f2131?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智谱",
-    "topic": "人工智能",
-    "date": "2026-05-22",
-    "badge": "model"
-  },
-  {
-    "title": "Agent 核心技术概念与范式发生了哪些演变以及背后的思考",
-    "summary": "本文系统梳理了 Agent 技术从早期 ReAct 到自进化阶段的四个范式演变，并从 Prompt、Planning、Memory、Tools、Workflow、Environment 六个核心维度深入分析了技术概念与实现方式的前后变化及背后的工程化思考。",
-    "url": "https://www.bestblogs.dev/article/5aaeed82?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-22",
+    "title": "对话王小川：离开通用人工智能的主干道之后",
+    "summary": "王小川深度对话：百川智能从通用大模型赛道全面转向 All in 医疗 AI，发布 M4 医疗大模型与「百小医」Agent，以患者为中心「造医生」，探索非共识但更具长期价值的创业路径。",
+    "url": "https://www.bestblogs.dev/article/7c497e39?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智能涌现",
+    "topic": "商业科技",
+    "date": "2026-05-23",
     "badge": "agent"
   }
 ]
