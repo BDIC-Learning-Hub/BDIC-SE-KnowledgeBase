@@ -1,5 +1,32 @@
 [
   {
+    "title": "从透明开发到系统工程：AgentScope 2.0 发布",
+    "summary": "AgentScope 2.0 从透明开发升级为系统工程，聚焦智能体在真实场景中的稳定运行、安全控制与生产级部署能力。",
+    "url": "https://www.bestblogs.dev/article/1c3f2f5a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 通义大模型",
+    "topic": "人工智能",
+    "date": "2026-05-26",
+    "badge": "agent"
+  },
+  {
+    "title": "聊聊 Harness 时代 AI-First 的组织架构：从信任人到信任 AI",
+    "summary": "本文通过播客对话形式，深入探讨了 Creao 公司实践 Harness Engineering 的经验，阐述了从信任人到信任 AI 的组织架构转型、AI 主导的开发流程以及人类角色的重新定义。",
+    "url": "https://www.bestblogs.dev/article/e592d7d5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-05-26",
+    "badge": "featured"
+  },
+  {
+    "title": "腾讯云 Agent Memory 节省 61% Token 提升 52%成功率的诀窍：Mermaid 无限画布×上下文卸载",
+    "summary": "腾讯云提出一种结合上下文卸载与 Mermaid 无限画布的短期记忆压缩方案，在超长 Session 中最高节省 61% Token 并将任务通过率提升 52%。",
+    "url": "https://www.bestblogs.dev/article/7ae4bdc0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-26",
+    "badge": "agent"
+  },
+  {
     "title": "Harness Engineering: C 端 AIGC 内容生产自优化实践",
     "summary": "本文详细阐述了蚂蚁保保险快查深度解读页面生成系统（DIPG）如何通过离线生成、多 Agent 验证闭环和错误回灌机制，将 C 端 AIGC 内容交付质量从不可控的实时生成转变为可控的离线生产。",
     "url": "https://www.bestblogs.dev/article/c2e45c87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "商业科技",
     "date": "2026-05-24",
     "badge": "tooling"
-  },
-  {
-    "title": "致超级个体 | To The Crazy Ones",
-    "summary": "本文深入探讨了「超级个体」的本质并非技能培训的结果，而是一种由好奇心驱动的底层人格结构，并指出大公司应通过提供完整闭环来激发而非培养这种个体。",
-    "url": "https://www.bestblogs.dev/article/cd8675e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "个人成长",
-    "date": "2026-05-24",
-    "badge": "featured"
-  },
-  {
-    "title": "Multi-Agent 火了，但 AI 的组织病还没人治｜Hao 好聊趋势",
-    "summary": "本文深入剖析了多智能体系统在工程架构（Harness）成功解决外部协作问题后，内部浮现的群体认知病与个体解离病，指出当前主流对齐技术可能加剧而非解决这些深层问题。",
-    "url": "https://www.bestblogs.dev/article/4e8c22e7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-05-23",
-    "badge": "agent"
-  },
-  {
-    "title": "对话王小川：离开通用人工智能的主干道之后",
-    "summary": "王小川深度对话：百川智能从通用大模型赛道全面转向 All in 医疗 AI，发布 M4 医疗大模型与「百小医」Agent，以患者为中心「造医生」，探索非共识但更具长期价值的创业路径。",
-    "url": "https://www.bestblogs.dev/article/7c497e39?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智能涌现",
-    "topic": "商业科技",
-    "date": "2026-05-23",
-    "badge": "agent"
   }
 ]
