@@ -1,5 +1,23 @@
 [
   {
+    "title": "从人机协作到 AI 主导：我们是怎么把代码质量交给“数字 SRE”的？",
+    "summary": "本文详细介绍了淘天集团如何构建 AI 主导的代码质量治理体系，通过“数字 SRE”实现 Blocker 问题的自动发现、端到端修复与透明化闭环，将开发者从繁琐的语法级修复中解放出来。",
+    "url": "https://www.bestblogs.dev/article/cbd87dce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-05-27",
+    "badge": "featured"
+  },
+  {
+    "title": "万字入门 AI Infra：深入理解大模型中的数学与 Infra 优化",
+    "summary": "本文从数学原理和工程优化两个维度，深入拆解了大模型推理中 RMSNorm、Softmax、Causal Mask 等核心操作的底层逻辑，揭示了 AI Infra 优化的本质是用数学等价变换和精度妥协换取硬件效率。",
+    "url": "https://www.bestblogs.dev/article/12ddabbb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-27",
+    "badge": "model"
+  },
+  {
     "title": "从透明开发到系统工程：AgentScope 2.0 发布",
     "summary": "AgentScope 2.0 从透明开发升级为系统工程，聚焦智能体在真实场景中的稳定运行、安全控制与生产级部署能力。",
     "url": "https://www.bestblogs.dev/article/1c3f2f5a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-25",
     "badge": "agent"
-  },
-  {
-    "title": "从高拟真到真可用，LongCat-Video-Avatar 1.5 正式开源",
-    "summary": "美团正式开源 LongCat-Video-Avatar 1.5，这是一款在唇形同步、物理合理性、长视频稳定性、多人互动和高效推理上实现全面跃升的商业级数字人视频生成模型。",
-    "url": "https://www.bestblogs.dev/article/9c8068f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 作者: 美团LongCat",
-    "topic": "人工智能",
-    "date": "2026-05-25",
-    "badge": "model"
-  },
-  {
-    "title": "当软件容易被创作，新时代的产品长什么样？｜42 章经",
-    "summary": "本文通过深度对话，探讨了 AI 编程能力爆发后，软件创作门槛急剧降低，未来市场将呈现哑铃型结构，创业公司应聚焦于创造特殊性和情绪价值，而非追逐普遍性价值。",
-    "url": "https://www.bestblogs.dev/article/4ea16926?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 42章经",
-    "topic": "商业科技",
-    "date": "2026-05-24",
-    "badge": "tooling"
   }
 ]
