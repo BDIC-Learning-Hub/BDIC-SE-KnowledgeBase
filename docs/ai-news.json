@@ -1,5 +1,50 @@
 [
   {
+    "title": "Tair 联手 SGLang 共建 DeepSeekV4 分层缓存架构",
+    "summary": "本文详细介绍了阿里云 Tair KVCache 团队与 SGLang 社区为 DeepSeek V4 构建的分层缓存架构，通过 Shadow Radix、HiCache 和 HiSparse 三个核心组件，分别解决长上下文推理中 KV Cache 的逻辑描述、Prefill 阶段前缀复用和 Decode 阶段显存瓶颈问题。",
+    "url": "https://www.bestblogs.dev/article/28247b83?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-29",
+    "badge": "featured"
+  },
+  {
+    "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
+    "summary": "本期周刊以 AI 编程的 Token 费用为核心话题，通过具体案例和数据分析，揭示了当前 AI 辅助编程成本高昂的现实，并探讨了其对公司和程序员的影响。",
+    "url": "https://www.bestblogs.dev/article/efe90408?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "人工智能",
+    "date": "2026-05-29",
+    "badge": "tooling"
+  },
+  {
+    "title": "Harness 的尽头不是缰绳，是镜子：AI 时代最沉默的那场革命",
+    "summary": "本文提出「显形」概念，认为 AI 的真正价值不在于替代人类工作，而在于迫使我们将隐性知识、判断标准和团队品味首次文本化，这是一场不可逆转的认知革命。",
+    "url": "https://www.bestblogs.dev/article/ca8b7a56?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-05-28",
+    "badge": "featured"
+  },
+  {
+    "title": "Claude code 云端部署 & 魔改 sdk 实现 http 流式调用保姆级教程",
+    "summary": "本文详细介绍了将 Claude Code 从本地 CLI 工具部署到云端、通过魔改 SDK 实现 HTTP 流式调用，并利用沙箱实现多用户隔离的完整技术方案。",
+    "url": "https://www.bestblogs.dev/article/103412e2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-05-28",
+    "badge": "model"
+  },
+  {
+    "title": "从语言涌现到协作涌现：如何让 AI 产生高质量决策",
+    "summary": "本文提出 Agent Room 概念，通过将多个 AI 智能体置于共享上下文场中，实现从流程自动化到协作涌现的跨越，从而产生更高质量的集体决策。",
+    "url": "https://www.bestblogs.dev/article/26e09900?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-05-27",
+    "badge": "agent"
+  },
+  {
     "title": "从人机协作到 AI 主导：我们是怎么把代码质量交给“数字 SRE”的？",
     "summary": "本文详细介绍了淘天集团如何构建 AI 主导的代码质量治理体系，通过“数字 SRE”实现 Blocker 问题的自动发现、端到端修复与透明化闭环，将开发者从繁琐的语法级修复中解放出来。",
     "url": "https://www.bestblogs.dev/article/cbd87dce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -24,51 +69,6 @@
     "source": "BestBlogs / 通义大模型",
     "topic": "人工智能",
     "date": "2026-05-26",
-    "badge": "agent"
-  },
-  {
-    "title": "聊聊 Harness 时代 AI-First 的组织架构：从信任人到信任 AI",
-    "summary": "本文通过播客对话形式，深入探讨了 Creao 公司实践 Harness Engineering 的经验，阐述了从信任人到信任 AI 的组织架构转型、AI 主导的开发流程以及人类角色的重新定义。",
-    "url": "https://www.bestblogs.dev/article/e592d7d5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-05-26",
-    "badge": "featured"
-  },
-  {
-    "title": "腾讯云 Agent Memory 节省 61% Token 提升 52%成功率的诀窍：Mermaid 无限画布×上下文卸载",
-    "summary": "腾讯云提出一种结合上下文卸载与 Mermaid 无限画布的短期记忆压缩方案，在超长 Session 中最高节省 61% Token 并将任务通过率提升 52%。",
-    "url": "https://www.bestblogs.dev/article/7ae4bdc0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-26",
-    "badge": "agent"
-  },
-  {
-    "title": "Harness Engineering: C 端 AIGC 内容生产自优化实践",
-    "summary": "本文详细阐述了蚂蚁保保险快查深度解读页面生成系统（DIPG）如何通过离线生成、多 Agent 验证闭环和错误回灌机制，将 C 端 AIGC 内容交付质量从不可控的实时生成转变为可控的离线生产。",
-    "url": "https://www.bestblogs.dev/article/c2e45c87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-26",
-    "badge": "agent"
-  },
-  {
-    "title": "万级实时推理的商品领域 Agent 实践思考和总结",
-    "summary": "本文详细介绍了淘宝商品中心团队构建的万级实时推理商品领域 Agent 架构，采用事件驱动的 Function-Centric 设计，通过 AIFunction 标准化封装、三层知识库体系、在离线统一工作流和事务型领域事件，实现了亿级商品的智能化理解和实时推理，显著提升了信息完整性和研发效能。",
-    "url": "https://www.bestblogs.dev/article/5cdce5f6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-25",
-    "badge": "agent"
-  },
-  {
-    "title": "让 AI 自己做增长：基于 OPC 和 Harness 思想的自主增长系统探索",
-    "summary": "本文详细介绍了基于 OPC 和 Harness Engineering 思想构建的 AI 自主增长系统，通过多 Agent 架构、状态机流程控制、独立评估门禁和 Benchmark 驱动的自进化机制，实现了从需求发现到代码上线的全链路自动化。",
-    "url": "https://www.bestblogs.dev/article/b4f0ee9e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-25",
     "badge": "agent"
   }
 ]
