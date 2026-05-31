@@ -1,5 +1,14 @@
 [
   {
+    "title": "在 AI 引发的认知缴械中，我们失去的将不仅仅是能力｜Hao 好聊趋势",
+    "summary": "本文从认知心理学、劳动社会学和哲学视角，系统论证了 AI 带来的「认知缴械」并非简单的能力退化，而是异化从劳动过程深入到思想生成过程的历史性转折，其根源在于增长社会对效率的无限追逐。",
+    "url": "https://www.bestblogs.dev/article/70d76621?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "个人成长",
+    "date": "2026-05-30",
+    "badge": "featured"
+  },
+  {
     "title": "OpenClaw 与 Hermes：源码里的 AI Agent 架构知识大复盘",
     "summary": "本文通过深度拆解 OpenClaw 和 Hermes 两个开源 AI Agent 框架的源码，系统总结了 Agent 架构在消息路由、记忆管理、上下文工程、安全沙箱等核心模块的设计取舍与工程实践。",
     "url": "https://www.bestblogs.dev/article/19c7f702?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-28",
     "badge": "agent"
-  },
-  {
-    "title": "让项目管理也 AI Native —— 两个 Git 仓库干掉了周报、洞察和效能报表",
-    "summary": "本文详细介绍了如何利用两个 Git 仓库、AI 编码助手和 Shell 脚本，构建一套替代传统项目管理中周报、洞察和效能报表的 AI Native 方案，核心思路是让 AI 做信息搬运，人只做输入和决策。",
-    "url": "https://www.bestblogs.dev/article/9c98aeab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "软件编程",
-    "date": "2026-05-28",
-    "badge": "tooling"
   }
 ]
