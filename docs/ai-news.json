@@ -1,5 +1,23 @@
 [
   {
+    "title": "MiniMax M3：前沿 Coding 能力、1M 上下文、原生多模态，一个模型全给你",
+    "summary": "MiniMax 发布 M3 模型，集前沿 Coding 能力、1M 超长上下文和原生多模态于一体，是国内首个齐备这些要素的模型，并已开源。",
+    "url": "https://www.bestblogs.dev/article/46b80e9f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-06-01",
+    "badge": "model"
+  },
+  {
+    "title": "一周 3.3k star，微软开启 Skills 自我进化！像训练神经网络一样训练技能",
+    "summary": "微软开源 SkillOpt，一个将 Agent 技能文档视为可训练参数的文本空间优化框架，通过系统化的训练循环让技能文档自我进化，在 52 个评测组合中全面领先。",
+    "url": "https://www.bestblogs.dev/article/7b8c6b8d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
+    "topic": "人工智能",
+    "date": "2026-05-31",
+    "badge": "agent"
+  },
+  {
     "title": "在 AI 引发的认知缴械中，我们失去的将不仅仅是能力｜Hao 好聊趋势",
     "summary": "本文从认知心理学、劳动社会学和哲学视角，系统论证了 AI 带来的「认知缴械」并非简单的能力退化，而是异化从劳动过程深入到思想生成过程的历史性转折，其根源在于增长社会对效率的无限追逐。",
     "url": "https://www.bestblogs.dev/article/70d76621?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-29",
     "badge": "tooling"
-  },
-  {
-    "title": "阶跃发布 Step 3.7 Flash，面向生产级 Agent 的高效率 Flash 模型",
-    "summary": "阶跃星辰发布并开源 Step 3.7 Flash 模型，该模型围绕生产级 Agent 场景进行系统优化，在速度、成本、可靠执行和复杂任务完成能力之间取得更优平衡。",
-    "url": "https://www.bestblogs.dev/article/bee5ae9a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阶跃星辰",
-    "topic": "人工智能",
-    "date": "2026-05-29",
-    "badge": "agent"
-  },
-  {
-    "title": "Hy-Memory 发布：打造记忆力超强的 Agent 第二大脑",
-    "summary": "腾讯混元发布 Hy-Memory，一个专为 Openclaw Agent 设计的记忆插件，通过 6 层记忆框架、System1/System2 双系统和演化链机制，解决长期协作场景下的记忆碎片化、信息丢失和认知迭代问题。",
-    "url": "https://www.bestblogs.dev/article/b4500725?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
-    "topic": "人工智能",
-    "date": "2026-05-28",
-    "badge": "agent"
   }
 ]
