@@ -1,5 +1,23 @@
 [
   {
+    "title": "黄仁勋的“Agent 工厂”里，装了什么新故事？",
+    "summary": "英伟达在 COMPUTEX 2026 上发布 Vera Rubin 平台、DSX 工厂操作系统、Cosmos 3 世界模型等全栈产品，围绕 Agent 生态重构从芯片到机器人的技术体系。",
+    "url": "https://www.bestblogs.dev/article/074ff85e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-06-01",
+    "badge": "agent"
+  },
+  {
+    "title": "扣子 3.0 正式上线：新一代 AI 团队，从扣子开始",
+    "summary": "扣子 3.0 正式上线，通过项目空间、多端协同和技能商店，将 Agent 从单点工具升级为可协作的 AI 团队，开启人与 Agent 协作的新方式。",
+    "url": "https://www.bestblogs.dev/article/b7bca3c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "人工智能",
+    "date": "2026-06-01",
+    "badge": "agent"
+  },
+  {
     "title": "MiniMax M3：前沿 Coding 能力、1M 上下文、原生多模态，一个模型全给你",
     "summary": "MiniMax 发布 M3 模型，集前沿 Coding 能力、1M 超长上下文和原生多模态于一体，是国内首个齐备这些要素的模型，并已开源。",
     "url": "https://www.bestblogs.dev/article/46b80e9f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-05-29",
     "badge": "agent"
-  },
-  {
-    "title": "Tair 联手 SGLang 共建 DeepSeekV4 分层缓存架构",
-    "summary": "本文详细介绍了阿里云 Tair KVCache 团队与 SGLang 社区为 DeepSeek V4 构建的分层缓存架构，通过 Shadow Radix、HiCache 和 HiSparse 三个核心组件，分别解决长上下文推理中 KV Cache 的逻辑描述、Prefill 阶段前缀复用和 Decode 阶段显存瓶颈问题。",
-    "url": "https://www.bestblogs.dev/article/28247b83?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-05-29",
-    "badge": "featured"
-  },
-  {
-    "title": "科技爱好者周刊（第 398 期）：Token 费用难以负担",
-    "summary": "本期周刊以 AI 编程的 Token 费用为核心话题，通过具体案例和数据分析，揭示了当前 AI 辅助编程成本高昂的现实，并探讨了其对公司和程序员的影响。",
-    "url": "https://www.bestblogs.dev/article/efe90408?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "人工智能",
-    "date": "2026-05-29",
-    "badge": "tooling"
   }
 ]
