@@ -1,5 +1,32 @@
 [
   {
+    "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶｜机器人特辑",
+    "summary": "本文深度拆解人形机器人的硬件架构，从骨架材料、关节执行器、传感器到电气系统，系统分析了机器人制造的技术难点、供应链现状与量产挑战。",
+    "url": "https://www.bestblogs.dev/article/8800d5cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-06-02",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 软件工程范式革命的思考",
+    "summary": "本文从工程哲学视角系统论证了软件工程从未真正工程化，大模型作为认知引擎补上了关键缺口，并提出了从人为中心转向 AI 为中心、闭环优先、分治继承的完整范式变革路径。",
+    "url": "https://www.bestblogs.dev/article/f66bdbca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-06-02",
+    "badge": "model"
+  },
+  {
+    "title": "面向 LLM 的架构设计：什么是真正的 AI Friendly 架构？",
+    "summary": "本文系统阐述了从传统工程架构向 AI Friendly 架构演进的三范式（确定性→概率性、结构化→语义化、静态→动态），并结合淘宝秒杀业务中的 AI 审核与答疑系统实战，详细讲解了 Multi-Agent、Context Engineering、AI Friendly API 及 AI 可观测等核心能力的实现方法。",
+    "url": "https://www.bestblogs.dev/article/5771ef7f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-06-01",
+    "badge": "agent"
+  },
+  {
     "title": "黄仁勋的“Agent 工厂”里，装了什么新故事？",
     "summary": "英伟达在 COMPUTEX 2026 上发布 Vera Rubin 平台、DSX 工厂操作系统、Cosmos 3 世界模型等全栈产品，围绕 Agent 生态重构从芯片到机器人的技术体系。",
     "url": "https://www.bestblogs.dev/article/074ff85e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "个人成长",
     "date": "2026-05-30",
     "badge": "featured"
-  },
-  {
-    "title": "OpenClaw 与 Hermes：源码里的 AI Agent 架构知识大复盘",
-    "summary": "本文通过深度拆解 OpenClaw 和 Hermes 两个开源 AI Agent 框架的源码，系统总结了 Agent 架构在消息路由、记忆管理、上下文工程、安全沙箱等核心模块的设计取舍与工程实践。",
-    "url": "https://www.bestblogs.dev/article/19c7f702?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-05-29",
-    "badge": "agent"
-  },
-  {
-    "title": "浅谈 AI 编程",
-    "summary": "本文深入探讨了 AI 编程的范式迁移，核心观点是当代码生成边际成本趋近于零时，软件工程的核心将从“写代码”转向“治理 AI 生产系统”，而规格、约束与验证体系将成为比代码本身更重要的资产。",
-    "url": "https://www.bestblogs.dev/article/883b9b36?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-05-29",
-    "badge": "tooling"
-  },
-  {
-    "title": "从定制 Workflow 到 AI 自主决策的架构演进——以 TMIC AI 小新为例",
-    "summary": "本文详细介绍了 TMIC AI 小新从定制化 Workflow 架构演进到 DeepAgent 模式的实践，通过引入 TodoList、SubAgent、Summary、FileSystem 等核心组件，并结合 Tree Action 模式等业务优化，实现了从预设流程到 AI 自主决策的转变，显著提升了系统处理复杂问题的能力。",
-    "url": "https://www.bestblogs.dev/article/63700e4b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-05-29",
-    "badge": "agent"
   }
 ]
