@@ -1,5 +1,41 @@
 [
   {
+    "title": "Kimi Work Beta 版邀你体验：你的工作，分我一半",
+    "summary": "Kimi 推出面向知识工作者的通用型本地 Agent「Kimi Work」Beta 版，将 Coding Agent 能力迁移至桌面 GUI，支持自然语言驱动的复杂任务拆解、多 Agent 并行协作与工具调用。",
+    "url": "https://www.bestblogs.dev/article/98fc56b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 月之暗面 Kimi",
+    "topic": "人工智能",
+    "date": "2026-06-03",
+    "badge": "agent"
+  },
+  {
+    "title": "超级个体时代｜腾讯研究院 3 万字报告",
+    "summary": "腾讯研究院基于田野调研与实验，提出 AI 时代组织变革的核心驱动力是自下而上的涌现，核心命题是「超级个体如何聚合为超级团队」，并系统阐述了超级个体的诞生、聚合路径、团队形态与运作机制。",
+    "url": "https://www.bestblogs.dev/article/712a9c1e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-06-03",
+    "badge": "featured"
+  },
+  {
+    "title": "重新思考研发基础设施：当 Agent 成为第一公民",
+    "summary": "本文提出「意图驱动 + 代码沉淀」的统一框架，论证 Agent 并未改变软件进化的基本结构，而是将「意图 → 代码」的循环速度从月/周级压缩到分钟级，并由此推导出研发基础设施必须从 People-Oriented 转向 Agent-Oriented 的设计原则。",
+    "url": "https://www.bestblogs.dev/article/d0759109?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-06-03",
+    "badge": "agent"
+  },
+  {
+    "title": "一文读懂微软 Build 2026 开发者大会：“Agent 优先”时代到来，一口气发七款自研模型",
+    "summary": "微软 Build 2026 大会发布七款自研 MAI 模型、Scout 智能体、MXC 系统级安全沙箱及 Project Solara 等产品，宣告「Agent 优先」战略全面落地。",
+    "url": "https://www.bestblogs.dev/article/ed318bd7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "商业科技",
+    "date": "2026-06-03",
+    "badge": "agent"
+  },
+  {
     "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶｜机器人特辑",
     "summary": "本文深度拆解人形机器人的硬件架构，从骨架材料、关节执行器、传感器到电气系统，系统分析了机器人制造的技术难点、供应链现状与量产挑战。",
     "url": "https://www.bestblogs.dev/article/8800d5cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-01",
     "badge": "agent"
-  },
-  {
-    "title": "扣子 3.0 正式上线：新一代 AI 团队，从扣子开始",
-    "summary": "扣子 3.0 正式上线，通过项目空间、多端协同和技能商店，将 Agent 从单点工具升级为可协作的 AI 团队，开启人与 Agent 协作的新方式。",
-    "url": "https://www.bestblogs.dev/article/b7bca3c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "人工智能",
-    "date": "2026-06-01",
-    "badge": "agent"
-  },
-  {
-    "title": "MiniMax M3：前沿 Coding 能力、1M 上下文、原生多模态，一个模型全给你",
-    "summary": "MiniMax 发布 M3 模型，集前沿 Coding 能力、1M 超长上下文和原生多模态于一体，是国内首个齐备这些要素的模型，并已开源。",
-    "url": "https://www.bestblogs.dev/article/46b80e9f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-06-01",
-    "badge": "model"
-  },
-  {
-    "title": "一周 3.3k star，微软开启 Skills 自我进化！像训练神经网络一样训练技能",
-    "summary": "微软开源 SkillOpt，一个将 Agent 技能文档视为可训练参数的文本空间优化框架，通过系统化的训练循环让技能文档自我进化，在 52 个评测组合中全面领先。",
-    "url": "https://www.bestblogs.dev/article/7b8c6b8d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 机器之心",
-    "topic": "人工智能",
-    "date": "2026-05-31",
-    "badge": "agent"
-  },
-  {
-    "title": "在 AI 引发的认知缴械中，我们失去的将不仅仅是能力｜Hao 好聊趋势",
-    "summary": "本文从认知心理学、劳动社会学和哲学视角，系统论证了 AI 带来的「认知缴械」并非简单的能力退化，而是异化从劳动过程深入到思想生成过程的历史性转折，其根源在于增长社会对效率的无限追逐。",
-    "url": "https://www.bestblogs.dev/article/70d76621?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "个人成长",
-    "date": "2026-05-30",
-    "badge": "featured"
   }
 ]
