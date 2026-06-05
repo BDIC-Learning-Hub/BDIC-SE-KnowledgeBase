@@ -1,5 +1,32 @@
 [
   {
+    "title": "唐斯没被文班打下去；布伦森折弯马刺",
+    "summary": "本文复盘 2026 年 NBA 总决赛首战，分析尼克斯如何通过唐斯对文班亚马的防守、哈特的穿插以及布伦森的韧性，破解马刺的攻防体系并取得胜利。",
+    "url": "https://www.bestblogs.dev/article/19677d7b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张佳玮",
+    "topic": "体育运动",
+    "date": "2026-06-04",
+    "badge": "featured"
+  },
+  {
+    "title": "现代生活中的闭关",
+    "summary": "本文重新定义了现代生活中的「闭关」概念，指出其核心并非物理上的自我封闭，而是通过「止语」和「远离手机」等简单行为，实现精神上的出离与安住当下。",
+    "url": "https://www.bestblogs.dev/article/06502c4b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 槽边往事",
+    "topic": "生活文化",
+    "date": "2026-06-04",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 研发自动化：Wiki 知识库+技能包",
+    "summary": "本文详细介绍了如何基于 LLM-Wiki 模式与 Obsidian 平台，构建一个持续生长的团队知识库和配套的专家技能包，以实现 AI 研发自动化。",
+    "url": "https://www.bestblogs.dev/article/d7edfb35?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-04",
+    "badge": "model"
+  },
+  {
     "title": "Kimi Work Beta 版邀你体验：你的工作，分我一半",
     "summary": "Kimi 推出面向知识工作者的通用型本地 Agent「Kimi Work」Beta 版，将 Coding Agent 能力迁移至桌面 GUI，支持自然语言驱动的复杂任务拆解、多 Agent 并行协作与工具调用。",
     "url": "https://www.bestblogs.dev/article/98fc56b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -18,6 +45,15 @@
     "badge": "featured"
   },
   {
+    "title": "“人类史上最大 IPO”：SpaceX 靠的不只是火箭了？",
+    "summary": "本文基于 SpaceX 招股书，解读其与 Anthropic 的 450 亿美元算力合同、持有 18712 枚比特币、董事会构成与激进治理结构，以及 V3 星舰试飞对估值的关键意义。",
+    "url": "https://www.bestblogs.dev/article/4191e474?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "商业科技",
+    "date": "2026-06-03",
+    "badge": "featured"
+  },
+  {
     "title": "重新思考研发基础设施：当 Agent 成为第一公民",
     "summary": "本文提出「意图驱动 + 代码沉淀」的统一框架，论证 Agent 并未改变软件进化的基本结构，而是将「意图 → 代码」的循环速度从月/周级压缩到分钟级，并由此推导出研发基础设施必须从 People-Oriented 转向 Agent-Oriented 的设计原则。",
     "url": "https://www.bestblogs.dev/article/d0759109?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -27,48 +63,12 @@
     "badge": "agent"
   },
   {
-    "title": "一文读懂微软 Build 2026 开发者大会：“Agent 优先”时代到来，一口气发七款自研模型",
-    "summary": "微软 Build 2026 大会发布七款自研 MAI 模型、Scout 智能体、MXC 系统级安全沙箱及 Project Solara 等产品，宣告「Agent 优先」战略全面落地。",
-    "url": "https://www.bestblogs.dev/article/ed318bd7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "商业科技",
-    "date": "2026-06-03",
-    "badge": "agent"
-  },
-  {
-    "title": "拆解机器人“肉身”、量产与供应链：空翻之后，它还要学会接住一片落叶｜机器人特辑",
-    "summary": "本文深度拆解人形机器人的硬件架构，从骨架材料、关节执行器、传感器到电气系统，系统分析了机器人制造的技术难点、供应链现状与量产挑战。",
-    "url": "https://www.bestblogs.dev/article/8800d5cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-06-02",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 软件工程范式革命的思考",
-    "summary": "本文从工程哲学视角系统论证了软件工程从未真正工程化，大模型作为认知引擎补上了关键缺口，并提出了从人为中心转向 AI 为中心、闭环优先、分治继承的完整范式变革路径。",
-    "url": "https://www.bestblogs.dev/article/f66bdbca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-06-02",
-    "badge": "model"
-  },
-  {
-    "title": "面向 LLM 的架构设计：什么是真正的 AI Friendly 架构？",
-    "summary": "本文系统阐述了从传统工程架构向 AI Friendly 架构演进的三范式（确定性→概率性、结构化→语义化、静态→动态），并结合淘宝秒杀业务中的 AI 审核与答疑系统实战，详细讲解了 Multi-Agent、Context Engineering、AI Friendly API 及 AI 可观测等核心能力的实现方法。",
-    "url": "https://www.bestblogs.dev/article/5771ef7f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "Agent-Memory 评测全景：基准、评估与记忆系统（理论篇）",
+    "summary": "本文系统梳理了 Agent 长期记忆能力的评测全景，涵盖 MUSE、LOCOMO 等基准数据集，MemoryAgentBench、LONGMEMEVAL、MemBench 等评估框架，以及 THEANINE、RMM、M3-Agent、Mem0 等记忆系统，并指出当前技术在跨会话推理、动态更新与效率平衡上的瓶颈。",
+    "url": "https://www.bestblogs.dev/article/a59161ca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 大淘宝技术",
     "topic": "人工智能",
-    "date": "2026-06-01",
-    "badge": "agent"
-  },
-  {
-    "title": "黄仁勋的“Agent 工厂”里，装了什么新故事？",
-    "summary": "英伟达在 COMPUTEX 2026 上发布 Vera Rubin 平台、DSX 工厂操作系统、Cosmos 3 世界模型等全栈产品，围绕 Agent 生态重构从芯片到机器人的技术体系。",
-    "url": "https://www.bestblogs.dev/article/074ff85e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-06-01",
+    "date": "2026-06-03",
     "badge": "agent"
   }
 ]
