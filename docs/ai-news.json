@@ -1,5 +1,23 @@
 [
   {
+    "title": "汤道生姚顺雨对谈：腾讯 AI 的下半场",
+    "summary": "腾讯集团高级执行副总裁汤道生与首席 AI 科学家姚顺雨同台对谈，围绕 AI 下半场的核心命题——从「解决问题」转向「定义问题」、模型与产品的 Co-Design、Agent 技术的演进与性价比、以及腾讯在 AI 时代的战略节奏与组织变革，展开了一场兼具战略视野与工程实践的深度对话。",
+    "url": "https://www.bestblogs.dev/article/1fa6207b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-06-05",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
+    "summary": "本文摘录美国科技分析师访问中国 14 家 AI 公司后的观感，涵盖算力差距、计算效率、开源分歧、人才结构、AI 安全态度等 11 个维度，呈现中国 AI 产业的真实生态。",
+    "url": "https://www.bestblogs.dev/article/6933ad74?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "人工智能",
+    "date": "2026-06-05",
+    "badge": "featured"
+  },
+  {
     "title": "唐斯没被文班打下去；布伦森折弯马刺",
     "summary": "本文复盘 2026 年 NBA 总决赛首战，分析尼克斯如何通过唐斯对文班亚马的防守、哈特的穿插以及布伦森的韧性，破解马刺的攻防体系并取得胜利。",
     "url": "https://www.bestblogs.dev/article/19677d7b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "商业科技",
     "date": "2026-06-03",
     "badge": "featured"
-  },
-  {
-    "title": "重新思考研发基础设施：当 Agent 成为第一公民",
-    "summary": "本文提出「意图驱动 + 代码沉淀」的统一框架，论证 Agent 并未改变软件进化的基本结构，而是将「意图 → 代码」的循环速度从月/周级压缩到分钟级，并由此推导出研发基础设施必须从 People-Oriented 转向 Agent-Oriented 的设计原则。",
-    "url": "https://www.bestblogs.dev/article/d0759109?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-06-03",
-    "badge": "agent"
-  },
-  {
-    "title": "Agent-Memory 评测全景：基准、评估与记忆系统（理论篇）",
-    "summary": "本文系统梳理了 Agent 长期记忆能力的评测全景，涵盖 MUSE、LOCOMO 等基准数据集，MemoryAgentBench、LONGMEMEVAL、MemBench 等评估框架，以及 THEANINE、RMM、M3-Agent、Mem0 等记忆系统，并指出当前技术在跨会话推理、动态更新与效率平衡上的瓶颈。",
-    "url": "https://www.bestblogs.dev/article/a59161ca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-06-03",
-    "badge": "agent"
   }
 ]
