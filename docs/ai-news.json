@@ -1,5 +1,41 @@
 [
   {
+    "title": "“没水了，鱼需要进化”：再访田渊栋，46.5 亿美金估值的 RSI 与 AI 自进化｜Neolabs 特辑",
+    "summary": "田渊栋深度访谈：详解其加入 RSI 的决策逻辑、递归自我改进的技术路线与商业化思考，并探讨 AI 时代职业变迁与个人意义。",
+    "url": "https://www.bestblogs.dev/article/03279223?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-06-07",
+    "badge": "featured"
+  },
+  {
+    "title": "对话奇点灵智：少儿 AI 硬件的下一代，不是 Chatbot，而是能自进化的实体智能体",
+    "summary": "本文深度对话奇点灵智创始人，阐述其少儿 AI 硬件「多奇」如何通过软硬件解耦、AI Coding 与场景剧本沉淀，打造一款能自进化的实体智能体，而非简单的 Chatbot。",
+    "url": "https://www.bestblogs.dev/article/ec338c66?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "产品设计",
+    "date": "2026-06-07",
+    "badge": "tooling"
+  },
+  {
+    "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
+    "summary": "本文基于 Thoughtworks 专家在 QCon 的演讲，系统梳理了 Coding Agent 领域过去一年的范式转移，核心围绕 Context Engineering、Subagents、Harness Engineering 三大主题，并深入探讨了减少人工监督带来的安全、成本与可维护性挑战。",
+    "url": "https://www.bestblogs.dev/article/9ffff594?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-06-07",
+    "badge": "agent"
+  },
+  {
+    "title": "最新对话“AI 教父”辛顿：超级智能即将到来 | 完整版+视频",
+    "summary": "AI 教父杰夫·辛顿在最新深度访谈中，阐述了大语言模型已具备真正理解力与意识，并警告数字化智能在信息共享效率上对人类的压倒性优势，以及利润驱动竞争下人类面临的生存风险。",
+    "url": "https://www.bestblogs.dev/article/df04fd3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Web3天空之城",
+    "topic": "人工智能",
+    "date": "2026-06-06",
+    "badge": "model"
+  },
+  {
     "title": "汤道生姚顺雨对谈：腾讯 AI 的下半场",
     "summary": "腾讯集团高级执行副总裁汤道生与首席 AI 科学家姚顺雨同台对谈，围绕 AI 下半场的核心命题——从「解决问题」转向「定义问题」、模型与产品的 Co-Design、Agent 技术的演进与性价比、以及腾讯在 AI 时代的战略节奏与组织变革，展开了一场兼具战略视野与工程实践的深度对话。",
     "url": "https://www.bestblogs.dev/article/1fa6207b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 槽边往事",
     "topic": "生活文化",
     "date": "2026-06-04",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 研发自动化：Wiki 知识库+技能包",
-    "summary": "本文详细介绍了如何基于 LLM-Wiki 模式与 Obsidian 平台，构建一个持续生长的团队知识库和配套的专家技能包，以实现 AI 研发自动化。",
-    "url": "https://www.bestblogs.dev/article/d7edfb35?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-04",
-    "badge": "model"
-  },
-  {
-    "title": "Kimi Work Beta 版邀你体验：你的工作，分我一半",
-    "summary": "Kimi 推出面向知识工作者的通用型本地 Agent「Kimi Work」Beta 版，将 Coding Agent 能力迁移至桌面 GUI，支持自然语言驱动的复杂任务拆解、多 Agent 并行协作与工具调用。",
-    "url": "https://www.bestblogs.dev/article/98fc56b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 月之暗面 Kimi",
-    "topic": "人工智能",
-    "date": "2026-06-03",
-    "badge": "agent"
-  },
-  {
-    "title": "超级个体时代｜腾讯研究院 3 万字报告",
-    "summary": "腾讯研究院基于田野调研与实验，提出 AI 时代组织变革的核心驱动力是自下而上的涌现，核心命题是「超级个体如何聚合为超级团队」，并系统阐述了超级个体的诞生、聚合路径、团队形态与运作机制。",
-    "url": "https://www.bestblogs.dev/article/712a9c1e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-06-03",
-    "badge": "featured"
-  },
-  {
-    "title": "“人类史上最大 IPO”：SpaceX 靠的不只是火箭了？",
-    "summary": "本文基于 SpaceX 招股书，解读其与 Anthropic 的 450 亿美元算力合同、持有 18712 枚比特币、董事会构成与激进治理结构，以及 V3 星舰试飞对估值的关键意义。",
-    "url": "https://www.bestblogs.dev/article/4191e474?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "商业科技",
-    "date": "2026-06-03",
     "badge": "featured"
   }
 ]
