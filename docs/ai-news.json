@@ -1,5 +1,32 @@
 [
   {
+    "title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
+    "summary": "WWDC26 发布 iOS 27 与 Apple 智能新进展，Siri 升级为系统级 AI 助手并拥有独立 App，但国行用户暂无缘 AI 功能。",
+    "url": "https://www.bestblogs.dev/article/3b82ea30?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 莫崇宇",
+    "topic": "商业科技",
+    "date": "2026-06-09",
+    "badge": "featured"
+  },
+  {
+    "title": "如何更科学、方向可控的实现 Skill 的“自进化”?",
+    "summary": "本文深入解析 Trace2Skill、EvoSkill、SkillOpt 三篇里程碑式论文，对比归纳法、自验证与训练范式三种 Skill 自进化路径，探讨如何更科学、可控地实现 Agent Skill 的自动化迭代。",
+    "url": "https://www.bestblogs.dev/article/8fcfc162?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-09",
+    "badge": "agent"
+  },
+  {
+    "title": "横向拆解 Claude Code、Codex 等六大 Agent 上下文压缩策略后，我们做了第 7 个",
+    "summary": "本文横向拆解 Claude Code、Codex CLI 等六大 Agent 的上下文压缩策略，提炼出分层渐进、成本递增、增量摘要等共识原则，并介绍了作者团队面向云端多用户场景落地的四级水位线方案及存储分离、跨轮缓存等特化设计。",
+    "url": "https://www.bestblogs.dev/article/e50e1e1a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-06-08",
+    "badge": "agent"
+  },
+  {
     "title": "“没水了，鱼需要进化”：再访田渊栋，46.5 亿美金估值的 RSI 与 AI 自进化｜Neolabs 特辑",
     "summary": "田渊栋深度访谈：详解其加入 RSI 的决策逻辑、递归自我改进的技术路线与商业化思考，并探讨 AI 时代职业变迁与个人意义。",
     "url": "https://www.bestblogs.dev/article/03279223?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-05",
     "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 399 期）：中国 AI 大厂访问记",
-    "summary": "本文摘录美国科技分析师访问中国 14 家 AI 公司后的观感，涵盖算力差距、计算效率、开源分歧、人才结构、AI 安全态度等 11 个维度，呈现中国 AI 产业的真实生态。",
-    "url": "https://www.bestblogs.dev/article/6933ad74?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "人工智能",
-    "date": "2026-06-05",
-    "badge": "featured"
-  },
-  {
-    "title": "唐斯没被文班打下去；布伦森折弯马刺",
-    "summary": "本文复盘 2026 年 NBA 总决赛首战，分析尼克斯如何通过唐斯对文班亚马的防守、哈特的穿插以及布伦森的韧性，破解马刺的攻防体系并取得胜利。",
-    "url": "https://www.bestblogs.dev/article/19677d7b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张佳玮",
-    "topic": "体育运动",
-    "date": "2026-06-04",
-    "badge": "featured"
-  },
-  {
-    "title": "现代生活中的闭关",
-    "summary": "本文重新定义了现代生活中的「闭关」概念，指出其核心并非物理上的自我封闭，而是通过「止语」和「远离手机」等简单行为，实现精神上的出离与安住当下。",
-    "url": "https://www.bestblogs.dev/article/06502c4b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 槽边往事",
-    "topic": "生活文化",
-    "date": "2026-06-04",
-    "badge": "featured"
   }
 ]
