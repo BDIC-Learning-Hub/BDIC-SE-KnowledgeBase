@@ -222,8 +222,12 @@ nav:
 #      - 虚拟现实:
 #      - 安全与隐私:
 #      - 计算机性能:
-#    - 春季学期:
-#      - 概览: courses/Stage4-2/index.md
+    - 春季学期:
+      - 概览: courses/Stage4-2/index.md
+      - 云计算: courses/Stage4-2/COMP3041J-Cloud-Computing/README.md
+      - 高级软件技术 2: courses/Stage4-2/COMP3040J-Advanced-Software-Technologies-2/README.md
+      - 高级程序建构: courses/Stage4-2/COMP3035J-Advanced-Program-Construction/README.md
+      - 毕业设计（论文）: courses/Stage4-2/COMP3032J-Degree-Project/README.md
   - 关于:
     - 项目介绍: about/index.md
     - 贡献者: about/contributors.md

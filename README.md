@@ -299,9 +299,29 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
       <td>5</td>
     </tr>
     <tr>
-      <td rowspan="3"><b>Stage 4</b></td>
-      <td rowspan="2"><b>Autumn</b></td>
+      <td rowspan="10"><b>Stage 4</b></td>
+      <td rowspan="6"><b>Autumn</b></td>
       <td><a href="docs/courses/Stage4-1/BDIC3024J-Design-Patterns/README.md">设计模式</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-1/COMP3010J-Machine-Learning/README.md">机器学习</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-1/COMP3039J-Advanced-Software-Technologies-1/README.md">高级软件技术</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-1/COMP3024J-Augmented-and-Virtual-Reality/README.md">虚拟现实</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-1/BDIC3025J-Security&Privacy/README.md">安全与隐私</a></td>
       <td>5</td>
       <td>5</td>
     </tr>
@@ -311,10 +331,25 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
       <td>5</td>
     </tr>
     <tr>
-      <td><b>Spring</b></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td rowspan="4"><b>Spring</b></td>
+      <td><a href="docs/courses/Stage4-2/COMP3041J-Cloud-Computing/README.md">云计算</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-2/COMP3040J-Advanced-Software-Technologies-2/README.md">高级软件技术 2</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-2/COMP3035J-Advanced-Program-Construction/README.md">高级程序建构</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage4-2/COMP3032J-Degree-Project/README.md">毕业设计（论文）</a></td>
+      <td>15</td>
+      <td>15</td>
     </tr>
   </tbody>
 </table>
