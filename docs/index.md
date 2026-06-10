@@ -1,36 +1,3 @@
-
-<div class="featured-grid">
-  <div class="featured-post featured-post--feiyue">
-    <div class="featured-post__meta">
-      <span>留学申请</span>
-      <span>BJUT-SWIFT</span>
-    </div>
-    <h2>北京工业大学飞跃手册</h2>
-    <p>由工大学子共建的留学申请经验手册，供准备申请的同学参考。</p>
-    <a href="https://www.bjutswift.cn/feiyue" target="_blank" rel="noopener noreferrer">查看飞跃手册 →</a>
-  </div>
-
-  <div class="featured-post">
-    <div class="featured-post__meta">
-      <span>课程信息</span>
-      <span>BJUT / UCD 学分</span>
-    </div>
-    <h2>课程学分明细</h2>
-    <p>查看软件工程专业每门课程对应的 BJUT 学分与 UCD 学分。</p>
-    <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase#%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9-1" target="_blank" rel="noopener noreferrer">查看课程学分 →</a>
-  </div>
-
-  <div class="featured-post">
-    <div class="featured-post__meta">
-      <span>升学经验</span>
-      <span>2026-04-27</span>
-    </div>
-    <h2>去年今日｜聊聊22级保研</h2>
-    <p>记录推免过程中的信息搜集、材料准备、投递、面试与最终选择，供准备保研的同学参考。</p>
-    <a href="https://mrlepro.com/2026/04/27/%E6%8E%A8%E5%85%8D%E8%AE%B0%E5%BD%95/2026-04-27-%E6%8E%A8%E5%85%8D%E5%AE%9E%E5%BD%95/" target="_blank" rel="noopener noreferrer">阅读推免记录 →</a>
-  </div>
-</div>
-
 <div class="news-container"></div>
 
 
@@ -89,6 +56,11 @@
 
 ## 相关项目
 - [北京工业大学课程共享计划](https://helper.bjutswift.cn/)
+
+## 链接归档
+- [北京工业大学飞跃手册](https://www.bjutswift.cn/feiyue)
+- [课程学分明细](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase#%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9-1)
+- [去年今日｜聊聊22级保研](https://mrlepro.com/2026/04/27/%E6%8E%A8%E5%85%8D%E8%AE%B0%E5%BD%95/2026-04-27-%E6%8E%A8%E5%85%8D%E5%AE%9E%E5%BD%95/)
 
 ## 感谢本项目贡献者
 <div class="contributors-grid">
