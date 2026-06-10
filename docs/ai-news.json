@@ -1,5 +1,23 @@
 [
   {
+    "title": "微信发布 Skill 文档，数百万小程序，一夜之间变成了 AI 的手和脚",
+    "summary": "微信发布 Skill 文档，让数百万小程序通过 MCP 协议成为 AI 可调用的服务，微信正从聊天工具演变为 AI 时代的服务中枢。",
+    "url": "https://www.bestblogs.dev/article/baefbe32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Selina",
+    "topic": "人工智能",
+    "date": "2026-06-09",
+    "badge": "tooling"
+  },
+  {
+    "title": "只给一份文档，Qwen3.7-Max 从 0 交付双端应用",
+    "summary": "本文详细介绍了通义实验室与 Efflora 团队基于 Qwen3.7-Max 模型，仅凭一份产品调研文档，在隔离环境中从零交付移动端和 Web 端两套可运行应用的实验过程与工程方法论。",
+    "url": "https://www.bestblogs.dev/article/8d85909c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 通义实验室",
+    "topic": "人工智能",
+    "date": "2026-06-09",
+    "badge": "model"
+  },
+  {
     "title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
     "summary": "WWDC26 发布 iOS 27 与 Apple 智能新进展，Siri 升级为系统级 AI 助手并拥有独立 App，但国行用户暂无缘 AI 功能。",
     "url": "https://www.bestblogs.dev/article/3b82ea30?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,6 +25,15 @@
     "topic": "商业科技",
     "date": "2026-06-09",
     "badge": "featured"
+  },
+  {
+    "title": "4000 行代码撑起一个 Agent 框架？nanobot 架构深度解析",
+    "summary": "本文深度解析开源 Agent 框架 nanobot 的架构设计，分析其以 4000 行核心代码实现极简 ReAct 循环、Markdown 技能系统、文件系统记忆等关键决策的优势与局限，并提炼可迁移的架构模式。",
+    "url": "https://www.bestblogs.dev/article/9a3cb912?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-09",
+    "badge": "agent"
   },
   {
     "title": "如何更科学、方向可控的实现 Skill 的“自进化”?",
@@ -18,57 +45,30 @@
     "badge": "agent"
   },
   {
+    "title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
+    "summary": "本文通过与 MiniMax Agent 研发工程师择因的深度对话，揭示了 Agent Team 架构的设计哲学、技术细节，以及行业在 Agent 工程上从模型竞争转向脚手架竞争的共识与趋势。",
+    "url": "https://www.bestblogs.dev/article/7db52531?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 杜晨",
+    "topic": "人工智能",
+    "date": "2026-06-08",
+    "badge": "agent"
+  },
+  {
+    "title": "英伟达：带领 PC，重铸 PC｜硬哲学",
+    "summary": "本文以英伟达 GTC 和微软 Build 大会为背景，深度解读老黄「面向智能体设计硬件」的核心论断，并分析 RTX Spark N1X 处理器如何将这一理念落地到消费级 PC 市场，同时理性指出其技术代际与生态风险。",
+    "url": "https://www.bestblogs.dev/article/2f366f79?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 马扶摇",
+    "topic": "商业科技",
+    "date": "2026-06-08",
+    "badge": "featured"
+  },
+  {
     "title": "横向拆解 Claude Code、Codex 等六大 Agent 上下文压缩策略后，我们做了第 7 个",
     "summary": "本文横向拆解 Claude Code、Codex CLI 等六大 Agent 的上下文压缩策略，提炼出分层渐进、成本递增、增量摘要等共识原则，并介绍了作者团队面向云端多用户场景落地的四级水位线方案及存储分离、跨轮缓存等特化设计。",
     "url": "https://www.bestblogs.dev/article/e50e1e1a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
     "date": "2026-06-08",
-    "badge": "agent"
-  },
-  {
-    "title": "“没水了，鱼需要进化”：再访田渊栋，46.5 亿美金估值的 RSI 与 AI 自进化｜Neolabs 特辑",
-    "summary": "田渊栋深度访谈：详解其加入 RSI 的决策逻辑、递归自我改进的技术路线与商业化思考，并探讨 AI 时代职业变迁与个人意义。",
-    "url": "https://www.bestblogs.dev/article/03279223?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-06-07",
-    "badge": "featured"
-  },
-  {
-    "title": "对话奇点灵智：少儿 AI 硬件的下一代，不是 Chatbot，而是能自进化的实体智能体",
-    "summary": "本文深度对话奇点灵智创始人，阐述其少儿 AI 硬件「多奇」如何通过软硬件解耦、AI Coding 与场景剧本沉淀，打造一款能自进化的实体智能体，而非简单的 Chatbot。",
-    "url": "https://www.bestblogs.dev/article/ec338c66?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "产品设计",
-    "date": "2026-06-07",
-    "badge": "tooling"
-  },
-  {
-    "title": "Coding Agent 技术全景图：Context Engineering、Subagents 与 Harness，一年范式转移全解析",
-    "summary": "本文基于 Thoughtworks 专家在 QCon 的演讲，系统梳理了 Coding Agent 领域过去一年的范式转移，核心围绕 Context Engineering、Subagents、Harness Engineering 三大主题，并深入探讨了减少人工监督带来的安全、成本与可维护性挑战。",
-    "url": "https://www.bestblogs.dev/article/9ffff594?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-06-07",
-    "badge": "agent"
-  },
-  {
-    "title": "最新对话“AI 教父”辛顿：超级智能即将到来 | 完整版+视频",
-    "summary": "AI 教父杰夫·辛顿在最新深度访谈中，阐述了大语言模型已具备真正理解力与意识，并警告数字化智能在信息共享效率上对人类的压倒性优势，以及利润驱动竞争下人类面临的生存风险。",
-    "url": "https://www.bestblogs.dev/article/df04fd3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Web3天空之城",
-    "topic": "人工智能",
-    "date": "2026-06-06",
-    "badge": "model"
-  },
-  {
-    "title": "汤道生姚顺雨对谈：腾讯 AI 的下半场",
-    "summary": "腾讯集团高级执行副总裁汤道生与首席 AI 科学家姚顺雨同台对谈，围绕 AI 下半场的核心命题——从「解决问题」转向「定义问题」、模型与产品的 Co-Design、Agent 技术的演进与性价比、以及腾讯在 AI 时代的战略节奏与组织变革，展开了一场兼具战略视野与工程实践的深度对话。",
-    "url": "https://www.bestblogs.dev/article/1fa6207b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-06-05",
     "badge": "agent"
   }
 ]
