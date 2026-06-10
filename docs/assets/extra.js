@@ -116,6 +116,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // 初始化已预渲染的 News 栏位交互
     initializeNews();
+    initializeGiscus();
+    observeGiscusTheme();
 });
 
 const FEED_CONFIG = {
@@ -201,7 +203,7 @@ function bindFeedEvents(container) {
     const panels = container.querySelectorAll('.news-panel');
 
     tabs.forEach(tab => {
-        const isDefault = tab.dataset.feed === 'industry';
+        const isDefault = tab.dataset.feed === 'announcements';
         tab.classList.toggle('is-active', isDefault);
         tab.setAttribute('aria-selected', isDefault ? 'true' : 'false');
 
@@ -318,4 +320,82 @@ function formatDate(dateStr) {
     
     // 格式化为 YYYY-MM-DD
     return dateStr;
+}
+
+function getGiscusTheme() {
+    return document.body.getAttribute('data-md-color-scheme') === 'slate' ? 'dark' : 'light';
+}
+
+function initializeGiscus() {
+    const content = document.querySelector('article.md-content__inner');
+    if (!content || content.querySelector('.giscus-container')) return;
+
+    const pageTitle = content.querySelector('h1');
+    if (pageTitle && pageTitle.textContent.trim() === '404 - Not found') return;
+
+    const section = document.createElement('section');
+    section.className = 'giscus-container';
+    section.setAttribute('aria-labelledby', 'giscus-title');
+
+    const title = document.createElement('h2');
+    title.id = 'giscus-title';
+    title.textContent = '讨论区';
+
+    const description = document.createElement('p');
+    description.className = 'giscus-description';
+    description.textContent = '欢迎在这里提问、补充资料线索或分享学习经验。';
+
+    const target = document.createElement('div');
+    target.className = 'giscus';
+
+    const script = document.createElement('script');
+    script.src = 'https://giscus.app/client.js';
+    script.setAttribute('data-repo', 'BDIC-Learning-Hub/BDIC-SE-KnowledgeBase');
+    script.setAttribute('data-repo-id', 'R_kgDOPR8KOg');
+    script.setAttribute('data-category', 'Announcements');
+    script.setAttribute('data-category-id', 'DIC_kwDOPR8KOs4C-3Ql');
+    script.setAttribute('data-mapping', 'pathname');
+    script.setAttribute('data-strict', '1');
+    script.setAttribute('data-reactions-enabled', '1');
+    script.setAttribute('data-emit-metadata', '0');
+    script.setAttribute('data-input-position', 'top');
+    script.setAttribute('data-theme', getGiscusTheme());
+    script.setAttribute('data-lang', 'zh-CN');
+    script.setAttribute('data-loading', 'lazy');
+    script.setAttribute('crossorigin', 'anonymous');
+    script.async = true;
+
+    target.appendChild(script);
+    section.append(title, description, target);
+    content.appendChild(section);
+}
+
+function updateGiscusTheme() {
+    const frame = document.querySelector('iframe.giscus-frame');
+    if (!frame) return;
+
+    frame.contentWindow.postMessage({
+        giscus: {
+            setConfig: {
+                theme: getGiscusTheme()
+            }
+        }
+    }, 'https://giscus.app');
+}
+
+function observeGiscusTheme() {
+    if (window.giscusThemeObserver || typeof MutationObserver === 'undefined') return;
+
+    window.giscusThemeObserver = new MutationObserver(updateGiscusTheme);
+    window.giscusThemeObserver.observe(document.body, {
+        attributes: true,
+        attributeFilter: ['data-md-color-scheme']
+    });
+}
+
+if (typeof document$ !== 'undefined') {
+    document$.subscribe(function() {
+        initializeGiscus();
+        updateGiscusTheme();
+    });
 }

@@ -82,16 +82,16 @@ def render_homepage_news() -> str:
 <div class="news-container">
   <div class="news-shell">
     <div class="news-tabs" role="tablist" aria-label="首页动态切换">
-      <button class="news-tab is-active" type="button" role="tab" aria-selected="true" data-feed="industry">
-        行业精选
-      </button>
-      <button class="news-tab" type="button" role="tab" aria-selected="false" data-feed="announcements">
+      <button class="news-tab is-active" type="button" role="tab" aria-selected="true" data-feed="announcements">
         公告栏
+      </button>
+      <button class="news-tab" type="button" role="tab" aria-selected="false" data-feed="industry">
+        行业精选
       </button>
     </div>
     <div class="news-panels">
-      {render_panel(industry, True)}
-      {render_panel(announcements, False)}
+      {render_panel(announcements, True)}
+      {render_panel(industry, False)}
     </div>
   </div>
 </div>
