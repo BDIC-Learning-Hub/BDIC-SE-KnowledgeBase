@@ -1,5 +1,14 @@
 [
   {
+    "title": "知识库分层编排：从 RAG 到 Agent-native Knowledge Context Layer",
+    "summary": "本文提出「金字塔知识库」范式，通过五层分层（原则/架构/规范/实现/经验）与角色感知路由，解决 RAG 在工程知识库中的粒度混乱与关联缺失问题，并给出与 Naive RAG、LLM Wiki、Graphify、GraphRAG 的对比评测。",
+    "url": "https://www.bestblogs.dev/article/f53f98c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-10",
+    "badge": "agent"
+  },
+  {
     "title": "微信发布 Skill 文档，数百万小程序，一夜之间变成了 AI 的手和脚",
     "summary": "微信发布 Skill 文档，让数百万小程序通过 MCP 协议成为 AI 可调用的服务，微信正从聊天工具演变为 AI 时代的服务中枢。",
     "url": "https://www.bestblogs.dev/article/baefbe32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "商业科技",
     "date": "2026-06-08",
     "badge": "featured"
-  },
-  {
-    "title": "横向拆解 Claude Code、Codex 等六大 Agent 上下文压缩策略后，我们做了第 7 个",
-    "summary": "本文横向拆解 Claude Code、Codex CLI 等六大 Agent 的上下文压缩策略，提炼出分层渐进、成本递增、增量摘要等共识原则，并介绍了作者团队面向云端多用户场景落地的四级水位线方案及存储分离、跨轮缓存等特化设计。",
-    "url": "https://www.bestblogs.dev/article/e50e1e1a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-06-08",
-    "badge": "agent"
   }
 ]
