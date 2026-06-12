@@ -1,5 +1,32 @@
 [
   {
+    "title": "人是最慢的节点，还怎么管 AI Agent？｜AI 跃迁者调研",
+    "summary": "本文深度访谈 Multica 创始人张佳圆，揭示了一个 4 人团队如何通过 Agent 协作平台实现组织效率革命，并探讨了人在 AI 时代的新角色与思考边界。",
+    "url": "https://www.bestblogs.dev/article/7bf0f7d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-06-11",
+    "badge": "agent"
+  },
+  {
+    "title": "普渡机器人创始人张涛：打造具身智能时代的 AI 原生组织",
+    "summary": "普渡机器人创始人张涛深度分享十年创业历程，从技术痴迷到商业落地，提出以「数据、算法、算力」为核心的成长模型，并系统阐述「管理金字塔」理论，展望 AI 原生组织的终极形态。",
+    "url": "https://www.bestblogs.dev/article/0a2ecfda?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "商业科技",
+    "date": "2026-06-10",
+    "badge": "model"
+  },
+  {
+    "title": "跨端页面秒开，腾讯开源框架 Kuikly 是怎么做到的？",
+    "summary": "本文详细解析腾讯开源跨端框架 Kuikly 自研的首屏加速方案 TurboDisplay，通过双线并行、节点采集与增量更新三大核心机制，在页面二次打开场景下实现秒开，并在线上业务中取得 60%-80% 的耗时优化。",
+    "url": "https://www.bestblogs.dev/article/993cf31c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-06-10",
+    "badge": "tooling"
+  },
+  {
     "title": "知识库分层编排：从 RAG 到 Agent-native Knowledge Context Layer",
     "summary": "本文提出「金字塔知识库」范式，通过五层分层（原则/架构/规范/实现/经验）与角色感知路由，解决 RAG 在工程知识库中的粒度混乱与关联缺失问题，并给出与 Naive RAG、LLM Wiki、Graphify、GraphRAG 的对比评测。",
     "url": "https://www.bestblogs.dev/article/f53f98c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-09",
     "badge": "agent"
-  },
-  {
-    "title": "如何更科学、方向可控的实现 Skill 的“自进化”?",
-    "summary": "本文深入解析 Trace2Skill、EvoSkill、SkillOpt 三篇里程碑式论文，对比归纳法、自验证与训练范式三种 Skill 自进化路径，探讨如何更科学、可控地实现 Agent Skill 的自动化迭代。",
-    "url": "https://www.bestblogs.dev/article/8fcfc162?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-09",
-    "badge": "agent"
-  },
-  {
-    "title": "对话 MiniMax 择因：Agent 终会超过人类，我们又将何去何从？",
-    "summary": "本文通过与 MiniMax Agent 研发工程师择因的深度对话，揭示了 Agent Team 架构的设计哲学、技术细节，以及行业在 Agent 工程上从模型竞争转向脚手架竞争的共识与趋势。",
-    "url": "https://www.bestblogs.dev/article/7db52531?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 杜晨",
-    "topic": "人工智能",
-    "date": "2026-06-08",
-    "badge": "agent"
-  },
-  {
-    "title": "英伟达：带领 PC，重铸 PC｜硬哲学",
-    "summary": "本文以英伟达 GTC 和微软 Build 大会为背景，深度解读老黄「面向智能体设计硬件」的核心论断，并分析 RTX Spark N1X 处理器如何将这一理念落地到消费级 PC 市场，同时理性指出其技术代际与生态风险。",
-    "url": "https://www.bestblogs.dev/article/2f366f79?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 马扶摇",
-    "topic": "商业科技",
-    "date": "2026-06-08",
-    "badge": "featured"
   }
 ]
