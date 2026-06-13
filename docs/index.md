@@ -1,5 +1,27 @@
 <div class="news-container"></div>
 
+## 精选资源
+
+<section class="promo-grid" aria-label="精选资源">
+  <article class="promo-card">
+    <a class="promo-card-media" href="https://lab.withyunhan.com/posts/bdic-beamer-template/" target="_blank" rel="noopener noreferrer" aria-label="查看 BDIC Beamer 模板介绍">
+      <img src="https://raw.githubusercontent.com/YunhanGa0/BDIC_Beamer/main/Showcase/1.jpg" alt="BDIC Beamer 模板预览" loading="lazy">
+    </a>
+    <div class="promo-card-body">
+      <div class="promo-card-meta">
+        <span class="promo-card-kicker">LaTeX Template</span>
+        <span class="promo-card-tag">BDIC</span>
+      </div>
+      <h2 class="promo-card-title">BDIC Beamer 模板</h2>
+      <p class="promo-card-desc">Yuhan制作的Beamer PPT模版。让你的每一次汇报 academic, professional, elegant, consistent, polished, clean, focused, and confident. </p>
+      <div class="promo-card-actions">
+        <a class="promo-card-button promo-card-button-primary" href="https://lab.withyunhan.com/posts/bdic-beamer-template/" target="_blank" rel="noopener noreferrer">查看介绍</a>
+        <a class="promo-card-button" href="https://github.com/YunhanGa0/BDIC_Beamer" target="_blank" rel="noopener noreferrer">GitHub 下载</a>
+      </div>
+    </div>
+  </article>
+</section>
+
 
 
 ## 计算机资源推荐
