@@ -116,6 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // 初始化已预渲染的 News 栏位交互
     initializeNews();
+    initializeGitHubStars();
     initializeGiscus();
     observeGiscusTheme();
 });
@@ -148,6 +149,41 @@ function initializeNews() {
     if (!newsShell) return;
 
     bindFeedEvents(newsContainer);
+}
+
+function initializeGitHubStars() {
+    const starBadges = document.querySelectorAll('[data-github-stars]');
+    if (!starBadges.length) return;
+
+    starBadges.forEach(async badge => {
+        const repo = badge.dataset.githubStars;
+        const countElement = badge.querySelector('.promo-card-star-count');
+        if (!repo || !countElement) return;
+
+        try {
+            const response = await fetch(`https://api.github.com/repos/${repo}`, {
+                headers: { Accept: 'application/vnd.github+json' }
+            });
+            if (!response.ok) throw new Error(`GitHub API returned ${response.status}`);
+
+            const data = await response.json();
+            if (typeof data.stargazers_count !== 'number') return;
+
+            countElement.textContent = formatCompactNumber(data.stargazers_count);
+            badge.setAttribute('aria-label', `GitHub ${data.stargazers_count} stars`);
+        } catch (error) {
+            countElement.textContent = 'Stars';
+            badge.classList.add('is-unavailable');
+        }
+    });
+}
+
+function formatCompactNumber(value) {
+    if (value < 1000) return String(value);
+    if (value < 1000000) {
+        return `${(value / 1000).toFixed(value < 10000 ? 1 : 0).replace(/\.0$/, '')}k`;
+    }
+    return `${(value / 1000000).toFixed(1).replace(/\.0$/, '')}m`;
 }
 
 function createPanelHTML(feed, isActive) {

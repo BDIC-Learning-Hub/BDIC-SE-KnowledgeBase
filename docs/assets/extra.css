@@ -747,7 +747,8 @@ article.md-content__inner > h1:first-child + .news-container {
 }
 
 .promo-card-kicker,
-.promo-card-tag {
+.promo-card-tag,
+.promo-card-stars {
   display: inline-flex;
   align-items: center;
   min-height: 1.25rem;
@@ -768,6 +769,19 @@ article.md-content__inner > h1:first-child + .news-container {
   color: #1565c0;
   background: #e3f2fd;
   border: 1px solid rgba(21, 101, 192, 0.2);
+}
+
+.promo-card-stars {
+  gap: 0.18rem;
+  color: #5d4037;
+  background: #fff8e1;
+  border: 1px solid rgba(93, 64, 55, 0.16);
+  font-variant-numeric: tabular-nums;
+}
+
+.promo-card-star-icon {
+  color: #f9a825;
+  line-height: 1;
 }
 
 .promo-card-title {
@@ -836,6 +850,12 @@ article.md-content__inner > h1:first-child + .news-container {
   color: #90caf9;
   background: rgba(21, 101, 192, 0.15);
   border-color: rgba(144, 202, 249, 0.3);
+}
+
+[data-md-color-scheme="slate"] .promo-card-stars {
+  color: #ffe082;
+  background: rgba(249, 168, 37, 0.14);
+  border-color: rgba(255, 224, 130, 0.28);
 }
 
 [data-md-color-scheme="slate"] .promo-card-button-primary {
