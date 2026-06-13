@@ -1,5 +1,41 @@
 [
   {
+    "title": "SpaceX 敲钟，马斯克成人类首个“万亿美元先生”，400 名员工身家过亿",
+    "summary": "SpaceX 以 1.77 万亿美元估值完成史上最大 IPO，开盘市值一度突破 2 万亿美元，引发大规模造富效应与估值分歧。",
+    "url": "https://www.bestblogs.dev/article/ff2e8373?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "投资财经",
+    "date": "2026-06-12",
+    "badge": "featured"
+  },
+  {
+    "title": "Kimi K2.7 Code 编程模型已上线 Kimi Code、API 开放平台",
+    "summary": "月之暗面发布并开源 Kimi K2.7 Code 编程模型，在长上下文编程、指令遵循和 token 效率上显著提升，并预告下周推出 6 倍速高速版。",
+    "url": "https://www.bestblogs.dev/article/7ed2852b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 月之暗面 Kimi",
+    "topic": "人工智能",
+    "date": "2026-06-12",
+    "badge": "model"
+  },
+  {
+    "title": "深度思考：架构腐朽 & Loop Engineering",
+    "summary": "本文从软件工程实践出发，深入剖析系统架构腐朽的本质、成因与应对策略，并提出在 AI Agent 时代通过 Loop Engineering 建立持续排熵能力的工程框架。",
+    "url": "https://www.bestblogs.dev/article/1706c463?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 浮之静",
+    "topic": "软件编程",
+    "date": "2026-06-12",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
+    "summary": "本期周刊以 rsync 维护者用 AI 生成代码引发的争议为引，探讨 AI 时代开源项目的维护困境与未来协作模式，并汇集科技动态、工具推荐与深度文摘。",
+    "url": "https://www.bestblogs.dev/article/d1462f58?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "软件编程",
+    "date": "2026-06-11",
+    "badge": "tooling"
+  },
+  {
     "title": "人是最慢的节点，还怎么管 AI Agent？｜AI 跃迁者调研",
     "summary": "本文深度访谈 Multica 创始人张佳圆，揭示了一个 4 人团队如何通过 Agent 协作平台实现组织效率革命，并探讨了人在 AI 时代的新角色与思考边界。",
     "url": "https://www.bestblogs.dev/article/7bf0f7d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,6 +43,15 @@
     "topic": "人工智能",
     "date": "2026-06-11",
     "badge": "agent"
+  },
+  {
+    "title": "AI 不缺智商缺纪律：一场 Harness 工程化实践",
+    "summary": "本文系统复盘了作者在 Harness 工程化实践中，如何通过分层约束、状态外置与确定性评测，将 AI Coding 从「堆 prompt 约束」演进为「结构化框架」的完整历程。",
+    "url": "https://www.bestblogs.dev/article/07b28cbc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-06-10",
+    "badge": "tooling"
   },
   {
     "title": "普渡机器人创始人张涛：打造具身智能时代的 AI 原生组织",
@@ -25,50 +70,5 @@
     "topic": "软件编程",
     "date": "2026-06-10",
     "badge": "tooling"
-  },
-  {
-    "title": "知识库分层编排：从 RAG 到 Agent-native Knowledge Context Layer",
-    "summary": "本文提出「金字塔知识库」范式，通过五层分层（原则/架构/规范/实现/经验）与角色感知路由，解决 RAG 在工程知识库中的粒度混乱与关联缺失问题，并给出与 Naive RAG、LLM Wiki、Graphify、GraphRAG 的对比评测。",
-    "url": "https://www.bestblogs.dev/article/f53f98c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-10",
-    "badge": "agent"
-  },
-  {
-    "title": "微信发布 Skill 文档，数百万小程序，一夜之间变成了 AI 的手和脚",
-    "summary": "微信发布 Skill 文档，让数百万小程序通过 MCP 协议成为 AI 可调用的服务，微信正从聊天工具演变为 AI 时代的服务中枢。",
-    "url": "https://www.bestblogs.dev/article/baefbe32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Selina",
-    "topic": "人工智能",
-    "date": "2026-06-09",
-    "badge": "tooling"
-  },
-  {
-    "title": "只给一份文档，Qwen3.7-Max 从 0 交付双端应用",
-    "summary": "本文详细介绍了通义实验室与 Efflora 团队基于 Qwen3.7-Max 模型，仅凭一份产品调研文档，在隔离环境中从零交付移动端和 Web 端两套可运行应用的实验过程与工程方法论。",
-    "url": "https://www.bestblogs.dev/article/8d85909c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 通义实验室",
-    "topic": "人工智能",
-    "date": "2026-06-09",
-    "badge": "model"
-  },
-  {
-    "title": "iPhone 终于支持 Siri AI！但国行无缘首发，闹钟成为最大惊喜",
-    "summary": "WWDC26 发布 iOS 27 与 Apple 智能新进展，Siri 升级为系统级 AI 助手并拥有独立 App，但国行用户暂无缘 AI 功能。",
-    "url": "https://www.bestblogs.dev/article/3b82ea30?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 莫崇宇",
-    "topic": "商业科技",
-    "date": "2026-06-09",
-    "badge": "featured"
-  },
-  {
-    "title": "4000 行代码撑起一个 Agent 框架？nanobot 架构深度解析",
-    "summary": "本文深度解析开源 Agent 框架 nanobot 的架构设计，分析其以 4000 行核心代码实现极简 ReAct 循环、Markdown 技能系统、文件系统记忆等关键决策的优势与局限，并提炼可迁移的架构模式。",
-    "url": "https://www.bestblogs.dev/article/9a3cb912?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-09",
-    "badge": "agent"
   }
 ]
