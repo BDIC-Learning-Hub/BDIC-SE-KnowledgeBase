@@ -18,6 +18,15 @@
     "badge": "model"
   },
   {
+    "title": "Qoder 工程实践：当瓶颈从模型转移到人",
+    "summary": "本文以阿里技术专家第一人称视角，系统梳理了从 AI 辅助编程到「睡后 Token」的工程实践演进，核心论点是当 AI 输出价值超过 Token 成本后，瓶颈从模型能力转移到人的精力，解决方案是构建云端 Harness 基础设施，实现人机分工的范式转变。",
+    "url": "https://www.bestblogs.dev/article/452c99bc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-06-12",
+    "badge": "model"
+  },
+  {
     "title": "深度思考：架构腐朽 & Loop Engineering",
     "summary": "本文从软件工程实践出发，深入剖析系统架构腐朽的本质、成因与应对策略，并提出在 AI Agent 时代通过 Loop Engineering 建立持续排熵能力的工程框架。",
     "url": "https://www.bestblogs.dev/article/1706c463?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "商业科技",
     "date": "2026-06-10",
     "badge": "model"
-  },
-  {
-    "title": "跨端页面秒开，腾讯开源框架 Kuikly 是怎么做到的？",
-    "summary": "本文详细解析腾讯开源跨端框架 Kuikly 自研的首屏加速方案 TurboDisplay，通过双线并行、节点采集与增量更新三大核心机制，在页面二次打开场景下实现秒开，并在线上业务中取得 60%-80% 的耗时优化。",
-    "url": "https://www.bestblogs.dev/article/993cf31c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-06-10",
-    "badge": "tooling"
   }
 ]
