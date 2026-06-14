@@ -33,6 +33,10 @@
       <div class="promo-card-meta">
         <span class="promo-card-kicker">Report Template</span>
         <span class="promo-card-tag">BDIC</span>
+        <span class="promo-card-stars" data-github-stars="peylix/bdic-report-template-latex" aria-label="GitHub star 数">
+          <span class="promo-card-star-icon" aria-hidden="true">★</span>
+          <span class="promo-card-star-count">--</span>
+        </span>
       </div>
       <h2 class="promo-card-title">BDIC Report 模板</h2>
       <p class="promo-card-desc"><a href="https://github.com/peylix" target="_blank" rel="noopener noreferrer">Sichen</a>制作的BDIC Report模版。让你的每一次作业报告 scholarly, professional, refined, coherent, polished, clear, focused, and assured. </p>
