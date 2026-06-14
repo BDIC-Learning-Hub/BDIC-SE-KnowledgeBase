@@ -9,7 +9,7 @@
     </a>
     <div class="promo-card-body">
       <div class="promo-card-meta">
-        <span class="promo-card-kicker">LaTeX Template</span>
+        <span class="promo-card-kicker">LaTeX Beamer Template</span>
         <span class="promo-card-tag">BDIC</span>
         <span class="promo-card-stars" data-github-stars="YunhanGa0/BDIC_Beamer" aria-label="GitHub star 数">
           <span class="promo-card-star-icon" aria-hidden="true">★</span>
@@ -17,7 +17,7 @@
         </span>
       </div>
       <h2 class="promo-card-title">BDIC Beamer 模板</h2>
-      <p class="promo-card-desc">Yunhan制作的Beamer PPT模版。让你的每一次汇报 academic, professional, elegant, consistent, polished, clean, focused, and confident. </p>
+      <p class="promo-card-desc"><a href="https://github.com/YunhanGa0" target="_blank" rel="noopener noreferrer">Yunhan</a>制作的Beamer PPT模版。让你的每一次汇报 academic, professional, elegant, consistent, polished, clean, focused, and confident. </p>
       <div class="promo-card-actions">
         <a class="promo-card-button promo-card-button-primary" href="https://lab.withyunhan.com/posts/bdic-beamer-template/" target="_blank" rel="noopener noreferrer">查看介绍</a>
         <a class="promo-card-button" href="https://github.com/YunhanGa0/BDIC_Beamer" target="_blank" rel="noopener noreferrer">GitHub 下载</a>
@@ -31,7 +31,7 @@
     </a>
     <div class="promo-card-body">
       <div class="promo-card-meta">
-        <span class="promo-card-kicker">Report Template</span>
+        <span class="promo-card-kicker">LaTeX Report Template</span>
         <span class="promo-card-tag">BDIC</span>
         <span class="promo-card-stars" data-github-stars="peylix/bdic-report-template-latex" aria-label="GitHub star 数">
           <span class="promo-card-star-icon" aria-hidden="true">★</span>
