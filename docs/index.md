@@ -24,6 +24,23 @@
       </div>
     </div>
   </article>
+
+  <article class="promo-card">
+    <a class="promo-card-media" href="https://github.com/peylix/bdic-report-template-latex" target="_blank" rel="noopener noreferrer" aria-label="查看 BDIC Report 模板仓库">
+      <img src="https://raw.githubusercontent.com/peylix/bdic-report-template-latex/main/screenshots/title-page.jpg" alt="BDIC Report 模板预览" loading="lazy">
+    </a>
+    <div class="promo-card-body">
+      <div class="promo-card-meta">
+        <span class="promo-card-kicker">Report Template</span>
+        <span class="promo-card-tag">BDIC</span>
+      </div>
+      <h2 class="promo-card-title">BDIC Report 模板</h2>
+      <p class="promo-card-desc"><a href="https://github.com/peylix" target="_blank" rel="noopener noreferrer">Sichen</a>制作的BDIC Report模版。让你的每一次作业报告 scholarly, professional, refined, coherent, polished, clear, focused, and assured. </p>
+      <div class="promo-card-actions">
+        <a class="promo-card-button" href="https://github.com/peylix/bdic-report-template-latex" target="_blank" rel="noopener noreferrer">GitHub 下载</a>
+      </div>
+    </div>
+  </article>
 </section>
 
 
