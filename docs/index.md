@@ -17,7 +17,7 @@
         </span>
       </div>
       <h2 class="promo-card-title">BDIC Beamer 模板</h2>
-      <p class="promo-card-desc">Yuhan制作的Beamer PPT模版。让你的每一次汇报 academic, professional, elegant, consistent, polished, clean, focused, and confident. </p>
+      <p class="promo-card-desc">Yunhan制作的Beamer PPT模版。让你的每一次汇报 academic, professional, elegant, consistent, polished, clean, focused, and confident. </p>
       <div class="promo-card-actions">
         <a class="promo-card-button promo-card-button-primary" href="https://lab.withyunhan.com/posts/bdic-beamer-template/" target="_blank" rel="noopener noreferrer">查看介绍</a>
         <a class="promo-card-button" href="https://github.com/YunhanGa0/BDIC_Beamer" target="_blank" rel="noopener noreferrer">GitHub 下载</a>
