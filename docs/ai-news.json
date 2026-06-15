@@ -1,5 +1,14 @@
 [
   {
+    "title": "如何搭建一个端到端业务需求专家 Agent",
+    "summary": "本文详细阐述了一套在真实业务需求上跑通的端到端业务需求专家 Agent 系统，通过组织上下文、串联工具和沉淀反馈，将需求研发过程从人工串联转变为 Agent 自主推进、人在关键节点确认的闭环。",
+    "url": "https://www.bestblogs.dev/article/c497f4de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-15",
+    "badge": "agent"
+  },
+  {
     "title": "SpaceX 敲钟，马斯克成人类首个“万亿美元先生”，400 名员工身家过亿",
     "summary": "SpaceX 以 1.77 万亿美元估值完成史上最大 IPO，开盘市值一度突破 2 万亿美元，引发大规模造富效应与估值分歧。",
     "url": "https://www.bestblogs.dev/article/ff2e8373?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-10",
     "badge": "tooling"
-  },
-  {
-    "title": "普渡机器人创始人张涛：打造具身智能时代的 AI 原生组织",
-    "summary": "普渡机器人创始人张涛深度分享十年创业历程，从技术痴迷到商业落地，提出以「数据、算法、算力」为核心的成长模型，并系统阐述「管理金字塔」理论，展望 AI 原生组织的终极形态。",
-    "url": "https://www.bestblogs.dev/article/0a2ecfda?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "商业科技",
-    "date": "2026-06-10",
-    "badge": "model"
   }
 ]
