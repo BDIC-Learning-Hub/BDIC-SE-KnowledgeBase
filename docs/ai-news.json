@@ -1,5 +1,14 @@
 [
   {
+    "title": "一篇搞懂 AI Coding Agent 的 Token 成本控制",
+    "summary": "本文系统拆解 AI Coding Agent 的 Token 成本结构，提出从使用习惯、模型路由、上下文压缩、代码图谱到多 Agent 协作的五层优化框架，并提供可落地的工具与工程方法。",
+    "url": "https://www.bestblogs.dev/article/8b9392aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-06-15",
+    "badge": "agent"
+  },
+  {
     "title": "如何搭建一个端到端业务需求专家 Agent",
     "summary": "本文详细阐述了一套在真实业务需求上跑通的端到端业务需求专家 Agent 系统，通过组织上下文、串联工具和沉淀反馈，将需求研发过程从人工串联转变为 Agent 自主推进、人在关键节点确认的闭环。",
     "url": "https://www.bestblogs.dev/article/c497f4de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-11",
     "badge": "agent"
-  },
-  {
-    "title": "AI 不缺智商缺纪律：一场 Harness 工程化实践",
-    "summary": "本文系统复盘了作者在 Harness 工程化实践中，如何通过分层约束、状态外置与确定性评测，将 AI Coding 从「堆 prompt 约束」演进为「结构化框架」的完整历程。",
-    "url": "https://www.bestblogs.dev/article/07b28cbc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-06-10",
-    "badge": "tooling"
   }
 ]
