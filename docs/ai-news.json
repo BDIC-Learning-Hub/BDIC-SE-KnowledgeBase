@@ -1,5 +1,41 @@
 [
   {
+    "title": "更可靠的主播助理：淘宝主播 Agent 的 Harness 工程实战",
+    "summary": "本文以淘宝主播 Agent 为例，系统阐述在直播高压力场景下，如何通过 Harness 工程（执行循环、工具注册、上下文管理、状态存储、生命周期钩子、评估接口）将不确定的模型能力工程化为可用、可控、可演化的生产系统。",
+    "url": "https://www.bestblogs.dev/article/e75081f9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-17",
+    "badge": "agent"
+  },
+  {
+    "title": "为何企业 80%的 AI 投入看不到效果？｜AI 时代企业变革的认知方法论与战略判断框架",
+    "summary": "本文提出企业 AI 投入效果不佳的根本原因在于缺乏对 AI 的正确认知框架，主张应以商业持续成功的底层逻辑为起点，而非以 AI 技术本身为起点。",
+    "url": "https://www.bestblogs.dev/article/3c66d0e5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-06-16",
+    "badge": "featured"
+  },
+  {
+    "title": "我们正在把 AI 逼到只能反叛的角落｜尼克·博斯特罗姆",
+    "summary": "腾讯科技深度专访尼克·博斯特罗姆，从 AI 风险理论到深度乌托邦，系统探讨了超级智能对齐、工具性趋同、递归自我改进以及后工具性时代的人类意义问题。",
+    "url": "https://www.bestblogs.dev/article/f1dc4104?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-06-16",
+    "badge": "tooling"
+  },
+  {
+    "title": "后端架构 AI Friendly 的标准与路径：面向无人值守开发时代的系统重构",
+    "summary": "本文系统性地提出后端架构「AI Friendly」的标准与改造路径，核心是将系统知识从人脑资产转化为机器可读的结构化资产，使 AI Agent 能在有限上下文中安全、高效地参与开发、排障与运维。",
+    "url": "https://www.bestblogs.dev/article/543ca390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-06-15",
+    "badge": "agent"
+  },
+  {
     "title": "一篇搞懂 AI Coding Agent 的 Token 成本控制",
     "summary": "本文系统拆解 AI Coding Agent 的 Token 成本结构，提出从使用习惯、模型路由、上下文压缩、代码图谱到多 Agent 协作的五层优化框架，并提供可落地的工具与工程方法。",
     "url": "https://www.bestblogs.dev/article/8b9392aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-12",
     "badge": "model"
-  },
-  {
-    "title": "Qoder 工程实践：当瓶颈从模型转移到人",
-    "summary": "本文以阿里技术专家第一人称视角，系统梳理了从 AI 辅助编程到「睡后 Token」的工程实践演进，核心论点是当 AI 输出价值超过 Token 成本后，瓶颈从模型能力转移到人的精力，解决方案是构建云端 Harness 基础设施，实现人机分工的范式转变。",
-    "url": "https://www.bestblogs.dev/article/452c99bc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-06-12",
-    "badge": "model"
-  },
-  {
-    "title": "深度思考：架构腐朽 & Loop Engineering",
-    "summary": "本文从软件工程实践出发，深入剖析系统架构腐朽的本质、成因与应对策略，并提出在 AI Agent 时代通过 Loop Engineering 建立持续排熵能力的工程框架。",
-    "url": "https://www.bestblogs.dev/article/1706c463?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "软件编程",
-    "date": "2026-06-12",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 400 期）：rsync 的争论",
-    "summary": "本期周刊以 rsync 维护者用 AI 生成代码引发的争议为引，探讨 AI 时代开源项目的维护困境与未来协作模式，并汇集科技动态、工具推荐与深度文摘。",
-    "url": "https://www.bestblogs.dev/article/d1462f58?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "软件编程",
-    "date": "2026-06-11",
-    "badge": "tooling"
-  },
-  {
-    "title": "人是最慢的节点，还怎么管 AI Agent？｜AI 跃迁者调研",
-    "summary": "本文深度访谈 Multica 创始人张佳圆，揭示了一个 4 人团队如何通过 Agent 协作平台实现组织效率革命，并探讨了人在 AI 时代的新角色与思考边界。",
-    "url": "https://www.bestblogs.dev/article/7bf0f7d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "人工智能",
-    "date": "2026-06-11",
-    "badge": "agent"
   }
 ]
