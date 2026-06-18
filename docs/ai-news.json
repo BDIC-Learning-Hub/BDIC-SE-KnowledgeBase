@@ -1,5 +1,14 @@
 [
   {
+    "title": "GLM-5.2 上线并开源：专注 Coding 与长程任务",
+    "summary": "智谱发布并开源 GLM-5.2，专注 Coding 与长程任务，在 Code Arena 盲测中取得全球第一，1M 上下文与开源 SOTA 性能使其成为当前最强的开源 Coding 模型。",
+    "url": "https://www.bestblogs.dev/article/3b64e7b6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智谱",
+    "topic": "人工智能",
+    "date": "2026-06-17",
+    "badge": "model"
+  },
+  {
     "title": "更可靠的主播助理：淘宝主播 Agent 的 Harness 工程实战",
     "summary": "本文以淘宝主播 Agent 为例，系统阐述在直播高压力场景下，如何通过 Harness 工程（执行循环、工具注册、上下文管理、状态存储、生命周期钩子、评估接口）将不确定的模型能力工程化为可用、可控、可演化的生产系统。",
     "url": "https://www.bestblogs.dev/article/e75081f9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "投资财经",
     "date": "2026-06-12",
     "badge": "featured"
-  },
-  {
-    "title": "Kimi K2.7 Code 编程模型已上线 Kimi Code、API 开放平台",
-    "summary": "月之暗面发布并开源 Kimi K2.7 Code 编程模型，在长上下文编程、指令遵循和 token 效率上显著提升，并预告下周推出 6 倍速高速版。",
-    "url": "https://www.bestblogs.dev/article/7ed2852b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 月之暗面 Kimi",
-    "topic": "人工智能",
-    "date": "2026-06-12",
-    "badge": "model"
   }
 ]
