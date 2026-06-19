@@ -1,5 +1,14 @@
 [
   {
+    "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
+    "summary": "本文提出一套面向 Harness 工作流的可量化、可回归、闭环的评测体系，通过「出题-答题-改卷」的考试机制，解决工作流效果无法客观评估的问题。",
+    "url": "https://www.bestblogs.dev/article/0e07faec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-06-18",
+    "badge": "featured"
+  },
+  {
     "title": "GLM-5.2 上线并开源：专注 Coding 与长程任务",
     "summary": "智谱发布并开源 GLM-5.2，专注 Coding 与长程任务，在 Code Arena 盲测中取得全球第一，1M 上下文与开源 SOTA 性能使其成为当前最强的开源 Coding 模型。",
     "url": "https://www.bestblogs.dev/article/3b64e7b6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-15",
     "badge": "agent"
-  },
-  {
-    "title": "SpaceX 敲钟，马斯克成人类首个“万亿美元先生”，400 名员工身家过亿",
-    "summary": "SpaceX 以 1.77 万亿美元估值完成史上最大 IPO，开盘市值一度突破 2 万亿美元，引发大规模造富效应与估值分歧。",
-    "url": "https://www.bestblogs.dev/article/ff2e8373?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "投资财经",
-    "date": "2026-06-12",
-    "badge": "featured"
   }
 ]
