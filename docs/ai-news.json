@@ -1,5 +1,23 @@
 [
   {
+    "title": "如果论文的主要读者不再是人",
+    "summary": "本文探讨了 AI 介入科研循环后，学术影响力评价体系面临的根本性挑战，并提出在数学等可形式化领域，AI 系统的调用记录可能成为新的影响力度量，但最终驱动好研究的仍是好奇心与对问题本身的兴趣。",
+    "url": "https://www.bestblogs.dev/article/ff84e7d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 知识分子",
+    "topic": "人工智能",
+    "date": "2026-06-19",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 革命新思考：过去 50 年，软件工程其实没真正“工程化”过？",
+    "summary": "本文从工程哲学视角论证，软件工程过去五十年并未真正工程化，而大模型首次实现了“用能源换取高阶智能”，标志着软件工程真正降临，并系统推演了 AI 为中心的新范式、落地路径与人的角色迁移。",
+    "url": "https://www.bestblogs.dev/article/f4f17f23?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / dbaplus社群",
+    "topic": "软件编程",
+    "date": "2026-06-19",
+    "badge": "model"
+  },
+  {
     "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
     "summary": "本文提出一套面向 Harness 工作流的可量化、可回归、闭环的评测体系，通过「出题-答题-改卷」的考试机制，解决工作流效果无法客观评估的问题。",
     "url": "https://www.bestblogs.dev/article/0e07faec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -50,24 +68,6 @@
     "url": "https://www.bestblogs.dev/article/543ca390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
     "topic": "软件编程",
-    "date": "2026-06-15",
-    "badge": "agent"
-  },
-  {
-    "title": "一篇搞懂 AI Coding Agent 的 Token 成本控制",
-    "summary": "本文系统拆解 AI Coding Agent 的 Token 成本结构，提出从使用习惯、模型路由、上下文压缩、代码图谱到多 Agent 协作的五层优化框架，并提供可落地的工具与工程方法。",
-    "url": "https://www.bestblogs.dev/article/8b9392aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-06-15",
-    "badge": "agent"
-  },
-  {
-    "title": "如何搭建一个端到端业务需求专家 Agent",
-    "summary": "本文详细阐述了一套在真实业务需求上跑通的端到端业务需求专家 Agent 系统，通过组织上下文、串联工具和沉淀反馈，将需求研发过程从人工串联转变为 Agent 自主推进、人在关键节点确认的闭环。",
-    "url": "https://www.bestblogs.dev/article/c497f4de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
     "date": "2026-06-15",
     "badge": "agent"
   }
