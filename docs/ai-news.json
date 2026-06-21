@@ -1,5 +1,14 @@
 [
   {
+    "title": "三个月，一场必然失败的 Tokenmaxxing",
+    "summary": "本文以 Tokenmaxxing 现象为切入点，系统分析了 AI Agent 在企业应用中因成本失控、能力错配与组织瓶颈而必然失败的过程，并指出其本质是生产率悖论在 AI 时代的重演。",
+    "url": "https://www.bestblogs.dev/article/8a08f9d4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-06-20",
+    "badge": "agent"
+  },
+  {
     "title": "如果论文的主要读者不再是人",
     "summary": "本文探讨了 AI 介入科研循环后，学术影响力评价体系面临的根本性挑战，并提出在数学等可形式化领域，AI 系统的调用记录可能成为新的影响力度量，但最终驱动好研究的仍是好奇心与对问题本身的兴趣。",
     "url": "https://www.bestblogs.dev/article/ff84e7d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-16",
     "badge": "tooling"
-  },
-  {
-    "title": "后端架构 AI Friendly 的标准与路径：面向无人值守开发时代的系统重构",
-    "summary": "本文系统性地提出后端架构「AI Friendly」的标准与改造路径，核心是将系统知识从人脑资产转化为机器可读的结构化资产，使 AI Agent 能在有限上下文中安全、高效地参与开发、排障与运维。",
-    "url": "https://www.bestblogs.dev/article/543ca390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "软件编程",
-    "date": "2026-06-15",
-    "badge": "agent"
   }
 ]
