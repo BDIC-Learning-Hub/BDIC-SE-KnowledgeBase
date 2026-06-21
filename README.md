@@ -30,6 +30,12 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 
 由于本项目体积很大，故可以采用在Github Web端直接上传的方式，具体操作如下：
 
+如果需要在本地修改，推荐使用浅克隆以减少下载历史数据的时间：
+
+```bash
+git clone --depth=1 https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase.git
+```
+
 首先Fork本项目，点击右上角的Fork按键即可。
 2.1. 上传文件到已有文件夹：打开对应文件夹，点击绿色Download按钮旁的upload，上传你的文件。
 

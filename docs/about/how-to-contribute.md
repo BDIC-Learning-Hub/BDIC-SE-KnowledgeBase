@@ -67,6 +67,16 @@
 4. 点击 **"Create pull request"** 提交
 5. 等待维护者审核和合并
 
+### 本地克隆贡献
+
+如果您需要在本地修改文件，推荐使用浅克隆，避免下载完整历史中的大文件对象：
+
+```bash
+git clone --depth=1 https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase.git
+```
+
+浅克隆适合大多数文档修改和资料补充。如果之后需要完整历史，可以在仓库目录中执行 `git fetch --unshallow`。
+
 ### 通过邮件贡献
 
 如果您不熟悉 Git，也可以通过邮件发送内容：
