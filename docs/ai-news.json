@@ -1,5 +1,23 @@
 [
   {
+    "title": "阿里开源 Open Code Review：一周揽下 5k star，更专业的代码评审 CLI",
+    "summary": "阿里开源的 Open Code Review 是一款 AI 驱动的代码评审 CLI 工具，采用确定性工程与 Agent 混合驱动架构，在大规模内部验证后开源，解决了通用 AI Agent 在代码评审中的覆盖不全、位置漂移、效果不稳定等问题。",
+    "url": "https://www.bestblogs.dev/article/3732f5a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-06-24",
+    "badge": "agent"
+  },
+  {
+    "title": "微信 AI 全网最细体验，我又爱上了刷朋友圈",
+    "summary": "本文对微信原生 AI 助手「小微」进行深度体验，详细展示其无处不在的入口、核心功能（消息发送、朋友圈总结、群聊总结、小程序调用、AI 生图等）及其背后的 WeLM 模型与连接生态的产品哲学。",
+    "url": "https://www.bestblogs.dev/article/48b2c6fa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张子豪",
+    "topic": "人工智能",
+    "date": "2026-06-23",
+    "badge": "model"
+  },
+  {
     "title": "三个月，一场必然失败的 Tokenmaxxing",
     "summary": "本文以 Tokenmaxxing 现象为切入点，系统分析了 AI Agent 在企业应用中因成本失控、能力错配与组织瓶颈而必然失败的过程，并指出其本质是生产率悖论在 AI 时代的重演。",
     "url": "https://www.bestblogs.dev/article/8a08f9d4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,33 +51,6 @@
     "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
     "date": "2026-06-18",
-    "badge": "featured"
-  },
-  {
-    "title": "GLM-5.2 上线并开源：专注 Coding 与长程任务",
-    "summary": "智谱发布并开源 GLM-5.2，专注 Coding 与长程任务，在 Code Arena 盲测中取得全球第一，1M 上下文与开源 SOTA 性能使其成为当前最强的开源 Coding 模型。",
-    "url": "https://www.bestblogs.dev/article/3b64e7b6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智谱",
-    "topic": "人工智能",
-    "date": "2026-06-17",
-    "badge": "model"
-  },
-  {
-    "title": "更可靠的主播助理：淘宝主播 Agent 的 Harness 工程实战",
-    "summary": "本文以淘宝主播 Agent 为例，系统阐述在直播高压力场景下，如何通过 Harness 工程（执行循环、工具注册、上下文管理、状态存储、生命周期钩子、评估接口）将不确定的模型能力工程化为可用、可控、可演化的生产系统。",
-    "url": "https://www.bestblogs.dev/article/e75081f9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-17",
-    "badge": "agent"
-  },
-  {
-    "title": "为何企业 80%的 AI 投入看不到效果？｜AI 时代企业变革的认知方法论与战略判断框架",
-    "summary": "本文提出企业 AI 投入效果不佳的根本原因在于缺乏对 AI 的正确认知框架，主张应以商业持续成功的底层逻辑为起点，而非以 AI 技术本身为起点。",
-    "url": "https://www.bestblogs.dev/article/3c66d0e5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-06-16",
     "badge": "featured"
   }
 ]
