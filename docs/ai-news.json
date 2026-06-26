@@ -1,5 +1,59 @@
 [
   {
+    "title": "构建 AI 时代的知识底座：直播数据 LLM Wiki 实践",
+    "summary": "本文提出 LLM Wiki 理念，通过将散落的领域知识编译为结构化页面，构建可被 AI 精准检索的知识底座，并基于直播数据团队实践详述构建方法与架构。",
+    "url": "https://www.bestblogs.dev/article/7c595530?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-26",
+    "badge": "model"
+  },
+  {
+    "title": "【机器人 / 强化学习】SERL：让真机强化学习从“难用”走向“可复现”的强化学习框架 ----（3）算法篇（RLPD）",
+    "summary": "本文详细拆解 SERL 框架中 RLPD 算法的核心技术，包括 High UTD、Layer Normalization、50/50 混合采样和 BC 预训练，解释如何让真机强化学习在 20 分钟内学会精密操作。",
+    "url": "https://www.bestblogs.dev/article/685221bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 罗西的思考",
+    "topic": "人工智能",
+    "date": "2026-06-25",
+    "badge": "featured"
+  },
+  {
+    "title": "具身数据采集产业链调查：被机器人采集的人｜甲子光年",
+    "summary": "本文深度调查了具身智能数据采集产业链，从真机遥操到无本体采集，揭示数采员、设备商、工厂和中介如何共同构建机器人的数据底座，以及产业面临的规模与隐私挑战。",
+    "url": "https://www.bestblogs.dev/article/2448b5e5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 甲子光年",
+    "topic": "人工智能",
+    "date": "2026-06-25",
+    "badge": "featured"
+  },
+  {
+    "title": "Qwen-AgentWorld 开源: 面向通用智能体的语言世界模型",
+    "summary": "Qwen 团队开源业内首个原生语言世界模型 Qwen-AgentWorld，能模拟七大 Agent 环境，在基准上超越 GPT-5.4，并提出 Sim RL 和 Agent 基础模型两种训练范式，显著提升智能体效果。",
+    "url": "https://www.bestblogs.dev/article/f01c6497?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 魔搭ModelScope社区",
+    "topic": "人工智能",
+    "date": "2026-06-25",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 创业者想出海拿美元，搭好可融资的企业架构才是第一步",
+    "summary": "本文基于律师南李的闭门分享，系统梳理 AI 创业者出海搭建可融资企业架构的核心要点：实体类型选择、创始人股权分配、董事会设计及中美创投实践差异。",
+    "url": "https://www.bestblogs.dev/article/c28a321b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "商业科技",
+    "date": "2026-06-25",
+    "badge": "featured"
+  },
+  {
+    "title": "微信 6 年来最大改版：关于微信 AI 助手小微的 15 条思考",
+    "summary": "本文从产品设计、商业逻辑与战略竞争三个维度，系统拆解微信 AI 助手「小微」的 15 个关键洞察，认为这是微信自视频号以来最大更新，并讨论了其用户规模潜力、技术选型与商业化路径。",
+    "url": "https://www.bestblogs.dev/article/75a5fc1f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "商业科技",
+    "date": "2026-06-24",
+    "badge": "featured"
+  },
+  {
     "title": "阿里开源 Open Code Review：一周揽下 5k star，更专业的代码评审 CLI",
     "summary": "阿里开源的 Open Code Review 是一款 AI 驱动的代码评审 CLI 工具，采用确定性工程与 Agent 混合驱动架构，在大规模内部验证后开源，解决了通用 AI Agent 在代码评审中的覆盖不全、位置漂移、效果不稳定等问题。",
     "url": "https://www.bestblogs.dev/article/3732f5a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,48 +63,12 @@
     "badge": "agent"
   },
   {
-    "title": "微信 AI 全网最细体验，我又爱上了刷朋友圈",
-    "summary": "本文对微信原生 AI 助手「小微」进行深度体验，详细展示其无处不在的入口、核心功能（消息发送、朋友圈总结、群聊总结、小程序调用、AI 生图等）及其背后的 WeLM 模型与连接生态的产品哲学。",
-    "url": "https://www.bestblogs.dev/article/48b2c6fa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张子豪",
+    "title": "阿里重磅开源！Open Code Review：一周 5k star，为你的代码保驾护航",
+    "summary": "阿里开源基于确定性工程与 Agent 混合驱动的 AI 代码评审 CLI 工具 Open Code Review，经内部数万开发者验证，核心设计解决纯语言驱动架构的覆盖不全、位置漂移等问题，并公开了评测数据与使用方式。",
+    "url": "https://www.bestblogs.dev/article/ea5f8bff?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
-    "date": "2026-06-23",
-    "badge": "model"
-  },
-  {
-    "title": "三个月，一场必然失败的 Tokenmaxxing",
-    "summary": "本文以 Tokenmaxxing 现象为切入点，系统分析了 AI Agent 在企业应用中因成本失控、能力错配与组织瓶颈而必然失败的过程，并指出其本质是生产率悖论在 AI 时代的重演。",
-    "url": "https://www.bestblogs.dev/article/8a08f9d4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-06-20",
+    "date": "2026-06-24",
     "badge": "agent"
-  },
-  {
-    "title": "如果论文的主要读者不再是人",
-    "summary": "本文探讨了 AI 介入科研循环后，学术影响力评价体系面临的根本性挑战，并提出在数学等可形式化领域，AI 系统的调用记录可能成为新的影响力度量，但最终驱动好研究的仍是好奇心与对问题本身的兴趣。",
-    "url": "https://www.bestblogs.dev/article/ff84e7d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 知识分子",
-    "topic": "人工智能",
-    "date": "2026-06-19",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 革命新思考：过去 50 年，软件工程其实没真正“工程化”过？",
-    "summary": "本文从工程哲学视角论证，软件工程过去五十年并未真正工程化，而大模型首次实现了“用能源换取高阶智能”，标志着软件工程真正降临，并系统推演了 AI 为中心的新范式、落地路径与人的角色迁移。",
-    "url": "https://www.bestblogs.dev/article/f4f17f23?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / dbaplus社群",
-    "topic": "软件编程",
-    "date": "2026-06-19",
-    "badge": "model"
-  },
-  {
-    "title": "你的 Harness 工作流真的在进步吗？我们用一场考试撕掉了遮羞布",
-    "summary": "本文提出一套面向 Harness 工作流的可量化、可回归、闭环的评测体系，通过「出题-答题-改卷」的考试机制，解决工作流效果无法客观评估的问题。",
-    "url": "https://www.bestblogs.dev/article/0e07faec?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-06-18",
-    "badge": "featured"
   }
 ]
