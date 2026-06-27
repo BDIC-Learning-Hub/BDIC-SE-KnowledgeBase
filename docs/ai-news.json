@@ -9,6 +9,15 @@
     "badge": "model"
   },
   {
+    "title": "科技爱好者周刊（第 401 期）：如何赚到 10 亿美元",
+    "summary": "本文摘录了 Paul Graham 关于如何通过创业赚取 10 亿美元的演讲，核心观点是保持高增长率并进入大市场，并辅以增长计算示例和其他科技资讯。",
+    "url": "https://www.bestblogs.dev/article/a93f6c93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "商业科技",
+    "date": "2026-06-26",
+    "badge": "featured"
+  },
+  {
     "title": "【机器人 / 强化学习】SERL：让真机强化学习从“难用”走向“可复现”的强化学习框架 ----（3）算法篇（RLPD）",
     "summary": "本文详细拆解 SERL 框架中 RLPD 算法的核心技术，包括 High UTD、Layer Normalization、50/50 混合采样和 BC 预训练，解释如何让真机强化学习在 20 分钟内学会精密操作。",
     "url": "https://www.bestblogs.dev/article/685221bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -58,15 +67,6 @@
     "summary": "阿里开源的 Open Code Review 是一款 AI 驱动的代码评审 CLI 工具，采用确定性工程与 Agent 混合驱动架构，在大规模内部验证后开源，解决了通用 AI Agent 在代码评审中的覆盖不全、位置漂移、效果不稳定等问题。",
     "url": "https://www.bestblogs.dev/article/3732f5a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-06-24",
-    "badge": "agent"
-  },
-  {
-    "title": "阿里重磅开源！Open Code Review：一周 5k star，为你的代码保驾护航",
-    "summary": "阿里开源基于确定性工程与 Agent 混合驱动的 AI 代码评审 CLI 工具 Open Code Review，经内部数万开发者验证，核心设计解决纯语言驱动架构的覆盖不全、位置漂移等问题，并公开了评测数据与使用方式。",
-    "url": "https://www.bestblogs.dev/article/ea5f8bff?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-06-24",
     "badge": "agent"
