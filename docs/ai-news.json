@@ -1,5 +1,14 @@
 [
   {
+    "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
+    "summary": "本文报道 GPT-5.6 系列发布细节，包含 Sol/Terra/Luna 三款模型、基准测试成绩、分级安全防护及美国政府审核访问权限，并分析前沿模型发布正进入受国家安全影响的新周期。",
+    "url": "https://www.bestblogs.dev/article/9a7132f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 莫崇宇",
+    "topic": "人工智能",
+    "date": "2026-06-27",
+    "badge": "model"
+  },
+  {
     "title": "构建 AI 时代的知识底座：直播数据 LLM Wiki 实践",
     "summary": "本文提出 LLM Wiki 理念，通过将散落的领域知识编译为结构化页面，构建可被 AI 精准检索的知识底座，并基于直播数据团队实践详述构建方法与架构。",
     "url": "https://www.bestblogs.dev/article/7c595530?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "商业科技",
     "date": "2026-06-24",
     "badge": "featured"
-  },
-  {
-    "title": "阿里开源 Open Code Review：一周揽下 5k star，更专业的代码评审 CLI",
-    "summary": "阿里开源的 Open Code Review 是一款 AI 驱动的代码评审 CLI 工具，采用确定性工程与 Agent 混合驱动架构，在大规模内部验证后开源，解决了通用 AI Agent 在代码评审中的覆盖不全、位置漂移、效果不稳定等问题。",
-    "url": "https://www.bestblogs.dev/article/3732f5a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-06-24",
-    "badge": "agent"
   }
 ]
