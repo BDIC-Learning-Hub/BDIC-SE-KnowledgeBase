@@ -1,5 +1,23 @@
 [
   {
+    "title": "最新！万字综述 Prompt 到 Loop 进化",
+    "summary": "本文系统梳理 AI 开发范式从 Prompt Engineering 到 Loop Engineering 的演进历程，阐述各阶段核心思想、技术栈与工程实践，并提出循环设计师的角色定位。",
+    "url": "https://www.bestblogs.dev/article/a41eb439?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Datawhale",
+    "topic": "人工智能",
+    "date": "2026-06-28",
+    "badge": "featured"
+  },
+  {
+    "title": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
+    "summary": "DeepSeek 联合北大发布 DSpark 推理加速框架，通过半自回归草稿模型与置信度调度验证，在线上将单用户生成速度提升 57%-85%。",
+    "url": "https://www.bestblogs.dev/article/50894bb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 莫崇宇",
+    "topic": "人工智能",
+    "date": "2026-06-28",
+    "badge": "model"
+  },
+  {
     "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
     "summary": "本文报道 GPT-5.6 系列发布细节，包含 Sol/Terra/Luna 三款模型、基准测试成绩、分级安全防护及美国政府审核访问权限，并分析前沿模型发布正进入受国家安全影响的新周期。",
     "url": "https://www.bestblogs.dev/article/9a7132f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-25",
     "badge": "agent"
-  },
-  {
-    "title": "AI 创业者想出海拿美元，搭好可融资的企业架构才是第一步",
-    "summary": "本文基于律师南李的闭门分享，系统梳理 AI 创业者出海搭建可融资企业架构的核心要点：实体类型选择、创始人股权分配、董事会设计及中美创投实践差异。",
-    "url": "https://www.bestblogs.dev/article/c28a321b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "商业科技",
-    "date": "2026-06-25",
-    "badge": "featured"
-  },
-  {
-    "title": "微信 6 年来最大改版：关于微信 AI 助手小微的 15 条思考",
-    "summary": "本文从产品设计、商业逻辑与战略竞争三个维度，系统拆解微信 AI 助手「小微」的 15 个关键洞察，认为这是微信自视频号以来最大更新，并讨论了其用户规模潜力、技术选型与商业化路径。",
-    "url": "https://www.bestblogs.dev/article/75a5fc1f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "商业科技",
-    "date": "2026-06-24",
-    "badge": "featured"
   }
 ]
