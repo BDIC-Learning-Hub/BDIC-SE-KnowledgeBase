@@ -1,5 +1,23 @@
 [
   {
+    "title": "Token 不经济",
+    "summary": "文章深度剖析「Token 不经济」现象，从模型定价策略、智能体技术损耗、应用场景局限到产业链风险，系统论证了当前 AI token 投入与产出严重失衡的成因，并提出了从技术精细化管理到商业价值锚定的解决路径。",
+    "url": "https://www.bestblogs.dev/article/8f66e3cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-06-29",
+    "badge": "model"
+  },
+  {
+    "title": "独家专访地平线：厉害的人，用词会非常精准",
+    "summary": "本文通过参访地平线，提炼其高管使用的七个关键词，剖析该公司在智能驾驶芯片领域的战略定位、增长逻辑、技术路径与商业护城河。",
+    "url": "https://www.bestblogs.dev/article/b407e1a5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 刘润",
+    "topic": "商业科技",
+    "date": "2026-06-29",
+    "badge": "featured"
+  },
+  {
     "title": "最新！万字综述 Prompt 到 Loop 进化",
     "summary": "本文系统梳理 AI 开发范式从 Prompt Engineering 到 Loop Engineering 的演进历程，阐述各阶段核心思想、技术栈与工程实践，并提出循环设计师的角色定位。",
     "url": "https://www.bestblogs.dev/article/a41eb439?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-25",
     "badge": "featured"
-  },
-  {
-    "title": "具身数据采集产业链调查：被机器人采集的人｜甲子光年",
-    "summary": "本文深度调查了具身智能数据采集产业链，从真机遥操到无本体采集，揭示数采员、设备商、工厂和中介如何共同构建机器人的数据底座，以及产业面临的规模与隐私挑战。",
-    "url": "https://www.bestblogs.dev/article/2448b5e5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 甲子光年",
-    "topic": "人工智能",
-    "date": "2026-06-25",
-    "badge": "featured"
-  },
-  {
-    "title": "Qwen-AgentWorld 开源: 面向通用智能体的语言世界模型",
-    "summary": "Qwen 团队开源业内首个原生语言世界模型 Qwen-AgentWorld，能模拟七大 Agent 环境，在基准上超越 GPT-5.4，并提出 Sim RL 和 Agent 基础模型两种训练范式，显著提升智能体效果。",
-    "url": "https://www.bestblogs.dev/article/f01c6497?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 魔搭ModelScope社区",
-    "topic": "人工智能",
-    "date": "2026-06-25",
-    "badge": "agent"
   }
 ]
