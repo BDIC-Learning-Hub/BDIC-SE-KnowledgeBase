@@ -1,5 +1,32 @@
 [
   {
+    "title": "AI+ Kuikly：7.5 小时落地三端「多模态聊天 App」实战",
+    "summary": "本文详细记录了作者使用 Kuikly 跨端框架配合 AI 编程助手，在 7.5 小时内零手写代码完成 Android、iOS、鸿蒙三端多模态聊天 App 的实战过程，并总结了框架与 AI 协同的效率原理。",
+    "url": "https://www.bestblogs.dev/article/4d1c9b0d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-06-30",
+    "badge": "tooling"
+  },
+  {
+    "title": "给野马套上缰绳：Agent Harness 工程实践 ——从范式理论到钉钉 AI 招聘的真实落地",
+    "summary": "本文系统阐述 Agent Harness Engineering（驾驭工程）范式，提出四条反直觉铁律与六大工程模式，并通过钉钉悟空 AI 招聘的真实落地案例，实证专才 Agent 架构在准确率、可调性与可复用性上显著优于全能 Agent。",
+    "url": "https://www.bestblogs.dev/article/d7fc3488?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-30",
+    "badge": "agent"
+  },
+  {
+    "title": "万字长文推演 Claude 的代码统治力从何而来",
+    "summary": "本文结合公开论文与技术逻辑，系统推演 Claude 代码能力的来源：Constitutional AI 约束下的可验证奖励 RL 与产品端数据飞轮组成的系统工程。",
+    "url": "https://www.bestblogs.dev/article/dad55992?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-06-30",
+    "badge": "model"
+  },
+  {
     "title": "Token 不经济",
     "summary": "文章深度剖析「Token 不经济」现象，从模型定价策略、智能体技术损耗、应用场景局限到产业链风险，系统论证了当前 AI token 投入与产出严重失衡的成因，并提出了从技术精细化管理到商业价值锚定的解决路径。",
     "url": "https://www.bestblogs.dev/article/8f66e3cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-27",
     "badge": "model"
-  },
-  {
-    "title": "构建 AI 时代的知识底座：直播数据 LLM Wiki 实践",
-    "summary": "本文提出 LLM Wiki 理念，通过将散落的领域知识编译为结构化页面，构建可被 AI 精准检索的知识底座，并基于直播数据团队实践详述构建方法与架构。",
-    "url": "https://www.bestblogs.dev/article/7c595530?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-26",
-    "badge": "model"
-  },
-  {
-    "title": "科技爱好者周刊（第 401 期）：如何赚到 10 亿美元",
-    "summary": "本文摘录了 Paul Graham 关于如何通过创业赚取 10 亿美元的演讲，核心观点是保持高增长率并进入大市场，并辅以增长计算示例和其他科技资讯。",
-    "url": "https://www.bestblogs.dev/article/a93f6c93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "商业科技",
-    "date": "2026-06-26",
-    "badge": "featured"
-  },
-  {
-    "title": "【机器人 / 强化学习】SERL：让真机强化学习从“难用”走向“可复现”的强化学习框架 ----（3）算法篇（RLPD）",
-    "summary": "本文详细拆解 SERL 框架中 RLPD 算法的核心技术，包括 High UTD、Layer Normalization、50/50 混合采样和 BC 预训练，解释如何让真机强化学习在 20 分钟内学会精密操作。",
-    "url": "https://www.bestblogs.dev/article/685221bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 罗西的思考",
-    "topic": "人工智能",
-    "date": "2026-06-25",
-    "badge": "featured"
   }
 ]
