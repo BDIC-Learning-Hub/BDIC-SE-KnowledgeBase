@@ -16,7 +16,9 @@
 > - 课程内容有趣，老师讲的不错
 > - 考试（2025spring）相对简单，老师画的重点覆盖面积大
 > - 吕老师说之后不会这么简单了😂
->   
+>
+> CJ说：
+> - 确实变难了，但考试题目很多都是课堂的重点，所以好好听课可以在期末的时候省不少力。
 > 推荐阅读：
 >
 > 《人月神话》(The Mythical Man-Month)
@@ -32,4 +34,4 @@ lv在2025年第一次教授这门课程，故22级无有价值的参考试卷
 - [笔记](./Resource/software%20project%20management.pdf)
 - [笔记](./Resource/SPM_Notes_张博涵(1).pdf) -by 张博涵
 - [笔记](./Resource/notes.md)
-
+- [笔记](https://github.com/buzhidaoqusm/Stage-3-2-notes/tree/main/Software%20Proj%20Management) - by cj

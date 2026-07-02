@@ -36,8 +36,8 @@
 - [小林coding](https://xiaolincoding.com/) - 推荐在线资源
 
 ###  Lab
-- [Ass1(WireShark)]() - [不公开]
-- [Ass2(Packet tracer)]() - [不公开]
+- [Ass1(WireShark)](https://github.com/buzhidaoqusm/Stage-2-2-notes/blob/main/Assignments/CN-1(A).pdf)
+- [Ass2(Packet tracer)](https://github.com/buzhidaoqusm/Stage-2-2-notes/blob/main/Assignments/CN-2(A%2B).pdf)
 
 ##  学习建议
 
@@ -50,4 +50,5 @@
 以上是2024年的情况，2025年稍有不同：
 
 >由于2024年的惨状，2025年使用机考（微机教室），题型有单选，多选，match，判断。考试难度仍然不小，但是比2024年稍有好转。“背诵课件无法找到关键点，考试时回答不佳”情况没有改变，很多考点在复习时很容易忽视。
+
 >Ass的评分问题我个人认为在2025年没有出现，反而给分还不错。但是两个assignment所需要的知识大部分不会教，需要自行学习，其中assignment2可能需要花费不少时间，建议尽早开始做。

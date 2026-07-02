@@ -30,3 +30,5 @@
 ## Assignment
 - [Assignment](https://github.com/mrle0429/IR_Assignment_1.git)
 
+## 笔记
+- [笔记](https://github.com/buzhidaoqusm/Stage-3-2-notes/tree/main/Information%20Retrieval)

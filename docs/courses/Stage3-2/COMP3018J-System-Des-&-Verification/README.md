@@ -30,6 +30,8 @@ GYH: 这门课程前期的学习曲线非常陡峭，你会发现在课上尝试
 
 [GYH笔记](https://www.lab.withyunhan.com/tags/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E4%B8%8E%E9%AA%8C%E8%AF%81/)
 
+[CJ笔记](https://github.com/buzhidaoqusm/Stage-3-2-notes/tree/main/System%20Des%20%26%20Verification)
+
 ### 历年试卷
 **25年真题回忆版本**
 - 与下方Sample exam题型一致，换数题

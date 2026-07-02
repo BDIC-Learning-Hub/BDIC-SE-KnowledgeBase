@@ -26,3 +26,4 @@ Final Presentation：视频 + 演讲，每个人脱稿。
 
 ## Project
 [Coffee SDG Platform](https://github.com/YunhanGa0/Coffee_SDG_Platform) -- 2025 Project
+[CarbonSnap](https://github.com/buzhidaoqusm/CarbonSnap) -- 2026 Project
