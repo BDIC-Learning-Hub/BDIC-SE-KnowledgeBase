@@ -1,5 +1,59 @@
 [
   {
+    "title": "AI UITester：AI Native 的 UI 自动化测试新范式｜得物技术",
+    "summary": "本文介绍得物技术团队自研的 AI 原生 UI 测试工具 ai_uitester，通过 VLM 视觉驱动、LLM 用例自动生成和 AI 自愈调试，实现三端统一运维，大幅降低测试维护成本。",
+    "url": "https://www.bestblogs.dev/article/694f9d01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-07-01",
+    "badge": "model"
+  },
+  {
+    "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
+    "summary": "文章通过对美图 CEO 吴欣鸿的深度专访，揭示了美图在 AI 时代「自然生长」的产品策略、快速验证的 PMF 机制以及全球扩张的实战经验。",
+    "url": "https://www.bestblogs.dev/article/8b6cc4f7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智能涌现",
+    "topic": "商业科技",
+    "date": "2026-07-01",
+    "badge": "featured"
+  },
+  {
+    "title": "AI Agent 的 Skill 系统设计",
+    "summary": "本文系统阐述 AI Agent Skill 系统的设计理念与工程实践，核心是将 Skill 视为行为编程而非文档，通过结构化设计、Token 经济策略和强制约束机制规范 Agent 行为，并给出了从创建到验证的完整方法。",
+    "url": "https://www.bestblogs.dev/article/970fe1fe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-07-01",
+    "badge": "agent"
+  },
+  {
+    "title": "如何把超级个体的产能，转化成组织能力？ | AI 跃迁者调研",
+    "summary": "本文深度访谈出门问问 CEO 李志飞，揭示从超级个体到超级组织的转型路径：以自研 CodeBanana 系统实现沟通与执行合一，通过全栈转型与系统设计师机制将 AI 产能转化为组织能力。",
+    "url": "https://www.bestblogs.dev/article/e3a487f9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-07-01",
+    "badge": "featured"
+  },
+  {
+    "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
+    "summary": "美团发布业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数 MoE 模型 LongCat-2.0，原生支持 1M 超长上下文，聚焦 Agentic Coding 任务，在多项基准测试中表现优异。",
+    "url": "https://www.bestblogs.dev/article/ad5a0b93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "人工智能",
+    "date": "2026-07-01",
+    "badge": "agent"
+  },
+  {
+    "title": "为什么越来越多的顶级领导者，开始认真学哲学？",
+    "summary": "本文论证了在 AI 时代，哲学素养（本体论、认识论、伦理学）正成为领导者不可或缺的核心能力，并提供具体培养方法，帮助领导者审视决策背后的根本假设。",
+    "url": "https://www.bestblogs.dev/article/f3a6611b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 哈佛商业评论",
+    "topic": "商业科技",
+    "date": "2026-07-01",
+    "badge": "featured"
+  },
+  {
     "title": "AI+ Kuikly：7.5 小时落地三端「多模态聊天 App」实战",
     "summary": "本文详细记录了作者使用 Kuikly 跨端框架配合 AI 编程助手，在 7.5 小时内零手写代码完成 Android、iOS、鸿蒙三端多模态聊天 App 的实战过程，并总结了框架与 AI 协同的效率原理。",
     "url": "https://www.bestblogs.dev/article/4d1c9b0d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,59 +70,5 @@
     "topic": "人工智能",
     "date": "2026-06-30",
     "badge": "agent"
-  },
-  {
-    "title": "万字长文推演 Claude 的代码统治力从何而来",
-    "summary": "本文结合公开论文与技术逻辑，系统推演 Claude 代码能力的来源：Constitutional AI 约束下的可验证奖励 RL 与产品端数据飞轮组成的系统工程。",
-    "url": "https://www.bestblogs.dev/article/dad55992?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-30",
-    "badge": "model"
-  },
-  {
-    "title": "Token 不经济",
-    "summary": "文章深度剖析「Token 不经济」现象，从模型定价策略、智能体技术损耗、应用场景局限到产业链风险，系统论证了当前 AI token 投入与产出严重失衡的成因，并提出了从技术精细化管理到商业价值锚定的解决路径。",
-    "url": "https://www.bestblogs.dev/article/8f66e3cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "人工智能",
-    "date": "2026-06-29",
-    "badge": "model"
-  },
-  {
-    "title": "独家专访地平线：厉害的人，用词会非常精准",
-    "summary": "本文通过参访地平线，提炼其高管使用的七个关键词，剖析该公司在智能驾驶芯片领域的战略定位、增长逻辑、技术路径与商业护城河。",
-    "url": "https://www.bestblogs.dev/article/b407e1a5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 刘润",
-    "topic": "商业科技",
-    "date": "2026-06-29",
-    "badge": "featured"
-  },
-  {
-    "title": "最新！万字综述 Prompt 到 Loop 进化",
-    "summary": "本文系统梳理 AI 开发范式从 Prompt Engineering 到 Loop Engineering 的演进历程，阐述各阶段核心思想、技术栈与工程实践，并提出循环设计师的角色定位。",
-    "url": "https://www.bestblogs.dev/article/a41eb439?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Datawhale",
-    "topic": "人工智能",
-    "date": "2026-06-28",
-    "badge": "featured"
-  },
-  {
-    "title": "DeepSeeK 突然发布 DSpark，让 AI 的回答不再「挤牙膏」",
-    "summary": "DeepSeek 联合北大发布 DSpark 推理加速框架，通过半自回归草稿模型与置信度调度验证，在线上将单用户生成速度提升 57%-85%。",
-    "url": "https://www.bestblogs.dev/article/50894bb4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 莫崇宇",
-    "topic": "人工智能",
-    "date": "2026-06-28",
-    "badge": "model"
-  },
-  {
-    "title": "刚刚，GPT-5.6 正式发布，史上最强但被自己坑惨了",
-    "summary": "本文报道 GPT-5.6 系列发布细节，包含 Sol/Terra/Luna 三款模型、基准测试成绩、分级安全防护及美国政府审核访问权限，并分析前沿模型发布正进入受国家安全影响的新周期。",
-    "url": "https://www.bestblogs.dev/article/9a7132f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 莫崇宇",
-    "topic": "人工智能",
-    "date": "2026-06-27",
-    "badge": "model"
   }
 ]
