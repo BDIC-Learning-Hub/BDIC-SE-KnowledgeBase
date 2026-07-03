@@ -1,5 +1,32 @@
 [
   {
+    "title": "对话探月校长王熙乔：AI 时代的教育者、十年沉浮，与人类文明的下一步",
+    "summary": "本文深度访谈探月学校创始人王熙乔，回顾他从 18 岁预判 AI 冲击教育到创办学校、经历扩张自大、疫情流浪、最终转向非营利的十年历程，阐述 AI 时代的教育观与人生选择。",
+    "url": "https://www.bestblogs.dev/article/4ffb441b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "个人成长",
+    "date": "2026-07-02",
+    "badge": "featured"
+  },
+  {
+    "title": "相比层出不穷的 Agent 框架，不变的 Agent Protocol 是什么",
+    "summary": "本文从协议视角拆解 Agent Runtime，提出 Thread、Run、Step、Event、Artifact、Checkpoint 六个跨框架稳定对象，并区分执行模型的两层结构（Loop 承载与编排协议），帮助开发者穿透 API 变化看本质。",
+    "url": "https://www.bestblogs.dev/article/4ab57ca0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-02",
+    "badge": "agent"
+  },
+  {
+    "title": "Loop Engineering 又是啥？一文讲清企业 Agent 落地的四层工程进化论",
+    "summary": "本文系统梳理了企业 AI Agent 落地的四层工程演进（Prompt→Context→Harness→Loop），阐明嵌套关系，给出诊断框架与采纳路径，指出瓶颈正从模型能力转向系统工程能力。",
+    "url": "https://www.bestblogs.dev/article/99cc9e2f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-02",
+    "badge": "agent"
+  },
+  {
     "title": "AI UITester：AI Native 的 UI 自动化测试新范式｜得物技术",
     "summary": "本文介绍得物技术团队自研的 AI 原生 UI 测试工具 ai_uitester，通过 VLM 视觉驱动、LLM 用例自动生成和 AI 自愈调试，实现三端统一运维，大幅降低测试维护成本。",
     "url": "https://www.bestblogs.dev/article/694f9d01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 美团 · 技术团队",
     "topic": "人工智能",
     "date": "2026-07-01",
-    "badge": "agent"
-  },
-  {
-    "title": "为什么越来越多的顶级领导者，开始认真学哲学？",
-    "summary": "本文论证了在 AI 时代，哲学素养（本体论、认识论、伦理学）正成为领导者不可或缺的核心能力，并提供具体培养方法，帮助领导者审视决策背后的根本假设。",
-    "url": "https://www.bestblogs.dev/article/f3a6611b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 哈佛商业评论",
-    "topic": "商业科技",
-    "date": "2026-07-01",
-    "badge": "featured"
-  },
-  {
-    "title": "AI+ Kuikly：7.5 小时落地三端「多模态聊天 App」实战",
-    "summary": "本文详细记录了作者使用 Kuikly 跨端框架配合 AI 编程助手，在 7.5 小时内零手写代码完成 Android、iOS、鸿蒙三端多模态聊天 App 的实战过程，并总结了框架与 AI 协同的效率原理。",
-    "url": "https://www.bestblogs.dev/article/4d1c9b0d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-06-30",
-    "badge": "tooling"
-  },
-  {
-    "title": "给野马套上缰绳：Agent Harness 工程实践 ——从范式理论到钉钉 AI 招聘的真实落地",
-    "summary": "本文系统阐述 Agent Harness Engineering（驾驭工程）范式，提出四条反直觉铁律与六大工程模式，并通过钉钉悟空 AI 招聘的真实落地案例，实证专才 Agent 架构在准确率、可调性与可复用性上显著优于全能 Agent。",
-    "url": "https://www.bestblogs.dev/article/d7fc3488?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-06-30",
     "badge": "agent"
   }
 ]
