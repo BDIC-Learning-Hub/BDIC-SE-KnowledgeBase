@@ -1,5 +1,41 @@
 [
   {
+    "title": "从 AI Coding 到 Harness Engineering 的端到端工程开发实践",
+    "summary": "本文系统介绍了腾讯应用宝活动平台团队从对话式 AI Coding 迈向 Harness Engineering 的实践，涵盖知识库工程（结构化知识自动生成与检索）和端到端开发工程（状态文件驱动、专家 Agent 体系、DAG 并行编排），并总结了核心工程原则。",
+    "url": "https://www.bestblogs.dev/article/e06a6c5e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-03",
+    "badge": "agent"
+  },
+  {
+    "title": "Code is cheap. Don't write any.——AI Native，程序员如何提升五倍 coding 效率",
+    "summary": "本文提出一套名为 Harness 的 AI 编程方法论，基于大模型概率生成和上下文有限的底层事实，通过水流理论、最小混沌单元和 spec/codemap/new-chat 设施，实现人定方向、模型推进的高效协作。",
+    "url": "https://www.bestblogs.dev/article/c25f459e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-03",
+    "badge": "model"
+  },
+  {
+    "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
+    "summary": "本期周刊以一篇虚构小说揭示 AI 开发文化中的异化现象，并包含科技动态、工具推荐及深度言论。",
+    "url": "https://www.bestblogs.dev/article/0e79e2d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "人工智能",
+    "date": "2026-07-02",
+    "badge": "tooling"
+  },
+  {
+    "title": "Agent 评测：方法论与体系设计",
+    "summary": "本文系统性地提出了一套面向生产环境的 Agent 评测方法论与工程体系，覆盖指标、数据集、评分、根因分析、自动优化与闭环。",
+    "url": "https://www.bestblogs.dev/article/f2511732?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-02",
+    "badge": "agent"
+  },
+  {
     "title": "对话探月校长王熙乔：AI 时代的教育者、十年沉浮，与人类文明的下一步",
     "summary": "本文深度访谈探月学校创始人王熙乔，回顾他从 18 岁预判 AI 冲击教育到创办学校、经历扩张自大、疫情流浪、最终转向非营利的十年历程，阐述 AI 时代的教育观与人生选择。",
     "url": "https://www.bestblogs.dev/article/4ffb441b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-01",
     "badge": "model"
-  },
-  {
-    "title": "专访美图 CEO 吴欣鸿：做 AI 产品，是一场难以提前策划的游戏",
-    "summary": "文章通过对美图 CEO 吴欣鸿的深度专访，揭示了美图在 AI 时代「自然生长」的产品策略、快速验证的 PMF 机制以及全球扩张的实战经验。",
-    "url": "https://www.bestblogs.dev/article/8b6cc4f7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智能涌现",
-    "topic": "商业科技",
-    "date": "2026-07-01",
-    "badge": "featured"
-  },
-  {
-    "title": "AI Agent 的 Skill 系统设计",
-    "summary": "本文系统阐述 AI Agent Skill 系统的设计理念与工程实践，核心是将 Skill 视为行为编程而非文档，通过结构化设计、Token 经济策略和强制约束机制规范 Agent 行为，并给出了从创建到验证的完整方法。",
-    "url": "https://www.bestblogs.dev/article/970fe1fe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-07-01",
-    "badge": "agent"
-  },
-  {
-    "title": "如何把超级个体的产能，转化成组织能力？ | AI 跃迁者调研",
-    "summary": "本文深度访谈出门问问 CEO 李志飞，揭示从超级个体到超级组织的转型路径：以自研 CodeBanana 系统实现沟通与执行合一，通过全栈转型与系统设计师机制将 AI 产能转化为组织能力。",
-    "url": "https://www.bestblogs.dev/article/e3a487f9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-07-01",
-    "badge": "featured"
-  },
-  {
-    "title": "美团 LongCat-2.0 正式发布：在国产算力集群上完成全流程训练与推理的万亿参数模型",
-    "summary": "美团发布业界首个在五万卡国产算力集群上完成全流程训练与推理的万亿参数 MoE 模型 LongCat-2.0，原生支持 1M 超长上下文，聚焦 Agentic Coding 任务，在多项基准测试中表现优异。",
-    "url": "https://www.bestblogs.dev/article/ad5a0b93?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "人工智能",
-    "date": "2026-07-01",
-    "badge": "agent"
   }
 ]
