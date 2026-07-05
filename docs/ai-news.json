@@ -1,5 +1,23 @@
 [
   {
+    "title": "梁朝伟：表演的尽头是真诚",
+    "summary": "南方周末深度专访梁朝伟，回顾其表演生涯的三个阶段，并揭示他从追求完美转向追求真诚的表演哲学。",
+    "url": "https://www.bestblogs.dev/article/dc538850?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "生活文化",
+    "date": "2026-07-03",
+    "badge": "featured"
+  },
+  {
+    "title": "为什么大模型的缓存命中率能到 90%？",
+    "summary": "本文从 KV Cache 原理出发，分析 Prefix Caching 技术方向与主流模型落地实践，解释 agent 式调用导致缓存命中率常达 90% 的必然性，并给出反直觉提醒。",
+    "url": "https://www.bestblogs.dev/article/183f5b24?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-03",
+    "badge": "agent"
+  },
+  {
     "title": "从 AI Coding 到 Harness Engineering 的端到端工程开发实践",
     "summary": "本文系统介绍了腾讯应用宝活动平台团队从对话式 AI Coding 迈向 Harness Engineering 的实践，涵盖知识库工程（结构化知识自动生成与检索）和端到端开发工程（状态文件驱动、专家 Agent 体系、DAG 并行编排），并总结了核心工程原则。",
     "url": "https://www.bestblogs.dev/article/e06a6c5e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-02",
     "badge": "agent"
-  },
-  {
-    "title": "Loop Engineering 又是啥？一文讲清企业 Agent 落地的四层工程进化论",
-    "summary": "本文系统梳理了企业 AI Agent 落地的四层工程演进（Prompt→Context→Harness→Loop），阐明嵌套关系，给出诊断框架与采纳路径，指出瓶颈正从模型能力转向系统工程能力。",
-    "url": "https://www.bestblogs.dev/article/99cc9e2f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-02",
-    "badge": "agent"
-  },
-  {
-    "title": "AI UITester：AI Native 的 UI 自动化测试新范式｜得物技术",
-    "summary": "本文介绍得物技术团队自研的 AI 原生 UI 测试工具 ai_uitester，通过 VLM 视觉驱动、LLM 用例自动生成和 AI 自愈调试，实现三端统一运维，大幅降低测试维护成本。",
-    "url": "https://www.bestblogs.dev/article/694f9d01?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
-    "topic": "人工智能",
-    "date": "2026-07-01",
-    "badge": "model"
   }
 ]
