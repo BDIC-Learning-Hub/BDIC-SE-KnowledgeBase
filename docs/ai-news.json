@@ -1,5 +1,23 @@
 [
   {
+    "title": "硅谷大佬的青春期圣经和科幻底色",
+    "summary": "文章追溯马斯克、贝佐斯等硅谷领袖青春期的精神读物，揭示其技术哲学背后的宗教与科幻底色。",
+    "url": "https://www.bestblogs.dev/article/a4241920?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "生活文化",
+    "date": "2026-07-05",
+    "badge": "featured"
+  },
+  {
+    "title": "Noi 编程实战：Fable 没那么强，GPT 也没那么弱",
+    "summary": "文章通过 Noi 项目中一个插件兼容 bug 的调试经历，对比 Fable 与 GPT 的表现，深刻反思了 AI 编程中复杂系统调试的方法论与责任边界。",
+    "url": "https://www.bestblogs.dev/article/a73b96a5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-07-04",
+    "badge": "model"
+  },
+  {
     "title": "梁朝伟：表演的尽头是真诚",
     "summary": "南方周末深度专访梁朝伟，回顾其表演生涯的三个阶段，并揭示他从追求完美转向追求真诚的表演哲学。",
     "url": "https://www.bestblogs.dev/article/dc538850?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -49,24 +67,6 @@
     "summary": "本文系统性地提出了一套面向生产环境的 Agent 评测方法论与工程体系，覆盖指标、数据集、评分、根因分析、自动优化与闭环。",
     "url": "https://www.bestblogs.dev/article/f2511732?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-02",
-    "badge": "agent"
-  },
-  {
-    "title": "对话探月校长王熙乔：AI 时代的教育者、十年沉浮，与人类文明的下一步",
-    "summary": "本文深度访谈探月学校创始人王熙乔，回顾他从 18 岁预判 AI 冲击教育到创办学校、经历扩张自大、疫情流浪、最终转向非营利的十年历程，阐述 AI 时代的教育观与人生选择。",
-    "url": "https://www.bestblogs.dev/article/4ffb441b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "个人成长",
-    "date": "2026-07-02",
-    "badge": "featured"
-  },
-  {
-    "title": "相比层出不穷的 Agent 框架，不变的 Agent Protocol 是什么",
-    "summary": "本文从协议视角拆解 Agent Runtime，提出 Thread、Run、Step、Event、Artifact、Checkpoint 六个跨框架稳定对象，并区分执行模型的两层结构（Loop 承载与编排协议），帮助开发者穿透 API 变化看本质。",
-    "url": "https://www.bestblogs.dev/article/4ab57ca0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-07-02",
     "badge": "agent"
