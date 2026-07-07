@@ -1,5 +1,32 @@
 [
   {
+    "title": "为什么 Agent 时代，大家都在做 CLI？",
+    "summary": "本文深入分析 AI Agent 时代 CLI 复兴的结构性原因，阐释其与 MCP、SKILL 的分层关系，并提出 AI 友好的产品设计原则。",
+    "url": "https://www.bestblogs.dev/article/c5a2f452?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-06",
+    "badge": "agent"
+  },
+  {
+    "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
+    "summary": "腾讯混元正式发布 Hy3 模型，在 Agent、推理和长上下文任务上比肩更大尺寸旗舰模型，并大幅降低幻觉率和成本，已以 Apache 2.0 开源。",
+    "url": "https://www.bestblogs.dev/article/b6b95110?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
+    "topic": "人工智能",
+    "date": "2026-07-06",
+    "badge": "agent"
+  },
+  {
+    "title": "AutoResearch-LLM：让 Agent 接手 LLM 训练优化",
+    "summary": "本文介绍一套 Agent 驱动的 LLM 微调自动化框架 AutoResearch-LLM，通过三阶段流水线（场景诊断→方案设计→自动化实验）将调参经验沉淀为 SKILL.md，并在 1688 电商任务上落地验证，提供了从理论到工程的可复用方法论。",
+    "url": "https://www.bestblogs.dev/article/8e47d261?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-06",
+    "badge": "agent"
+  },
+  {
     "title": "硅谷大佬的青春期圣经和科幻底色",
     "summary": "文章追溯马斯克、贝佐斯等硅谷领袖青春期的精神读物，揭示其技术哲学背后的宗教与科幻底色。",
     "url": "https://www.bestblogs.dev/article/a4241920?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
     "date": "2026-07-03",
-    "badge": "agent"
-  },
-  {
-    "title": "Code is cheap. Don't write any.——AI Native，程序员如何提升五倍 coding 效率",
-    "summary": "本文提出一套名为 Harness 的 AI 编程方法论，基于大模型概率生成和上下文有限的底层事实，通过水流理论、最小混沌单元和 spec/codemap/new-chat 设施，实现人定方向、模型推进的高效协作。",
-    "url": "https://www.bestblogs.dev/article/c25f459e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-03",
-    "badge": "model"
-  },
-  {
-    "title": "科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说）",
-    "summary": "本期周刊以一篇虚构小说揭示 AI 开发文化中的异化现象，并包含科技动态、工具推荐及深度言论。",
-    "url": "https://www.bestblogs.dev/article/0e79e2d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "人工智能",
-    "date": "2026-07-02",
-    "badge": "tooling"
-  },
-  {
-    "title": "Agent 评测：方法论与体系设计",
-    "summary": "本文系统性地提出了一套面向生产环境的 Agent 评测方法论与工程体系，覆盖指标、数据集、评分、根因分析、自动优化与闭环。",
-    "url": "https://www.bestblogs.dev/article/f2511732?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-02",
     "badge": "agent"
   }
 ]
