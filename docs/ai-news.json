@@ -1,5 +1,41 @@
 [
   {
+    "title": "从「不敢发」到「天天发」：AI Agent 时代的 CI/CD 生存指南",
+    "summary": "文章以 a1 CLI 为例，系统性分享如何在 AI Agent 时代构建从代码准入到发布后闭环的 CI/CD 体系，核心通过分层门禁、动态冒烟测试、CI 历史反馈和 telemetry 数据验证等手段约束 AI 的随机性，实现每个工作日自动发版。",
+    "url": "https://www.bestblogs.dev/article/1b366699?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-07-07",
+    "badge": "agent"
+  },
+  {
+    "title": "从 Vibe Coding 到 Harness—— 一套大仓 AI 工程化实战",
+    "summary": "本文以腾讯 TAB 实验平台大仓为背景，系统复盘了从 Vibe Coding 到结构化 AI 工程化体系（Harness）的实战搭建过程，涵盖阶段拆解、Agent 分工、门禁脚本、人工关卡等核心设计及其取舍经验。",
+    "url": "https://www.bestblogs.dev/article/889f311c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-07",
+    "badge": "agent"
+  },
+  {
+    "title": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
+    "summary": "字节跳动 Seed 发布超长程评测集 EdgeBench，发现 Agent 在真实环境中的学习表现遵循高精度 log-sigmoid 曲线，且学习速度每三个月翻一倍。",
+    "url": "https://www.bestblogs.dev/article/ce3be9a0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动Seed",
+    "topic": "人工智能",
+    "date": "2026-07-07",
+    "badge": "agent"
+  },
+  {
+    "title": "Loop Engineering 实战：实现从日志扫描到预发部署的全自主闭环",
+    "summary": "本文基于阿里云诊断系统的生产实践，详细阐述了如何构建从日志扫描到预发部署的全自主 Loop 闭环，使 ERROR 总量下降 96%、同类问题修复时间从 48 分钟降至 15 分钟、人工介入次数降为零。",
+    "url": "https://www.bestblogs.dev/article/adfa3571?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-07",
+    "badge": "featured"
+  },
+  {
     "title": "为什么 Agent 时代，大家都在做 CLI？",
     "summary": "本文深入分析 AI Agent 时代 CLI 复兴的结构性原因，阐释其与 MCP、SKILL 的分层关系，并提出 AI 友好的产品设计原则。",
     "url": "https://www.bestblogs.dev/article/c5a2f452?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "生活文化",
     "date": "2026-07-05",
     "badge": "featured"
-  },
-  {
-    "title": "Noi 编程实战：Fable 没那么强，GPT 也没那么弱",
-    "summary": "文章通过 Noi 项目中一个插件兼容 bug 的调试经历，对比 Fable 与 GPT 的表现，深刻反思了 AI 编程中复杂系统调试的方法论与责任边界。",
-    "url": "https://www.bestblogs.dev/article/a73b96a5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-07-04",
-    "badge": "model"
-  },
-  {
-    "title": "梁朝伟：表演的尽头是真诚",
-    "summary": "南方周末深度专访梁朝伟，回顾其表演生涯的三个阶段，并揭示他从追求完美转向追求真诚的表演哲学。",
-    "url": "https://www.bestblogs.dev/article/dc538850?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "生活文化",
-    "date": "2026-07-03",
-    "badge": "featured"
-  },
-  {
-    "title": "为什么大模型的缓存命中率能到 90%？",
-    "summary": "本文从 KV Cache 原理出发，分析 Prefix Caching 技术方向与主流模型落地实践，解释 agent 式调用导致缓存命中率常达 90% 的必然性，并给出反直觉提醒。",
-    "url": "https://www.bestblogs.dev/article/183f5b24?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-03",
-    "badge": "agent"
-  },
-  {
-    "title": "从 AI Coding 到 Harness Engineering 的端到端工程开发实践",
-    "summary": "本文系统介绍了腾讯应用宝活动平台团队从对话式 AI Coding 迈向 Harness Engineering 的实践，涵盖知识库工程（结构化知识自动生成与检索）和端到端开发工程（状态文件驱动、专家 Agent 体系、DAG 并行编排），并总结了核心工程原则。",
-    "url": "https://www.bestblogs.dev/article/e06a6c5e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-03",
-    "badge": "agent"
   }
 ]
