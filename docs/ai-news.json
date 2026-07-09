@@ -1,5 +1,41 @@
 [
   {
+    "title": "快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践",
+    "summary": "快手将 AB 指标计算从 Spark 迁移至 Apache Doris，通过存储、计算和调度的深度优化实现 145 倍性能提升、资源下降 72%。",
+    "url": "https://www.bestblogs.dev/article/96119afc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "软件编程",
+    "date": "2026-07-08",
+    "badge": "tooling"
+  },
+  {
+    "title": "Momenta IPO 后专访曹旭东：聪明人如何下笨功夫",
+    "summary": "曹旭东在 Momenta 港股 IPO 后接受晚点专访，阐述数据驱动策略、智驾市场格局及机器人、具身智能的未来布局。",
+    "url": "https://www.bestblogs.dev/article/ecab68c8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "人工智能",
+    "date": "2026-07-08",
+    "badge": "featured"
+  },
+  {
+    "title": "华为“爆改”5nm 芯片",
+    "summary": "华为发布《韬定律》V2 版论文，提出基于时间微缩与逻辑折叠的后摩尔定律芯片优化路径，Kirin 2026 实现等同三年几何微缩的晶体管密度提升，为 AI 数据中心也提供了系统级缩时方案。",
+    "url": "https://www.bestblogs.dev/article/c27c6c63?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-07-07",
+    "badge": "featured"
+  },
+  {
+    "title": "深度解析：Claude J-space",
+    "summary": "本文解读 Anthropic 关于 Claude 模型内部「J-space」的研究，解释了 J-lens 工具如何定位出一种类似「全局工作空间」的内部表示，揭示了模型静默推理与概念广播的机制。",
+    "url": "https://www.bestblogs.dev/article/d8c465bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-07-07",
+    "badge": "model"
+  },
+  {
     "title": "从「不敢发」到「天天发」：AI Agent 时代的 CI/CD 生存指南",
     "summary": "文章以 a1 CLI 为例，系统性分享如何在 AI Agent 时代构建从代码准入到发布后闭环的 CI/CD 体系，核心通过分层门禁、动态冒烟测试、CI 历史反馈和 telemetry 数据验证等手段约束 AI 的随机性，实现每个工作日自动发版。",
     "url": "https://www.bestblogs.dev/article/1b366699?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
     "date": "2026-07-07",
-    "badge": "featured"
-  },
-  {
-    "title": "为什么 Agent 时代，大家都在做 CLI？",
-    "summary": "本文深入分析 AI Agent 时代 CLI 复兴的结构性原因，阐释其与 MCP、SKILL 的分层关系，并提出 AI 友好的产品设计原则。",
-    "url": "https://www.bestblogs.dev/article/c5a2f452?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-06",
-    "badge": "agent"
-  },
-  {
-    "title": "腾讯混元 Hy3 发布：Agent 能力和产品体验跃升",
-    "summary": "腾讯混元正式发布 Hy3 模型，在 Agent、推理和长上下文任务上比肩更大尺寸旗舰模型，并大幅降低幻觉率和成本，已以 Apache 2.0 开源。",
-    "url": "https://www.bestblogs.dev/article/b6b95110?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
-    "topic": "人工智能",
-    "date": "2026-07-06",
-    "badge": "agent"
-  },
-  {
-    "title": "AutoResearch-LLM：让 Agent 接手 LLM 训练优化",
-    "summary": "本文介绍一套 Agent 驱动的 LLM 微调自动化框架 AutoResearch-LLM，通过三阶段流水线（场景诊断→方案设计→自动化实验）将调参经验沉淀为 SKILL.md，并在 1688 电商任务上落地验证，提供了从理论到工程的可复用方法论。",
-    "url": "https://www.bestblogs.dev/article/8e47d261?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-06",
-    "badge": "agent"
-  },
-  {
-    "title": "硅谷大佬的青春期圣经和科幻底色",
-    "summary": "文章追溯马斯克、贝佐斯等硅谷领袖青春期的精神读物，揭示其技术哲学背后的宗教与科幻底色。",
-    "url": "https://www.bestblogs.dev/article/a4241920?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "生活文化",
-    "date": "2026-07-05",
     "badge": "featured"
   }
 ]
