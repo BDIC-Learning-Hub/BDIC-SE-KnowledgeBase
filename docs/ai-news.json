@@ -1,74 +1,74 @@
 [
   {
-    "title": "快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践",
-    "summary": "快手将 AB 指标计算从 Spark 迁移至 Apache Doris，通过存储、计算和调度的深度优化实现 145 倍性能提升、资源下降 72%。",
-    "url": "https://www.bestblogs.dev/article/96119afc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "软件编程",
-    "date": "2026-07-08",
-    "badge": "tooling"
+    "title": "Cloud Use：当 Agent 开始真正使用云",
+    "summary": "本文提出 Cloud Use 概阐述 Agent 如何以受治理的身份、凭证、环境和生命周期真正成为云上的可托管工作负载，区别于普通 Tool Use。",
+    "url": "https://www.bestblogs.dev/article/a6f70eb2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-09",
+    "badge": "agent"
   },
   {
-    "title": "Momenta IPO 后专访曹旭东：聪明人如何下笨功夫",
-    "summary": "曹旭东在 Momenta 港股 IPO 后接受晚点专访，阐述数据驱动策略、智驾市场格局及机器人、具身智能的未来布局。",
-    "url": "https://www.bestblogs.dev/article/ecab68c8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
+    "title": "Mythos 对企业安全架构影响的思考",
+    "summary": "文章指出，Anthropic 的 Claude Mythos 模型实现了自主发现并武器化漏洞的超人级能力，将漏洞利用窗口从数月/天压缩到数分钟，迫使企业安全从“人类节奏”转向“机器速度”，并提出了加固边界、强化 AI 原生零信任、假设边界将被突破的韧性三大应对策略。",
+    "url": "https://www.bestblogs.dev/article/1720dc8f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
     "topic": "人工智能",
-    "date": "2026-07-08",
-    "badge": "featured"
-  },
-  {
-    "title": "华为“爆改”5nm 芯片",
-    "summary": "华为发布《韬定律》V2 版论文，提出基于时间微缩与逻辑折叠的后摩尔定律芯片优化路径，Kirin 2026 实现等同三年几何微缩的晶体管密度提升，为 AI 数据中心也提供了系统级缩时方案。",
-    "url": "https://www.bestblogs.dev/article/c27c6c63?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-07-07",
-    "badge": "featured"
-  },
-  {
-    "title": "深度解析：Claude J-space",
-    "summary": "本文解读 Anthropic 关于 Claude 模型内部「J-space」的研究，解释了 J-lens 工具如何定位出一种类似「全局工作空间」的内部表示，揭示了模型静默推理与概念广播的机制。",
-    "url": "https://www.bestblogs.dev/article/d8c465bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-07-07",
+    "date": "2026-07-09",
     "badge": "model"
   },
   {
-    "title": "从「不敢发」到「天天发」：AI Agent 时代的 CI/CD 生存指南",
-    "summary": "文章以 a1 CLI 为例，系统性分享如何在 AI Agent 时代构建从代码准入到发布后闭环的 CI/CD 体系，核心通过分层门禁、动态冒烟测试、CI 历史反馈和 telemetry 数据验证等手段约束 AI 的随机性，实现每个工作日自动发版。",
-    "url": "https://www.bestblogs.dev/article/1b366699?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "软件编程",
-    "date": "2026-07-07",
-    "badge": "agent"
-  },
-  {
-    "title": "从 Vibe Coding 到 Harness—— 一套大仓 AI 工程化实战",
-    "summary": "本文以腾讯 TAB 实验平台大仓为背景，系统复盘了从 Vibe Coding 到结构化 AI 工程化体系（Harness）的实战搭建过程，涵盖阶段拆解、Agent 分工、门禁脚本、人工关卡等核心设计及其取舍经验。",
-    "url": "https://www.bestblogs.dev/article/889f311c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
+    "title": "连写 5 遍 SQL 后，他从“人肉 Agent”的荒诞感里，死磕出了一款企业副驾驶",
+    "summary": "文章访谈数势科技创始人岑润哲，讲述从人肉 Agent 到产品化 SwiftAgent 的历程，强调语义层、共识放大器、Human-in-the-loop 及 L4 行动闭环的价值与挑战。",
+    "url": "https://www.bestblogs.dev/article/1dddd134?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 非凡产研",
     "topic": "人工智能",
-    "date": "2026-07-07",
+    "date": "2026-07-09",
     "badge": "agent"
   },
   {
-    "title": "EdgeBench：衡量真实世界环境学习，发现新 Scaling Law",
-    "summary": "字节跳动 Seed 发布超长程评测集 EdgeBench，发现 Agent 在真实环境中的学习表现遵循高精度 log-sigmoid 曲线，且学习速度每三个月翻一倍。",
-    "url": "https://www.bestblogs.dev/article/ce3be9a0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "TS 7：AI 生成式代码的拐点",
+    "summary": "TypeScript 7 的 native CLI 大幅提升类型检查性能，成为 AI 生成式代码的关键基础设施，推动开发基建向低延迟、高频验证的 native 化趋势发展。",
+    "url": "https://www.bestblogs.dev/article/284f61b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 浮之静",
+    "topic": "软件编程",
+    "date": "2026-07-09",
+    "badge": "tooling"
+  },
+  {
+    "title": "从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践",
+    "summary": "大模型从单轮问答向自主 Agent 演进，记忆成为核心瓶颈，作者分享 MemOS 记忆系统工程实践及 MemOS 2.0 的长程任务可成长设计。",
+    "url": "https://www.bestblogs.dev/article/6bbe303e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-07-09",
+    "badge": "agent"
+  },
+  {
+    "title": "一文读懂 Harness Engineering！",
+    "summary": "本文系统梳理了 Harness（约束工程）过去十五个月的技术演进，将其拆解为流程管控、并发调度和质量验证三层架构，并指出其本质是随模型能力动态迁移的「补偿面」，真正的护城河在于追踪这种迁移的能力。",
+    "url": "https://www.bestblogs.dev/article/fd382b91?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-09",
+    "badge": "model"
+  },
+  {
+    "title": "不止“生成”，更懂“设计”｜Seedream 5.0 Pro 发布",
+    "summary": "Seedream 5.0 Pro 是一款多模态图像创作模型，实现了复杂信息可视化、交互式精准编辑、真实影像人像质感和多语种支持等四大核心能力突破。",
+    "url": "https://www.bestblogs.dev/article/645ecf70?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 字节跳动Seed",
     "topic": "人工智能",
-    "date": "2026-07-07",
-    "badge": "agent"
+    "date": "2026-07-08",
+    "badge": "model"
   },
   {
-    "title": "Loop Engineering 实战：实现从日志扫描到预发部署的全自主闭环",
-    "summary": "本文基于阿里云诊断系统的生产实践，详细阐述了如何构建从日志扫描到预发部署的全自主 Loop 闭环，使 ERROR 总量下降 96%、同类问题修复时间从 48 分钟降至 15 分钟、人工介入次数降为零。",
-    "url": "https://www.bestblogs.dev/article/adfa3571?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
+    "title": "Dify 官方命令行工具：difyctl 正式发布",
+    "summary": "Dify v1.15.0 发布官方命令行工具 difyctl，支持 Agent、脚本、CI 流水线一键调用 AI 应用和工作流，同时带来界面优化、思维链展示扩展、人工介入增强等多项更新。",
+    "url": "https://www.bestblogs.dev/article/86b084e7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Dify",
     "topic": "人工智能",
-    "date": "2026-07-07",
-    "badge": "featured"
+    "date": "2026-07-08",
+    "badge": "agent"
   }
 ]
