@@ -1,74 +1,74 @@
 [
   {
-    "title": "Cloud Use：当 Agent 开始真正使用云",
-    "summary": "本文提出 Cloud Use 概阐述 Agent 如何以受治理的身份、凭证、环境和生命周期真正成为云上的可托管工作负载，区别于普通 Tool Use。",
-    "url": "https://www.bestblogs.dev/article/a6f70eb2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "意识 × Loop：让 Loop 跨 Session 自进化的最佳实践",
+    "summary": "本文以 FDE 公司调研实践为例，提出通过「意识层」（AGENTS.md / MEMORY.md / USER.md）实现 Agent Loop 跨会话自进化的方法论，并详细阐述三层对齐、手动阀门保留及搭建步骤。",
+    "url": "https://www.bestblogs.dev/article/378c699c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "badge": "agent"
   },
   {
-    "title": "Mythos 对企业安全架构影响的思考",
-    "summary": "文章指出，Anthropic 的 Claude Mythos 模型实现了自主发现并武器化漏洞的超人级能力，将漏洞利用窗口从数月/天压缩到数分钟，迫使企业安全从“人类节奏”转向“机器速度”，并提出了加固边界、强化 AI 原生零信任、假设边界将被突破的韧性三大应对策略。",
-    "url": "https://www.bestblogs.dev/article/1720dc8f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
+    "title": "一位投资人对具身、模型与算力的 17 条判断",
+    "summary": "投资人周志峰从具身智能、大模型、算力等角度给出 17 条判断，强调快半步投资、数据瓶颈、中美优势及市场热钱风险。",
+    "url": "https://www.bestblogs.dev/article/fdd658ce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "badge": "model"
   },
   {
-    "title": "连写 5 遍 SQL 后，他从“人肉 Agent”的荒诞感里，死磕出了一款企业副驾驶",
-    "summary": "文章访谈数势科技创始人岑润哲，讲述从人肉 Agent 到产品化 SwiftAgent 的历程，强调语义层、共识放大器、Human-in-the-loop 及 L4 行动闭环的价值与挑战。",
-    "url": "https://www.bestblogs.dev/article/1dddd134?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 非凡产研",
+    "title": "【揭秘】如何打造一支凌晨 3 点还在交付的 AI 军团",
+    "summary": "本文详细介绍了腾讯基于 Multica 构建 AI Agent 协作平台的实践，从工作流设计到多 Agent 接力，探讨如何让 AI 真正学会“工作”并形成超级组织雏形。",
+    "url": "https://www.bestblogs.dev/article/27af35d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "badge": "agent"
   },
   {
-    "title": "TS 7：AI 生成式代码的拐点",
-    "summary": "TypeScript 7 的 native CLI 大幅提升类型检查性能，成为 AI 生成式代码的关键基础设施，推动开发基建向低延迟、高频验证的 native 化趋势发展。",
-    "url": "https://www.bestblogs.dev/article/284f61b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "软件编程",
-    "date": "2026-07-09",
+    "title": "AI 公司为何把哲学家请进实验室？",
+    "summary": "本文以梵蒂冈 AI 通谕为引，深入剖析了 Anthropic、Google DeepMind 等顶尖 AI 公司引入哲学家解决对齐问题的内在逻辑、具体实践与争议，并探讨了这种行业自律的真实性。",
+    "url": "https://www.bestblogs.dev/article/9b6d56db?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-07-10",
+    "badge": "featured"
+  },
+  {
+    "title": "2000 万人花 200 美元/年陪一个 AI 聊天：这不是疯了，是怕孤单",
+    "summary": "本文通过深度访谈逗逗 AI 联合创始人，揭示了 AI 陪伴产品的核心壁垒不是模型能力，而是用户愿意为之付费的“被懂、被记得”的持续关系。",
+    "url": "https://www.bestblogs.dev/article/630a7d32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 非凡产研",
+    "topic": "商业科技",
+    "date": "2026-07-10",
+    "badge": "model"
+  },
+  {
+    "title": "AI 时代，一个人要怎么做才能不被变成工具",
+    "summary": "本文通过创业者白双的深度访谈，探讨个体如何在 AI 时代通过将 know-how 产品化、构建专家智能体，实现从「卖时间」到「卖产品」的价值跃迁，拒绝沦为高级工具。",
+    "url": "https://www.bestblogs.dev/article/03fb724f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 非凡产研",
+    "topic": "人工智能",
+    "date": "2026-07-10",
     "badge": "tooling"
   },
   {
-    "title": "从上下文到经验资产：Agent 记忆系统的工程化路径与 MemOS 实践",
-    "summary": "大模型从单轮问答向自主 Agent 演进，记忆成为核心瓶颈，作者分享 MemOS 记忆系统工程实践及 MemOS 2.0 的长程任务可成长设计。",
-    "url": "https://www.bestblogs.dev/article/6bbe303e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
+    "title": "KAT-Coder-V2.5 正式发布：从“写代码”到“做工程”，Agentic 能力全面提升",
+    "summary": "KAT-Coder-Pro V2.5 通过长程工程、通用 Agentic 能力及大规模强化学习的系统升级，实现从代码补全到完整工程任务的自主完成。",
+    "url": "https://www.bestblogs.dev/article/7e04fc4b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 快手技术",
     "topic": "人工智能",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "badge": "agent"
   },
   {
-    "title": "一文读懂 Harness Engineering！",
-    "summary": "本文系统梳理了 Harness（约束工程）过去十五个月的技术演进，将其拆解为流程管控、并发调度和质量验证三层架构，并指出其本质是随模型能力动态迁移的「补偿面」，真正的护城河在于追踪这种迁移的能力。",
-    "url": "https://www.bestblogs.dev/article/fd382b91?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
+    "title": "万字科普：一千个「世界模型」在发布，到底什么是世界模型？",
+    "summary": "本文整合李飞飞与 Packy McCormick 的观点，系统梳理世界模型的概念、三大分类（渲染器/模拟器/规划器）、三十年技术演进、数据挑战与未来方向，为读者提供清晰的判断框架。",
+    "url": "https://www.bestblogs.dev/article/6db25567?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
     "topic": "人工智能",
-    "date": "2026-07-09",
+    "date": "2026-07-10",
     "badge": "model"
-  },
-  {
-    "title": "不止“生成”，更懂“设计”｜Seedream 5.0 Pro 发布",
-    "summary": "Seedream 5.0 Pro 是一款多模态图像创作模型，实现了复杂信息可视化、交互式精准编辑、真实影像人像质感和多语种支持等四大核心能力突破。",
-    "url": "https://www.bestblogs.dev/article/645ecf70?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动Seed",
-    "topic": "人工智能",
-    "date": "2026-07-08",
-    "badge": "model"
-  },
-  {
-    "title": "Dify 官方命令行工具：difyctl 正式发布",
-    "summary": "Dify v1.15.0 发布官方命令行工具 difyctl，支持 Agent、脚本、CI 流水线一键调用 AI 应用和工作流，同时带来界面优化、思维链展示扩展、人工介入增强等多项更新。",
-    "url": "https://www.bestblogs.dev/article/86b084e7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Dify",
-    "topic": "人工智能",
-    "date": "2026-07-08",
-    "badge": "agent"
   }
 ]
