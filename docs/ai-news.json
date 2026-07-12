@@ -1,5 +1,14 @@
 [
   {
+    "title": "2026 国内新增独角兽全梳理：3 天一家、AI 和机器人占了一半，DeepSeek 估值最高",
+    "summary": "本文基于 IT 桔子数据，全面梳理 2026 年上半年中国新增 67 家独角兽，AI 和机器人占比过半，DeepSeek 估值居首，揭示新一轮硬科技驱动的创业增长周期。",
+    "url": "https://www.bestblogs.dev/article/4c37091c9f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "商业科技",
+    "date": "2026-07-11",
+    "badge": "featured"
+  },
+  {
     "title": "意识 × Loop：让 Loop 跨 Session 自进化的最佳实践",
     "summary": "本文以 FDE 公司调研实践为例，提出通过「意识层」（AGENTS.md / MEMORY.md / USER.md）实现 Agent Loop 跨会话自进化的方法论，并详细阐述三层对齐、手动阀门保留及搭建步骤。",
     "url": "https://www.bestblogs.dev/article/378c699c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-10",
     "badge": "agent"
-  },
-  {
-    "title": "万字科普：一千个「世界模型」在发布，到底什么是世界模型？",
-    "summary": "本文整合李飞飞与 Packy McCormick 的观点，系统梳理世界模型的概念、三大分类（渲染器/模拟器/规划器）、三十年技术演进、数据挑战与未来方向，为读者提供清晰的判断框架。",
-    "url": "https://www.bestblogs.dev/article/6db25567?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "model"
   }
 ]
