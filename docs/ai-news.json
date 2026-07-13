@@ -1,5 +1,41 @@
 [
   {
+    "title": "等待英阿六番战，回看阿根廷的百年悲情",
+    "summary": "本文以即将到来的英阿世界杯半决赛为引，深度剖析阿根廷百年衰落的历史根源、独特的民族心理构成，以及足球如何成为其政治创伤与文化悲情的终极表达。",
+    "url": "https://www.bestblogs.dev/article/5c72c25017?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虹膜",
+    "topic": "体育运动",
+    "date": "2026-07-12",
+    "badge": "featured"
+  },
+  {
+    "title": "万字复盘：从模型到可用 Agent，WorkBuddy 的 Harness 工程是怎么做的？",
+    "summary": "本文从产品视角系统拆解 Agent 运行机制，重点阐述 Context Engineering 与 Harness Engineering 如何让 Agent 从能执行任务到稳定可控地完成任务。",
+    "url": "https://www.bestblogs.dev/article/5044bf45a4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-07-12",
+    "badge": "agent"
+  },
+  {
+    "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
+    "summary": "杨国安指出，AI 时代企业成败关键在于一号位的信念与战略，需从战略布局到组织变革全链条推进 AI 转型。",
+    "url": "https://www.bestblogs.dev/article/6df0dcc32e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 正和岛",
+    "topic": "商业科技",
+    "date": "2026-07-12",
+    "badge": "featured"
+  },
+  {
+    "title": "CF40 研究 | 房地产市场深度调整后的股市表现",
+    "summary": "本文通过对 18 个国家房地产深度调整的历史案例研究，指出温和通胀、有序利率下行、信贷避免深度收缩及及时银行救助是股市修复的关键宏观条件，并指出当前中国宏环境正朝有利方向演变。",
+    "url": "https://www.bestblogs.dev/article/7f8026126e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国金融四十人论坛",
+    "topic": "投资财经",
+    "date": "2026-07-12",
+    "badge": "featured"
+  },
+  {
     "title": "2026 国内新增独角兽全梳理：3 天一家、AI 和机器人占了一半，DeepSeek 估值最高",
     "summary": "本文基于 IT 桔子数据，全面梳理 2026 年上半年中国新增 67 家独角兽，AI 和机器人占比过半，DeepSeek 估值居首，揭示新一轮硬科技驱动的创业增长周期。",
     "url": "https://www.bestblogs.dev/article/4c37091c9f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -31,42 +67,6 @@
     "summary": "本文详细介绍了腾讯基于 Multica 构建 AI Agent 协作平台的实践，从工作流设计到多 Agent 接力，探讨如何让 AI 真正学会“工作”并形成超级组织雏形。",
     "url": "https://www.bestblogs.dev/article/27af35d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 公司为何把哲学家请进实验室？",
-    "summary": "本文以梵蒂冈 AI 通谕为引，深入剖析了 Anthropic、Google DeepMind 等顶尖 AI 公司引入哲学家解决对齐问题的内在逻辑、具体实践与争议，并探讨了这种行业自律的真实性。",
-    "url": "https://www.bestblogs.dev/article/9b6d56db?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "featured"
-  },
-  {
-    "title": "2000 万人花 200 美元/年陪一个 AI 聊天：这不是疯了，是怕孤单",
-    "summary": "本文通过深度访谈逗逗 AI 联合创始人，揭示了 AI 陪伴产品的核心壁垒不是模型能力，而是用户愿意为之付费的“被懂、被记得”的持续关系。",
-    "url": "https://www.bestblogs.dev/article/630a7d32?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 非凡产研",
-    "topic": "商业科技",
-    "date": "2026-07-10",
-    "badge": "model"
-  },
-  {
-    "title": "AI 时代，一个人要怎么做才能不被变成工具",
-    "summary": "本文通过创业者白双的深度访谈，探讨个体如何在 AI 时代通过将 know-how 产品化、构建专家智能体，实现从「卖时间」到「卖产品」的价值跃迁，拒绝沦为高级工具。",
-    "url": "https://www.bestblogs.dev/article/03fb724f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 非凡产研",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "tooling"
-  },
-  {
-    "title": "KAT-Coder-V2.5 正式发布：从“写代码”到“做工程”，Agentic 能力全面提升",
-    "summary": "KAT-Coder-Pro V2.5 通过长程工程、通用 Agentic 能力及大规模强化学习的系统升级，实现从代码补全到完整工程任务的自主完成。",
-    "url": "https://www.bestblogs.dev/article/7e04fc4b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 快手技术",
     "topic": "人工智能",
     "date": "2026-07-10",
     "badge": "agent"
