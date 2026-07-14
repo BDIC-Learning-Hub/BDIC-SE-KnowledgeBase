@@ -1,5 +1,68 @@
 [
   {
+    "title": "对话蔚来李斌：蔚来 2026 年的新车发完了，接下来好好卖车",
+    "summary": "蔚来创始人李斌访谈透露 2026 年新车发布结束，将聚焦智驾算力效率、自研芯片、纯电大五座产品及品牌澄清，强调通过体系与服务实现长期竞争力。",
+    "url": "https://www.bestblogs.dev/article/ecaa3efd53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 刘学文",
+    "topic": "商业科技",
+    "date": "2026-07-13",
+    "badge": "featured"
+  },
+  {
+    "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
+    "summary": "美团正式开源万亿参数大模型 LongCat-2.0，同步开放针对国产算力芯片的推理优化代码，实现在存量卡上高效部署。",
+    "url": "https://www.bestblogs.dev/article/90db8375f8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "model"
+  },
+  {
+    "title": "当一个年轻人空降：改造腾讯混元的 300 天",
+    "summary": "本文深度复盘了 OpenAI 前研究员姚顺雨空降腾讯后，如何通过重构组织、回归基础数据与 Infra，试图带领腾讯混元大模型实现从落后到追赶第一梯队的变革历程。",
+    "url": "https://www.bestblogs.dev/article/c2fec5d26e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-07-13",
+    "badge": "model"
+  },
+  {
+    "title": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
+    "summary": "腾讯混元开源 HyOCR-1.5，一个仅 1B 参数的端到端 OCR 大模型，通过 DFlash 投机解码和 Agentic 数据流实现更快、更准、更全的文档理解。",
+    "url": "https://www.bestblogs.dev/article/8d3c23ecd3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "agent"
+  },
+  {
+    "title": "让 Agent 按工程标准交付：AI Coding 下的质量关卡实践",
+    "summary": "本文提出通过将验证流程左移（Agent 操作规则、代码验证、运行时验证、视觉走查、流水线复审），让 AI Agent 在开发过程中自动遵循工程规范，提升交付质量并减少返工。",
+    "url": "https://www.bestblogs.dev/article/1dd4550aa5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "agent"
+  },
+  {
+    "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
+    "summary": "火山引擎发布 AI MediaKit CLI + Skill，提供 100+ 音视频原子能力并通过命令行和 Skill 让 Agent 能直接调用并编排音视频处理工作流。",
+    "url": "https://www.bestblogs.dev/article/e7b35eef63?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "agent"
+  },
+  {
+    "title": "淘宝直播数字人 AgenticRL 实践：从 RLVR 到 MultiAgent RL",
+    "summary": "本文介绍淘宝直播数字人从 Workflow 升级到 Agentic 架构，通过 AgentTuning 蒸馏降低延迟、RLVR 减少幻觉及创新 Multi-Agent RL 算法，实现低延迟高拟真互动，事实正确性提升 4.1pt。",
+    "url": "https://www.bestblogs.dev/article/a91a414388?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "agent"
+  },
+  {
     "title": "等待英阿六番战，回看阿根廷的百年悲情",
     "summary": "本文以即将到来的英阿世界杯半决赛为引，深度剖析阿根廷百年衰落的历史根源、独特的民族心理构成，以及足球如何成为其政治创伤与文化悲情的终极表达。",
     "url": "https://www.bestblogs.dev/article/5c72c25017?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "体育运动",
     "date": "2026-07-12",
     "badge": "featured"
-  },
-  {
-    "title": "万字复盘：从模型到可用 Agent，WorkBuddy 的 Harness 工程是怎么做的？",
-    "summary": "本文从产品视角系统拆解 Agent 运行机制，重点阐述 Context Engineering 与 Harness Engineering 如何让 Agent 从能执行任务到稳定可控地完成任务。",
-    "url": "https://www.bestblogs.dev/article/5044bf45a4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-07-12",
-    "badge": "agent"
-  },
-  {
-    "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
-    "summary": "杨国安指出，AI 时代企业成败关键在于一号位的信念与战略，需从战略布局到组织变革全链条推进 AI 转型。",
-    "url": "https://www.bestblogs.dev/article/6df0dcc32e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 正和岛",
-    "topic": "商业科技",
-    "date": "2026-07-12",
-    "badge": "featured"
-  },
-  {
-    "title": "CF40 研究 | 房地产市场深度调整后的股市表现",
-    "summary": "本文通过对 18 个国家房地产深度调整的历史案例研究，指出温和通胀、有序利率下行、信贷避免深度收缩及及时银行救助是股市修复的关键宏观条件，并指出当前中国宏环境正朝有利方向演变。",
-    "url": "https://www.bestblogs.dev/article/7f8026126e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国金融四十人论坛",
-    "topic": "投资财经",
-    "date": "2026-07-12",
-    "badge": "featured"
-  },
-  {
-    "title": "2026 国内新增独角兽全梳理：3 天一家、AI 和机器人占了一半，DeepSeek 估值最高",
-    "summary": "本文基于 IT 桔子数据，全面梳理 2026 年上半年中国新增 67 家独角兽，AI 和机器人占比过半，DeepSeek 估值居首，揭示新一轮硬科技驱动的创业增长周期。",
-    "url": "https://www.bestblogs.dev/article/4c37091c9f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "商业科技",
-    "date": "2026-07-11",
-    "badge": "featured"
-  },
-  {
-    "title": "意识 × Loop：让 Loop 跨 Session 自进化的最佳实践",
-    "summary": "本文以 FDE 公司调研实践为例，提出通过「意识层」（AGENTS.md / MEMORY.md / USER.md）实现 Agent Loop 跨会话自进化的方法论，并详细阐述三层对齐、手动阀门保留及搭建步骤。",
-    "url": "https://www.bestblogs.dev/article/378c699c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "agent"
-  },
-  {
-    "title": "一位投资人对具身、模型与算力的 17 条判断",
-    "summary": "投资人周志峰从具身智能、大模型、算力等角度给出 17 条判断，强调快半步投资、数据瓶颈、中美优势及市场热钱风险。",
-    "url": "https://www.bestblogs.dev/article/fdd658ce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "model"
-  },
-  {
-    "title": "【揭秘】如何打造一支凌晨 3 点还在交付的 AI 军团",
-    "summary": "本文详细介绍了腾讯基于 Multica 构建 AI Agent 协作平台的实践，从工作流设计到多 Agent 接力，探讨如何让 AI 真正学会“工作”并形成超级组织雏形。",
-    "url": "https://www.bestblogs.dev/article/27af35d9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-10",
-    "badge": "agent"
   }
 ]
