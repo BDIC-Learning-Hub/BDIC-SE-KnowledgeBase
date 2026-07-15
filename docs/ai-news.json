@@ -1,5 +1,23 @@
 [
   {
+    "title": "从 Coder 到 Designer：电商团队数据研发的 Harness Engineering 实践",
+    "summary": "本文提出了一套面向电商数据研发的 Multi-Agent 系统方案，通过知识工程与 Harness Engineering 架构设计，解决 AI 在复杂任务中的稳定性与可追溯性问题，实现从「写代码」到「做设计」的范式转变。",
+    "url": "https://www.bestblogs.dev/article/c7a89e8181?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-07-14",
+    "badge": "agent"
+  },
+  {
+    "title": "极致量化，近三千亿参数 Hy3 单卡即可部署",
+    "summary": "腾讯混元将 Hy3 模型进行 1bit 和 4bit 量化并适配 llama.cpp，使 295B 参数模型能在单卡或低资源设备上运行，同时保持接近满血性能。",
+    "url": "https://www.bestblogs.dev/article/f37d5dd27b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯混元",
+    "topic": "人工智能",
+    "date": "2026-07-14",
+    "badge": "model"
+  },
+  {
     "title": "对话蔚来李斌：蔚来 2026 年的新车发完了，接下来好好卖车",
     "summary": "蔚来创始人李斌访谈透露 2026 年新车发布结束，将聚焦智驾算力效率、自研芯片、纯电大五座产品及品牌澄清，强调通过体系与服务实现长期竞争力。",
     "url": "https://www.bestblogs.dev/article/ecaa3efd53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -27,6 +45,24 @@
     "badge": "model"
   },
   {
+    "title": "上交 x 阿里：让机器人闭眼先学动作，VLA 成功率涨 43%",
+    "summary": "本文介绍上海交通大学与阿里巴巴联合提出的 LA4VLA 方法，通过将语言-动作预训练从标准 VLA 预训练中解耦，让机器人先在不依赖视觉的条件下学习语言对动作的约束，再与视觉结合，显著提升下游任务成功率与鲁棒性。",
+    "url": "https://www.bestblogs.dev/article/c088ffc854?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "featured"
+  },
+  {
+    "title": "一个小模型意图识别系统的 5 天进化实录｜支付宝 618",
+    "summary": "本文详细复盘支付宝 618 期间基于 Qwen3-8B 构建意图识别系统的五天迭代过程，涉及模型选型、提示词自进化及效果评估。",
+    "url": "https://www.bestblogs.dev/article/0967b3358a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-13",
+    "badge": "model"
+  },
+  {
     "title": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
     "summary": "腾讯混元开源 HyOCR-1.5，一个仅 1B 参数的端到端 OCR 大模型，通过 DFlash 投机解码和 Agentic 数据流实现更快、更准、更全的文档理解。",
     "url": "https://www.bestblogs.dev/article/8d3c23ecd3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-13",
     "badge": "agent"
-  },
-  {
-    "title": "让 Agent 按工程标准交付：AI Coding 下的质量关卡实践",
-    "summary": "本文提出通过将验证流程左移（Agent 操作规则、代码验证、运行时验证、视觉走查、流水线复审），让 AI Agent 在开发过程中自动遵循工程规范，提升交付质量并减少返工。",
-    "url": "https://www.bestblogs.dev/article/1dd4550aa5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "agent"
-  },
-  {
-    "title": "让 Agent 成为音视频工作台：AI MediaKit CLI + Skill 发布",
-    "summary": "火山引擎发布 AI MediaKit CLI + Skill，提供 100+ 音视频原子能力并通过命令行和 Skill 让 Agent 能直接调用并编排音视频处理工作流。",
-    "url": "https://www.bestblogs.dev/article/e7b35eef63?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "agent"
-  },
-  {
-    "title": "淘宝直播数字人 AgenticRL 实践：从 RLVR 到 MultiAgent RL",
-    "summary": "本文介绍淘宝直播数字人从 Workflow 升级到 Agentic 架构，通过 AgentTuning 蒸馏降低延迟、RLVR 减少幻觉及创新 Multi-Agent RL 算法，实现低延迟高拟真互动，事实正确性提升 4.1pt。",
-    "url": "https://www.bestblogs.dev/article/a91a414388?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "agent"
-  },
-  {
-    "title": "等待英阿六番战，回看阿根廷的百年悲情",
-    "summary": "本文以即将到来的英阿世界杯半决赛为引，深度剖析阿根廷百年衰落的历史根源、独特的民族心理构成，以及足球如何成为其政治创伤与文化悲情的终极表达。",
-    "url": "https://www.bestblogs.dev/article/5c72c25017?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "体育运动",
-    "date": "2026-07-12",
-    "badge": "featured"
   }
 ]
