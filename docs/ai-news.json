@@ -1,5 +1,41 @@
 [
   {
+    "title": "阿里荣膺 ACL 2026 最佳资源论文 | HSCodeComp 揭开智能体「分层规则应用」的能力鸿沟",
+    "summary": "本文介绍阿里 ATH-MaaS 团队构建的 HSCodeComp 基准——首个评估 AI Agent 分层规则应用能力的专家级 Deep Search 评测集，获评 ACL 2026 最佳资源论文，并揭示当前最强 Agent 与人类专家之间约 45% 的能力鸿沟及其深层原因。",
+    "url": "https://www.bestblogs.dev/article/257eda6403?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-15",
+    "badge": "agent"
+  },
+  {
+    "title": "AINMM：存量生产级工程向 AI Native 演进的五级成熟度模型",
+    "summary": "本文提出 AI Native 能力成熟度模型（AINMM），为存量生产级工程提供从 ML1 到 ML5 的渐进式演进框架，配套 Harness 管理与评估工具，实现 AI 协作能力的系统化提升。",
+    "url": "https://www.bestblogs.dev/article/8be248980d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-07-15",
+    "badge": "model"
+  },
+  {
+    "title": "目前架构下，自进化后的 AI 也无法替代人类的判断力｜田渊栋",
+    "summary": "本文深度对话田渊栋，探讨自进化 AI（RSI）的现状、门槛与人类不可替代的判断力，指出方向感（taste）和领域专家的深层理解是最终护城河。",
+    "url": "https://www.bestblogs.dev/article/7cf769502e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-07-15",
+    "badge": "featured"
+  },
+  {
+    "title": "数据研发 Multi-Agent 架构的 Harness 工程实践",
+    "summary": "文章提出数据研发场景下的 Multi-Agent Harness 工程范式，通过六大核心支柱解决 Agent 可控性、可预测性与可信任问题，核心观点是 Agent 能力不仅取决于模型，更取决于围绕模型的工程框架。",
+    "url": "https://www.bestblogs.dev/article/edf1b873ea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-15",
+    "badge": "agent"
+  },
+  {
     "title": "从 Coder 到 Designer：电商团队数据研发的 Harness Engineering 实践",
     "summary": "本文提出了一套面向电商数据研发的 Multi-Agent 系统方案，通过知识工程与 Harness Engineering 架构设计，解决 AI 在复杂任务中的稳定性与可追溯性问题，实现从「写代码」到「做设计」的范式转变。",
     "url": "https://www.bestblogs.dev/article/c7a89e8181?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -18,6 +54,15 @@
     "badge": "model"
   },
   {
+    "title": "AI 与职业这三年：震荡、规律与职业群像",
+    "summary": "本文通过对 2023-2026 年 AI 影响职场的实证研究，结合任务模型、技能偏向性技术变革及创造性破坏等理论，深度剖析了 AI 如何重塑职业结构、改变组织形态及影响个体命运。",
+    "url": "https://www.bestblogs.dev/article/a345e09f6d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-07-14",
+    "badge": "model"
+  },
+  {
     "title": "对话蔚来李斌：蔚来 2026 年的新车发完了，接下来好好卖车",
     "summary": "蔚来创始人李斌访谈透露 2026 年新车发布结束，将聚焦智驾算力效率、自研芯片、纯电大五座产品及品牌澄清，强调通过体系与服务实现长期竞争力。",
     "url": "https://www.bestblogs.dev/article/ecaa3efd53?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "商业科技",
     "date": "2026-07-13",
     "badge": "featured"
-  },
-  {
-    "title": "正式开源！美团 LongCat-2.0 同步开放国产卡推理代码",
-    "summary": "美团正式开源万亿参数大模型 LongCat-2.0，同步开放针对国产算力芯片的推理优化代码，实现在存量卡上高效部署。",
-    "url": "https://www.bestblogs.dev/article/90db8375f8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "model"
-  },
-  {
-    "title": "当一个年轻人空降：改造腾讯混元的 300 天",
-    "summary": "本文深度复盘了 OpenAI 前研究员姚顺雨空降腾讯后，如何通过重构组织、回归基础数据与 Infra，试图带领腾讯混元大模型实现从落后到追赶第一梯队的变革历程。",
-    "url": "https://www.bestblogs.dev/article/c2fec5d26e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-07-13",
-    "badge": "model"
-  },
-  {
-    "title": "上交 x 阿里：让机器人闭眼先学动作，VLA 成功率涨 43%",
-    "summary": "本文介绍上海交通大学与阿里巴巴联合提出的 LA4VLA 方法，通过将语言-动作预训练从标准 VLA 预训练中解耦，让机器人先在不依赖视觉的条件下学习语言对动作的约束，再与视觉结合，显著提升下游任务成功率与鲁棒性。",
-    "url": "https://www.bestblogs.dev/article/c088ffc854?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "featured"
-  },
-  {
-    "title": "一个小模型意图识别系统的 5 天进化实录｜支付宝 618",
-    "summary": "本文详细复盘支付宝 618 期间基于 Qwen3-8B 构建意图识别系统的五天迭代过程，涉及模型选型、提示词自进化及效果评估。",
-    "url": "https://www.bestblogs.dev/article/0967b3358a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "model"
-  },
-  {
-    "title": "训推全开源：HyOCR-1.5 让端到端 OCR 大模型跑得更快、看得更准、功能更全",
-    "summary": "腾讯混元开源 HyOCR-1.5，一个仅 1B 参数的端到端 OCR 大模型，通过 DFlash 投机解码和 Agentic 数据流实现更快、更准、更全的文档理解。",
-    "url": "https://www.bestblogs.dev/article/8d3c23ecd3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯混元",
-    "topic": "人工智能",
-    "date": "2026-07-13",
-    "badge": "agent"
   }
 ]
