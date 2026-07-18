@@ -1,5 +1,50 @@
 [
   {
+    "title": "面向复杂业务场景的智能分析 Skills 架构设计与演进实践",
+    "summary": "本文复盘了面向本地生活业务的智能分析 Skill 在搭建过程中的三次架构重构，从 V1 的软件工程式分层解耦到 V2 的知识收拢与按需加载，再到 V3 的稳定/时效知识分离与方法/表达层做减法，最终提炼出六条 Skill 架构设计原则。",
+    "url": "https://www.bestblogs.dev/article/9cca5a3098?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-17",
+    "badge": "featured"
+  },
+  {
+    "title": "驾驭 AI Coding：一份面向团队的 Harness Engineering 落地规范",
+    "summary": "本文系统阐述 Harness Engineering 理念，结合腾讯内部实践，提供从理念到落地的团队级 AI Coding 规范，涵盖 6 大支柱架构、工具链映射与分阶段实施路线，帮助团队在约束下高效交付高质量代码。",
+    "url": "https://www.bestblogs.dev/article/6145f6833b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-17",
+    "badge": "tooling"
+  },
+  {
+    "title": "Agent 跌跌撞撞进入世界｜2026 Q2 AI 趋势总结",
+    "summary": "2026 Q2 AI 趋势总结：通用 Agent 成为新入口，垂直行业快速渗透，Tokenmaxxing 遇瓶颈，多智能体与自进化与自进化 AI 兴起，CPU 重返算力中心，模型价格分层，以及对就业、安全、信息和认知的影响。",
+    "url": "https://www.bestblogs.dev/article/7453fddf57?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-07-17",
+    "badge": "agent"
+  },
+  {
+    "title": "高价率运营 AI 工作台：约定驱动与 AI 编排的评测优化实践",
+    "summary": "阿里大淘宝技术团队分享其基于约定驱动与 AI 编排架构，构建自动化评测体系将 Agent Skill 可用性从主观判断转变为可量化工程闭环的实践，重点剖析了评测集生成、双引擎架构、金标设计陷阱及飞轮挑战。",
+    "url": "https://www.bestblogs.dev/article/787f28f58d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-07-17",
+    "badge": "agent"
+  },
+  {
+    "title": "PagePilot — PC 端 AI 测试 Skill 设计与实战",
+    "summary": "本文详细介绍了基于 AI Agent + 组件化知识库 + 浏览器自动化 + DB 验证的 PC 端端到端 AI 测试 Skill 设计与实践，包括架构设计、四趟编译、阶段门控、失败自学习及多业务案例验证。",
+    "url": "https://www.bestblogs.dev/article/46eb81ad89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-17",
+    "badge": "agent"
+  },
+  {
     "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
     "summary": "本文深入剖析了本地运行大模型时，独立显卡与板载芯片组在内存容量与带宽上的核心矛盾，并指出混合专家模型（MoE）是当前平衡两者的最优解。",
     "url": "https://www.bestblogs.dev/article/6e7b73e864?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "个人成长",
     "date": "2026-07-16",
     "badge": "featured"
-  },
-  {
-    "title": "Agent 治理：用 Hook 堵住 LLM 的偷懒、越权与失忆",
-    "summary": "本文通过 Agent 框架的 Hook 机制、读写离线离载以及 HITL 与上下文闭环，系统性地防止 LLM 在处理长文本时的偷懒、越权与失忆问题。",
-    "url": "https://www.bestblogs.dev/article/285d3a292b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-16",
-    "badge": "agent"
-  },
-  {
-    "title": "阿里荣膺 ACL 2026 最佳资源论文 | HSCodeComp 揭开智能体「分层规则应用」的能力鸿沟",
-    "summary": "本文介绍阿里 ATH-MaaS 团队构建的 HSCodeComp 基准——首个评估 AI Agent 分层规则应用能力的专家级 Deep Search 评测集，获评 ACL 2026 最佳资源论文，并揭示当前最强 Agent 与人类专家之间约 45% 的能力鸿沟及其深层原因。",
-    "url": "https://www.bestblogs.dev/article/257eda6403?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-15",
-    "badge": "agent"
-  },
-  {
-    "title": "AINMM：存量生产级工程向 AI Native 演进的五级成熟度模型",
-    "summary": "本文提出 AI Native 能力成熟度模型（AINMM），为存量生产级工程提供从 ML1 到 ML5 的渐进式演进框架，配套 Harness 管理与评估工具，实现 AI 协作能力的系统化提升。",
-    "url": "https://www.bestblogs.dev/article/8be248980d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-07-15",
-    "badge": "model"
-  },
-  {
-    "title": "目前架构下，自进化后的 AI 也无法替代人类的判断力｜田渊栋",
-    "summary": "本文深度对话田渊栋，探讨自进化 AI（RSI）的现状、门槛与人类不可替代的判断力，指出方向感（taste）和领域专家的深层理解是最终护城河。",
-    "url": "https://www.bestblogs.dev/article/7cf769502e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-07-15",
-    "badge": "featured"
-  },
-  {
-    "title": "Qwen-Audio-3.0-Realtime 如何让语音交互“懂倾听，更聪明”？",
-    "summary": "阿里通义实验室发布 Qwen-Audio-3.0-Realtime 实时语音交互模型，具备高表现力共情对话、流畅双工交互、Agentic 工具调用能力，在 Artificial Analysis 评测中综合排名第一。",
-    "url": "https://www.bestblogs.dev/article/ff35a34b98?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 通义实验室",
-    "topic": "人工智能",
-    "date": "2026-07-15",
-    "badge": "agent"
   }
 ]
