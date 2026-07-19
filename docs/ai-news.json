@@ -1,5 +1,14 @@
 [
   {
+    "title": "腾讯发布多款具身智能基座模型与智能体，钛螺丝平台迎来全面升级",
+    "summary": "腾讯发布三大具身基座模型及两种智能体，实现感知-身体-行动闭环，并在工业场景验证，钛螺丝平台全面升级开源开放。",
+    "url": "https://www.bestblogs.dev/article/8570ae76ca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-18",
+    "badge": "model"
+  },
+  {
     "title": "面向复杂业务场景的智能分析 Skills 架构设计与演进实践",
     "summary": "本文复盘了面向本地生活业务的智能分析 Skill 在搭建过程中的三次架构重构，从 V1 的软件工程式分层解耦到 V2 的知识收拢与按需加载，再到 V3 的稳定/时效知识分离与方法/表达层做减法，最终提炼出六条 Skill 架构设计原则。",
     "url": "https://www.bestblogs.dev/article/9cca5a3098?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-16",
     "badge": "model"
-  },
-  {
-    "title": "总是忍不住玩手机？真正有效的解决方法",
-    "summary": "本文从认知和行为习惯角度，提出一套系统性方法来解决手机上瘾问题，通过习惯替代、时间限制、低刺激练习和长期项目等步骤，帮助读者重新掌控注意力。",
-    "url": "https://www.bestblogs.dev/article/f9881ea4c0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 李睿秋",
-    "topic": "个人成长",
-    "date": "2026-07-16",
-    "badge": "featured"
   }
 ]
