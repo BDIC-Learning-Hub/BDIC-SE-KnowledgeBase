@@ -1,5 +1,23 @@
 [
   {
+    "title": "朱松纯两万字演讲：AI 热潮的回望与反思、思想自主、未来展望",
+    "summary": "朱松纯教授回顾 AI 热潮的叙事、营销与泡沫，提出 AGI 的五层架构与‘为机器立心’的价值驱动路径，并展望人机共生的未来。",
+    "url": "https://www.bestblogs.dev/article/06ac8ab341?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 知识分子",
+    "topic": "人工智能",
+    "date": "2026-07-19",
+    "badge": "featured"
+  },
+  {
+    "title": "SK 海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球 AI 的脖子",
+    "summary": "本文梳理了 SK 海力士从纺织起家到垄断 HBM 内存、助力 AI 算力的崛起历程，并分析其财阀背景、技术押注及市场影响。",
+    "url": "https://www.bestblogs.dev/article/5146b9f154?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "商业科技",
+    "date": "2026-07-18",
+    "badge": "featured"
+  },
+  {
     "title": "腾讯发布多款具身智能基座模型与智能体，钛螺丝平台迎来全面升级",
     "summary": "腾讯发布三大具身基座模型及两种智能体，实现感知-身体-行动闭环，并在工业场景验证，钛螺丝平台全面升级开源开放。",
     "url": "https://www.bestblogs.dev/article/8570ae76ca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-17",
     "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 404 期）：你需要知道的 AI 内存知识",
-    "summary": "本文深入剖析了本地运行大模型时，独立显卡与板载芯片组在内存容量与带宽上的核心矛盾，并指出混合专家模型（MoE）是当前平衡两者的最优解。",
-    "url": "https://www.bestblogs.dev/article/6e7b73e864?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "人工智能",
-    "date": "2026-07-16",
-    "badge": "model"
-  },
-  {
-    "title": "Kimi K3：智能的新前沿",
-    "summary": "本文宣布推出 Kimi K3，一个 2.8 万亿参数的开源模型，基于 KDA 混合线性注意力和注意力残差技术构建，在编程、知识工作等场景展现出前沿能力，但仍落后于最强的闭源模型。",
-    "url": "https://www.bestblogs.dev/article/e907b4a910?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 月之暗面 Kimi",
-    "topic": "人工智能",
-    "date": "2026-07-16",
-    "badge": "model"
   }
 ]
