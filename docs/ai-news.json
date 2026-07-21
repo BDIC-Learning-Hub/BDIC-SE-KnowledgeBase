@@ -1,5 +1,50 @@
 [
   {
+    "title": "AI 代码生成率 94%：我们用一个 Skill 跑通需求开发全流程",
+    "summary": "本文详细介绍了腾讯企业微信团队如何通过一个名为 Skill 的 AI 辅助编码流水线，将需求开发流程拆解为 8 个阶段，实现 94%的代码生成率，并重点阐述了五步定位法、代码知识库和需求语义翻译等关键设计。",
+    "url": "https://www.bestblogs.dev/article/fdb5651bf9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-20",
+    "badge": "featured"
+  },
+  {
+    "title": "从“能说话”到“会表达”：Qwen-Audio-3.0-TTS 发布",
+    "summary": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，通过 Flash 与 Plus 双版本实现从“能说话”到“会表达”的进化，支持多语种、方言及自然语言指令控制。",
+    "url": "https://www.bestblogs.dev/article/7eceaf6404?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 通义实验室",
+    "topic": "人工智能",
+    "date": "2026-07-20",
+    "badge": "model"
+  },
+  {
+    "title": "从“会说”走向“会创作”｜Seed Audio 1.0 音频创作模型发布",
+    "summary": "字节跳动 Seed 发布 Seed Audio 1.0 音频创作模型，在统一框架下联合建模人声、音效和环境声，支持精细时间控制、音色一致性和多语种生成。",
+    "url": "https://www.bestblogs.dev/article/400fcc487a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动Seed",
+    "topic": "人工智能",
+    "date": "2026-07-20",
+    "badge": "model"
+  },
+  {
+    "title": "从 Prompt 到 Harness：企业级 Agent 工程的完整演进之路",
+    "summary": "本文系统回顾了企业级 AI Agent 平台从 Prompt 工程到 Harness 工程的完整演进，提出四层上下文防线、三层记忆架构和赋能范式设计哲学。",
+    "url": "https://www.bestblogs.dev/article/11aba81416?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-20",
+    "badge": "agent"
+  },
+  {
+    "title": "【第 3731 期】每次都可以放心遵循的视觉设计法则",
+    "summary": "本文总结了 28 条可直接套用的硬性视觉设计法则，旨在将感性的视觉直觉转化为理性的工程标准，确保 UI 设计达到及格线以上。",
+    "url": "https://www.bestblogs.dev/article/62fff44087?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 前端早读课",
+    "topic": "产品设计",
+    "date": "2026-07-20",
+    "badge": "featured"
+  },
+  {
     "title": "朱松纯两万字演讲：AI 热潮的回望与反思、思想自主、未来展望",
     "summary": "朱松纯教授回顾 AI 热潮的叙事、营销与泡沫，提出 AGI 的五层架构与‘为机器立心’的价值驱动路径，并展望人机共生的未来。",
     "url": "https://www.bestblogs.dev/article/06ac8ab341?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-18",
     "badge": "model"
-  },
-  {
-    "title": "面向复杂业务场景的智能分析 Skills 架构设计与演进实践",
-    "summary": "本文复盘了面向本地生活业务的智能分析 Skill 在搭建过程中的三次架构重构，从 V1 的软件工程式分层解耦到 V2 的知识收拢与按需加载，再到 V3 的稳定/时效知识分离与方法/表达层做减法，最终提炼出六条 Skill 架构设计原则。",
-    "url": "https://www.bestblogs.dev/article/9cca5a3098?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-17",
-    "badge": "featured"
-  },
-  {
-    "title": "驾驭 AI Coding：一份面向团队的 Harness Engineering 落地规范",
-    "summary": "本文系统阐述 Harness Engineering 理念，结合腾讯内部实践，提供从理念到落地的团队级 AI Coding 规范，涵盖 6 大支柱架构、工具链映射与分阶段实施路线，帮助团队在约束下高效交付高质量代码。",
-    "url": "https://www.bestblogs.dev/article/6145f6833b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-17",
-    "badge": "tooling"
-  },
-  {
-    "title": "Agent 跌跌撞撞进入世界｜2026 Q2 AI 趋势总结",
-    "summary": "2026 Q2 AI 趋势总结：通用 Agent 成为新入口，垂直行业快速渗透，Tokenmaxxing 遇瓶颈，多智能体与自进化与自进化 AI 兴起，CPU 重返算力中心，模型价格分层，以及对就业、安全、信息和认知的影响。",
-    "url": "https://www.bestblogs.dev/article/7453fddf57?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-07-17",
-    "badge": "agent"
-  },
-  {
-    "title": "高价率运营 AI 工作台：约定驱动与 AI 编排的评测优化实践",
-    "summary": "阿里大淘宝技术团队分享其基于约定驱动与 AI 编排架构，构建自动化评测体系将 Agent Skill 可用性从主观判断转变为可量化工程闭环的实践，重点剖析了评测集生成、双引擎架构、金标设计陷阱及飞轮挑战。",
-    "url": "https://www.bestblogs.dev/article/787f28f58d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-07-17",
-    "badge": "agent"
-  },
-  {
-    "title": "PagePilot — PC 端 AI 测试 Skill 设计与实战",
-    "summary": "本文详细介绍了基于 AI Agent + 组件化知识库 + 浏览器自动化 + DB 验证的 PC 端端到端 AI 测试 Skill 设计与实践，包括架构设计、四趟编译、阶段门控、失败自学习及多业务案例验证。",
-    "url": "https://www.bestblogs.dev/article/46eb81ad89?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-17",
-    "badge": "agent"
   }
 ]
