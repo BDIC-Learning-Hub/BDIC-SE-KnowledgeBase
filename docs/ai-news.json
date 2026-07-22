@@ -1,5 +1,41 @@
 [
   {
+    "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
+    "summary": "本文详细介绍了基于 QoderWork Agent Skill 的 NL2SQL 系统在高德超大规模数仓中的两阶段架构演进、知识工程方法及落地效果。",
+    "url": "https://www.bestblogs.dev/article/fe6f5218f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-21",
+    "badge": "agent"
+  },
+  {
+    "title": "从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践",
+    "summary": "本文基于腾讯内部团队实战，系统阐述了从个体 Vibe Coding 到体系化 AI 原生研发团队的工程实践，涵盖通用底座搭建、Harness 工程方法与产品开发协同的完整方法论。",
+    "url": "https://www.bestblogs.dev/article/6d0a7903ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-21",
+    "badge": "tooling"
+  },
+  {
+    "title": "世界杯结束：足球给了我们什么？",
+    "summary": "本文通过对 2026 年世界杯补水暂停、小国崛起、频繁绝杀及传奇谢幕的深度复盘，探讨了足球不可预知的魅力与情感张力。",
+    "url": "https://www.bestblogs.dev/article/9e1a50e4c9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张佳玮",
+    "topic": "体育运动",
+    "date": "2026-07-21",
+    "badge": "featured"
+  },
+  {
+    "title": "端到端交付 2.0：像工业流水线一样的生产和交付需求",
+    "summary": "本文提出 AI 驱动的软件交付 2.0 体系，借鉴工业流水线理念，通过 Harness 约束与 Spec 流水线双轨并行，构建可追溯、可验证、可优化的多 Agent 端到端交付链路。",
+    "url": "https://www.bestblogs.dev/article/4eef448352?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-21",
+    "badge": "agent"
+  },
+  {
     "title": "AI 代码生成率 94%：我们用一个 Skill 跑通需求开发全流程",
     "summary": "本文详细介绍了腾讯企业微信团队如何通过一个名为 Skill 的 AI 辅助编码流水线，将需求开发流程拆解为 8 个阶段，实现 94%的代码生成率，并重点阐述了五步定位法、代码知识库和需求语义翻译等关键设计。",
     "url": "https://www.bestblogs.dev/article/fdb5651bf9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-20",
     "badge": "agent"
-  },
-  {
-    "title": "【第 3731 期】每次都可以放心遵循的视觉设计法则",
-    "summary": "本文总结了 28 条可直接套用的硬性视觉设计法则，旨在将感性的视觉直觉转化为理性的工程标准，确保 UI 设计达到及格线以上。",
-    "url": "https://www.bestblogs.dev/article/62fff44087?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 前端早读课",
-    "topic": "产品设计",
-    "date": "2026-07-20",
-    "badge": "featured"
-  },
-  {
-    "title": "朱松纯两万字演讲：AI 热潮的回望与反思、思想自主、未来展望",
-    "summary": "朱松纯教授回顾 AI 热潮的叙事、营销与泡沫，提出 AGI 的五层架构与‘为机器立心’的价值驱动路径，并展望人机共生的未来。",
-    "url": "https://www.bestblogs.dev/article/06ac8ab341?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 知识分子",
-    "topic": "人工智能",
-    "date": "2026-07-19",
-    "badge": "featured"
-  },
-  {
-    "title": "SK 海力士崛起史：一个荒诞又狗血的财阀故事，如何卡住全球 AI 的脖子",
-    "summary": "本文梳理了 SK 海力士从纺织起家到垄断 HBM 内存、助力 AI 算力的崛起历程，并分析其财阀背景、技术押注及市场影响。",
-    "url": "https://www.bestblogs.dev/article/5146b9f154?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "商业科技",
-    "date": "2026-07-18",
-    "badge": "featured"
-  },
-  {
-    "title": "腾讯发布多款具身智能基座模型与智能体，钛螺丝平台迎来全面升级",
-    "summary": "腾讯发布三大具身基座模型及两种智能体，实现感知-身体-行动闭环，并在工业场景验证，钛螺丝平台全面升级开源开放。",
-    "url": "https://www.bestblogs.dev/article/8570ae76ca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-18",
-    "badge": "model"
   }
 ]
