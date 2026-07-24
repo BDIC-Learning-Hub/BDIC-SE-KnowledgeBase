@@ -1,5 +1,50 @@
 [
   {
+    "title": "全世界都在讲 AI 话",
+    "summary": "本文深入探讨了 AI 时代人机交互向语音转化的趋势，分析了耳机、眼镜及独立硬件在语音入口上的博弈，并揭示了语音交互背后高昂的 Token 成本「阳谋」。",
+    "url": "https://www.bestblogs.dev/article/acab95504f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 马扶摇",
+    "topic": "人工智能",
+    "date": "2026-07-24",
+    "badge": "featured"
+  },
+  {
+    "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
+    "summary": "本期周刊以资源、社会公平与算力为特写，讨论资源过度集中加剧社会不公平的观点，并包含如何破坏组织的策略分析、科技动态、工具与文章推荐、言论分享等丰富内容。",
+    "url": "https://www.bestblogs.dev/article/a382dc423d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "媒体资讯",
+    "date": "2026-07-24",
+    "badge": "tooling"
+  },
+  {
+    "title": "复杂业务场景下 RCA Agent 的探索实践",
+    "summary": "快手工程师分享了基于大模型的业务排障 RCA Agent 体系，围绕让 AI 理解业务、对抗告警噪声、衡量不确定性、对抗模型幻觉四大挑战，阐述了从 Workflow 到 Agent 的演进路径、Multi-Agent 架构设计与自进化机制。",
+    "url": "https://www.bestblogs.dev/article/ee34489479?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 快手技术",
+    "topic": "人工智能",
+    "date": "2026-07-23",
+    "badge": "agent"
+  },
+  {
+    "title": "编程心得：Vibe 上百亿 Token 后，我收获了什么?",
+    "summary": "作者分享使用 Codex 消耗上百亿 Token 的经验，分析 AI 辅助编程的技术选型、工作流程及架构实践。",
+    "url": "https://www.bestblogs.dev/article/509e010b03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 浮之静",
+    "topic": "人工智能",
+    "date": "2026-07-23",
+    "badge": "tooling"
+  },
+  {
+    "title": "4 小时、118 个回答，梁文锋内部交流回应一切",
+    "summary": "DeepSeek 创始人梁文锋在首次外部融资后，通过 4 小时交流系统阐述公司愿景、AGI 路线图、团队策略、开源逻辑与商业化思考。",
+    "url": "https://www.bestblogs.dev/article/2e0954c4fc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-07-23",
+    "badge": "featured"
+  },
+  {
     "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
     "summary": "本文详细介绍了基于 QoderWork Agent Skill 的 NL2SQL 系统在高德超大规模数仓中的两阶段架构演进、知识工程方法及落地效果。",
     "url": "https://www.bestblogs.dev/article/fe6f5218f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "体育运动",
     "date": "2026-07-21",
     "badge": "featured"
-  },
-  {
-    "title": "端到端交付 2.0：像工业流水线一样的生产和交付需求",
-    "summary": "本文提出 AI 驱动的软件交付 2.0 体系，借鉴工业流水线理念，通过 Harness 约束与 Spec 流水线双轨并行，构建可追溯、可验证、可优化的多 Agent 端到端交付链路。",
-    "url": "https://www.bestblogs.dev/article/4eef448352?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-21",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 代码生成率 94%：我们用一个 Skill 跑通需求开发全流程",
-    "summary": "本文详细介绍了腾讯企业微信团队如何通过一个名为 Skill 的 AI 辅助编码流水线，将需求开发流程拆解为 8 个阶段，实现 94%的代码生成率，并重点阐述了五步定位法、代码知识库和需求语义翻译等关键设计。",
-    "url": "https://www.bestblogs.dev/article/fdb5651bf9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-20",
-    "badge": "featured"
-  },
-  {
-    "title": "从“能说话”到“会表达”：Qwen-Audio-3.0-TTS 发布",
-    "summary": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，通过 Flash 与 Plus 双版本实现从“能说话”到“会表达”的进化，支持多语种、方言及自然语言指令控制。",
-    "url": "https://www.bestblogs.dev/article/7eceaf6404?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 通义实验室",
-    "topic": "人工智能",
-    "date": "2026-07-20",
-    "badge": "model"
-  },
-  {
-    "title": "从“会说”走向“会创作”｜Seed Audio 1.0 音频创作模型发布",
-    "summary": "字节跳动 Seed 发布 Seed Audio 1.0 音频创作模型，在统一框架下联合建模人声、音效和环境声，支持精细时间控制、音色一致性和多语种生成。",
-    "url": "https://www.bestblogs.dev/article/400fcc487a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动Seed",
-    "topic": "人工智能",
-    "date": "2026-07-20",
-    "badge": "model"
-  },
-  {
-    "title": "从 Prompt 到 Harness：企业级 Agent 工程的完整演进之路",
-    "summary": "本文系统回顾了企业级 AI Agent 平台从 Prompt 工程到 Harness 工程的完整演进，提出四层上下文防线、三层记忆架构和赋能范式设计哲学。",
-    "url": "https://www.bestblogs.dev/article/11aba81416?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-20",
-    "badge": "agent"
   }
 ]
