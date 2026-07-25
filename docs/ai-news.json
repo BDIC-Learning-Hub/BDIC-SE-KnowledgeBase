@@ -9,66 +9,66 @@
     "badge": "featured"
   },
   {
-    "title": "科技爱好者周刊（第 405 期）：资源，社会公平与算力",
-    "summary": "本期周刊以资源、社会公平与算力为特写，讨论资源过度集中加剧社会不公平的观点，并包含如何破坏组织的策略分析、科技动态、工具与文章推荐、言论分享等丰富内容。",
-    "url": "https://www.bestblogs.dev/article/a382dc423d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "媒体资讯",
-    "date": "2026-07-24",
-    "badge": "tooling"
-  },
-  {
-    "title": "复杂业务场景下 RCA Agent 的探索实践",
-    "summary": "快手工程师分享了基于大模型的业务排障 RCA Agent 体系，围绕让 AI 理解业务、对抗告警噪声、衡量不确定性、对抗模型幻觉四大挑战，阐述了从 Workflow 到 Agent 的演进路径、Multi-Agent 架构设计与自进化机制。",
-    "url": "https://www.bestblogs.dev/article/ee34489479?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 快手技术",
-    "topic": "人工智能",
-    "date": "2026-07-23",
-    "badge": "agent"
-  },
-  {
-    "title": "编程心得：Vibe 上百亿 Token 后，我收获了什么?",
-    "summary": "作者分享使用 Codex 消耗上百亿 Token 的经验，分析 AI 辅助编程的技术选型、工作流程及架构实践。",
-    "url": "https://www.bestblogs.dev/article/509e010b03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-07-23",
-    "badge": "tooling"
-  },
-  {
-    "title": "4 小时、118 个回答，梁文锋内部交流回应一切",
-    "summary": "DeepSeek 创始人梁文锋在首次外部融资后，通过 4 小时交流系统阐述公司愿景、AGI 路线图、团队策略、开源逻辑与商业化思考。",
-    "url": "https://www.bestblogs.dev/article/2e0954c4fc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-07-23",
-    "badge": "featured"
-  },
-  {
-    "title": "NL2SQL 在超大规模数仓场景的架构突破与工程实践",
-    "summary": "本文详细介绍了基于 QoderWork Agent Skill 的 NL2SQL 系统在高德超大规模数仓中的两阶段架构演进、知识工程方法及落地效果。",
-    "url": "https://www.bestblogs.dev/article/fe6f5218f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "分解一座冰山：后端系统「AI 知识库体系」建设实践（长文干货）",
+    "summary": "本文从 AI 需要理解系统边界出发，提出业务、架构、系统、基建四层知识库体系，以提升 AI 编码的上下文感知与决策质量。",
+    "url": "https://www.bestblogs.dev/article/e2c6c71ac5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-07-21",
+    "date": "2026-07-24",
+    "badge": "featured"
+  },
+  {
+    "title": "袁晓辉：AI 让每个人都变强了，但为什么公司没跑得更快？",
+    "summary": "文章指出 AI 提升个人效率但组织整体提效受限，瓶颈在于协作、判断和反馈闭环，需通过组织工程实现从超级个体到超级团队的跃升。",
+    "url": "https://www.bestblogs.dev/article/7f4db6f6b7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-07-24",
+    "badge": "featured"
+  },
+  {
+    "title": "腾讯 WorkBuddy 实践：如何把 Agent 做成可用产品",
+    "summary": "本文从模型、上下文、Harness、Loop 四层拆解腾讯 WorkBuddy 如何将大语言模型能力转化为可用的 AI Agent 产品，详解工具调用、MCP、Skill、Plugin、记忆与上下文管理等关键机制。",
+    "url": "https://www.bestblogs.dev/article/933063ff13?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-24",
     "badge": "agent"
   },
   {
-    "title": "从 Vibe Coding 到 AI 原生研发团队：一套能落地的工程实践",
-    "summary": "本文基于腾讯内部团队实战，系统阐述了从个体 Vibe Coding 到体系化 AI 原生研发团队的工程实践，涵盖通用底座搭建、Harness 工程方法与产品开发协同的完整方法论。",
-    "url": "https://www.bestblogs.dev/article/6d0a7903ac?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
+    "title": "火山引擎开源 Agent 驱动的搜索自迭代技术",
+    "summary": "火山引擎开源 SearchCLI，通过 Agent 驱动的搜索自迭代和 SPA 框架，实现搜索策略的自动优化与闭环验证。",
+    "url": "https://www.bestblogs.dev/article/df40765058?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动开源",
     "topic": "人工智能",
-    "date": "2026-07-21",
-    "badge": "tooling"
+    "date": "2026-07-24",
+    "badge": "agent"
   },
   {
-    "title": "世界杯结束：足球给了我们什么？",
-    "summary": "本文通过对 2026 年世界杯补水暂停、小国崛起、频繁绝杀及传奇谢幕的深度复盘，探讨了足球不可预知的魅力与情感张力。",
-    "url": "https://www.bestblogs.dev/article/9e1a50e4c9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张佳玮",
-    "topic": "体育运动",
-    "date": "2026-07-21",
+    "title": "邻家女孩，王虹的逆袭",
+    "summary": "本文深度报道了 2026 年菲尔兹奖得主王虹的学术突破及其个人成长历程，展现了她如何通过证明“挂谷猜想”震动数学界，并成为当代女性科学家的精神象征。",
+    "url": "https://www.bestblogs.dev/article/e9283575c3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南风窗",
+    "topic": "媒体资讯",
+    "date": "2026-07-24",
     "badge": "featured"
+  },
+  {
+    "title": "AMD 挑战英伟达全栈壁垒｜一文读懂 AMD AAI 2026",
+    "summary": "本文全面解读 AMD Advancing AI 2026 大会发布内容，涵盖 Helios 机架级平台、MI455X GPU、Venice CPU、ROCm.AI 及本地 Agent 方案，并深入分析 AMD 从芯片竞争走向系统级竞争的挑战与路径。",
+    "url": "https://www.bestblogs.dev/article/b713cfbd14?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-07-24",
+    "badge": "agent"
+  },
+  {
+    "title": "Token 降本 50%：Harness 工作流的成本优化实践",
+    "summary": "本文介绍了基于‘让 AI 只看到当前需要的上下文、减少无关的上下文、减少重复的上下文’三原则的十项优化措施，使 AI Agent 工作流 token 成本降低 50%~65%。",
+    "url": "https://www.bestblogs.dev/article/caad9b4004?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-24",
+    "badge": "agent"
   }
 ]
