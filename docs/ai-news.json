@@ -1,5 +1,14 @@
 [
   {
+    "title": "Sutton、OpenAI 联创押注的持续学习，有中国团队带着模型进场了",
+    "summary": "本文介绍持续学习（Continuous Learning）这一新兴 AI 赛道，深度解析 Mind Lab 的 Macaron V1 技术架构与商业路径，并将其置于硅谷同行的竞争格局中，探讨「参数空间迭代」与「提示词空间迭代」两条路线的本质差异与产业意义。",
+    "url": "https://www.bestblogs.dev/article/1e1d9cdefc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-07-25",
+    "badge": "model"
+  },
+  {
     "title": "全世界都在讲 AI 话",
     "summary": "本文深入探讨了 AI 时代人机交互向语音转化的趋势，分析了耳机、眼镜及独立硬件在语音入口上的博弈，并揭示了语音交互背后高昂的 Token 成本「阳谋」。",
     "url": "https://www.bestblogs.dev/article/acab95504f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -58,15 +67,6 @@
     "summary": "本文全面解读 AMD Advancing AI 2026 大会发布内容，涵盖 Helios 机架级平台、MI455X GPU、Venice CPU、ROCm.AI 及本地 Agent 方案，并深入分析 AMD 从芯片竞争走向系统级竞争的挑战与路径。",
     "url": "https://www.bestblogs.dev/article/b713cfbd14?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-07-24",
-    "badge": "agent"
-  },
-  {
-    "title": "Token 降本 50%：Harness 工作流的成本优化实践",
-    "summary": "本文介绍了基于‘让 AI 只看到当前需要的上下文、减少无关的上下文、减少重复的上下文’三原则的十项优化措施，使 AI Agent 工作流 token 成本降低 50%~65%。",
-    "url": "https://www.bestblogs.dev/article/caad9b4004?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
     "topic": "人工智能",
     "date": "2026-07-24",
     "badge": "agent"
