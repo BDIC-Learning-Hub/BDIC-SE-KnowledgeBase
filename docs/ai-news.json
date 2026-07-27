@@ -1,5 +1,23 @@
 [
   {
+    "title": "中国古代武庙体系：历史最强战斗天团是如何获得官方认证的？",
+    "summary": "本文梳理中国古代武庙祭祀体系从唐玄宗创立、宋朝更迭至元明更替的历史演变，揭示官方对武将的官方认证与价值观变迁。",
+    "url": "https://www.bestblogs.dev/article/1d1d450050?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 国家人文历史",
+    "topic": "生活文化",
+    "date": "2026-07-26",
+    "badge": "featured"
+  },
+  {
+    "title": "《八仙！》：用新神话解构优绩主义 | 动漫眼",
+    "summary": "本文从文化批评视角，深度剖析动画电影《八仙！》如何通过新神话叙事、游戏化视觉系统与度脱思想，对当代社会的优绩主义进行解构与批判。",
+    "url": "https://www.bestblogs.dev/article/395310daf1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 澎湃思想市场",
+    "topic": "生活文化",
+    "date": "2026-07-26",
+    "badge": "featured"
+  },
+  {
     "title": "Sutton、OpenAI 联创押注的持续学习，有中国团队带着模型进场了",
     "summary": "本文介绍持续学习（Continuous Learning）这一新兴 AI 赛道，深度解析 Mind Lab 的 Macaron V1 技术架构与商业路径，并将其置于硅谷同行的竞争格局中，探讨「参数空间迭代」与「提示词空间迭代」两条路线的本质差异与产业意义。",
     "url": "https://www.bestblogs.dev/article/1e1d9cdefc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -49,24 +67,6 @@
     "summary": "火山引擎开源 SearchCLI，通过 Agent 驱动的搜索自迭代和 SPA 框架，实现搜索策略的自动优化与闭环验证。",
     "url": "https://www.bestblogs.dev/article/df40765058?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 字节跳动开源",
-    "topic": "人工智能",
-    "date": "2026-07-24",
-    "badge": "agent"
-  },
-  {
-    "title": "邻家女孩，王虹的逆袭",
-    "summary": "本文深度报道了 2026 年菲尔兹奖得主王虹的学术突破及其个人成长历程，展现了她如何通过证明“挂谷猜想”震动数学界，并成为当代女性科学家的精神象征。",
-    "url": "https://www.bestblogs.dev/article/e9283575c3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南风窗",
-    "topic": "媒体资讯",
-    "date": "2026-07-24",
-    "badge": "featured"
-  },
-  {
-    "title": "AMD 挑战英伟达全栈壁垒｜一文读懂 AMD AAI 2026",
-    "summary": "本文全面解读 AMD Advancing AI 2026 大会发布内容，涵盖 Helios 机架级平台、MI455X GPU、Venice CPU、ROCm.AI 及本地 Agent 方案，并深入分析 AMD 从芯片竞争走向系统级竞争的挑战与路径。",
-    "url": "https://www.bestblogs.dev/article/b713cfbd14?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
     "date": "2026-07-24",
     "badge": "agent"
