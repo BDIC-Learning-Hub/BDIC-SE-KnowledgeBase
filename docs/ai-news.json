@@ -1,5 +1,23 @@
 [
   {
+    "title": "Agent 开始“自我进化”：会出题、会反思，还会自己长出新技能",
+    "summary": "本文深度解析了自进化 Agent 的技术演进路径，将其划分为经验存储型、RL 训练型与 0 数据自学型三大路线，并详细拆解了各路线下的前沿研究工作。",
+    "url": "https://www.bestblogs.dev/article/5d978f2ae1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-07-27",
+    "badge": "agent"
+  },
+  {
+    "title": "技术与叙事：一部关于狂热者与反思者的历史",
+    "summary": "本文追溯蒸汽、电力、互联网、AI 四次技术叙事，揭示乐观叙事与批判声音的反复博弈及其社会影响。",
+    "url": "https://www.bestblogs.dev/article/51b2dd7122?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-07-27",
+    "badge": "featured"
+  },
+  {
     "title": "中国古代武庙体系：历史最强战斗天团是如何获得官方认证的？",
     "summary": "本文梳理中国古代武庙祭祀体系从唐玄宗创立、宋朝更迭至元明更替的历史演变，揭示官方对武将的官方认证与价值观变迁。",
     "url": "https://www.bestblogs.dev/article/1d1d450050?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "商业科技",
     "date": "2026-07-24",
     "badge": "featured"
-  },
-  {
-    "title": "腾讯 WorkBuddy 实践：如何把 Agent 做成可用产品",
-    "summary": "本文从模型、上下文、Harness、Loop 四层拆解腾讯 WorkBuddy 如何将大语言模型能力转化为可用的 AI Agent 产品，详解工具调用、MCP、Skill、Plugin、记忆与上下文管理等关键机制。",
-    "url": "https://www.bestblogs.dev/article/933063ff13?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-24",
-    "badge": "agent"
-  },
-  {
-    "title": "火山引擎开源 Agent 驱动的搜索自迭代技术",
-    "summary": "火山引擎开源 SearchCLI，通过 Agent 驱动的搜索自迭代和 SPA 框架，实现搜索策略的自动优化与闭环验证。",
-    "url": "https://www.bestblogs.dev/article/df40765058?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动开源",
-    "topic": "人工智能",
-    "date": "2026-07-24",
-    "badge": "agent"
   }
 ]
