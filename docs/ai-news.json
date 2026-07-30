@@ -1,5 +1,59 @@
 [
   {
+    "title": "住进戒酒病房的年轻人",
+    "summary": "本文通过多位年轻患者的真实经历和医生访谈，揭示酒精依赖日趋年轻化、女性患者增多，分析成瘾成因、治疗困境与重建生活的挑战，呼吁社会正视成瘾问题。",
+    "url": "https://www.bestblogs.dev/article/f8d425bcca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "生活文化",
+    "date": "2026-07-29",
+    "badge": "featured"
+  },
+  {
+    "title": "相关性 ≠ 因果性：因果推断在 AI 评测归因中的方法与实践",
+    "summary": "本文深入探讨了如何利用因果推断与博弈论方法，通过组件级归因、扰动实验及因果 A/B 测试，精准定位复杂 AI Agent 系统（如 LLM、工具调用、规划能力等）的性能瓶 瓶颈。",
+    "url": "https://www.bestblogs.dev/article/6e41628f05?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-07-29",
+    "badge": "agent"
+  },
+  {
+    "title": "对话 Liblib 陈冕：关于活下来，以及所有接近死亡的时刻",
+    "summary": "本文通过深度访谈，揭示 AI 应用公司 Evoken 在模型不断吞噬应用价值的时代，如何以激进竞争、快速迭代和多产品布局生存，以及创始人陈冕面临的争议、组织困境与焦虑。",
+    "url": "https://www.bestblogs.dev/article/30bed3a5d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-07-29",
+    "badge": "model"
+  },
+  {
+    "title": "吉诺比利为了什么打篮球？",
+    "summary": "本文以吉诺比利退役两周年为引，通过技术分析、团队故事与杭州访谈，探讨这位马刺传奇为何打球——答案不在数据与胜负，而在与队友共同经历的那些故事、爱与泪水。",
+    "url": "https://www.bestblogs.dev/article/8d0614860f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张佳玮",
+    "topic": "体育运动",
+    "date": "2026-07-29",
+    "badge": "featured"
+  },
+  {
+    "title": "当所有人都在给 AI 造缰绳，马厩正在消失",
+    "summary": "本文深入探讨了 AI 时代下「执行」能力的贬值与「承担」责任的稀缺，指出技术颠覆往往发生在被优化的维度之外，呼吁从业者在追求工程效率的同时，警惕被降维打击的风险，并寻找人机协作中不可替代的价值。",
+    "url": "https://www.bestblogs.dev/article/f822c922e3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-07-29",
+    "badge": "featured"
+  },
+  {
+    "title": "宋徽宗为什么崇信道教？",
+    "summary": "本文从宋徽宗自封「教主道君皇帝」切入，剖析其崇道背后的政治算计——巩固皇权、制造盛世幻觉，并延伸讨论道教作为回应人间具体焦虑、化不可控为可操作程序的文化功能。",
+    "url": "https://www.bestblogs.dev/article/2093da909e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 罗辑思维",
+    "topic": "生活文化",
+    "date": "2026-07-28",
+    "badge": "featured"
+  },
+  {
     "title": "Agent 开发指南：技术太多，该怎么学？",
     "summary": "本文从系统架构层面出发，论证 Agent 开发的核心已从“生成代码”转向“可信完成”，并系统剖析 Harness、Context、Memory、Subagent 等关键组件，以及 Vercel 与 Cloudflare 的 Agent 平台战略。",
     "url": "https://www.bestblogs.dev/article/f77d81a742?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -15,60 +69,6 @@
     "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
     "date": "2026-07-28",
-    "badge": "featured"
-  },
-  {
-    "title": "当理解成为瓶颈：AI 编程时代的认知债与意图债",
-    "summary": "本文探讨了 AI 编程时代下，开发者如何应对由“理解力缺失”引发的新型债务——认知债与意图债，并强调了“理解是为了参与”的核心价值。",
-    "url": "https://www.bestblogs.dev/article/b664eb7929?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-28",
-    "badge": "tooling"
-  },
-  {
-    "title": "卖 Token 还是卖结果：AI 商业模式的几个悖论",
-    "summary": "本文剖析 AI 行业商业模式中的四大结构性悖论，揭示智能商品化趋势下利润向产业链上游与责任端集中的底层逻辑。",
-    "url": "https://www.bestblogs.dev/article/5497b5defb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-07-28",
-    "badge": "featured"
-  },
-  {
-    "title": "藏在大模型背后的新闻人：GPT 们的回复是这样写出来的",
-    "summary": "本文通过深度访谈两位从新闻业转型为「内容工程师」的资深媒体人，探讨了如何将人文品味、语感与叙事逻辑转化为 AI 训练的工程标准，揭示了 AI 时代内容创作的新范式。",
-    "url": "https://www.bestblogs.dev/article/b892d830ae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-07-28",
-    "badge": "model"
-  },
-  {
-    "title": "Agent 开始“自我进化”：会出题、会反思，还会自己长出新技能",
-    "summary": "本文深度解析了自进化 Agent 的技术演进路径，将其划分为经验存储型、RL 训练型与 0 数据自学型三大路线，并详细拆解了各路线下的前沿研究工作。",
-    "url": "https://www.bestblogs.dev/article/5d978f2ae1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-27",
-    "badge": "agent"
-  },
-  {
-    "title": "技术与叙事：一部关于狂热者与反思者的历史",
-    "summary": "本文追溯蒸汽、电力、互联网、AI 四次技术叙事，揭示乐观叙事与批判声音的反复博弈及其社会影响。",
-    "url": "https://www.bestblogs.dev/article/51b2dd7122?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-07-27",
-    "badge": "featured"
-  },
-  {
-    "title": "中国古代武庙体系：历史最强战斗天团是如何获得官方认证的？",
-    "summary": "本文梳理中国古代武庙祭祀体系从唐玄宗创立、宋朝更迭至元明更替的历史演变，揭示官方对武将的官方认证与价值观变迁。",
-    "url": "https://www.bestblogs.dev/article/1d1d450050?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 国家人文历史",
-    "topic": "生活文化",
-    "date": "2026-07-26",
     "badge": "featured"
   }
 ]
