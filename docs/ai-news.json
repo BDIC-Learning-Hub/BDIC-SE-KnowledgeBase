@@ -1,5 +1,59 @@
 [
   {
+    "title": "科技爱好者周刊（第 406 期）：道可，道非，常道",
+    "summary": "本期周刊以华为任正非「道可，道非，常道」的哲学解读贯穿，深入介绍互联网幕后英雄法布里斯·贝拉尔，并汇总多则科技动态、工具与言论。",
+    "url": "https://www.bestblogs.dev/article/e9eaffc04c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "媒体资讯",
+    "date": "2026-07-31",
+    "badge": "tooling"
+  },
+  {
+    "title": "前端 Skill 驱动的团队 AI Coding 实践：从个人提效到整体赋能",
+    "summary": "本文介绍了阿里技术团队在前端开发中通过构建前端 Skill 实现团队级 AI 编程实践，从个人提效到整体赋能的过程，包括五维结构设计、落地案例及后续规划。",
+    "url": "https://www.bestblogs.dev/article/82e6dfbe1f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "软件编程",
+    "date": "2026-07-30",
+    "badge": "tooling"
+  },
+  {
+    "title": "AI Coding 的下一站，不是更会写代码，而是更懂团队",
+    "summary": "本文详述腾讯 QQ 浏览器团队如何通过主题分组、Review/Dedup/Merge 三层治理链路，将 AI Coding 会话中的零散经验沉淀为可复用的团队知识系统。",
+    "url": "https://www.bestblogs.dev/article/94303d0f91?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-07-30",
+    "badge": "tooling"
+  },
+  {
+    "title": "AI 产业演化的时间尺度：所处阶段与未来节奏｜基于两个经典框架的探索性分析",
+    "summary": "本文基于 Utterback 三阶段模型与 Klepper 产业人口动态两个经典框架，判断当前 AI 大模型及其应用处于「分化带」（晚期流动期向早期过渡期移动），并推演 2026-2035 年的分层时间坐标。",
+    "url": "https://www.bestblogs.dev/article/015737a3d3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "人工智能",
+    "date": "2026-07-30",
+    "badge": "model"
+  },
+  {
+    "title": "一文读懂 Kimi K3 预训练｜3T 模型，不再是魔法",
+    "summary": "本文深入解析 Kimi K3 3T 参数模型的训练技术路径，涵盖 MoE、线性注意力、LatentMoE、并行优化及残差改造等关键创新。",
+    "url": "https://www.bestblogs.dev/article/26cdd6a71f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-07-30",
+    "badge": "model"
+  },
+  {
+    "title": "2 万字全文| 马斯克《经济学人》访谈：奇点临近 - AI“富足时代”与文明终局",
+    "summary": "马斯克在《经济学人》访谈中预测 AI 将在 5 年内超越人类智能总和，10 年内带来物质极大充裕的“富足时代”，届时金钱将失去意义，工作成为可选活动，但 AI 也存在 10%-20%的毁灭风险。",
+    "url": "https://www.bestblogs.dev/article/98b87ff4fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Web3天空之城",
+    "topic": "人工智能",
+    "date": "2026-07-30",
+    "badge": "featured"
+  },
+  {
     "title": "住进戒酒病房的年轻人",
     "summary": "本文通过多位年轻患者的真实经历和医生访谈，揭示酒精依赖日趋年轻化、女性患者增多，分析成瘾成因、治疗困境与重建生活的挑战，呼吁社会正视成瘾问题。",
     "url": "https://www.bestblogs.dev/article/f8d425bcca?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,59 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-29",
     "badge": "agent"
-  },
-  {
-    "title": "对话 Liblib 陈冕：关于活下来，以及所有接近死亡的时刻",
-    "summary": "本文通过深度访谈，揭示 AI 应用公司 Evoken 在模型不断吞噬应用价值的时代，如何以激进竞争、快速迭代和多产品布局生存，以及创始人陈冕面临的争议、组织困境与焦虑。",
-    "url": "https://www.bestblogs.dev/article/30bed3a5d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-07-29",
-    "badge": "model"
-  },
-  {
-    "title": "吉诺比利为了什么打篮球？",
-    "summary": "本文以吉诺比利退役两周年为引，通过技术分析、团队故事与杭州访谈，探讨这位马刺传奇为何打球——答案不在数据与胜负，而在与队友共同经历的那些故事、爱与泪水。",
-    "url": "https://www.bestblogs.dev/article/8d0614860f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张佳玮",
-    "topic": "体育运动",
-    "date": "2026-07-29",
-    "badge": "featured"
-  },
-  {
-    "title": "当所有人都在给 AI 造缰绳，马厩正在消失",
-    "summary": "本文深入探讨了 AI 时代下「执行」能力的贬值与「承担」责任的稀缺，指出技术颠覆往往发生在被优化的维度之外，呼吁从业者在追求工程效率的同时，警惕被降维打击的风险，并寻找人机协作中不可替代的价值。",
-    "url": "https://www.bestblogs.dev/article/f822c922e3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-07-29",
-    "badge": "featured"
-  },
-  {
-    "title": "宋徽宗为什么崇信道教？",
-    "summary": "本文从宋徽宗自封「教主道君皇帝」切入，剖析其崇道背后的政治算计——巩固皇权、制造盛世幻觉，并延伸讨论道教作为回应人间具体焦虑、化不可控为可操作程序的文化功能。",
-    "url": "https://www.bestblogs.dev/article/2093da909e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 罗辑思维",
-    "topic": "生活文化",
-    "date": "2026-07-28",
-    "badge": "featured"
-  },
-  {
-    "title": "Agent 开发指南：技术太多，该怎么学？",
-    "summary": "本文从系统架构层面出发，论证 Agent 开发的核心已从“生成代码”转向“可信完成”，并系统剖析 Harness、Context、Memory、Subagent 等关键组件，以及 Vercel 与 Cloudflare 的 Agent 平台战略。",
-    "url": "https://www.bestblogs.dev/article/f77d81a742?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 浮之静",
-    "topic": "人工智能",
-    "date": "2026-07-28",
-    "badge": "agent"
-  },
-  {
-    "title": "Loop Engineering 已死？ 一文带你了解 Graph Engineering",
-    "summary": "本文深入剖析了从 Loop Engineering 到 Graph Engineering 的演进逻辑，解释了为什么多智能体编排需要从「单个循环」升级为「有向图结构」，并结合官方数据与真实案例给出了何时该用、何时不该用的决策框架。",
-    "url": "https://www.bestblogs.dev/article/cfbef3f919?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-07-28",
-    "badge": "featured"
   }
 ]
