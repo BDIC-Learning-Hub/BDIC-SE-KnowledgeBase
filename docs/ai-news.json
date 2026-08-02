@@ -1,5 +1,23 @@
 [
   {
+    "title": "看《奥德赛》之前，重温《奥本海默》",
+    "summary": "文章通过分析《奥本海默》的第一人称叙事结构及其道德隐喻，探讨诺兰电影中个体意识与他者存在的张力，并与《奥德赛》的主题发展形成对比。",
+    "url": "https://www.bestblogs.dev/article/be5c20edb7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虹膜",
+    "topic": "生活文化",
+    "date": "2026-08-01",
+    "badge": "featured"
+  },
+  {
+    "title": "开源崛起、降价 80%，大模型真的还能赚到钱吗？",
+    "summary": "本文分析大模型 API 价格下降 80%的背后逻辑，结合摩根士丹利报告与国内创业团队的盈利模型对比，探讨开源模型与闭源模型的竞争策略，以及大模型商业化的盈利变量与未来趋势。",
+    "url": "https://www.bestblogs.dev/article/797e92da6d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-08-01",
+    "badge": "model"
+  },
+  {
     "title": "实测 DeepSeek V4 正式版：3 块钱干完 5 件事，AI「智价比」之战开打了",
     "summary": "文章通过对 DeepSeek V4-Flash 与 OpenAI 降价模型的实测对比，表明顶尖大模型的竞争正从单纯比拼能力转向争夺『智价比』，低成本高效模型正推动 Agent 时代的到来。",
     "url": "https://www.bestblogs.dev/article/1f45936e65?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 阮一峰",
     "topic": "媒体资讯",
     "date": "2026-07-31",
-    "badge": "tooling"
-  },
-  {
-    "title": "前端 Skill 驱动的团队 AI Coding 实践：从个人提效到整体赋能",
-    "summary": "本文介绍了阿里技术团队在前端开发中通过构建前端 Skill 实现团队级 AI 编程实践，从个人提效到整体赋能的过程，包括五维结构设计、落地案例及后续规划。",
-    "url": "https://www.bestblogs.dev/article/82e6dfbe1f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "软件编程",
-    "date": "2026-07-30",
-    "badge": "tooling"
-  },
-  {
-    "title": "AI Coding 的下一站，不是更会写代码，而是更懂团队",
-    "summary": "本文详述腾讯 QQ 浏览器团队如何通过主题分组、Review/Dedup/Merge 三层治理链路，将 AI Coding 会话中的零散经验沉淀为可复用的团队知识系统。",
-    "url": "https://www.bestblogs.dev/article/94303d0f91?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-07-30",
     "badge": "tooling"
   }
 ]
