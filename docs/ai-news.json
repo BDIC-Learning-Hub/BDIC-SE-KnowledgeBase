@@ -1,5 +1,41 @@
 [
   {
+    "title": "腾讯、阿里、字节的 AI 办公大战：赛马与变阵内幕",
+    "summary": "本文独家披露腾讯、阿里、字节三大巨头在 AI 办公智能体赛道的组织整合与战略转向内幕，揭示春节红包大战碰壁后三家如何从追逐超级入口转向押注 to B 办公场景。",
+    "url": "https://www.bestblogs.dev/article/1b876999d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "人工智能",
+    "date": "2026-08-03",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 不自动带来超级组织",
+    "summary": "本文论证 AI 不会自动催生「超级组织」，反而会瓦解科层制企业作为人力动员工具的根基，使组织走向「平台变厚、公司变薄」的裂解形态。",
+    "url": "https://www.bestblogs.dev/article/5e70b43898?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-08-03",
+    "badge": "tooling"
+  },
+  {
+    "title": "百亿补贴 C 端 AI Coding 实战：端到端 CodingAgent 设计与实践",
+    "summary": "本文介绍了大淘宝技术团队自研的 AI CodingAgent，通过规范驱动与知识增强的自反思架构，结合垂直领域知识库和自动化同步机制，实现从需求描述到可交付工程代码的端到端自动化闭环，并在实际场景中验证了技术价值。",
+    "url": "https://www.bestblogs.dev/article/93ce6f651d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-08-03",
+    "badge": "agent"
+  },
+  {
+    "title": "Qwen3.8-Max：编程与办公，全面跃升",
+    "summary": "通义千问发布 Qwen3.8-Max 旗舰模型，凭借 2.4 万亿参数与百万上下文，在长程自主编程、科研复现及复杂商业经营等领域实现端到端交付能力的突破。",
+    "url": "https://www.bestblogs.dev/article/3818c83fff?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 千问大模型",
+    "topic": "人工智能",
+    "date": "2026-08-03",
+    "badge": "model"
+  },
+  {
     "title": "对话李开复：小人物的机会，在哪里？",
     "summary": "李开复指出，AI 真正价值在于 AI 原生转型与责任担当，DRI 与 OPC 成为企业与个人的新机遇，爱与判断才是人类核心竞争力。",
     "url": "https://www.bestblogs.dev/article/e7e3f06f81?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-07-31",
     "badge": "agent"
-  },
-  {
-    "title": "很想说这部《蜘蛛侠》的好话",
-    "summary": "本文评论《蜘蛛侠：崭新之日》指出，影片虽触及彼得的孤独与身份困境，却被 MCU 商业宏大叙事所稀释，主题流于表面。",
-    "url": "https://www.bestblogs.dev/article/e66620d6af?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "生活文化",
-    "date": "2026-07-31",
-    "badge": "featured"
-  },
-  {
-    "title": "从 Spec 驱动转向环境与验证驱动——我对 AI Coding 的一点思考",
-    "summary": "文章认为 AI 已解决编码能力瓶颈，主张将研发重点转向环境与验证的工具化，以实现研发效率的指数级提升。",
-    "url": "https://www.bestblogs.dev/article/5f4b927814?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-07-31",
-    "badge": "tooling"
-  },
-  {
-    "title": "一镜成片，随心参考｜Seedance 2.5 正式发布",
-    "summary": "字节跳动 Seed 发布 Seedance 2.5 视频生成模型，实现单次 30 秒长叙事、多模态参考及精准编辑能力全面升级。",
-    "url": "https://www.bestblogs.dev/article/814263b7bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动Seed",
-    "topic": "人工智能",
-    "date": "2026-07-31",
-    "badge": "model"
-  },
-  {
-    "title": "MiniMax H3：打破任务和模态边界的开放模型",
-    "summary": "MiniMax 发布全模态生成模型 H3，支持文图视音统一理解与原生双声道音视频输出，最高 15s 2K 分辨率，并计划开放模型权重。",
-    "url": "https://www.bestblogs.dev/article/448aea4f3a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-07-31",
-    "badge": "model"
   }
 ]
