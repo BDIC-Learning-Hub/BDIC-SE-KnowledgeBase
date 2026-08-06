@@ -1,5 +1,23 @@
 [
   {
+    "title": "从混乱到秩序：我如何搭建一套「规范驱动」的 AI 协作开发体系",
+    "summary": "vivo 技术团队分享其自建的「OpenSpec 规范层 + AI Workflows 执行层」AI 协作开发体系，通过「规范+技能+钩子」机制系统化解决存量项目增量开发中 AI 理解偏差、执行不稳、重复造轮子等痛点，并附完整实战案例与两周落地指南。",
+    "url": "https://www.bestblogs.dev/article/3a49e998a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / vivo互联网技术",
+    "topic": "软件编程",
+    "date": "2026-08-05",
+    "badge": "tooling"
+  },
+  {
+    "title": "从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”",
+    "summary": "本文从一线研发视角反思通用 Agent 的局限性，主张回归解决具体问题的「Agent Flow」模式，强调确定性执行、独有数据价值及 AI Native 的本质是真实解决用户问题。",
+    "url": "https://www.bestblogs.dev/article/a852a3eea6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-08-05",
+    "badge": "agent"
+  },
+  {
     "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
     "summary": "本文基于蚂蚁集团高级算法专家郭清沛在 QCon 2026 北京站的分享，系统性阐述了全模态统一大模型 Ming-flash-Omni 的技术架构与实践，涵盖模态统一、任务统一、工程优化三大核心挑战及解决方案，展示了模型在多模态理解与生成能力上的突破。",
     "url": "https://www.bestblogs.dev/article/58231b2aef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-03",
     "badge": "model"
-  },
-  {
-    "title": "对话李开复：小人物的机会，在哪里？",
-    "summary": "李开复指出，AI 真正价值在于 AI 原生转型与责任担当，DRI 与 OPC 成为企业与个人的新机遇，爱与判断才是人类核心竞争力。",
-    "url": "https://www.bestblogs.dev/article/e7e3f06f81?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 刘润",
-    "topic": "人工智能",
-    "date": "2026-08-02",
-    "badge": "featured"
-  },
-  {
-    "title": "看《奥德赛》之前，重温《奥本海默》",
-    "summary": "文章通过分析《奥本海默》的第一人称叙事结构及其道德隐喻，探讨诺兰电影中个体意识与他者存在的张力，并与《奥德赛》的主题发展形成对比。",
-    "url": "https://www.bestblogs.dev/article/be5c20edb7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "生活文化",
-    "date": "2026-08-01",
-    "badge": "featured"
   }
 ]
