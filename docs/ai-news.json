@@ -1,5 +1,32 @@
 [
   {
+    "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
+    "summary": "本期周刊核心探讨国家为何需要开源软件，结合 Kimi K3 与微软公开信分析开源对 AI 生态与国家竞争力的关键作用，并汇总注意力碎片化研究、Chrome ARM64 支持、SwiftUI 现状等科技动态与工具资源。",
+    "url": "https://www.bestblogs.dev/article/26573265eb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "商业科技",
+    "date": "2026-08-07",
+    "badge": "tooling"
+  },
+  {
+    "title": "快手 AI 研发范式升级新路径：从研发提效到组织跃迁",
+    "summary": "本文系统总结了快手 AI 研发范式从工具提效（L1）到组织适配（L2）再到业务重构（L3）的演进历程，提出以「AI 生产力」体系实现组织跃迁。",
+    "url": "https://www.bestblogs.dev/article/ab1a4c0bbe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 快手技术",
+    "topic": "人工智能",
+    "date": "2026-08-06",
+    "badge": "tooling"
+  },
+  {
+    "title": "模型越来越强， harness 该留下什么？",
+    "summary": "本文基于团队 harness 框架 61% 内容的实战瘦身经验，结合 Anthropic 与 OpenAI 的最新指引，系统阐述模型变强后 harness 该删什么、留什么，以及团队自建 harness 的真正价值所在。",
+    "url": "https://www.bestblogs.dev/article/4d67f7f025?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-08-06",
+    "badge": "model"
+  },
+  {
     "title": "从混乱到秩序：我如何搭建一套「规范驱动」的 AI 协作开发体系",
     "summary": "vivo 技术团队分享其自建的「OpenSpec 规范层 + AI Workflows 执行层」AI 协作开发体系，通过「规范+技能+钩子」机制系统化解决存量项目增量开发中 AI 理解偏差、执行不稳、重复造轮子等痛点，并附完整实战案例与两周落地指南。",
     "url": "https://www.bestblogs.dev/article/3a49e998a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-03",
     "badge": "featured"
-  },
-  {
-    "title": "AI 不自动带来超级组织",
-    "summary": "本文论证 AI 不会自动催生「超级组织」，反而会瓦解科层制企业作为人力动员工具的根基，使组织走向「平台变厚、公司变薄」的裂解形态。",
-    "url": "https://www.bestblogs.dev/article/5e70b43898?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-08-03",
-    "badge": "tooling"
-  },
-  {
-    "title": "百亿补贴 C 端 AI Coding 实战：端到端 CodingAgent 设计与实践",
-    "summary": "本文介绍了大淘宝技术团队自研的 AI CodingAgent，通过规范驱动与知识增强的自反思架构，结合垂直领域知识库和自动化同步机制，实现从需求描述到可交付工程代码的端到端自动化闭环，并在实际场景中验证了技术价值。",
-    "url": "https://www.bestblogs.dev/article/93ce6f651d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-08-03",
-    "badge": "agent"
-  },
-  {
-    "title": "Qwen3.8-Max：编程与办公，全面跃升",
-    "summary": "通义千问发布 Qwen3.8-Max 旗舰模型，凭借 2.4 万亿参数与百万上下文，在长程自主编程、科研复现及复杂商业经营等领域实现端到端交付能力的突破。",
-    "url": "https://www.bestblogs.dev/article/3818c83fff?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 千问大模型",
-    "topic": "人工智能",
-    "date": "2026-08-03",
-    "badge": "model"
   }
 ]
