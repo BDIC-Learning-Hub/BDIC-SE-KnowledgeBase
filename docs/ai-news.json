@@ -1,5 +1,23 @@
 [
   {
+    "title": "淘宝主播 Agent 的 Harness 工程实战",
+    "summary": "本文介绍淘宝直播主播 Agent 的 Harness 工程实战，通过六元组定义、分层架构与八项落地实践，将概率性模型能力转化为高风险直播场景中可用、可控、可演化的工业级产品。",
+    "url": "https://www.bestblogs.dev/article/f9c0d7aecd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-08-07",
+    "badge": "agent"
+  },
+  {
+    "title": "大水与容器",
+    "summary": "本文以「大水与容器」隐喻，系统剖析公募基金抱团的制度成因，对比美国 401(k)机制，提出以「默认」设计引导资金流向长期分散配置。",
+    "url": "https://www.bestblogs.dev/article/8300e9ffa2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 孟岩",
+    "topic": "投资财经",
+    "date": "2026-08-07",
+    "badge": "featured"
+  },
+  {
     "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
     "summary": "本期周刊核心探讨国家为何需要开源软件，结合 Kimi K3 与微软公开信分析开源对 AI 生态与国家竞争力的关键作用，并汇总注意力碎片化研究、Chrome ARM64 支持、SwiftUI 现状等科技动态与工具资源。",
     "url": "https://www.bestblogs.dev/article/26573265eb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-04",
     "badge": "model"
-  },
-  {
-    "title": "盘点 17 个 7 月份 GitHub 上夯夯夯的开源项目。",
-    "summary": "本文盘点了 17 个在 GitHub 上获得大量关注的开源项目，涵盖 AI 工具、设计辅助、语音处理、SEO 工具、多 Agent 管理和漏洞验证等领域。",
-    "url": "https://www.bestblogs.dev/article/58422ffc29?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 逛逛GitHub",
-    "topic": "人工智能",
-    "date": "2026-08-04",
-    "badge": "agent"
-  },
-  {
-    "title": "腾讯、阿里、字节的 AI 办公大战：赛马与变阵内幕",
-    "summary": "本文独家披露腾讯、阿里、字节三大巨头在 AI 办公智能体赛道的组织整合与战略转向内幕，揭示春节红包大战碰壁后三家如何从追逐超级入口转向押注 to B 办公场景。",
-    "url": "https://www.bestblogs.dev/article/1b876999d2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-08-03",
-    "badge": "featured"
   }
 ]
