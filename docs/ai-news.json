@@ -1,5 +1,14 @@
 [
   {
+    "title": "一晚两场，H3 技术团队和全球开发者聊了什么？",
+    "summary": "H3 技术团队在 AMA 与直播中详细阐释了模型架构、稀疏注意力、VAE 设计、指令遵循、长视频续写、画质局限、推理优化及开源计划。",
+    "url": "https://www.bestblogs.dev/article/510adc6dfd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / MiniMax 稀宇科技",
+    "topic": "人工智能",
+    "date": "2026-08-08",
+    "badge": "model"
+  },
+  {
     "title": "淘宝主播 Agent 的 Harness 工程实战",
     "summary": "本文介绍淘宝直播主播 Agent 的 Harness 工程实战，通过六元组定义、分层架构与八项落地实践，将概率性模型能力转化为高风险直播场景中可用、可控、可演化的工业级产品。",
     "url": "https://www.bestblogs.dev/article/f9c0d7aecd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-05",
     "badge": "agent"
-  },
-  {
-    "title": "Ming-Flash-Omni：全模态统一大模型的关键技术与实践",
-    "summary": "本文基于蚂蚁集团高级算法专家郭清沛在 QCon 2026 北京站的分享，系统性阐述了全模态统一大模型 Ming-flash-Omni 的技术架构与实践，涵盖模态统一、任务统一、工程优化三大核心挑战及解决方案，展示了模型在多模态理解与生成能力上的突破。",
-    "url": "https://www.bestblogs.dev/article/58231b2aef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-08-04",
-    "badge": "model"
   }
 ]
