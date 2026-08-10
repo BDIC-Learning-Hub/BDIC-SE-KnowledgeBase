@@ -1,5 +1,50 @@
 [
   {
+    "title": "看《奥德赛》之前，应该掌握什么背景知识？",
+    "summary": "本文为诺兰新片《奥德赛》提供深度观影指南，系统梳理荷马史诗口头传统、待客之道（xenia）、特洛伊木马的道德隐喻、青铜时代崩溃与海上民族等核心背景，揭示诺兰如何将三千年前的史诗重构为关于信任崩塌与文明创伤的当代寓言。",
+    "url": "https://www.bestblogs.dev/article/69799c5b7c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虹膜",
+    "topic": "生活文化",
+    "date": "2026-08-09",
+    "badge": "featured"
+  },
+  {
+    "title": "木马化 AI Skills 渗透 Agent 生态，安装量突破 170 万次",
+    "summary": "攻击者通过污染 AI Agent 的 skills 指令文件进行供应链攻击，仿冒热门工具实现超 170 万次恶意安装。",
+    "url": "https://www.bestblogs.dev/article/3536363ec2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / FreeBuf",
+    "topic": "人工智能",
+    "date": "2026-08-09",
+    "badge": "agent"
+  },
+  {
+    "title": "马斯克的手术刀、光刻机与芯片工厂",
+    "summary": "马斯克计划用自由电子激光器构建 Terafab 超级芯片厂，挑战 ASML 光刻垄断，整合特斯拉、xAI 和太空计算需求。",
+    "url": "https://www.bestblogs.dev/article/23417b2adc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "商业科技",
+    "date": "2026-08-09",
+    "badge": "featured"
+  },
+  {
+    "title": "2026 香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅",
+    "summary": "吴声在香港演讲中提出下一代消费者具有身体感、创造欲、信息祛魅三大特征，并以场景叙事的四个篇章（上下文、非虚构、拐角处、重写）阐释如何构建可进入的商业语境与可信的价值证据。",
+    "url": "https://www.bestblogs.dev/article/d70f4eb2fc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 创业邦",
+    "topic": "商业科技",
+    "date": "2026-08-09",
+    "badge": "featured"
+  },
+  {
+    "title": "致命的希望：基因治疗女童死亡事件关键细节",
+    "summary": "本文深度调查了上海交大仇子龙团队基因治疗罕见病女童致死事件，揭示了资金流向、隐瞒猴子毒理报告、伦理审查程序漏洞及知情同意书缺失死亡风险等关键细节。",
+    "url": "https://www.bestblogs.dev/article/d2a00c83ab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "媒体资讯",
+    "date": "2026-08-08",
+    "badge": "featured"
+  },
+  {
     "title": "一晚两场，H3 技术团队和全球开发者聊了什么？",
     "summary": "H3 技术团队在 AMA 与直播中详细阐释了模型架构、稀疏注意力、VAE 设计、指令遵循、长视频续写、画质局限、推理优化及开源计划。",
     "url": "https://www.bestblogs.dev/article/510adc6dfd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "投资财经",
     "date": "2026-08-07",
     "badge": "featured"
-  },
-  {
-    "title": "科技爱好者周刊（第 407 期）：国家为什么需要开源软件？",
-    "summary": "本期周刊核心探讨国家为何需要开源软件，结合 Kimi K3 与微软公开信分析开源对 AI 生态与国家竞争力的关键作用，并汇总注意力碎片化研究、Chrome ARM64 支持、SwiftUI 现状等科技动态与工具资源。",
-    "url": "https://www.bestblogs.dev/article/26573265eb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "商业科技",
-    "date": "2026-08-07",
-    "badge": "tooling"
-  },
-  {
-    "title": "快手 AI 研发范式升级新路径：从研发提效到组织跃迁",
-    "summary": "本文系统总结了快手 AI 研发范式从工具提效（L1）到组织适配（L2）再到业务重构（L3）的演进历程，提出以「AI 生产力」体系实现组织跃迁。",
-    "url": "https://www.bestblogs.dev/article/ab1a4c0bbe?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 快手技术",
-    "topic": "人工智能",
-    "date": "2026-08-06",
-    "badge": "tooling"
-  },
-  {
-    "title": "模型越来越强， harness 该留下什么？",
-    "summary": "本文基于团队 harness 框架 61% 内容的实战瘦身经验，结合 Anthropic 与 OpenAI 的最新指引，系统阐述模型变强后 harness 该删什么、留什么，以及团队自建 harness 的真正价值所在。",
-    "url": "https://www.bestblogs.dev/article/4d67f7f025?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-08-06",
-    "badge": "model"
-  },
-  {
-    "title": "从混乱到秩序：我如何搭建一套「规范驱动」的 AI 协作开发体系",
-    "summary": "vivo 技术团队分享其自建的「OpenSpec 规范层 + AI Workflows 执行层」AI 协作开发体系，通过「规范+技能+钩子」机制系统化解决存量项目增量开发中 AI 理解偏差、执行不稳、重复造轮子等痛点，并附完整实战案例与两周落地指南。",
-    "url": "https://www.bestblogs.dev/article/3a49e998a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / vivo互联网技术",
-    "topic": "软件编程",
-    "date": "2026-08-05",
-    "badge": "tooling"
-  },
-  {
-    "title": "从 Agent Flow 到 AI Native：为什么通用 Agent 是“饮鸩止渴”",
-    "summary": "本文从一线研发视角反思通用 Agent 的局限性，主张回归解决具体问题的「Agent Flow」模式，强调确定性执行、独有数据价值及 AI Native 的本质是真实解决用户问题。",
-    "url": "https://www.bestblogs.dev/article/a852a3eea6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-08-05",
-    "badge": "agent"
   }
 ]
