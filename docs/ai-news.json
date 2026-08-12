@@ -1,5 +1,23 @@
 [
   {
+    "title": "连续五天登上 GitHub Trending 首页的思考",
+    "summary": "本文通过阿里开源项目 AI Code Review 连续登上 GitHub Trending 的实战经验，总结了 AI 时代开源项目的定位、社区建设、AI 协同工作流及「All in Code」等核心方法论。",
+    "url": "https://www.bestblogs.dev/article/5845d4ab79?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-08-11",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 评测还在看准确率？数据科学早就用因果推断做归因分析了",
+    "summary": "本文针对传统 AI 评测仅关注准确率、忽略因果性的局限，引入因果推断与博弈论方法，提出可落地的归因分析框架，帮助精准量化 LLM 及 Agent 系统中各组件对结果的真实贡献，定位优化瓶颈。",
+    "url": "https://www.bestblogs.dev/article/b2f4760bda?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-08-10",
+    "badge": "agent"
+  },
+  {
     "title": "“我的生命不重要，重要的是干掉渐冻症”",
     "summary": "本文通过深度访谈记录了渐冻症患者蔡磊如何以生命为代价，通过建立科研平台、推动药物研发及利用 AI 技术，试图构建可持续体系以攻克这一绝症的感人历程。",
     "url": "https://www.bestblogs.dev/article/b041abb8c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "媒体资讯",
     "date": "2026-08-08",
     "badge": "featured"
-  },
-  {
-    "title": "一晚两场，H3 技术团队和全球开发者聊了什么？",
-    "summary": "H3 技术团队在 AMA 与直播中详细阐释了模型架构、稀疏注意力、VAE 设计、指令遵循、长视频续写、画质局限、推理优化及开源计划。",
-    "url": "https://www.bestblogs.dev/article/510adc6dfd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / MiniMax 稀宇科技",
-    "topic": "人工智能",
-    "date": "2026-08-08",
-    "badge": "model"
-  },
-  {
-    "title": "淘宝主播 Agent 的 Harness 工程实战",
-    "summary": "本文介绍淘宝直播主播 Agent 的 Harness 工程实战，通过六元组定义、分层架构与八项落地实践，将概率性模型能力转化为高风险直播场景中可用、可控、可演化的工业级产品。",
-    "url": "https://www.bestblogs.dev/article/f9c0d7aecd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-08-07",
-    "badge": "agent"
   }
 ]
