@@ -1,5 +1,14 @@
 [
   {
+    "title": "3 万字长文带你 WorkBuddy 从入门到精通",
+    "summary": "本文是 WorkBuddy AI Agent 办公助手的完整使用指南，详细介绍了从安装部署、三种工作模式选择、模型切换到远程助理配置的全流程操作。",
+    "url": "https://www.bestblogs.dev/article/4c578c8b1c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-08-12",
+    "badge": "agent"
+  },
+  {
     "title": "连续五天登上 GitHub Trending 首页的思考",
     "summary": "本文通过阿里开源项目 AI Code Review 连续登上 GitHub Trending 的实战经验，总结了 AI 时代开源项目的定位、社区建设、AI 协同工作流及「All in Code」等核心方法论。",
     "url": "https://www.bestblogs.dev/article/5845d4ab79?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -60,15 +69,6 @@
     "source": "BestBlogs / 创业邦",
     "topic": "商业科技",
     "date": "2026-08-09",
-    "badge": "featured"
-  },
-  {
-    "title": "致命的希望：基因治疗女童死亡事件关键细节",
-    "summary": "本文深度调查了上海交大仇子龙团队基因治疗罕见病女童致死事件，揭示了资金流向、隐瞒猴子毒理报告、伦理审查程序漏洞及知情同意书缺失死亡风险等关键细节。",
-    "url": "https://www.bestblogs.dev/article/d2a00c83ab?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-08-08",
     "badge": "featured"
   }
 ]
