@@ -1,74 +1,74 @@
 [
   {
-    "title": "3 万字长文带你 WorkBuddy 从入门到精通",
-    "summary": "本文是 WorkBuddy AI Agent 办公助手的完整使用指南，详细介绍了从安装部署、三种工作模式选择、模型切换到远程助理配置的全流程操作。",
-    "url": "https://www.bestblogs.dev/article/4c578c8b1c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
+    "title": "科技爱好者周刊(第 408 期): 你需要知道的 AI 缓存知识",
+    "summary": "本期周刊深入解析大模型输入 Token 缓存机制及其对成本的影响，并分享科技动态、工具资源与 AI 相关进展。",
+    "url": "https://www.bestblogs.dev/article/398af51bd4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
     "topic": "人工智能",
-    "date": "2026-08-12",
+    "date": "2026-08-13",
+    "badge": "model"
+  },
+  {
+    "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+    "summary": "DeepSeek Harness 发布 v0.1 开发者预览版，采用「一切皆插件」的开放架构，旨在构建可灵活重组的 Agent 基础设施并同步开源。",
+    "url": "https://www.bestblogs.dev/article/be683b79e3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeepSeek Harness 团队",
+    "topic": "人工智能",
+    "date": "2026-08-13",
     "badge": "agent"
   },
   {
-    "title": "连续五天登上 GitHub Trending 首页的思考",
-    "summary": "本文通过阿里开源项目 AI Code Review 连续登上 GitHub Trending 的实战经验，总结了 AI 时代开源项目的定位、社区建设、AI 协同工作流及「All in Code」等核心方法论。",
-    "url": "https://www.bestblogs.dev/article/5845d4ab79?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "加缪：「活着」是「表达」的反义词",
+    "summary": "加缪通过托斯卡纳艺术与意大利风景的感悟，探讨生命的真实、肉体的永恒与灵魂的反抗，最终在大地的壮丽中找到幸福与存在的平衡。",
+    "url": "https://www.bestblogs.dev/article/423db5ae33?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 周国平",
+    "topic": "生活文化",
+    "date": "2026-08-13",
+    "badge": "featured"
+  },
+  {
+    "title": "Agent 越改越乱之后，我用评测和轨迹把它拉回来了",
+    "summary": "作者把 Agent skill 迭代变成一套可重复的自进化流程，用评测结果与操作轨迹生成 patch，经四层 gate 验证与黑名单回滚，把安全审计 Agent 准确率从 77.8% 稳定提升到 88.9%。",
+    "url": "https://www.bestblogs.dev/article/deeb32fcde?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-08-11",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 评测还在看准确率？数据科学早就用因果推断做归因分析了",
-    "summary": "本文针对传统 AI 评测仅关注准确率、忽略因果性的局限，引入因果推断与博弈论方法，提出可落地的归因分析框架，帮助精准量化 LLM 及 Agent 系统中各组件对结果的真实贡献，定位优化瓶颈。",
-    "url": "https://www.bestblogs.dev/article/b2f4760bda?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-08-10",
+    "date": "2026-08-13",
     "badge": "agent"
   },
   {
-    "title": "“我的生命不重要，重要的是干掉渐冻症”",
-    "summary": "本文通过深度访谈记录了渐冻症患者蔡磊如何以生命为代价，通过建立科研平台、推动药物研发及利用 AI 技术，试图构建可持续体系以攻克这一绝症的感人历程。",
-    "url": "https://www.bestblogs.dev/article/b041abb8c6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视网",
-    "topic": "生活文化",
-    "date": "2026-08-10",
-    "badge": "featured"
-  },
-  {
-    "title": "看《奥德赛》之前，应该掌握什么背景知识？",
-    "summary": "本文为诺兰新片《奥德赛》提供深度观影指南，系统梳理荷马史诗口头传统、待客之道（xenia）、特洛伊木马的道德隐喻、青铜时代崩溃与海上民族等核心背景，揭示诺兰如何将三千年前的史诗重构为关于信任崩塌与文明创伤的当代寓言。",
-    "url": "https://www.bestblogs.dev/article/69799c5b7c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "生活文化",
-    "date": "2026-08-09",
-    "badge": "featured"
-  },
-  {
-    "title": "木马化 AI Skills 渗透 Agent 生态，安装量突破 170 万次",
-    "summary": "攻击者通过污染 AI Agent 的 skills 指令文件进行供应链攻击，仿冒热门工具实现超 170 万次恶意安装。",
-    "url": "https://www.bestblogs.dev/article/3536363ec2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / FreeBuf",
+    "title": "DeepSeek-V4-Pro 正式版上线",
+    "summary": "DeepSeek 发布 V4 Pro 正式版，Agent 能力显著提升，原生支持 Responses API，新增三档思考强度控制，并将于 8 月 17 日起实施峰谷定价。",
+    "url": "https://www.bestblogs.dev/article/881d0cbace?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeepSeek",
     "topic": "人工智能",
-    "date": "2026-08-09",
+    "date": "2026-08-13",
     "badge": "agent"
   },
   {
-    "title": "马斯克的手术刀、光刻机与芯片工厂",
-    "summary": "马斯克计划用自由电子激光器构建 Terafab 超级芯片厂，挑战 ASML 光刻垄断，整合特斯拉、xAI 和太空计算需求。",
-    "url": "https://www.bestblogs.dev/article/23417b2adc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "商业科技",
-    "date": "2026-08-09",
-    "badge": "featured"
+    "title": "马斯克带着 24 小时干活的 Agent 回来了",
+    "summary": "Grok Bot 以全天候 AI Agent 形态推出，背靠马斯克收购 Cursor 的资源整合，功能强大但成本高，标志着 AI Agent 竞争格局的重大变局。",
+    "url": "https://www.bestblogs.dev/article/58cc9ef7ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 彭海星",
+    "topic": "人工智能",
+    "date": "2026-08-13",
+    "badge": "agent"
   },
   {
-    "title": "2026 香港吴声年度演讲：下一代消费者，身体感、创造欲、信息祛魅",
-    "summary": "吴声在香港演讲中提出下一代消费者具有身体感、创造欲、信息祛魅三大特征，并以场景叙事的四个篇章（上下文、非虚构、拐角处、重写）阐释如何构建可进入的商业语境与可信的价值证据。",
-    "url": "https://www.bestblogs.dev/article/d70f4eb2fc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 创业邦",
-    "topic": "商业科技",
-    "date": "2026-08-09",
-    "badge": "featured"
+    "title": "从“工具”到“同事”——AI 时代的产品进化",
+    "summary": "本文通过一场由 AI 数字分身完成的演讲实验，系统性地探讨了 AI 时代产品创新、组织形态及个人角色的重构，提出产品将从“工具”演变为“能力”，人类应成为“碳基全栈”决策者。",
+    "url": "https://www.bestblogs.dev/article/c6fa4329ea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "产品设计",
+    "date": "2026-08-13",
+    "badge": "tooling"
+  },
+  {
+    "title": "34K Star 的 DeepTutor，不只是 AI 家教：它在做一套 Agent 学习操作系统",
+    "summary": "本文深度解析开源项目 DeepTutor，揭示其作为 Agent 学习操作系统的核心架构：统一 Agent Loop、RAG、Skills、外部 Agent 与三层长期记忆，实现学习任务的连续性与知识的可复用性，并详细介绍其功能模块、扩展能力与适用场景。",
+    "url": "https://www.bestblogs.dev/article/cb7d304be8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 山行AI",
+    "topic": "人工智能",
+    "date": "2026-08-13",
+    "badge": "agent"
   }
 ]
