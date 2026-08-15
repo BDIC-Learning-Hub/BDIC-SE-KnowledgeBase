@@ -1,5 +1,41 @@
 [
   {
+    "title": "Multi-Agent 的新趋势：从 Agent Team 到 Agent Swarm",
+    "summary": "本文深度解析了多智能体系统从简单的并行任务向复杂的 Agent Team 与 Agent Swarm 演进的趋势，探讨了不同架构下的协同挑战、上下文工程及未来创新潜力。",
+    "url": "https://www.bestblogs.dev/article/fba1f4c6dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-08-14",
+    "badge": "agent"
+  },
+  {
+    "title": "DeepSeek Harness 拆解：一套能拼装的 Agent 架构",
+    "summary": "本文深度拆解 DeepSeek Harness 的运行时架构，重点分析其基于 Cordis 的插件机制、可逆副作用设计、双层 Scope 继承链及 Code Mode 隔离方案。",
+    "url": "https://www.bestblogs.dev/article/14523ed33d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-08-14",
+    "badge": "agent"
+  },
+  {
+    "title": "GLM-5.3：前沿编程能力与涌现的网络安全能力",
+    "summary": "智谱发布 GLM-5.3 模型，通过后训练 Scaling 显著提升编程与网络安全能力，并宣布将在两周内开源该模型及启动“开源的盾”计划。",
+    "url": "https://www.bestblogs.dev/article/85fc103869?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智谱",
+    "topic": "人工智能",
+    "date": "2026-08-14",
+    "badge": "model"
+  },
+  {
+    "title": "重构协同：关于 AI Native 团队的思考",
+    "summary": "本文深入探讨了 AI Native 团队的重构路径，指出用「知识底座 + Agent + 人」重构生产侧协同、攻克存量业务知识底座是突破 AI 提效瓶颈的关键。",
+    "url": "https://www.bestblogs.dev/article/bf2bf5c18b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-08-14",
+    "badge": "agent"
+  },
+  {
     "title": "科技爱好者周刊(第 408 期): 你需要知道的 AI 缓存知识",
     "summary": "本期周刊深入解析大模型输入 Token 缓存机制及其对成本的影响，并分享科技动态、工具资源与 AI 相关进展。",
     "url": "https://www.bestblogs.dev/article/398af51bd4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -31,42 +67,6 @@
     "summary": "作者把 Agent skill 迭代变成一套可重复的自进化流程，用评测结果与操作轨迹生成 patch，经四层 gate 验证与黑名单回滚，把安全审计 Agent 准确率从 77.8% 稳定提升到 88.9%。",
     "url": "https://www.bestblogs.dev/article/deeb32fcde?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-08-13",
-    "badge": "agent"
-  },
-  {
-    "title": "DeepSeek-V4-Pro 正式版上线",
-    "summary": "DeepSeek 发布 V4 Pro 正式版，Agent 能力显著提升，原生支持 Responses API，新增三档思考强度控制，并将于 8 月 17 日起实施峰谷定价。",
-    "url": "https://www.bestblogs.dev/article/881d0cbace?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeepSeek",
-    "topic": "人工智能",
-    "date": "2026-08-13",
-    "badge": "agent"
-  },
-  {
-    "title": "马斯克带着 24 小时干活的 Agent 回来了",
-    "summary": "Grok Bot 以全天候 AI Agent 形态推出，背靠马斯克收购 Cursor 的资源整合，功能强大但成本高，标志着 AI Agent 竞争格局的重大变局。",
-    "url": "https://www.bestblogs.dev/article/58cc9ef7ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 彭海星",
-    "topic": "人工智能",
-    "date": "2026-08-13",
-    "badge": "agent"
-  },
-  {
-    "title": "从“工具”到“同事”——AI 时代的产品进化",
-    "summary": "本文通过一场由 AI 数字分身完成的演讲实验，系统性地探讨了 AI 时代产品创新、组织形态及个人角色的重构，提出产品将从“工具”演变为“能力”，人类应成为“碳基全栈”决策者。",
-    "url": "https://www.bestblogs.dev/article/c6fa4329ea?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "产品设计",
-    "date": "2026-08-13",
-    "badge": "tooling"
-  },
-  {
-    "title": "34K Star 的 DeepTutor，不只是 AI 家教：它在做一套 Agent 学习操作系统",
-    "summary": "本文深度解析开源项目 DeepTutor，揭示其作为 Agent 学习操作系统的核心架构：统一 Agent Loop、RAG、Skills、外部 Agent 与三层长期记忆，实现学习任务的连续性与知识的可复用性，并详细介绍其功能模块、扩展能力与适用场景。",
-    "url": "https://www.bestblogs.dev/article/cb7d304be8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 山行AI",
     "topic": "人工智能",
     "date": "2026-08-13",
     "badge": "agent"
