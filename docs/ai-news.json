@@ -1,5 +1,32 @@
 [
   {
+    "title": "Evolvent AI 胡梦康：Agent 可能会被模型吃掉，但帮助 Agent 进化不会",
+    "summary": "本文通过对 Evolvent AI 创始人胡梦康的专访，阐述了 Self‑Evolving Agent、RSI 以及 Evolution‑as‑a‑Service 的核心思想，并探讨了 Agent 数据基础设施的价值与未来模型格局。",
+    "url": "https://www.bestblogs.dev/article/da4b71230f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "人工智能",
+    "date": "2026-08-17",
+    "badge": "agent"
+  },
+  {
+    "title": "IndexTTS 2.5 让声音跨越语言",
+    "summary": "IndexTTS 2.5 通过多语言零样本支持、推理速度翻倍、情感解耦及语速控制等升级，实现了更自然、更快速的跨语言语音合成。",
+    "url": "https://www.bestblogs.dev/article/d99a6fd33c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 哔哩哔哩技术",
+    "topic": "人工智能",
+    "date": "2026-08-17",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 时代的数据研发-Semantic（语义层）实践总结",
+    "summary": "大淘宝技术团队总结了从传统 SQL 开发向语义层 + DataAgent 范式转型的实践，通过构建指标、维度、逻辑表、CTE 适配层及 Wiki-RAG、Meta-ontology 体系，实现了业务语义结构化定义与 NL2SQL 自动化，重塑了数据研发角色与数仓架构。",
+    "url": "https://www.bestblogs.dev/article/e99082052a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-08-17",
+    "badge": "agent"
+  },
+  {
     "title": "DeepSeek 的 Harness，有一套新世界观｜Hao 好聊趋势",
     "summary": "本文深度解读 DeepSeek Harness 的「一切皆插件」架构设计，结合时空可组合性理论与 RHI 领域最新研究，分析其作为 AI 自进化温床的技术逻辑与潜在价值。",
     "url": "https://www.bestblogs.dev/article/47a69cb12c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-14",
     "badge": "agent"
-  },
-  {
-    "title": "GLM-5.3：前沿编程能力与涌现的网络安全能力",
-    "summary": "智谱发布 GLM-5.3 模型，通过后训练 Scaling 显著提升编程与网络安全能力，并宣布将在两周内开源该模型及启动“开源的盾”计划。",
-    "url": "https://www.bestblogs.dev/article/85fc103869?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智谱",
-    "topic": "人工智能",
-    "date": "2026-08-14",
-    "badge": "model"
-  },
-  {
-    "title": "重构协同：关于 AI Native 团队的思考",
-    "summary": "本文深入探讨了 AI Native 团队的重构路径，指出用「知识底座 + Agent + 人」重构生产侧协同、攻克存量业务知识底座是突破 AI 提效瓶颈的关键。",
-    "url": "https://www.bestblogs.dev/article/bf2bf5c18b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-08-14",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊(第 408 期): 你需要知道的 AI 缓存知识",
-    "summary": "本期周刊深入解析大模型输入 Token 缓存机制及其对成本的影响，并分享科技动态、工具资源与 AI 相关进展。",
-    "url": "https://www.bestblogs.dev/article/398af51bd4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "人工智能",
-    "date": "2026-08-13",
-    "badge": "model"
   }
 ]
