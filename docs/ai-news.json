@@ -1,5 +1,41 @@
 [
   {
+    "title": "AI Coding 的共生与替代：一场分阶段的演进",
+    "summary": "文章以四阶段演进模型说明 AI Coding 的替代与共生，提炼五条底层原则，并指出效率提升叠加增长放缓将导致总岗位减少，上浮是个体唯一可控策略。",
+    "url": "https://www.bestblogs.dev/article/00280d02de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 京东技术",
+    "topic": "人工智能",
+    "date": "2026-08-18",
+    "badge": "model"
+  },
+  {
+    "title": "拯救世界的超级英雄，怎么也开始过普通人的人生？",
+    "summary": "本文通过分析《蜘蛛侠：崭新之日》的剧情与主题，探讨超级英雄失去身份后如何面对孤独并重新接纳普通人的自我。",
+    "url": "https://www.bestblogs.dev/article/7a6e0174ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新周刊",
+    "topic": "生活文化",
+    "date": "2026-08-18",
+    "badge": "featured"
+  },
+  {
+    "title": "深度 | 从巴萨梦之队到冠军西班牙，克鲁伊夫思想从未离开",
+    "summary": "本文以 1992 年巴萨梦之队与 2026 年世界杯冠军西班牙队两场决赛为线索，阐述克鲁伊夫「空间」思想如何演化为现代位置足球、反抢与进攻中的防守结构，并延伸至对中国足球青训的启示。",
+    "url": "https://www.bestblogs.dev/article/0aab53ea96?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 体坛周报",
+    "topic": "体育运动",
+    "date": "2026-08-18",
+    "badge": "featured"
+  },
+  {
+    "title": "Agent 的命门是上下文：关键不在少给，而在给对",
+    "summary": "作者通过三组对照实验与一项重复实验证明，多 Agent 流程的 Token 优化关键不在「少给」而在「给对」，并提出「上下文信息密度 = 当前步骤相关可执行信息 ÷ 进入窗口的全部上下文」的判断框架。",
+    "url": "https://www.bestblogs.dev/article/4b235c023f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-08-18",
+    "badge": "agent"
+  },
+  {
     "title": "Evolvent AI 胡梦康：Agent 可能会被模型吃掉，但帮助 Agent 进化不会",
     "summary": "本文通过对 Evolvent AI 创始人胡梦康的专访，阐述了 Self‑Evolving Agent、RSI 以及 Evolution‑as‑a‑Service 的核心思想，并探讨了 Agent 数据基础设施的价值与未来模型格局。",
     "url": "https://www.bestblogs.dev/article/da4b71230f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-15",
     "badge": "featured"
-  },
-  {
-    "title": "年度 AI 论文！全球三大顶尖模型的防蒸馏机制全面告破：小模型“套出”大模型隐藏思维链，Kimi-K3 重现概率异常",
-    "summary": "最新研究揭示了 Anthropic、OpenAI 和 Google 等顶尖 AI 模型 API 存在严重的密码学旁路漏洞，攻击者可利用轻量级模型作为“解码器”窃取闭源模型的隐藏思维链（CoT），并引发了大规模敏感数据泄露风险。",
-    "url": "https://www.bestblogs.dev/article/fc16a94b00?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-08-15",
-    "badge": "model"
-  },
-  {
-    "title": "DeepSeek Harness 实测：模型之外的 Agent 平台脚手架",
-    "summary": "本文深度测评了开源 Agent 框架 DeepSeek Harness，分析其作为可重组 Agent 运行时的架构优势、插件机制及与竞品 Kimi Code 的差异，并探讨了其在生产环境中的应用边界。",
-    "url": "https://www.bestblogs.dev/article/5cb65133e1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-08-15",
-    "badge": "agent"
-  },
-  {
-    "title": "Multi-Agent 的新趋势：从 Agent Team 到 Agent Swarm",
-    "summary": "本文深度解析了多智能体系统从简单的并行任务向复杂的 Agent Team 与 Agent Swarm 演进的趋势，探讨了不同架构下的协同挑战、上下文工程及未来创新潜力。",
-    "url": "https://www.bestblogs.dev/article/fba1f4c6dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-08-14",
-    "badge": "agent"
-  },
-  {
-    "title": "DeepSeek Harness 拆解：一套能拼装的 Agent 架构",
-    "summary": "本文深度拆解 DeepSeek Harness 的运行时架构，重点分析其基于 Cordis 的插件机制、可逆副作用设计、双层 Scope 继承链及 Code Mode 隔离方案。",
-    "url": "https://www.bestblogs.dev/article/14523ed33d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-08-14",
-    "badge": "agent"
   }
 ]
