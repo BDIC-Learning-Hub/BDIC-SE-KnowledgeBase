@@ -1,5 +1,23 @@
 [
   {
+    "title": "最好的喜剧，一度担心它过时了",
+    "summary": "该文深度解析美剧《副总统》的创作手法，指出其通过日常政治操作揭示权力的荒诞与作者性的消失，并对比其他政治剧的不同表现。",
+    "url": "https://www.bestblogs.dev/article/4bf7c23b62?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虹膜",
+    "topic": "生活文化",
+    "date": "2026-08-19",
+    "badge": "featured"
+  },
+  {
+    "title": "AI Coding 时代，研发项目管理新范式探索与实践",
+    "summary": "本文复盘腾讯健康在 AI Coding 时代的项目管理转型：用组织摩擦公式诊断个体提效未转化为组织提效的症结，通过四步治理路径与 PM-Skills 实现交付提速，中位交付周期从 19 天降至 9 天。",
+    "url": "https://www.bestblogs.dev/article/2a5899721d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-08-19",
+    "badge": "tooling"
+  },
+  {
     "title": "AI Coding 的共生与替代：一场分阶段的演进",
     "summary": "文章以四阶段演进模型说明 AI Coding 的替代与共生，提炼五条底层原则，并指出效率提升叠加增长放缓将导致总岗位减少，上浮是个体唯一可控策略。",
     "url": "https://www.bestblogs.dev/article/00280d02de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -51,24 +69,6 @@
     "source": "BestBlogs / 哔哩哔哩技术",
     "topic": "人工智能",
     "date": "2026-08-17",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 时代的数据研发-Semantic（语义层）实践总结",
-    "summary": "大淘宝技术团队总结了从传统 SQL 开发向语义层 + DataAgent 范式转型的实践，通过构建指标、维度、逻辑表、CTE 适配层及 Wiki-RAG、Meta-ontology 体系，实现了业务语义结构化定义与 NL2SQL 自动化，重塑了数据研发角色与数仓架构。",
-    "url": "https://www.bestblogs.dev/article/e99082052a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-08-17",
-    "badge": "agent"
-  },
-  {
-    "title": "DeepSeek 的 Harness，有一套新世界观｜Hao 好聊趋势",
-    "summary": "本文深度解读 DeepSeek Harness 的「一切皆插件」架构设计，结合时空可组合性理论与 RHI 领域最新研究，分析其作为 AI 自进化温床的技术逻辑与潜在价值。",
-    "url": "https://www.bestblogs.dev/article/47a69cb12c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-08-15",
     "badge": "featured"
   }
 ]
