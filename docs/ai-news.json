@@ -1,5 +1,32 @@
 [
   {
+    "title": "我三刷了「满血版」的《奥德赛》，总结出这份最全 IMAX 观影指南（附推荐影厅）",
+    "summary": "爱范儿实测多家影院，为诺兰新作《奥德赛》定制最全 IMAX 观影指南：详解 1.43:1 GT 与 1.90:1 激光版差异，附全球及国内主流城市推荐影厅清单。",
+    "url": "https://www.bestblogs.dev/article/455c1dc9fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张展毓",
+    "topic": "生活文化",
+    "date": "2026-08-20",
+    "badge": "featured"
+  },
+  {
+    "title": "美团搜索 3.0：LLM 语义表征在排序模型的探索与应用",
+    "summary": "美团搜索团队系统介绍了三期将 LLM 语义表征引入服务零售精排模型的实践，从单点可行性验证到系统性表征体系重构，再到跨场景迁移复用，并沉淀了难负样本、Prompt 简化、覆盖率修复等可迁移经验。",
+    "url": "https://www.bestblogs.dev/article/989f5ba5a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "人工智能",
+    "date": "2026-08-20",
+    "badge": "model"
+  },
+  {
+    "title": "具身智能展会最热的一年，肉眼难见机器人的进化？",
+    "summary": "本文深度复盘 2026 世界机器人大会，揭示人形机器人出货量激增背后的「泛化能力不足、数据稀缺、商业化路径分化」三大核心瓶颈，指出行业正处于从「演示阶段」向「通用落地」跨越的关键阵痛期。",
+    "url": "https://www.bestblogs.dev/article/21141dab33?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-08-20",
+    "badge": "featured"
+  },
+  {
     "title": "最好的喜剧，一度担心它过时了",
     "summary": "该文深度解析美剧《副总统》的创作手法，指出其通过日常政治操作揭示权力的荒诞与作者性的消失，并对比其他政治剧的不同表现。",
     "url": "https://www.bestblogs.dev/article/4bf7c23b62?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -42,33 +69,6 @@
     "source": "BestBlogs / 体坛周报",
     "topic": "体育运动",
     "date": "2026-08-18",
-    "badge": "featured"
-  },
-  {
-    "title": "Agent 的命门是上下文：关键不在少给，而在给对",
-    "summary": "作者通过三组对照实验与一项重复实验证明，多 Agent 流程的 Token 优化关键不在「少给」而在「给对」，并提出「上下文信息密度 = 当前步骤相关可执行信息 ÷ 进入窗口的全部上下文」的判断框架。",
-    "url": "https://www.bestblogs.dev/article/4b235c023f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-08-18",
-    "badge": "agent"
-  },
-  {
-    "title": "Evolvent AI 胡梦康：Agent 可能会被模型吃掉，但帮助 Agent 进化不会",
-    "summary": "本文通过对 Evolvent AI 创始人胡梦康的专访，阐述了 Self‑Evolving Agent、RSI 以及 Evolution‑as‑a‑Service 的核心思想，并探讨了 Agent 数据基础设施的价值与未来模型格局。",
-    "url": "https://www.bestblogs.dev/article/da4b71230f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-08-17",
-    "badge": "agent"
-  },
-  {
-    "title": "IndexTTS 2.5 让声音跨越语言",
-    "summary": "IndexTTS 2.5 通过多语言零样本支持、推理速度翻倍、情感解耦及语速控制等升级，实现了更自然、更快速的跨语言语音合成。",
-    "url": "https://www.bestblogs.dev/article/d99a6fd33c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 哔哩哔哩技术",
-    "topic": "人工智能",
-    "date": "2026-08-17",
     "badge": "featured"
   }
 ]
