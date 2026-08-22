@@ -1,5 +1,32 @@
 [
   {
+    "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
+    "summary": "DeepSeek 官方发布实验性多模态视觉理解模型 V4-Flash-Vision-Exp，文本能力与 V4-Flash 持平，多模态 Agent 能力接近 Opus-4.8，支持三种 API 调用格式及 Files API。",
+    "url": "https://www.bestblogs.dev/article/905d38414d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeepSeek",
+    "topic": "人工智能",
+    "date": "2026-08-21",
+    "badge": "agent"
+  },
+  {
+    "title": "浅谈 SKILL 研发的最佳实践——以百补详情助手为例",
+    "summary": "本文以百亿补贴详情助手 Skill 为例，从架构设计、研发效能、运行优化、呈现方式四个维度总结 Agent Skill 的研发与迭代实践，提出上下文工程决定 Skill 质量上限、让 Agent 自己写 Skill 是元能力的核心观点。",
+    "url": "https://www.bestblogs.dev/article/13411f40f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "人工智能",
+    "date": "2026-08-21",
+    "badge": "agent"
+  },
+  {
+    "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
+    "summary": "本文探讨 AI 编码代理对程序员职业的影响，预测手工编码将受限、程序员角色转向 AI 辅助与代码审查，并分享科技动态与工具资源。",
+    "url": "https://www.bestblogs.dev/article/aef7caac42?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
+    "topic": "软件编程",
+    "date": "2026-08-20",
+    "badge": "tooling"
+  },
+  {
     "title": "我三刷了「满血版」的《奥德赛》，总结出这份最全 IMAX 观影指南（附推荐影厅）",
     "summary": "爱范儿实测多家影院，为诺兰新作《奥德赛》定制最全 IMAX 观影指南：详解 1.43:1 GT 与 1.90:1 激光版差异，附全球及国内主流城市推荐影厅清单。",
     "url": "https://www.bestblogs.dev/article/455c1dc9fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "软件编程",
     "date": "2026-08-19",
     "badge": "tooling"
-  },
-  {
-    "title": "AI Coding 的共生与替代：一场分阶段的演进",
-    "summary": "文章以四阶段演进模型说明 AI Coding 的替代与共生，提炼五条底层原则，并指出效率提升叠加增长放缓将导致总岗位减少，上浮是个体唯一可控策略。",
-    "url": "https://www.bestblogs.dev/article/00280d02de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 京东技术",
-    "topic": "人工智能",
-    "date": "2026-08-18",
-    "badge": "model"
-  },
-  {
-    "title": "拯救世界的超级英雄，怎么也开始过普通人的人生？",
-    "summary": "本文通过分析《蜘蛛侠：崭新之日》的剧情与主题，探讨超级英雄失去身份后如何面对孤独并重新接纳普通人的自我。",
-    "url": "https://www.bestblogs.dev/article/7a6e0174ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新周刊",
-    "topic": "生活文化",
-    "date": "2026-08-18",
-    "badge": "featured"
-  },
-  {
-    "title": "深度 | 从巴萨梦之队到冠军西班牙，克鲁伊夫思想从未离开",
-    "summary": "本文以 1992 年巴萨梦之队与 2026 年世界杯冠军西班牙队两场决赛为线索，阐述克鲁伊夫「空间」思想如何演化为现代位置足球、反抢与进攻中的防守结构，并延伸至对中国足球青训的启示。",
-    "url": "https://www.bestblogs.dev/article/0aab53ea96?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 体坛周报",
-    "topic": "体育运动",
-    "date": "2026-08-18",
-    "badge": "featured"
   }
 ]
