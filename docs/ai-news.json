@@ -1,74 +1,74 @@
 [
   {
-    "title": "V4-Flash-Vision-Exp 上线，开启多模态 API 服务",
-    "summary": "DeepSeek 官方发布实验性多模态视觉理解模型 V4-Flash-Vision-Exp，文本能力与 V4-Flash 持平，多模态 Agent 能力接近 Opus-4.8，支持三种 API 调用格式及 Files API。",
-    "url": "https://www.bestblogs.dev/article/905d38414d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeepSeek",
+    "title": "芯片三连发，雷军有芯事",
+    "summary": "小米一次性发布三颗玄戒芯片，3nm O3 实现跨代性能跃升，6nm O100 采用晶圆级堆叠，3nm D100 面向智驾，展示自研芯片的加速进化与成本考量。",
+    "url": "https://www.bestblogs.dev/article/5b2f5a6d4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
-    "date": "2026-08-21",
-    "badge": "agent"
-  },
-  {
-    "title": "浅谈 SKILL 研发的最佳实践——以百补详情助手为例",
-    "summary": "本文以百亿补贴详情助手 Skill 为例，从架构设计、研发效能、运行优化、呈现方式四个维度总结 Agent Skill 的研发与迭代实践，提出上下文工程决定 Skill 质量上限、让 Agent 自己写 Skill 是元能力的核心观点。",
-    "url": "https://www.bestblogs.dev/article/13411f40f0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-08-21",
-    "badge": "agent"
-  },
-  {
-    "title": "科技爱好者周刊（第 409 期）：程序员的职业未来",
-    "summary": "本文探讨 AI 编码代理对程序员职业的影响，预测手工编码将受限、程序员角色转向 AI 辅助与代码审查，并分享科技动态与工具资源。",
-    "url": "https://www.bestblogs.dev/article/aef7caac42?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "软件编程",
-    "date": "2026-08-20",
-    "badge": "tooling"
-  },
-  {
-    "title": "我三刷了「满血版」的《奥德赛》，总结出这份最全 IMAX 观影指南（附推荐影厅）",
-    "summary": "爱范儿实测多家影院，为诺兰新作《奥德赛》定制最全 IMAX 观影指南：详解 1.43:1 GT 与 1.90:1 激光版差异，附全球及国内主流城市推荐影厅清单。",
-    "url": "https://www.bestblogs.dev/article/455c1dc9fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张展毓",
-    "topic": "生活文化",
-    "date": "2026-08-20",
+    "date": "2026-08-24",
     "badge": "featured"
   },
   {
-    "title": "美团搜索 3.0：LLM 语义表征在排序模型的探索与应用",
-    "summary": "美团搜索团队系统介绍了三期将 LLM 语义表征引入服务零售精排模型的实践，从单点可行性验证到系统性表征体系重构，再到跨场景迁移复用，并沉淀了难负样本、Prompt 简化、覆盖率修复等可迁移经验。",
-    "url": "https://www.bestblogs.dev/article/989f5ba5a7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
+    "title": "梁文锋的来时路与明日歌：三万字长文，详尽介绍一个更完整、更鲜活的梁文锋",
+    "summary": "本文是一篇深度人物传记，讲述了梁文锋从吴川小县城走出的成长历程，从高考状元到浙大高材生，再到量化投资巨头，最终成为 AI 领域先驱的故事，展现了他对技术的热情、对未来的洞察以及对社会的责任感。",
+    "url": "https://www.bestblogs.dev/article/f5432b4e28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 创业邦",
+    "topic": "商业科技",
+    "date": "2026-08-24",
+    "badge": "featured"
+  },
+  {
+    "title": "DeepSeek Harness 规模化踩坑实录：耗时、成本、失败到底该怎么查",
+    "summary": "本文介绍腾讯云 Agent 可观测针对 DeepSeek Harness 的采集插件，通过订阅事件流、建模五层调用树和批量上报，实现跨会话、跨机器的链路分析，帮助用户快速定位耗时、成本和失败原因。",
+    "url": "https://www.bestblogs.dev/article/1d040c0ef7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
     "topic": "人工智能",
-    "date": "2026-08-20",
+    "date": "2026-08-24",
+    "badge": "agent"
+  },
+  {
+    "title": "吴恩达来信：AI 工程技能图谱详解——构建和部署 AI 应用",
+    "summary": "本文由吴恩达撰写，详细阐述了构建和部署 AI 应用所需的六大核心技能：LLM 基础、数据驱动模型、智能体系统构建、基于评估的开发、生产环境运维，以及机器学习基础，并强调了这些技能在应对 AI 输出不确定性中的重要性。",
+    "url": "https://www.bestblogs.dev/article/c9ed4fa121?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeeplearningAI",
+    "topic": "人工智能",
+    "date": "2026-08-24",
     "badge": "model"
   },
   {
-    "title": "具身智能展会最热的一年，肉眼难见机器人的进化？",
-    "summary": "本文深度复盘 2026 世界机器人大会，揭示人形机器人出货量激增背后的「泛化能力不足、数据稀缺、商业化路径分化」三大核心瓶颈，指出行业正处于从「演示阶段」向「通用落地」跨越的关键阵痛期。",
-    "url": "https://www.bestblogs.dev/article/21141dab33?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
+    "title": "Wan3.0 正式上线千问 AI 平台：稳定、真实、有质感",
+    "summary": "Wan3.0 视频生成模型正式上线，支持 30 秒长视频、文档格式输入，并展现出色的真实世界还原能力和跨镜头一致性，被广泛应用于短剧、广告、文旅和音乐等领域。",
+    "url": "https://www.bestblogs.dev/article/6189d372ce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
     "topic": "人工智能",
-    "date": "2026-08-20",
-    "badge": "featured"
+    "date": "2026-08-24",
+    "badge": "model"
   },
   {
-    "title": "最好的喜剧，一度担心它过时了",
-    "summary": "该文深度解析美剧《副总统》的创作手法，指出其通过日常政治操作揭示权力的荒诞与作者性的消失，并对比其他政治剧的不同表现。",
-    "url": "https://www.bestblogs.dev/article/4bf7c23b62?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "教你构建私有 AI Coding 平台：Pi、DSH、Codex Harness 扩展能力对比与选型。",
+    "summary": "本文深入分析了 Pi、DeepSeek Harness 和 Codex Harness 三个开源框架的架构与扩展能力，帮助读者理解如何基于这些底座构建定制化的 AI Coding Agent，并探讨了它们在企业应用中的适用场景。",
+    "url": "https://www.bestblogs.dev/article/fbaf2efa18?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / AI大模型应用实践",
+    "topic": "人工智能",
+    "date": "2026-08-24",
+    "badge": "agent"
+  },
+  {
+    "title": "又看了一遍，想给它年度十佳",
+    "summary": "《痴迷》深刻剖析了当代青年在情感关系中的失衡与脆弱，揭示了当社会支持结构缺失时，爱情如何被赋予过重的意义，以及这种压力如何导致个体间的相互吞噬。",
+    "url": "https://www.bestblogs.dev/article/87ca541703?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 虹膜",
     "topic": "生活文化",
-    "date": "2026-08-19",
+    "date": "2026-08-23",
     "badge": "featured"
   },
   {
-    "title": "AI Coding 时代，研发项目管理新范式探索与实践",
-    "summary": "本文复盘腾讯健康在 AI Coding 时代的项目管理转型：用组织摩擦公式诊断个体提效未转化为组织提效的症结，通过四步治理路径与 PM-Skills 实现交付提速，中位交付周期从 19 天降至 9 天。",
-    "url": "https://www.bestblogs.dev/article/2a5899721d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-08-19",
-    "badge": "tooling"
+    "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+    "summary": "银河通用机器人成功在世界人形机器人运动会上与人类网球运动员同台竞技，展示了全自主的网球对打能力，包括正反手击球、底线调动、网前截击，以及在双打中与人类队友的实时协作。",
+    "url": "https://www.bestblogs.dev/article/e7019d9daf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 衡宇",
+    "topic": "人工智能",
+    "date": "2026-08-23",
+    "badge": "featured"
   }
 ]
