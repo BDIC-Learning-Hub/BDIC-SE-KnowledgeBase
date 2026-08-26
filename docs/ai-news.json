@@ -1,5 +1,32 @@
 [
   {
+    "title": "对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
+    "summary": "雷鸟创新创始人李宏伟与 AI 负责人程思婕接受专访，分享 iO 眼镜「人类增强」定义、为打造 AI 杀手级应用主动放弃摄像头的取舍，以及数据飞轮如何塑造智能眼镜行业终局。",
+    "url": "https://www.bestblogs.dev/article/66323035b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 刘学文",
+    "topic": "人工智能",
+    "date": "2026-08-25",
+    "badge": "featured"
+  },
+  {
+    "title": "追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？",
+    "summary": "本文深度复盘追觅「星空计划」造车项目一年兴衰：从千人团队、高调发布概念车到团队缩减九成、展车封存地库、供应商欠款风波，揭示其激进孵化模式下现金流枯竭与量产资质缺失的深层困境。",
+    "url": "https://www.bestblogs.dev/article/5c388e439a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 李华",
+    "topic": "商业科技",
+    "date": "2026-08-25",
+    "badge": "featured"
+  },
+  {
+    "title": "一个 Skill 搞定服务重构：从链路分析到测试自动化",
+    "summary": "本文介绍一种基于渐进式披露和 Harness Engineering 的 Service Refactor Skill，通过五阶段流程标准化服务重构，提升可靠性与可复用性。",
+    "url": "https://www.bestblogs.dev/article/c5565f2b28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-08-25",
+    "badge": "tooling"
+  },
+  {
     "title": "芯片三连发，雷军有芯事",
     "summary": "小米一次性发布三颗玄戒芯片，3nm O3 实现跨代性能跃升，6nm O100 采用晶圆级堆叠，3nm D100 面向智驾，展示自研芯片的加速进化与成本考量。",
     "url": "https://www.bestblogs.dev/article/5b2f5a6d4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -43,32 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-24",
     "badge": "model"
-  },
-  {
-    "title": "教你构建私有 AI Coding 平台：Pi、DSH、Codex Harness 扩展能力对比与选型。",
-    "summary": "本文深入分析了 Pi、DeepSeek Harness 和 Codex Harness 三个开源框架的架构与扩展能力，帮助读者理解如何基于这些底座构建定制化的 AI Coding Agent，并探讨了它们在企业应用中的适用场景。",
-    "url": "https://www.bestblogs.dev/article/fbaf2efa18?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / AI大模型应用实践",
-    "topic": "人工智能",
-    "date": "2026-08-24",
-    "badge": "agent"
-  },
-  {
-    "title": "又看了一遍，想给它年度十佳",
-    "summary": "《痴迷》深刻剖析了当代青年在情感关系中的失衡与脆弱，揭示了当社会支持结构缺失时，爱情如何被赋予过重的意义，以及这种压力如何导致个体间的相互吞噬。",
-    "url": "https://www.bestblogs.dev/article/87ca541703?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "生活文化",
-    "date": "2026-08-23",
-    "badge": "featured"
-  },
-  {
-    "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
-    "summary": "银河通用机器人成功在世界人形机器人运动会上与人类网球运动员同台竞技，展示了全自主的网球对打能力，包括正反手击球、底线调动、网前截击，以及在双打中与人类队友的实时协作。",
-    "url": "https://www.bestblogs.dev/article/e7019d9daf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 衡宇",
-    "topic": "人工智能",
-    "date": "2026-08-23",
-    "badge": "featured"
   }
 ]
