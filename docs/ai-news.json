@@ -1,74 +1,74 @@
 [
   {
-    "title": "对话雷鸟创新李宏伟：智能眼镜的终局仍然是「AI + AR」，AI 是我们现在最重要的事丨多样性公司",
-    "summary": "雷鸟创新创始人李宏伟与 AI 负责人程思婕接受专访，分享 iO 眼镜「人类增强」定义、为打造 AI 杀手级应用主动放弃摄像头的取舍，以及数据飞轮如何塑造智能眼镜行业终局。",
-    "url": "https://www.bestblogs.dev/article/66323035b8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 刘学文",
-    "topic": "人工智能",
-    "date": "2026-08-25",
-    "badge": "featured"
-  },
-  {
-    "title": "追觅造车一周年：展车地库蒙灰，千人团队剩约百人，烧掉的钱谁来买单？",
-    "summary": "本文深度复盘追觅「星空计划」造车项目一年兴衰：从千人团队、高调发布概念车到团队缩减九成、展车封存地库、供应商欠款风波，揭示其激进孵化模式下现金流枯竭与量产资质缺失的深层困境。",
-    "url": "https://www.bestblogs.dev/article/5c388e439a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 李华",
-    "topic": "商业科技",
-    "date": "2026-08-25",
-    "badge": "featured"
-  },
-  {
-    "title": "一个 Skill 搞定服务重构：从链路分析到测试自动化",
-    "summary": "本文介绍一种基于渐进式披露和 Harness Engineering 的 Service Refactor Skill，通过五阶段流程标准化服务重构，提升可靠性与可复用性。",
-    "url": "https://www.bestblogs.dev/article/c5565f2b28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "一文搞懂个人 AI 记忆系统构建全流程",
+    "summary": "作者基于半年实践构建了一套跨 AI 工具通用的个人记忆系统，通过五层记忆架构、两级目录、权重绑定、YAML 元数据、双层索引及 recall/curator 两个 skill，实现了身份、原则、偏好、上下文、知识的持久化与按需调用，让 AI 从执行工具进化为具备主动判断力的协作伙伴。",
+    "url": "https://www.bestblogs.dev/article/2e655926dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-08-25",
+    "topic": "人工智能",
+    "date": "2026-08-27",
     "badge": "tooling"
   },
   {
-    "title": "芯片三连发，雷军有芯事",
-    "summary": "小米一次性发布三颗玄戒芯片，3nm O3 实现跨代性能跃升，6nm O100 采用晶圆级堆叠，3nm D100 面向智驾，展示自研芯片的加速进化与成本考量。",
-    "url": "https://www.bestblogs.dev/article/5b2f5a6d4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
+    "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
+    "summary": "本文分享了字节跳动技术团队对 Agent 提示词注入攻击的防护实践，包括风险背景、技术成因、防护路线与落地实践等方面的内容。",
+    "url": "https://www.bestblogs.dev/article/78fa6d4759?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
     "topic": "人工智能",
-    "date": "2026-08-24",
-    "badge": "featured"
-  },
-  {
-    "title": "梁文锋的来时路与明日歌：三万字长文，详尽介绍一个更完整、更鲜活的梁文锋",
-    "summary": "本文是一篇深度人物传记，讲述了梁文锋从吴川小县城走出的成长历程，从高考状元到浙大高材生，再到量化投资巨头，最终成为 AI 领域先驱的故事，展现了他对技术的热情、对未来的洞察以及对社会的责任感。",
-    "url": "https://www.bestblogs.dev/article/f5432b4e28?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 创业邦",
-    "topic": "商业科技",
-    "date": "2026-08-24",
-    "badge": "featured"
-  },
-  {
-    "title": "DeepSeek Harness 规模化踩坑实录：耗时、成本、失败到底该怎么查",
-    "summary": "本文介绍腾讯云 Agent 可观测针对 DeepSeek Harness 的采集插件，通过订阅事件流、建模五层调用树和批量上报，实现跨会话、跨机器的链路分析，帮助用户快速定位耗时、成本和失败原因。",
-    "url": "https://www.bestblogs.dev/article/1d040c0ef7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-08-24",
+    "date": "2026-08-26",
     "badge": "agent"
   },
   {
-    "title": "吴恩达来信：AI 工程技能图谱详解——构建和部署 AI 应用",
-    "summary": "本文由吴恩达撰写，详细阐述了构建和部署 AI 应用所需的六大核心技能：LLM 基础、数据驱动模型、智能体系统构建、基于评估的开发、生产环境运维，以及机器学习基础，并强调了这些技能在应对 AI 输出不确定性中的重要性。",
-    "url": "https://www.bestblogs.dev/article/c9ed4fa121?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeeplearningAI",
+    "title": "一个实习生带一个团队，一家创业公司的人才实验",
+    "summary": "文章讲述面壁智能如何通过'前进四'人才计划让实习生主导 AI4AI 项目，培养人才并推动端侧 AI 创新。",
+    "url": "https://www.bestblogs.dev/article/ef1b9caace?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
     "topic": "人工智能",
-    "date": "2026-08-24",
+    "date": "2026-08-26",
+    "badge": "featured"
+  },
+  {
+    "title": "企业级 MultiAgent 的记忆系统：短期上下文与四层记忆架构实现｜得物技术",
+    "summary": "本文详细介绍了企业级 MultiAgent 的记忆系统，包括短期上下文与四层记忆架构的实现，涵盖 LLM 判断、语义检索、Token 预算控制、冲突处理等关键技术。",
+    "url": "https://www.bestblogs.dev/article/b39989685b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-08-26",
+    "badge": "agent"
+  },
+  {
+    "title": "一篇讲透 Agent 自进化飞轮怎么搭：评测→记忆→落地→控制",
+    "summary": "本文基于对 Anthropic 递归自改进报告、斯坦福 CS329A 课程、EvoAgentX 等开源框架的深度研读，结合业界多个团队已验证的优秀实践，提炼出一套评测→记忆→落地→控制的四齿飞轮方法论，帮助 Agent 实现自进化。",
+    "url": "https://www.bestblogs.dev/article/0d1739434f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-08-26",
+    "badge": "agent"
+  },
+  {
+    "title": "熊鹏航的“具身智能赌局”：当时没想明白，但干了十年",
+    "summary": "熊鹏航历时十年研发数据手套，从解决机器人运动控制到同步采集动作与触觉数据，推动具身智能产业化并畅想造‘钢铁侠’的远景。",
+    "url": "https://www.bestblogs.dev/article/57eef2b5cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-08-26",
+    "badge": "featured"
+  },
+  {
+    "title": "对话陈炜鹏：Loopit 有了 1500 万件作品之后，我们决定做自己的互动世界模型",
+    "summary": "Loopit 创始人陈炜鹏谈论了 Loopit 的发展、自研模型 Zing 的进展以及未来计划",
+    "url": "https://www.bestblogs.dev/article/2a2893021d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "商业科技",
+    "date": "2026-08-26",
     "badge": "model"
   },
   {
-    "title": "Wan3.0 正式上线千问 AI 平台：稳定、真实、有质感",
-    "summary": "Wan3.0 视频生成模型正式上线，支持 30 秒长视频、文档格式输入，并展现出色的真实世界还原能力和跨镜头一致性，被广泛应用于短剧、广告、文旅和音乐等领域。",
-    "url": "https://www.bestblogs.dev/article/6189d372ce?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
-    "topic": "人工智能",
-    "date": "2026-08-24",
-    "badge": "model"
+    "title": "场景营销互动&体验 AI Coding — 构建 Agent 自主执行闭环",
+    "summary": "本文介绍了淘宝技术团队在 AI Coding 领域的探索，特别是构建 Agent 自主执行闭环的工作，包括目标维护、状态调度、结果验证等隐性人力工作的转化为系统化的“循环工程”，以及引入结构化 Task、Job 和执行账本等机制来实现自动执行闭环。",
+    "url": "https://www.bestblogs.dev/article/8e6d55c150?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-08-26",
+    "badge": "agent"
   }
 ]
