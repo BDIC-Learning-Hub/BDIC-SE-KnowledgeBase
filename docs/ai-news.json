@@ -1,5 +1,23 @@
 [
   {
+    "title": "这些小习惯，在 AI 时代会变得越来越重要",
+    "summary": "本文探讨了在 AI 时代，个体如何通过强化思维独特性、保持人际交流、学习外语、记录备忘录、培养思考习惯、优化生活流程以及练习低刺激模式，来应对技术进步带来的挑战并提升自我价值。",
+    "url": "https://www.bestblogs.dev/article/f1b5121ea4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 李睿秋",
+    "topic": "个人成长",
+    "date": "2026-08-27",
+    "badge": "featured"
+  },
+  {
+    "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
+    "summary": "苹果 M5/M6 系列与小米玄戒 O100 芯片将内存带宽推至 TB/s 级别，揭示 AI 时代算力过剩下的「内存墙」瓶颈，并从架构、封装、互联三个维度展示突围路径。",
+    "url": "https://www.bestblogs.dev/article/bcee4e8acc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 郑廷旭",
+    "topic": "人工智能",
+    "date": "2026-08-27",
+    "badge": "featured"
+  },
+  {
     "title": "一文搞懂个人 AI 记忆系统构建全流程",
     "summary": "作者基于半年实践构建了一套跨 AI 工具通用的个人记忆系统，通过五层记忆架构、两级目录、权重绑定、YAML 元数据、双层索引及 recall/curator 两个 skill，实现了身份、原则、偏好、上下文、知识的持久化与按需调用，让 AI 从执行工具进化为具备主动判断力的协作伙伴。",
     "url": "https://www.bestblogs.dev/article/2e655926dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,6 +25,24 @@
     "topic": "人工智能",
     "date": "2026-08-27",
     "badge": "tooling"
+  },
+  {
+    "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
+    "summary": "智谱发布 GLM-5.3-Flash，一个基于 320B 参数的超轻量级多模态模型，在 AA 综合智能指数中与 Claude Opus 4.8 持平，但定价仅为后者的 1/40，实现了前沿智能的普惠化。",
+    "url": "https://www.bestblogs.dev/article/e8a6de7368?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 智谱",
+    "topic": "人工智能",
+    "date": "2026-08-26",
+    "badge": "model"
+  },
+  {
+    "title": "Qwen3.8-Flash：全新架构，更强更稳更划算",
+    "summary": "Qwen3.8-Flash 是多模态 MoE 模型，主模型 125B 外加 51B N-gram 嵌入，每 token 激活 6B，支持 262K 原生上下文并可经 YaRN 扩展至 1M，采用 GDN+QSA 注意力、门控残差、Muon 优化器，训练成本仅为前身的 1/9。",
+    "url": "https://www.bestblogs.dev/article/fa66911d3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 千问大模型",
+    "topic": "人工智能",
+    "date": "2026-08-26",
+    "badge": "model"
   },
   {
     "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
@@ -32,42 +68,6 @@
     "url": "https://www.bestblogs.dev/article/b39989685b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 得物技术",
     "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "agent"
-  },
-  {
-    "title": "一篇讲透 Agent 自进化飞轮怎么搭：评测→记忆→落地→控制",
-    "summary": "本文基于对 Anthropic 递归自改进报告、斯坦福 CS329A 课程、EvoAgentX 等开源框架的深度研读，结合业界多个团队已验证的优秀实践，提炼出一套评测→记忆→落地→控制的四齿飞轮方法论，帮助 Agent 实现自进化。",
-    "url": "https://www.bestblogs.dev/article/0d1739434f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "agent"
-  },
-  {
-    "title": "熊鹏航的“具身智能赌局”：当时没想明白，但干了十年",
-    "summary": "熊鹏航历时十年研发数据手套，从解决机器人运动控制到同步采集动作与触觉数据，推动具身智能产业化并畅想造‘钢铁侠’的远景。",
-    "url": "https://www.bestblogs.dev/article/57eef2b5cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "featured"
-  },
-  {
-    "title": "对话陈炜鹏：Loopit 有了 1500 万件作品之后，我们决定做自己的互动世界模型",
-    "summary": "Loopit 创始人陈炜鹏谈论了 Loopit 的发展、自研模型 Zing 的进展以及未来计划",
-    "url": "https://www.bestblogs.dev/article/2a2893021d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "商业科技",
-    "date": "2026-08-26",
-    "badge": "model"
-  },
-  {
-    "title": "场景营销互动&体验 AI Coding — 构建 Agent 自主执行闭环",
-    "summary": "本文介绍了淘宝技术团队在 AI Coding 领域的探索，特别是构建 Agent 自主执行闭环的工作，包括目标维护、状态调度、结果验证等隐性人力工作的转化为系统化的“循环工程”，以及引入结构化 Task、Job 和执行账本等机制来实现自动执行闭环。",
-    "url": "https://www.bestblogs.dev/article/8e6d55c150?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
     "date": "2026-08-26",
     "badge": "agent"
   }
