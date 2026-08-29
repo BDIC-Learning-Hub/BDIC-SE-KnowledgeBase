@@ -1,5 +1,50 @@
 [
   {
+    "title": "腾讯汤道生：和 AI 一起长跑的这两年",
+    "summary": "腾讯汤道生回顾两年 AI 实践，强调 AI 长跑中熬得久比起得早更重要，AI 应用需算法与工程结合，个人 Agent 与服务 Agent 互补，并以 AI 原生方式重构组织力，坚持长期主义与以人为本。",
+    "url": "https://www.bestblogs.dev/article/82afd5a388?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-08-28",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 工程范式的跃迁，一文讲透 Context Engineering！",
+    "summary": "本文深入探讨了 Context Engineering 这一新兴范式，它通过主动管理和优化 LLM 的上下文窗口，解决了在复杂任务中信息过载和注意力分散的问题，从而显著提升了 AI 系统的可靠性和效率。",
+    "url": "https://www.bestblogs.dev/article/5c0e025807?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-08-28",
+    "badge": "model"
+  },
+  {
+    "title": "信任需要基础设施：如何让 AI 可靠的取数",
+    "summary": "本文介绍了淘宝技术团队在 AI Coding 领域的探索，特别是构建 Agent 自主执行闭环的工作，包括目标维护、状态调度、结果验证等隐性人力工作的转化为系统化的“循环工程”，以及引入结构化 Task、Job 和执行账本等机制来实现自动执行闭环。",
+    "url": "https://www.bestblogs.dev/article/9341941220?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-08-28",
+    "badge": "agent"
+  },
+  {
+    "title": "去了这三个非洲国家，我终于理解了什么是公共卫生的最后一公里｜周轶君 一席",
+    "summary": "纪录片导演周轶君通过实地探访冈比亚、布吉纳法索和乌干达，揭示了在非洲抗击疟疾的现实挑战，强调了公共卫生领域中最后一公里依赖于具体的人和有效的资源分配，而非仅靠技术创新。",
+    "url": "https://www.bestblogs.dev/article/97ac1d4a27?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 一席",
+    "topic": "媒体资讯",
+    "date": "2026-08-28",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 可解释性与对齐：J-Space，思维链，AI 人格，幻觉，与金门大桥",
+    "summary": "本文通过对斯坦福博士生 Aryaman Arora 的访谈，探讨 AI 可解释性的前沿进展，包括内部推理、J-space、思维链、模型人格、幻觉及其对信任和科学的意义。",
+    "url": "https://www.bestblogs.dev/article/3a8eca80f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅谷101",
+    "topic": "人工智能",
+    "date": "2026-08-28",
+    "badge": "model"
+  },
+  {
     "title": "这些小习惯，在 AI 时代会变得越来越重要",
     "summary": "本文探讨了在 AI 时代，个体如何通过强化思维独特性、保持人际交流、学习外语、记录备忘录、培养思考习惯、优化生活流程以及练习低刺激模式，来应对技术进步带来的挑战并提升自我价值。",
     "url": "https://www.bestblogs.dev/article/f1b5121ea4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -25,50 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-27",
     "badge": "tooling"
-  },
-  {
-    "title": "GLM-5.3-Flash：前沿智能进入普惠时代",
-    "summary": "智谱发布 GLM-5.3-Flash，一个基于 320B 参数的超轻量级多模态模型，在 AA 综合智能指数中与 Claude Opus 4.8 持平，但定价仅为后者的 1/40，实现了前沿智能的普惠化。",
-    "url": "https://www.bestblogs.dev/article/e8a6de7368?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 智谱",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "model"
-  },
-  {
-    "title": "Qwen3.8-Flash：全新架构，更强更稳更划算",
-    "summary": "Qwen3.8-Flash 是多模态 MoE 模型，主模型 125B 外加 51B N-gram 嵌入，每 token 激活 6B，支持 262K 原生上下文并可经 YaRN 扩展至 1M，采用 GDN+QSA 注意力、门控残差、Muon 优化器，训练成本仅为前身的 1/9。",
-    "url": "https://www.bestblogs.dev/article/fa66911d3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 千问大模型",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "model"
-  },
-  {
-    "title": "字节实践 | Agent 提示词注入攻击：一场需要长期应对的安全挑战",
-    "summary": "本文分享了字节跳动技术团队对 Agent 提示词注入攻击的防护实践，包括风险背景、技术成因、防护路线与落地实践等方面的内容。",
-    "url": "https://www.bestblogs.dev/article/78fa6d4759?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "agent"
-  },
-  {
-    "title": "一个实习生带一个团队，一家创业公司的人才实验",
-    "summary": "文章讲述面壁智能如何通过'前进四'人才计划让实习生主导 AI4AI 项目，培养人才并推动端侧 AI 创新。",
-    "url": "https://www.bestblogs.dev/article/ef1b9caace?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "featured"
-  },
-  {
-    "title": "企业级 MultiAgent 的记忆系统：短期上下文与四层记忆架构实现｜得物技术",
-    "summary": "本文详细介绍了企业级 MultiAgent 的记忆系统，包括短期上下文与四层记忆架构的实现，涵盖 LLM 判断、语义检索、Token 预算控制、冲突处理等关键技术。",
-    "url": "https://www.bestblogs.dev/article/b39989685b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
-    "topic": "人工智能",
-    "date": "2026-08-26",
-    "badge": "agent"
   }
 ]
