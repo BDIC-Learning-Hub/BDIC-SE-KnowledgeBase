@@ -9,6 +9,15 @@
     "badge": "agent"
   },
   {
+    "title": "AI 专栏 | 代码改了，文档却“死”了？携程机票“代码即文档”实践，让隐性知识随代码共同生长",
+    "summary": "携程机票前端团队通过将 CI/CD 流水线与 Dify 工作流深度融合，实现了代码改动触发文档自动生成与更新，构建了覆盖 74 个业务仓库的智能知识库，将人工维护文档的时间压缩了 80% 以上，实现了隐性知识的显性化与组织资产的沉淀。",
+    "url": "https://www.bestblogs.dev/article/064a3cbd23?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 携程技术",
+    "topic": "软件编程",
+    "date": "2026-08-28",
+    "badge": "tooling"
+  },
+  {
     "title": "AI 工程范式的跃迁，一文讲透 Context Engineering！",
     "summary": "本文深入探讨了 Context Engineering 这一新兴范式，它通过主动管理和优化 LLM 的上下文窗口，解决了在复杂任务中信息过载和注意力分散的问题，从而显著提升了 AI 系统的可靠性和效率。",
     "url": "https://www.bestblogs.dev/article/5c0e025807?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-27",
     "badge": "featured"
-  },
-  {
-    "title": "一文搞懂个人 AI 记忆系统构建全流程",
-    "summary": "作者基于半年实践构建了一套跨 AI 工具通用的个人记忆系统，通过五层记忆架构、两级目录、权重绑定、YAML 元数据、双层索引及 recall/curator 两个 skill，实现了身份、原则、偏好、上下文、知识的持久化与按需调用，让 AI 从执行工具进化为具备主动判断力的协作伙伴。",
-    "url": "https://www.bestblogs.dev/article/2e655926dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-08-27",
-    "badge": "tooling"
   }
 ]
