@@ -1,5 +1,23 @@
 [
   {
+    "title": "AI 原生思维——像训练大模型一样训练自己",
+    "summary": "宝玉以自身字幕翻译 App 的开发历程为主线，阐述 AI 原生产品的全流程方法论——从需求三问、能力成本价值三关，到以终为始的重设计原则，并延伸到个体如何与 AI 建立反馈循环共同成长。",
+    "url": "https://www.bestblogs.dev/article/2f846d2501?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 宝玉",
+    "topic": "人工智能",
+    "date": "2026-08-31",
+    "badge": "model"
+  },
+  {
+    "title": "把你关心的变成专栏：谈谈 BestBlogs 3.0 的一些思考",
+    "summary": "BestBlogs 3.0 旨在帮助用户将个人兴趣转化为稳定的内容专栏，通过自动化寻找、筛选和整理，让读者轻松获取值得阅读的电影、书籍、音乐等领域的优质内容。",
+    "url": "https://www.bestblogs.dev/article/49cbcca25d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Gino",
+    "topic": "产品设计",
+    "date": "2026-08-31",
+    "badge": "featured"
+  },
+  {
     "title": "腾讯汤道生：和 AI 一起长跑的这两年",
     "summary": "腾讯汤道生回顾两年 AI 实践，强调 AI 长跑中熬得久比起得早更重要，AI 应用需算法与工程结合，个人 Agent 与服务 Agent 互补，并以 AI 原生方式重构组织力，坚持长期主义与以人为本。",
     "url": "https://www.bestblogs.dev/article/82afd5a388?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -52,23 +70,5 @@
     "topic": "人工智能",
     "date": "2026-08-28",
     "badge": "model"
-  },
-  {
-    "title": "这些小习惯，在 AI 时代会变得越来越重要",
-    "summary": "本文探讨了在 AI 时代，个体如何通过强化思维独特性、保持人际交流、学习外语、记录备忘录、培养思考习惯、优化生活流程以及练习低刺激模式，来应对技术进步带来的挑战并提升自我价值。",
-    "url": "https://www.bestblogs.dev/article/f1b5121ea4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 李睿秋",
-    "topic": "个人成长",
-    "date": "2026-08-27",
-    "badge": "featured"
-  },
-  {
-    "title": "为什么苹果、小米的 AI 电脑，都在死磕「内存墙」｜AI 器物志",
-    "summary": "苹果 M5/M6 系列与小米玄戒 O100 芯片将内存带宽推至 TB/s 级别，揭示 AI 时代算力过剩下的「内存墙」瓶颈，并从架构、封装、互联三个维度展示突围路径。",
-    "url": "https://www.bestblogs.dev/article/bcee4e8acc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 郑廷旭",
-    "topic": "人工智能",
-    "date": "2026-08-27",
-    "badge": "featured"
   }
 ]
