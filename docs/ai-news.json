@@ -1,12 +1,21 @@
 [
   {
-    "title": "AI 原生思维——像训练大模型一样训练自己",
-    "summary": "宝玉以自身字幕翻译 App 的开发历程为主线，阐述 AI 原生产品的全流程方法论——从需求三问、能力成本价值三关，到以终为始的重设计原则，并延伸到个体如何与 AI 建立反馈循环共同成长。",
-    "url": "https://www.bestblogs.dev/article/2f846d2501?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
+    "title": "我提前体验了 DLSS 5，它居然把 GTA5 变成了 GTA6？",
+    "summary": "英伟达的 DLSS 5 技术通过生成式 AI 重构游戏画面，显著提升了《GTA 5》等老游戏的视觉质量，使其接近现代 3A 游戏的水平，但同时也引发了关于 AI 在游戏开发中角色定位的讨论。",
+    "url": "https://www.bestblogs.dev/article/39beb7e000?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 李华",
+    "topic": "人工智能",
+    "date": "2026-09-01",
+    "badge": "featured"
+  },
+  {
+    "title": "Redis 已正式接入 AI",
+    "summary": "Redis 正在从缓存中间件进化为 AI 应用的实时数据基础设施，通过集成向量搜索、语义缓存、Agent 记忆等能力，为 AI 工作流提供亚毫秒级的上下文支持。",
+    "url": "https://www.bestblogs.dev/article/837c1a6308?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 苏三说技术",
     "topic": "人工智能",
     "date": "2026-08-31",
-    "badge": "model"
+    "badge": "agent"
   },
   {
     "title": "把你关心的变成专栏：谈谈 BestBlogs 3.0 的一些思考",
@@ -16,6 +25,15 @@
     "topic": "产品设计",
     "date": "2026-08-31",
     "badge": "featured"
+  },
+  {
+    "title": "AI 原生思维——像训练大模型一样训练自己",
+    "summary": "宝玉以自身字幕翻译 App 的开发历程为主线，阐述 AI 原生产品的全流程方法论——从需求三问、能力成本价值三关，到以终为始的重设计原则，并延伸到个体如何与 AI 建立反馈循环共同成长。",
+    "url": "https://www.bestblogs.dev/article/2f846d2501?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 宝玉",
+    "topic": "人工智能",
+    "date": "2026-08-31",
+    "badge": "model"
   },
   {
     "title": "腾讯汤道生：和 AI 一起长跑的这两年",
@@ -52,23 +70,5 @@
     "topic": "软件编程",
     "date": "2026-08-28",
     "badge": "agent"
-  },
-  {
-    "title": "去了这三个非洲国家，我终于理解了什么是公共卫生的最后一公里｜周轶君 一席",
-    "summary": "纪录片导演周轶君通过实地探访冈比亚、布吉纳法索和乌干达，揭示了在非洲抗击疟疾的现实挑战，强调了公共卫生领域中最后一公里依赖于具体的人和有效的资源分配，而非仅靠技术创新。",
-    "url": "https://www.bestblogs.dev/article/97ac1d4a27?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 一席",
-    "topic": "媒体资讯",
-    "date": "2026-08-28",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 可解释性与对齐：J-Space，思维链，AI 人格，幻觉，与金门大桥",
-    "summary": "本文通过对斯坦福博士生 Aryaman Arora 的访谈，探讨 AI 可解释性的前沿进展，包括内部推理、J-space、思维链、模型人格、幻觉及其对信任和科学的意义。",
-    "url": "https://www.bestblogs.dev/article/3a8eca80f3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "人工智能",
-    "date": "2026-08-28",
-    "badge": "model"
   }
 ]
