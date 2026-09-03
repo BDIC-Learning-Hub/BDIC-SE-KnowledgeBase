@@ -1,5 +1,59 @@
 [
   {
+    "title": "四年、十次告警、数十个技术决策：一个海外电商平台的高并发治理实录",
+    "summary": "本文复盘了一个海外电商平台近四年来的高并发性能治理实践，系统总结了扩容演进、Redis 配置四轮迭代、热 key 三阶段根治以及黄牛防控的真实排查链路与方法论。",
+    "url": "https://www.bestblogs.dev/article/c9111f5dd0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / vivo互联网技术",
+    "topic": "软件编程",
+    "date": "2026-09-02",
+    "badge": "tooling"
+  },
+  {
+    "title": "得物小摊 AI Native 演进实录：用 Harness 构建可控 AI 交付",
+    "summary": "本文详述得物小摊团队从一次语义分叉事故中总结出的 Delivery Harness 方法论，通过 Version Contract、Execution Boundary、Evidence Gate、Repair Loop 四个组件，将单人全栈 AI 编码从「生成得快」升级为「交付得稳」的真实实践与待补齐环节。",
+    "url": "https://www.bestblogs.dev/article/f8e63f9b08?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-09-02",
+    "badge": "tooling"
+  },
+  {
+    "title": "AI Agent 应用精细化评测：评测体系设计与工程实践",
+    "summary": "本文介绍了基于商品中心 Agent 架构的精细化评测体系，通过拆解感知、规划、记忆、工具四大模块，构建覆盖质量、成本、性能的多元化指标，并结合端到端与模块级评测、自动化数据集生成、LLM-as-Judge 等方法，实现了对 Agent 能力的全面、可执行、可解释的评估。",
+    "url": "https://www.bestblogs.dev/article/9309a70859?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-09-02",
+    "badge": "agent"
+  },
+  {
+    "title": "对话兰小欢：置身 AI 事内，不要拿旧理论硬套新现实｜AI 透镜研究系列",
+    "summary": "兰小欢以经济学视角剖析 AI 时代：组织因承担风险而存续，权力在信息被打平后向关键卡位集中，就业从生产转向验证，Token 难以作为稳定分析单元，AGI 应是超越公司控制的公共品。",
+    "url": "https://www.bestblogs.dev/article/3a45ecaba1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-09-02",
+    "badge": "featured"
+  },
+  {
+    "title": "AI 驱动研发体系的实践和思考",
+    "summary": "本文总结了团队在 AI 驱动研发体系的实践探索，从 AI 辅助编程发展到完整的 AI 驱动研发体系。文章指出业务 AI 研发的真正瓶颈是上下文而非模型能力，提出'本地优先：Agent + 文件夹 + Git'理念，通过 Price360-KB 项目 Harness 将业务知识、源代码、项目规则和验证证据组织在同一工作空间。实践表明迭代过程本身就是知识飞轮，项目无需完美知识库即可启动，在真实产品迭代中持续完善。文章阐述了项目 Harness 的三层结构设计、机器可读的迭代协议以及人负责决策而 Agent 负责执行完整的工作模式。随着模型和通用 Agent 能力提升，项目 Harness 将收缩，但业务知识治理和质量责任不会消失，未来技术人员将更接近 FDE 角色，需深入理解业务、设计项目规则并对端到端交付结果负责。",
+    "url": "https://www.bestblogs.dev/article/0d8511cfd1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-09-02",
+    "badge": "agent"
+  },
+  {
+    "title": "为什么大宋收复不了燕京？",
+    "summary": "大宋北伐燕京的惨败，源于君臣将文化血缘想象错当作政治认同，用\"圣王磁吸\"的虚妄取代了实际的治理与军事准备。",
+    "url": "https://www.bestblogs.dev/article/55383918bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 罗辑思维",
+    "topic": "生活文化",
+    "date": "2026-09-01",
+    "badge": "featured"
+  },
+  {
     "title": "我提前体验了 DLSS 5，它居然把 GTA5 变成了 GTA6？",
     "summary": "英伟达的 DLSS 5 技术通过生成式 AI 重构游戏画面，显著提升了《GTA 5》等老游戏的视觉质量，使其接近现代 3A 游戏的水平，但同时也引发了关于 AI 在游戏开发中角色定位的讨论。",
     "url": "https://www.bestblogs.dev/article/39beb7e000?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -9,66 +63,12 @@
     "badge": "featured"
   },
   {
-    "title": "Redis 已正式接入 AI",
-    "summary": "Redis 正在从缓存中间件进化为 AI 应用的实时数据基础设施，通过集成向量搜索、语义缓存、Agent 记忆等能力，为 AI 工作流提供亚毫秒级的上下文支持。",
-    "url": "https://www.bestblogs.dev/article/837c1a6308?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 苏三说技术",
-    "topic": "人工智能",
-    "date": "2026-08-31",
-    "badge": "agent"
-  },
-  {
-    "title": "把你关心的变成专栏：谈谈 BestBlogs 3.0 的一些思考",
-    "summary": "BestBlogs 3.0 旨在帮助用户将个人兴趣转化为稳定的内容专栏，通过自动化寻找、筛选和整理，让读者轻松获取值得阅读的电影、书籍、音乐等领域的优质内容。",
-    "url": "https://www.bestblogs.dev/article/49cbcca25d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Gino",
-    "topic": "产品设计",
-    "date": "2026-08-31",
+    "title": "打开“智治”的盒子：AI 赋能数字政府建设的城市方法论",
+    "summary": "南方周末城市研究中心历时半年调研全国政务 AI 应用，揭示了技术赋能数字政府建设的场景进展、区域分化格局与制度短板，并提出以居民参与补足正当性的治理路径。",
+    "url": "https://www.bestblogs.dev/article/193e42aeae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "媒体资讯",
+    "date": "2026-09-01",
     "badge": "featured"
-  },
-  {
-    "title": "AI 原生思维——像训练大模型一样训练自己",
-    "summary": "宝玉以自身字幕翻译 App 的开发历程为主线，阐述 AI 原生产品的全流程方法论——从需求三问、能力成本价值三关，到以终为始的重设计原则，并延伸到个体如何与 AI 建立反馈循环共同成长。",
-    "url": "https://www.bestblogs.dev/article/2f846d2501?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 宝玉",
-    "topic": "人工智能",
-    "date": "2026-08-31",
-    "badge": "model"
-  },
-  {
-    "title": "腾讯汤道生：和 AI 一起长跑的这两年",
-    "summary": "腾讯汤道生回顾两年 AI 实践，强调 AI 长跑中熬得久比起得早更重要，AI 应用需算法与工程结合，个人 Agent 与服务 Agent 互补，并以 AI 原生方式重构组织力，坚持长期主义与以人为本。",
-    "url": "https://www.bestblogs.dev/article/82afd5a388?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-08-28",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 专栏 | 代码改了，文档却“死”了？携程机票“代码即文档”实践，让隐性知识随代码共同生长",
-    "summary": "携程机票前端团队通过将 CI/CD 流水线与 Dify 工作流深度融合，实现了代码改动触发文档自动生成与更新，构建了覆盖 74 个业务仓库的智能知识库，将人工维护文档的时间压缩了 80% 以上，实现了隐性知识的显性化与组织资产的沉淀。",
-    "url": "https://www.bestblogs.dev/article/064a3cbd23?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 携程技术",
-    "topic": "软件编程",
-    "date": "2026-08-28",
-    "badge": "tooling"
-  },
-  {
-    "title": "AI 工程范式的跃迁，一文讲透 Context Engineering！",
-    "summary": "本文深入探讨了 Context Engineering 这一新兴范式，它通过主动管理和优化 LLM 的上下文窗口，解决了在复杂任务中信息过载和注意力分散的问题，从而显著提升了 AI 系统的可靠性和效率。",
-    "url": "https://www.bestblogs.dev/article/5c0e025807?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "人工智能",
-    "date": "2026-08-28",
-    "badge": "model"
-  },
-  {
-    "title": "信任需要基础设施：如何让 AI 可靠的取数",
-    "summary": "本文介绍了淘宝技术团队在 AI Coding 领域的探索，特别是构建 Agent 自主执行闭环的工作，包括目标维护、状态调度、结果验证等隐性人力工作的转化为系统化的“循环工程”，以及引入结构化 Task、Job 和执行账本等机制来实现自动执行闭环。",
-    "url": "https://www.bestblogs.dev/article/9341941220?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-08-28",
-    "badge": "agent"
   }
 ]
