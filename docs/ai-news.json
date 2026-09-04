@@ -1,74 +1,74 @@
 [
   {
-    "title": "四年、十次告警、数十个技术决策：一个海外电商平台的高并发治理实录",
-    "summary": "本文复盘了一个海外电商平台近四年来的高并发性能治理实践，系统总结了扩容演进、Redis 配置四轮迭代、热 key 三阶段根治以及黄牛防控的真实排查链路与方法论。",
-    "url": "https://www.bestblogs.dev/article/c9111f5dd0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / vivo互联网技术",
+    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
+    "summary": "本期周刊深入探讨了 OpenClaw 2.0 的开发模式，揭示了 AI 时代软件生态的快速迭代与潜在风险，并分析了技术堆栈迁移的趋势。同时，分享了地月激光通信、韩国免费 AI 服务等科技动态，以及多个开源工具和资源。",
+    "url": "https://www.bestblogs.dev/article/8339d66991?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阮一峰",
     "topic": "软件编程",
-    "date": "2026-09-02",
+    "date": "2026-09-03",
     "badge": "tooling"
   },
   {
-    "title": "得物小摊 AI Native 演进实录：用 Harness 构建可控 AI 交付",
-    "summary": "本文详述得物小摊团队从一次语义分叉事故中总结出的 Delivery Harness 方法论，通过 Version Contract、Execution Boundary、Evidence Gate、Repair Loop 四个组件，将单人全栈 AI 编码从「生成得快」升级为「交付得稳」的真实实践与待补齐环节。",
-    "url": "https://www.bestblogs.dev/article/f8e63f9b08?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
-    "topic": "人工智能",
-    "date": "2026-09-02",
-    "badge": "tooling"
-  },
-  {
-    "title": "AI Agent 应用精细化评测：评测体系设计与工程实践",
-    "summary": "本文介绍了基于商品中心 Agent 架构的精细化评测体系，通过拆解感知、规划、记忆、工具四大模块，构建覆盖质量、成本、性能的多元化指标，并结合端到端与模块级评测、自动化数据集生成、LLM-as-Judge 等方法，实现了对 Agent 能力的全面、可执行、可解释的评估。",
-    "url": "https://www.bestblogs.dev/article/9309a70859?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-09-02",
-    "badge": "agent"
-  },
-  {
-    "title": "对话兰小欢：置身 AI 事内，不要拿旧理论硬套新现实｜AI 透镜研究系列",
-    "summary": "兰小欢以经济学视角剖析 AI 时代：组织因承担风险而存续，权力在信息被打平后向关键卡位集中，就业从生产转向验证，Token 难以作为稳定分析单元，AGI 应是超越公司控制的公共品。",
-    "url": "https://www.bestblogs.dev/article/3a45ecaba1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-09-02",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 驱动研发体系的实践和思考",
-    "summary": "本文总结了团队在 AI 驱动研发体系的实践探索，从 AI 辅助编程发展到完整的 AI 驱动研发体系。文章指出业务 AI 研发的真正瓶颈是上下文而非模型能力，提出'本地优先：Agent + 文件夹 + Git'理念，通过 Price360-KB 项目 Harness 将业务知识、源代码、项目规则和验证证据组织在同一工作空间。实践表明迭代过程本身就是知识飞轮，项目无需完美知识库即可启动，在真实产品迭代中持续完善。文章阐述了项目 Harness 的三层结构设计、机器可读的迭代协议以及人负责决策而 Agent 负责执行完整的工作模式。随着模型和通用 Agent 能力提升，项目 Harness 将收缩，但业务知识治理和质量责任不会消失，未来技术人员将更接近 FDE 角色，需深入理解业务、设计项目规则并对端到端交付结果负责。",
-    "url": "https://www.bestblogs.dev/article/0d8511cfd1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-09-02",
-    "badge": "agent"
-  },
-  {
-    "title": "为什么大宋收复不了燕京？",
-    "summary": "大宋北伐燕京的惨败，源于君臣将文化血缘想象错当作政治认同，用\"圣王磁吸\"的虚妄取代了实际的治理与军事准备。",
-    "url": "https://www.bestblogs.dev/article/55383918bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 罗辑思维",
-    "topic": "生活文化",
-    "date": "2026-09-01",
-    "badge": "featured"
-  },
-  {
-    "title": "我提前体验了 DLSS 5，它居然把 GTA5 变成了 GTA6？",
-    "summary": "英伟达的 DLSS 5 技术通过生成式 AI 重构游戏画面，显著提升了《GTA 5》等老游戏的视觉质量，使其接近现代 3A 游戏的水平，但同时也引发了关于 AI 在游戏开发中角色定位的讨论。",
-    "url": "https://www.bestblogs.dev/article/39beb7e000?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 李华",
-    "topic": "人工智能",
-    "date": "2026-09-01",
-    "badge": "featured"
-  },
-  {
-    "title": "打开“智治”的盒子：AI 赋能数字政府建设的城市方法论",
-    "summary": "南方周末城市研究中心历时半年调研全国政务 AI 应用，揭示了技术赋能数字政府建设的场景进展、区域分化格局与制度短板，并提出以居民参与补足正当性的治理路径。",
-    "url": "https://www.bestblogs.dev/article/193e42aeae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
+    "title": "追猎“甲醛白菜”",
+    "summary": "环保博主“渔猎齐哥”曝光河北张家口部分收购商为延长白菜储存时间，在装车前将甲醛溶液蘸在白菜根部，引发食品安全关注；尽管甲醛已被禁止用于食品，但因冷链成本高、检测难等原因，该行为仍屡禁不止，需加强监管和技术创新。",
+    "url": "https://www.bestblogs.dev/article/e72c0abe03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南风窗",
     "topic": "媒体资讯",
-    "date": "2026-09-01",
+    "date": "2026-09-03",
     "badge": "featured"
+  },
+  {
+    "title": "美团智播——数字人直播技术创新与实践",
+    "summary": "美团智播系统性地解决了数字人直播从形象高保真、动作自然、语音协调到高效推理的全链路技术难题，实现了从「能用」到「规模化商用」的跃升，并已在本地生活场景中落地验证商业价值。",
+    "url": "https://www.bestblogs.dev/article/08dd526d4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "人工智能",
+    "date": "2026-09-03",
+    "badge": "featured"
+  },
+  {
+    "title": "从 1200 个家庭的吐槽里，长出的品类 TOP1｜专访栗上",
+    "summary": "通过专访科技品牌「栗上」创始人谢明佐，揭示了一个小家电品牌如何从 1200 个家庭的真实吐槽中洞察需求，以胶囊式洗碗机切入被低估的中国市场，并在不到一年内登顶品类 TOP1 的完整方法论。",
+    "url": "https://www.bestblogs.dev/article/7786941ca0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 刀法研究所",
+    "topic": "商业科技",
+    "date": "2026-09-03",
+    "badge": "featured"
+  },
+  {
+    "title": "中国各省份最高峰排名",
+    "summary": "本文按海拔从高到低系统梳理中国 32 个省级行政区的最高峰，涵盖珠穆朗玛峰至上海大金山岛的完整榜单，并简述各山峰的地理特征与区域地貌背景。",
+    "url": "https://www.bestblogs.dev/article/57c8b7cd08?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国国家地理",
+    "topic": "生活文化",
+    "date": "2026-09-03",
+    "badge": "featured"
+  },
+  {
+    "title": "都在开源 Harness，Codex 和 DeepSeek 到底有什么不一样？",
+    "summary": "本文以「天才实习生」比喻拆解 AI Agent 运行时 Harness 的核心能力，通过对比 OpenAI Codex 与 DeepSeek Harness 的开源方向——前者开放接入宽度、后者开放系统深度——指出功能清单终将趋同，真正护城河在于「没人下令时的默认行为」与「沉默的工程经验」。",
+    "url": "https://www.bestblogs.dev/article/9fe9b8a2c4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
+    "topic": "人工智能",
+    "date": "2026-09-03",
+    "badge": "agent"
+  },
+  {
+    "title": "对卷卷的 3 小时访谈：从抖音到 AI 3D、创业的过山车、成为制造业 OS 的野心、基础模型不会吞噬一切！",
+    "summary": "数美万物创始人卷卷回顾抖音从 0 到 1 的孵化历程，并深入阐述其如何从互联网产品专家跨界打造 AI 3D 大模型，以「制造业 OS」愿景连接普通人创造欲与实体生产管线。",
+    "url": "https://www.bestblogs.dev/article/332d9140cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "商业科技",
+    "date": "2026-09-03",
+    "badge": "model"
+  },
+  {
+    "title": "Harness Engineering：快手电商用 AI 流水线重塑研发范式",
+    "summary": "快手电商商家团队通过 Harness Engineering 框架，将 AI 贯穿需求全生命周期构建自动化研发流水线，实现从个人编码提效到组织效率跃升的实践与组织演进经验。",
+    "url": "https://www.bestblogs.dev/article/0a54a5617e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 快手技术",
+    "topic": "软件编程",
+    "date": "2026-09-03",
+    "badge": "tooling"
   }
 ]
