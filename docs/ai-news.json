@@ -1,5 +1,41 @@
 [
   {
+    "title": "中国 7 条最美水上公路，都去过的有福了",
+    "summary": "本文介绍了中国七条最具代表性的水上公路，包括湖北狮子关、江西鄱阳湖、青海西台吉乃尔湖、西藏拉林公路、湖北古昭公路、江苏石臼湖和四川金口河，分析了它们各自的地理背景、生态特征和视觉魅力。",
+    "url": "https://www.bestblogs.dev/article/1bf1832060?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国国家地理",
+    "topic": "生活文化",
+    "date": "2026-09-04",
+    "badge": "featured"
+  },
+  {
+    "title": "Physical Intelligence 联创 Chelsea Finn：物理 AI 已经走到自己的 GPT 时刻",
+    "summary": "Physical Intelligence 联合创始人 Chelsea Finn 在 YC Startup School 演讲中指出，可靠性、记忆和通用模型是让机器人真正发挥作用的三大要素，并认为物理 AI 已进入类似 GPT 的时代，具备在现实世界中自主运行的能力。",
+    "url": "https://www.bestblogs.dev/article/85656a67bc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "人工智能",
+    "date": "2026-09-04",
+    "badge": "model"
+  },
+  {
+    "title": "淘宝百亿补贴数据分析助手 Agent 实战",
+    "summary": "淘宝技术团队分享百亿补贴数据分析 Agent 实战，通过多 Agent 协同、NL2MDL2SQL 路径和六层知识体系，实现从自然语言到波动归因的全流程自动化，解决传统数据分析取数慢、口径混乱、知识不沉淀等痛点。",
+    "url": "https://www.bestblogs.dev/article/4d227d23bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-09-04",
+    "badge": "agent"
+  },
+  {
+    "title": "特斯拉 Cybercab 来了！无方向盘和踏板，低于 3 万美元，13 岁以下禁乘",
+    "summary": "特斯拉正式发布 Cybercab 无人驾驶出租车，取消方向盘和踏板、售价低于 3 万美元，标志着其 Robotaxi 业务进入小规模真实部署阶段，但也面临监管审批和纯视觉路线验证的关键考验。",
+    "url": "https://www.bestblogs.dev/article/0b2f3f96f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "商业科技",
+    "date": "2026-09-04",
+    "badge": "featured"
+  },
+  {
     "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
     "summary": "本期周刊深入探讨了 OpenClaw 2.0 的开发模式，揭示了 AI 时代软件生态的快速迭代与潜在风险，并分析了技术堆栈迁移的趋势。同时，分享了地月激光通信、韩国免费 AI 服务等科技动态，以及多个开源工具和资源。",
     "url": "https://www.bestblogs.dev/article/8339d66991?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -34,41 +70,5 @@
     "topic": "商业科技",
     "date": "2026-09-03",
     "badge": "featured"
-  },
-  {
-    "title": "中国各省份最高峰排名",
-    "summary": "本文按海拔从高到低系统梳理中国 32 个省级行政区的最高峰，涵盖珠穆朗玛峰至上海大金山岛的完整榜单，并简述各山峰的地理特征与区域地貌背景。",
-    "url": "https://www.bestblogs.dev/article/57c8b7cd08?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国国家地理",
-    "topic": "生活文化",
-    "date": "2026-09-03",
-    "badge": "featured"
-  },
-  {
-    "title": "都在开源 Harness，Codex 和 DeepSeek 到底有什么不一样？",
-    "summary": "本文以「天才实习生」比喻拆解 AI Agent 运行时 Harness 的核心能力，通过对比 OpenAI Codex 与 DeepSeek Harness 的开源方向——前者开放接入宽度、后者开放系统深度——指出功能清单终将趋同，真正护城河在于「没人下令时的默认行为」与「沉默的工程经验」。",
-    "url": "https://www.bestblogs.dev/article/9fe9b8a2c4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 百度Geek说",
-    "topic": "人工智能",
-    "date": "2026-09-03",
-    "badge": "agent"
-  },
-  {
-    "title": "对卷卷的 3 小时访谈：从抖音到 AI 3D、创业的过山车、成为制造业 OS 的野心、基础模型不会吞噬一切！",
-    "summary": "数美万物创始人卷卷回顾抖音从 0 到 1 的孵化历程，并深入阐述其如何从互联网产品专家跨界打造 AI 3D 大模型，以「制造业 OS」愿景连接普通人创造欲与实体生产管线。",
-    "url": "https://www.bestblogs.dev/article/332d9140cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "商业科技",
-    "date": "2026-09-03",
-    "badge": "model"
-  },
-  {
-    "title": "Harness Engineering：快手电商用 AI 流水线重塑研发范式",
-    "summary": "快手电商商家团队通过 Harness Engineering 框架，将 AI 贯穿需求全生命周期构建自动化研发流水线，实现从个人编码提效到组织效率跃升的实践与组织演进经验。",
-    "url": "https://www.bestblogs.dev/article/0a54a5617e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 快手技术",
-    "topic": "软件编程",
-    "date": "2026-09-03",
-    "badge": "tooling"
   }
 ]
