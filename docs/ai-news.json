@@ -1,5 +1,41 @@
 [
   {
+    "title": "中国科研团队火速公布吉隆泥石流初步研究成果，里面藏着哪些问题的答案？",
+    "summary": "中国科学院团队在吉隆泥石流灾后 5 天内完成系统研究，揭示了高位冰岩崩沿程增容机制、极速流动的成因及气候诱因，为高山地质灾害监测预警提供关键科学依据。",
+    "url": "https://www.bestblogs.dev/article/03f9d9201d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 科普中国",
+    "topic": "媒体资讯",
+    "date": "2026-09-05",
+    "badge": "featured"
+  },
+  {
+    "title": "国内越来越多中产老人，正在挤爆这个地方？",
+    "summary": "文章通过实地走访和行业观察，呈现了中产老人旅居云南的新生活方式，揭示了这个新兴行业在快速扩张背后面临的价格战、服务缩水与监管缺位等深层问题。",
+    "url": "https://www.bestblogs.dev/article/bb58b20556?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-09-05",
+    "badge": "featured"
+  },
+  {
+    "title": "黄仁勋与杨小凯",
+    "summary": "文章用亚当·斯密、科斯、杨小凯、威廉姆森的新制度经济学框架，剖析英伟达为何从芯片供应商转型为 AI 产业链的「准央行」——以长期采购、信用注入和担保为上下游托底，缓解极致分工下的单点脆弱与专用性资产风险。",
+    "url": "https://www.bestblogs.dev/article/0710f15054?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "商业科技",
+    "date": "2026-09-05",
+    "badge": "featured"
+  },
+  {
+    "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
+    "summary": "蚂蚁数科魏长征分享 Harness 工程实践：AI Coding 的核心矛盾不在代码生产而在验证，通过约束层、对抗验证层和证据层的闭环设计，将 60 万行 C++ 存量项目的代码缺陷率从 20% 以上降至个位数。",
+    "url": "https://www.bestblogs.dev/article/03550d6d39?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "软件编程",
+    "date": "2026-09-04",
+    "badge": "tooling"
+  },
+  {
     "title": "中国 7 条最美水上公路，都去过的有福了",
     "summary": "本文介绍了中国七条最具代表性的水上公路，包括湖北狮子关、江西鄱阳湖、青海西台吉乃尔湖、西藏拉林公路、湖北古昭公路、江苏石臼湖和四川金口河，分析了它们各自的地理背景、生态特征和视觉魅力。",
     "url": "https://www.bestblogs.dev/article/1bf1832060?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 腾讯科技",
     "topic": "商业科技",
     "date": "2026-09-04",
-    "badge": "featured"
-  },
-  {
-    "title": "科技爱好者周刊（第 411 期）：OpenClaw 2.0 是一个缩影",
-    "summary": "本期周刊深入探讨了 OpenClaw 2.0 的开发模式，揭示了 AI 时代软件生态的快速迭代与潜在风险，并分析了技术堆栈迁移的趋势。同时，分享了地月激光通信、韩国免费 AI 服务等科技动态，以及多个开源工具和资源。",
-    "url": "https://www.bestblogs.dev/article/8339d66991?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "软件编程",
-    "date": "2026-09-03",
-    "badge": "tooling"
-  },
-  {
-    "title": "追猎“甲醛白菜”",
-    "summary": "环保博主“渔猎齐哥”曝光河北张家口部分收购商为延长白菜储存时间，在装车前将甲醛溶液蘸在白菜根部，引发食品安全关注；尽管甲醛已被禁止用于食品，但因冷链成本高、检测难等原因，该行为仍屡禁不止，需加强监管和技术创新。",
-    "url": "https://www.bestblogs.dev/article/e72c0abe03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南风窗",
-    "topic": "媒体资讯",
-    "date": "2026-09-03",
-    "badge": "featured"
-  },
-  {
-    "title": "美团智播——数字人直播技术创新与实践",
-    "summary": "美团智播系统性地解决了数字人直播从形象高保真、动作自然、语音协调到高效推理的全链路技术难题，实现了从「能用」到「规模化商用」的跃升，并已在本地生活场景中落地验证商业价值。",
-    "url": "https://www.bestblogs.dev/article/08dd526d4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "人工智能",
-    "date": "2026-09-03",
-    "badge": "featured"
-  },
-  {
-    "title": "从 1200 个家庭的吐槽里，长出的品类 TOP1｜专访栗上",
-    "summary": "通过专访科技品牌「栗上」创始人谢明佐，揭示了一个小家电品牌如何从 1200 个家庭的真实吐槽中洞察需求，以胶囊式洗碗机切入被低估的中国市场，并在不到一年内登顶品类 TOP1 的完整方法论。",
-    "url": "https://www.bestblogs.dev/article/7786941ca0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 刀法研究所",
-    "topic": "商业科技",
-    "date": "2026-09-03",
     "badge": "featured"
   }
 ]
