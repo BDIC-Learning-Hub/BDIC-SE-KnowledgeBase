@@ -1,5 +1,32 @@
 [
   {
+    "title": "“维权记录”成求职者“黑料”，背调成窥探隐私的工具……起底求职背调灰产链→",
+    "summary": "央广网记者调查发现求职背调行业存在灰色产业链，背调机构通过内部渠道非法获取求职者未公开的诉讼、婚姻、负债等隐私信息，劳动者因举证困难难以维权，专家呼吁完善立法明确边界。",
+    "url": "https://www.bestblogs.dev/article/65982df55b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 央广网",
+    "topic": "媒体资讯",
+    "date": "2026-09-06",
+    "badge": "tooling"
+  },
+  {
+    "title": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
+    "summary": "TikTok SRE Salman Munaf 将 AI Agent 定位为概率性分布式协调器，系统阐述为何超时是「未知」而非失败、记忆应视作可失效缓存、以及模型能力无法替代权限约束、事务补偿和可观测性等分布式系统机制。",
+    "url": "https://www.bestblogs.dev/article/e29ff7fb03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "软件编程",
+    "date": "2026-09-06",
+    "badge": "agent"
+  },
+  {
+    "title": "OpenAI GPT-6 Astra 实测：一句话，造出一栋可以走进去的房子",
+    "summary": "OpenAI Codex 工程师实测 GPT-6 Astra：仅用一句提示词，便让 AI 直接在 Blender 中建出一栋可编辑、可走动、有生活痕迹的完整住宅，展示了 computer use 在 3D 创作中的系统性突破。",
+    "url": "https://www.bestblogs.dev/article/43eec6c0cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "人工智能",
+    "date": "2026-09-06",
+    "badge": "model"
+  },
+  {
     "title": "中国科研团队火速公布吉隆泥石流初步研究成果，里面藏着哪些问题的答案？",
     "summary": "中国科学院团队在吉隆泥石流灾后 5 天内完成系统研究，揭示了高位冰岩崩沿程增容机制、极速流动的成因及气候诱因，为高山地质灾害监测预警提供关键科学依据。",
     "url": "https://www.bestblogs.dev/article/03f9d9201d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -41,33 +68,6 @@
     "url": "https://www.bestblogs.dev/article/1bf1832060?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 中国国家地理",
     "topic": "生活文化",
-    "date": "2026-09-04",
-    "badge": "featured"
-  },
-  {
-    "title": "Physical Intelligence 联创 Chelsea Finn：物理 AI 已经走到自己的 GPT 时刻",
-    "summary": "Physical Intelligence 联合创始人 Chelsea Finn 在 YC Startup School 演讲中指出，可靠性、记忆和通用模型是让机器人真正发挥作用的三大要素，并认为物理 AI 已进入类似 GPT 的时代，具备在现实世界中自主运行的能力。",
-    "url": "https://www.bestblogs.dev/article/85656a67bc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "人工智能",
-    "date": "2026-09-04",
-    "badge": "model"
-  },
-  {
-    "title": "淘宝百亿补贴数据分析助手 Agent 实战",
-    "summary": "淘宝技术团队分享百亿补贴数据分析 Agent 实战，通过多 Agent 协同、NL2MDL2SQL 路径和六层知识体系，实现从自然语言到波动归因的全流程自动化，解决传统数据分析取数慢、口径混乱、知识不沉淀等痛点。",
-    "url": "https://www.bestblogs.dev/article/4d227d23bf?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-09-04",
-    "badge": "agent"
-  },
-  {
-    "title": "特斯拉 Cybercab 来了！无方向盘和踏板，低于 3 万美元，13 岁以下禁乘",
-    "summary": "特斯拉正式发布 Cybercab 无人驾驶出租车，取消方向盘和踏板、售价低于 3 万美元，标志着其 Robotaxi 业务进入小规模真实部署阶段，但也面临监管审批和纯视觉路线验证的关键考验。",
-    "url": "https://www.bestblogs.dev/article/0b2f3f96f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
-    "topic": "商业科技",
     "date": "2026-09-04",
     "badge": "featured"
   }
