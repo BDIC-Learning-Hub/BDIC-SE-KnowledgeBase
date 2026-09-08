@@ -1,5 +1,41 @@
 [
   {
+    "title": "从流量逻辑到任务逻辑，AI Agent 正在终结互联网的免费午餐",
+    "summary": "AI Agent 因推理与训练成本高企，正终结互联网低边际成本的免费午餐，商业模式从流量逻辑转向任务逻辑，平台权力与利润分配将围绕任务编排与结果交付重新洗牌。",
+    "url": "https://www.bestblogs.dev/article/47eccc5070?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯研究院",
+    "topic": "商业科技",
+    "date": "2026-09-07",
+    "badge": "agent"
+  },
+  {
+    "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？",
+    "summary": "本文系统梳理了从单次 LLM 调用到完整 Agent Harness 的演化路径，并对比 Pi、OpenCode、Codex、Hermes 四个框架在上下文装配、事件驱动、安全执行与自进化上的不同设计取舍。",
+    "url": "https://www.bestblogs.dev/article/c7b1be8460?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-09-07",
+    "badge": "agent"
+  },
+  {
+    "title": "对话 Nirva 吕唯：在 Meta 做了四年半可穿戴，想清楚了第一代 AI 原生设备该从哪切",
+    "summary": "Nirva 创始人吕唯分享其 AI 原生可穿戴设备的产品哲学：以时尚配饰形态实现全天候聆听，通过长期 context 理解用户情绪与行为模式，提供自我认知与陪伴价值。",
+    "url": "https://www.bestblogs.dev/article/ee2f770f29?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
+    "topic": "商业科技",
+    "date": "2026-09-07",
+    "badge": "featured"
+  },
+  {
+    "title": "“只要拍了照，啥都好说，做个假的就行。”",
+    "summary": "央视《财经调查》卧底多家环境检测公司，揭露其通过摆拍采样、用白噪音或村民家水充当样品、编造数据等手段出具虚假合格监测报告，严重威胁环境治理。",
+    "url": "https://www.bestblogs.dev/article/e67186ac78?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 央视网",
+    "topic": "媒体资讯",
+    "date": "2026-09-07",
+    "badge": "featured"
+  },
+  {
     "title": "“维权记录”成求职者“黑料”，背调成窥探隐私的工具……起底求职背调灰产链→",
     "summary": "央广网记者调查发现求职背调行业存在灰色产业链，背调机构通过内部渠道非法获取求职者未公开的诉讼、婚姻、负债等隐私信息，劳动者因举证困难难以维权，专家呼吁完善立法明确边界。",
     "url": "https://www.bestblogs.dev/article/65982df55b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 科普中国",
     "topic": "媒体资讯",
     "date": "2026-09-05",
-    "badge": "featured"
-  },
-  {
-    "title": "国内越来越多中产老人，正在挤爆这个地方？",
-    "summary": "文章通过实地走访和行业观察，呈现了中产老人旅居云南的新生活方式，揭示了这个新兴行业在快速扩张背后面临的价格战、服务缩水与监管缺位等深层问题。",
-    "url": "https://www.bestblogs.dev/article/bb58b20556?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-09-05",
-    "badge": "featured"
-  },
-  {
-    "title": "黄仁勋与杨小凯",
-    "summary": "文章用亚当·斯密、科斯、杨小凯、威廉姆森的新制度经济学框架，剖析英伟达为何从芯片供应商转型为 AI 产业链的「准央行」——以长期采购、信用注入和担保为上下游托底，缓解极致分工下的单点脆弱与专用性资产风险。",
-    "url": "https://www.bestblogs.dev/article/0710f15054?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "商业科技",
-    "date": "2026-09-05",
-    "badge": "featured"
-  },
-  {
-    "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
-    "summary": "蚂蚁数科魏长征分享 Harness 工程实践：AI Coding 的核心矛盾不在代码生产而在验证，通过约束层、对抗验证层和证据层的闭环设计，将 60 万行 C++ 存量项目的代码缺陷率从 20% 以上降至个位数。",
-    "url": "https://www.bestblogs.dev/article/03550d6d39?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "软件编程",
-    "date": "2026-09-04",
-    "badge": "tooling"
-  },
-  {
-    "title": "中国 7 条最美水上公路，都去过的有福了",
-    "summary": "本文介绍了中国七条最具代表性的水上公路，包括湖北狮子关、江西鄱阳湖、青海西台吉乃尔湖、西藏拉林公路、湖北古昭公路、江苏石臼湖和四川金口河，分析了它们各自的地理背景、生态特征和视觉魅力。",
-    "url": "https://www.bestblogs.dev/article/1bf1832060?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国国家地理",
-    "topic": "生活文化",
-    "date": "2026-09-04",
     "badge": "featured"
   }
 ]
