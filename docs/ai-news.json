@@ -1,5 +1,59 @@
 [
   {
+    "title": "孤独真正的价值",
+    "summary": "冯骥才以塞尚与左拉的友谊破裂为切入点，深入探讨塞尚作为艺术先觉者所经历的孤独、不被理解的困境，以及这种孤独最终如何成为他艺术成就与精神自由的真正价值。",
+    "url": "https://www.bestblogs.dev/article/d16596904c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 周国平",
+    "topic": "生活文化",
+    "date": "2026-09-08",
+    "badge": "featured"
+  },
+  {
+    "title": "Milvus HNSW 量化索引选型指南：从 SQ、PQ、PRQ 到 Refine 实测",
+    "summary": "本文基于 Cohere 1M 数据集实测对比 Milvus 中 HNSW、HNSW_SQ、HNSW_PQ 和 HNSW_PRQ 四种索引，给出 SQ8 作为均衡起点、refinement 恢复召回率等选型建议。",
+    "url": "https://www.bestblogs.dev/article/7453e9eb09?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Zilliz",
+    "topic": "人工智能",
+    "date": "2026-09-08",
+    "badge": "featured"
+  },
+  {
+    "title": "我用腾讯 Kuikly，把 DeepSeek Harness 装进了口袋",
+    "summary": "作者用腾讯 Kuikly 跨端框架开发了 DSH Mobile，一套 Kotlin 代码覆盖 Android、iOS 和鸿蒙，通过官方 Host 协议让手机在通勤等碎片时间处理 DeepSeek Harness 的审批、追问和进度查看。",
+    "url": "https://www.bestblogs.dev/article/4c04a3248b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "软件编程",
+    "date": "2026-09-08",
+    "badge": "tooling"
+  },
+  {
+    "title": "字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么",
+    "summary": "字节跳动质量保障团队分享了 NL2Test Agent 的落地经验，强调通过场景选择、工程设计和容错机制，让测试用例生成工具真正被 QA 使用。",
+    "url": "https://www.bestblogs.dev/article/a4646ebeae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "软件编程",
+    "date": "2026-09-08",
+    "badge": "agent"
+  },
+  {
+    "title": "面壁智能开源 MiniCPM5-2B：AA 榜单全球 4B 以下第一，初具端侧通用 Agent 能力",
+    "summary": "面壁智能联合 OpenBMB 开源 MiniCPM5-2B，以 2B 参数在 AA 榜单全球 4B 以下开源基座模型中综合排名第一，并同步开源数据、训练框架与强化学习策略，初步具备端侧通用 Agent 能力。",
+    "url": "https://www.bestblogs.dev/article/c47dcee9a6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 魔搭ModelScope社区",
+    "topic": "人工智能",
+    "date": "2026-09-08",
+    "badge": "agent"
+  },
+  {
+    "title": "天猫技术大型 AI 项目的研发协同实践",
+    "summary": "天猫技术团队以新品 MDI 项目为例，分享大型 AI 项目研发协同从超级个体到全员赋能的四阶段实践，涵盖结构化知识库、站点地图分工、上下文缝补、技术哨兵机及 NekoCollar 平台等关键方法。",
+    "url": "https://www.bestblogs.dev/article/62c701cf52?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-09-07",
+    "badge": "tooling"
+  },
+  {
     "title": "从流量逻辑到任务逻辑，AI Agent 正在终结互联网的免费午餐",
     "summary": "AI Agent 因推理与训练成本高企，正终结互联网低边际成本的免费午餐，商业模式从流量逻辑转向任务逻辑，平台权力与利润分配将围绕任务编排与结果交付重新洗牌。",
     "url": "https://www.bestblogs.dev/article/47eccc5070?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,59 +70,5 @@
     "topic": "人工智能",
     "date": "2026-09-07",
     "badge": "agent"
-  },
-  {
-    "title": "对话 Nirva 吕唯：在 Meta 做了四年半可穿戴，想清楚了第一代 AI 原生设备该从哪切",
-    "summary": "Nirva 创始人吕唯分享其 AI 原生可穿戴设备的产品哲学：以时尚配饰形态实现全天候聆听，通过长期 context 理解用户情绪与行为模式，提供自我认知与陪伴价值。",
-    "url": "https://www.bestblogs.dev/article/ee2f770f29?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "商业科技",
-    "date": "2026-09-07",
-    "badge": "featured"
-  },
-  {
-    "title": "“只要拍了照，啥都好说，做个假的就行。”",
-    "summary": "央视《财经调查》卧底多家环境检测公司，揭露其通过摆拍采样、用白噪音或村民家水充当样品、编造数据等手段出具虚假合格监测报告，严重威胁环境治理。",
-    "url": "https://www.bestblogs.dev/article/e67186ac78?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视网",
-    "topic": "媒体资讯",
-    "date": "2026-09-07",
-    "badge": "featured"
-  },
-  {
-    "title": "“维权记录”成求职者“黑料”，背调成窥探隐私的工具……起底求职背调灰产链→",
-    "summary": "央广网记者调查发现求职背调行业存在灰色产业链，背调机构通过内部渠道非法获取求职者未公开的诉讼、婚姻、负债等隐私信息，劳动者因举证困难难以维权，专家呼吁完善立法明确边界。",
-    "url": "https://www.bestblogs.dev/article/65982df55b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央广网",
-    "topic": "媒体资讯",
-    "date": "2026-09-06",
-    "badge": "tooling"
-  },
-  {
-    "title": "TikTok SRE 技术负责人：AI Agents 说到底就是分布式系统",
-    "summary": "TikTok SRE Salman Munaf 将 AI Agent 定位为概率性分布式协调器，系统阐述为何超时是「未知」而非失败、记忆应视作可失效缓存、以及模型能力无法替代权限约束、事务补偿和可观测性等分布式系统机制。",
-    "url": "https://www.bestblogs.dev/article/e29ff7fb03?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "软件编程",
-    "date": "2026-09-06",
-    "badge": "agent"
-  },
-  {
-    "title": "OpenAI GPT-6 Astra 实测：一句话，造出一栋可以走进去的房子",
-    "summary": "OpenAI Codex 工程师实测 GPT-6 Astra：仅用一句提示词，便让 AI 直接在 Blender 中建出一栋可编辑、可走动、有生活痕迹的完整住宅，展示了 computer use 在 3D 创作中的系统性突破。",
-    "url": "https://www.bestblogs.dev/article/43eec6c0cc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "人工智能",
-    "date": "2026-09-06",
-    "badge": "model"
-  },
-  {
-    "title": "中国科研团队火速公布吉隆泥石流初步研究成果，里面藏着哪些问题的答案？",
-    "summary": "中国科学院团队在吉隆泥石流灾后 5 天内完成系统研究，揭示了高位冰岩崩沿程增容机制、极速流动的成因及气候诱因，为高山地质灾害监测预警提供关键科学依据。",
-    "url": "https://www.bestblogs.dev/article/03f9d9201d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 科普中国",
-    "topic": "媒体资讯",
-    "date": "2026-09-05",
-    "badge": "featured"
   }
 ]
