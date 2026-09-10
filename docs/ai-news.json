@@ -1,5 +1,41 @@
 [
   {
+    "title": "【AI 创新实践】“架构师 Agent” 系统化落地",
+    "summary": "本文系统阐述了让 AI Agent 真正承担复杂存量分布式系统架构师职能的实践路径，核心是以强结构化分层知识库替代 RAG 作为知识骨架，并通过渐进式披露与 Agent Runtime 设计，使 AI 能独立完成跨系统的技术方案设计。",
+    "url": "https://www.bestblogs.dev/article/18181fb6dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里云开发者",
+    "topic": "人工智能",
+    "date": "2026-09-09",
+    "badge": "agent"
+  },
+  {
+    "title": "没有手印的陶罐：“AI 感”作为一种症状",
+    "summary": "本文以「AI 感」为切入点，剖析其作为读者经验而非事实指控的本质，指出它指向的是写作中作者性的缺席，并延伸至学术制度、知识传播与署名责任的结构性反思。",
+    "url": "https://www.bestblogs.dev/article/4ef0481da4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 澎湃思想市场",
+    "topic": "媒体资讯",
+    "date": "2026-09-09",
+    "badge": "featured"
+  },
+  {
+    "title": "《纽约时报》对 99 岁数学家琼·伯曼的长篇报道",
+    "summary": "本文讲述了 99 岁的数学家 Joan Birman 与两名学生合作，成功解决了一个困扰数学界数十年的问题——四股辫子群的 Burau 表示是否忠实，并探讨了数学知识的代际传承和 Birman 的传奇生涯。",
+    "url": "https://www.bestblogs.dev/article/ba307489de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 返朴",
+    "topic": "生活文化",
+    "date": "2026-09-09",
+    "badge": "featured"
+  },
+  {
+    "title": "北大医学博士：80%猝死的人，平时看起来都很正常",
+    "summary": "探讨猝死现象、风险因素及急救知识，揭示 80% 猝死者平时看似正常的真相，并提供实用的心脏健康管理与急救指南。",
+    "url": "https://www.bestblogs.dev/article/058dd9b56d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 一条",
+    "topic": "生活文化",
+    "date": "2026-09-08",
+    "badge": "featured"
+  },
+  {
     "title": "孤独真正的价值",
     "summary": "冯骥才以塞尚与左拉的友谊破裂为切入点，深入探讨塞尚作为艺术先觉者所经历的孤独、不被理解的困境，以及这种孤独最终如何成为他艺术成就与精神自由的真正价值。",
     "url": "https://www.bestblogs.dev/article/d16596904c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -33,42 +69,6 @@
     "source": "BestBlogs / 字节跳动技术团队",
     "topic": "软件编程",
     "date": "2026-09-08",
-    "badge": "agent"
-  },
-  {
-    "title": "面壁智能开源 MiniCPM5-2B：AA 榜单全球 4B 以下第一，初具端侧通用 Agent 能力",
-    "summary": "面壁智能联合 OpenBMB 开源 MiniCPM5-2B，以 2B 参数在 AA 榜单全球 4B 以下开源基座模型中综合排名第一，并同步开源数据、训练框架与强化学习策略，初步具备端侧通用 Agent 能力。",
-    "url": "https://www.bestblogs.dev/article/c47dcee9a6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 魔搭ModelScope社区",
-    "topic": "人工智能",
-    "date": "2026-09-08",
-    "badge": "agent"
-  },
-  {
-    "title": "天猫技术大型 AI 项目的研发协同实践",
-    "summary": "天猫技术团队以新品 MDI 项目为例，分享大型 AI 项目研发协同从超级个体到全员赋能的四阶段实践，涵盖结构化知识库、站点地图分工、上下文缝补、技术哨兵机及 NekoCollar 平台等关键方法。",
-    "url": "https://www.bestblogs.dev/article/62c701cf52?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-09-07",
-    "badge": "tooling"
-  },
-  {
-    "title": "从流量逻辑到任务逻辑，AI Agent 正在终结互联网的免费午餐",
-    "summary": "AI Agent 因推理与训练成本高企，正终结互联网低边际成本的免费午餐，商业模式从流量逻辑转向任务逻辑，平台权力与利润分配将围绕任务编排与结果交付重新洗牌。",
-    "url": "https://www.bestblogs.dev/article/47eccc5070?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯研究院",
-    "topic": "商业科技",
-    "date": "2026-09-07",
-    "badge": "agent"
-  },
-  {
-    "title": "从一次 LLM 调用到完整 Harness，Agent 到底经历了什么？",
-    "summary": "本文系统梳理了从单次 LLM 调用到完整 Agent Harness 的演化路径，并对比 Pi、OpenCode、Codex、Hermes 四个框架在上下文装配、事件驱动、安全执行与自进化上的不同设计取舍。",
-    "url": "https://www.bestblogs.dev/article/c7b1be8460?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-09-07",
     "badge": "agent"
   }
 ]
