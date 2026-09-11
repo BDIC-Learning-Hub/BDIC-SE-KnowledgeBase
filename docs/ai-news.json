@@ -1,74 +1,74 @@
 [
   {
-    "title": "【AI 创新实践】“架构师 Agent” 系统化落地",
-    "summary": "本文系统阐述了让 AI Agent 真正承担复杂存量分布式系统架构师职能的实践路径，核心是以强结构化分层知识库替代 RAG 作为知识骨架，并通过渐进式披露与 Agent Runtime 设计，使 AI 能独立完成跨系统的技术方案设计。",
-    "url": "https://www.bestblogs.dev/article/18181fb6dd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里云开发者",
+    "title": "Agentic Harness Workflow 框架：把 AI Coding 变成工程化流程",
+    "summary": "本文作者详细拆解了自研的 Agentic Harness Workflow 框架，通过引入固定生命周期流水线、阶段级 Sub-Agent 协作、状态落盘与人工门禁，将 AI 编码从不确定的“碰运气”转变为可复现的工程化流程，并分享了实战中的踩坑反思。",
+    "url": "https://www.bestblogs.dev/article/37399af360?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 百度Geek说",
     "topic": "人工智能",
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "badge": "agent"
   },
   {
-    "title": "没有手印的陶罐：“AI 感”作为一种症状",
-    "summary": "本文以「AI 感」为切入点，剖析其作为读者经验而非事实指控的本质，指出它指向的是写作中作者性的缺席，并延伸至学术制度、知识传播与署名责任的结构性反思。",
-    "url": "https://www.bestblogs.dev/article/4ef0481da4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 澎湃思想市场",
+    "title": "DeepSeek-V4.1-Flash 技术报告深度解读：长程 Agent 如何重新分配预算",
+    "summary": "文章深入解读了 DeepSeek-V4.1-Flash 技术报告，阐述了 CED、CSA2、FP4 量化等多项技术优化如何显著降低 KV 缓存开销和计算成本，使长程 Agent 能够更高效地执行复杂任务。",
+    "url": "https://www.bestblogs.dev/article/177c83044c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / AINLP",
+    "topic": "人工智能",
+    "date": "2026-09-10",
+    "badge": "agent"
+  },
+  {
+    "title": "刚刚，DeepSeek 发布新模型，Flash 把 Pro 给干掉了",
+    "summary": "DeepSeek 发布 V4.1 Flash，通过 CED 非对称架构、CSA2 稀疏注意力和 FP4 KV Cache 等优化，让 552B MoE 模型以约 8B/16B 激活参数运行，性能反超 V4 Pro 并推动其下线。",
+    "url": "https://www.bestblogs.dev/article/f7fea15555?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / APPSO",
+    "topic": "人工智能",
+    "date": "2026-09-10",
+    "badge": "model"
+  },
+  {
+    "title": "DeepSeek V4.1 Flash：更强、更快、更普惠",
+    "summary": "DeepSeek 正式发布具备原生多模态能力的 V4.1 Flash 模型，采用 552B MoE 和非对称 Causal-Encoder-Decoder 结构，大幅降低 KV Cache 资源占用并下调 API 价格，同步开源模型与论文。",
+    "url": "https://www.bestblogs.dev/article/ae92063434?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / DeepSeek",
+    "topic": "人工智能",
+    "date": "2026-09-10",
+    "badge": "model"
+  },
+  {
+    "title": "周期之苦，杠杆之痛",
+    "summary": "从 8·28 新政切入，对比香港与内地楼市调整中杠杆分布差异，揭示居民端与企业端风险互换的镜像反转，指出活得久比跑得快更重要。",
+    "url": "https://www.bestblogs.dev/article/2d40db049d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 香帅的金融江湖",
+    "topic": "投资财经",
+    "date": "2026-09-10",
+    "badge": "featured"
+  },
+  {
+    "title": "2026 拉斯克基础医学奖：他们发现了睡眠与清醒的开关",
+    "summary": "本文讲述了 Emmanuel Mignot 与柳泽正史因独立发现食欲素及其在睡眠与清醒机制中的关键作用而荣获 2026 年拉斯克基础医学奖的科研历程，并探讨了该发现如何改变现代睡眠生物学及推动新药研发。",
+    "url": "https://www.bestblogs.dev/article/53146ccf4f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 返朴",
+    "topic": "生活文化",
+    "date": "2026-09-10",
+    "badge": "featured"
+  },
+  {
+    "title": "重大发现！与黄帝有关？",
+    "summary": "南佐遗址揭示五千年前黄土高原巨城，填补中华文明起源关键环节，与黄帝传说形成历史对话。",
+    "url": "https://www.bestblogs.dev/article/7ac52cbe7a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国新闻周刊",
     "topic": "媒体资讯",
     "date": "2026-09-09",
     "badge": "featured"
   },
   {
-    "title": "《纽约时报》对 99 岁数学家琼·伯曼的长篇报道",
-    "summary": "本文讲述了 99 岁的数学家 Joan Birman 与两名学生合作，成功解决了一个困扰数学界数十年的问题——四股辫子群的 Burau 表示是否忠实，并探讨了数学知识的代际传承和 Birman 的传奇生涯。",
-    "url": "https://www.bestblogs.dev/article/ba307489de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 返朴",
-    "topic": "生活文化",
-    "date": "2026-09-09",
-    "badge": "featured"
-  },
-  {
-    "title": "北大医学博士：80%猝死的人，平时看起来都很正常",
-    "summary": "探讨猝死现象、风险因素及急救知识，揭示 80% 猝死者平时看似正常的真相，并提供实用的心脏健康管理与急救指南。",
-    "url": "https://www.bestblogs.dev/article/058dd9b56d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 一条",
-    "topic": "生活文化",
-    "date": "2026-09-08",
-    "badge": "featured"
-  },
-  {
-    "title": "孤独真正的价值",
-    "summary": "冯骥才以塞尚与左拉的友谊破裂为切入点，深入探讨塞尚作为艺术先觉者所经历的孤独、不被理解的困境，以及这种孤独最终如何成为他艺术成就与精神自由的真正价值。",
-    "url": "https://www.bestblogs.dev/article/d16596904c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 周国平",
-    "topic": "生活文化",
-    "date": "2026-09-08",
-    "badge": "featured"
-  },
-  {
-    "title": "Milvus HNSW 量化索引选型指南：从 SQ、PQ、PRQ 到 Refine 实测",
-    "summary": "本文基于 Cohere 1M 数据集实测对比 Milvus 中 HNSW、HNSW_SQ、HNSW_PQ 和 HNSW_PRQ 四种索引，给出 SQ8 作为均衡起点、refinement 恢复召回率等选型建议。",
-    "url": "https://www.bestblogs.dev/article/7453e9eb09?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Zilliz",
+    "title": "RoboPapers 专访光轮智能谢晨：具身 Scaling Law 的两座金字塔",
+    "summary": "光轮智能通过构建可规模化的人类数据引擎和仿真评测体系，实现了高质量具身数据的持续生产与验证，为机器人基础模型的规模化训练提供了关键支撑。",
+    "url": "https://www.bestblogs.dev/article/483a46299a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 机器之心",
     "topic": "人工智能",
-    "date": "2026-09-08",
-    "badge": "featured"
-  },
-  {
-    "title": "我用腾讯 Kuikly，把 DeepSeek Harness 装进了口袋",
-    "summary": "作者用腾讯 Kuikly 跨端框架开发了 DSH Mobile，一套 Kotlin 代码覆盖 Android、iOS 和鸿蒙，通过官方 Host 协议让手机在通勤等碎片时间处理 DeepSeek Harness 的审批、追问和进度查看。",
-    "url": "https://www.bestblogs.dev/article/4c04a3248b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-09-08",
-    "badge": "tooling"
-  },
-  {
-    "title": "字节跳动质量保障团队｜让 QA 真正用起来：测试用例生成 Agent 落地，我们做对了什么",
-    "summary": "字节跳动质量保障团队分享了 NL2Test Agent 的落地经验，强调通过场景选择、工程设计和容错机制，让测试用例生成工具真正被 QA 使用。",
-    "url": "https://www.bestblogs.dev/article/a4646ebeae?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "软件编程",
-    "date": "2026-09-08",
-    "badge": "agent"
+    "date": "2026-09-09",
+    "badge": "model"
   }
 ]
