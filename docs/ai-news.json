@@ -1,5 +1,68 @@
 [
   {
+    "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
+    "summary": "苹果新 CEO John Ternus 在首场秋季发布会后接受专访，详细阐述了折叠屏 iPhone Duo 的工程 philosophy、纳米纹理技术突破、iPhone 依然是 AI 核心中枢的战略定力，以及苹果在隐私保护上的极致追求。",
+    "url": "https://www.bestblogs.dev/article/362b604e3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 郑廷旭",
+    "topic": "产品设计",
+    "date": "2026-09-12",
+    "badge": "featured"
+  },
+  {
+    "title": "对抗手机成瘾，全球掀起风暴",
+    "summary": "全球多国掀起针对青少年社交媒体禁令，文章梳理手机成瘾对儿童尤其是留守儿童的伤害，并指出治理正从家校责任转向平台系统设计责任。",
+    "url": "https://www.bestblogs.dev/article/04d28756aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南风窗",
+    "topic": "媒体资讯",
+    "date": "2026-09-12",
+    "badge": "featured"
+  },
+  {
+    "title": "Codex 想让 Harness 消失，Claude Code 却要把它做成“承重墙”",
+    "summary": "OpenAI 与 Anthropic 工程师就模型进步对 Harness 的影响展开辩论，揭示 AI Agent 系统中 Harness 从轻量到承重结构的演变。",
+    "url": "https://www.bestblogs.dev/article/b441ba432e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-09-12",
+    "badge": "agent"
+  },
+  {
+    "title": "扒完 DeepSeek 最新论文，我发现了 V4.1 Flash 便宜大碗的秘密",
+    "summary": "通过拆解 DeepSeek V4.1 Flash 的技术报告，揭示了其利用 CED 架构、CSA2 注意力机制及 FP4 KV Cache 等技术手段，在大幅提升 Agent 任务处理效率的同时，显著降低推理成本与显存占用的核心逻辑。",
+    "url": "https://www.bestblogs.dev/article/aa01f29b61?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / APPSO",
+    "topic": "人工智能",
+    "date": "2026-09-12",
+    "badge": "agent"
+  },
+  {
+    "title": "深度｜Anthropic 断供、媒体唱衰、对手围剿：OpenClaw 之父首次复盘生死 8 个月",
+    "summary": "OpenClaw 创始人 Peter Steinberger 首次公开复盘项目从诞生到现象级开源项目的 8 个月历程，包括遇到的挑战、媒体关注、竞争对手的挑战以及加入 OpenAI 的决定。",
+    "url": "https://www.bestblogs.dev/article/83cb8e1f1b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Z Potentials",
+    "topic": "商业科技",
+    "date": "2026-09-12",
+    "badge": "featured"
+  },
+  {
+    "title": "宫里 25000 件价值连城的宝贝，她摸了近 40 年",
+    "summary": "通过廖宝秀博士 40 年研究宫廷茶器的历程，揭示中国茶文化从唐宋至清代的演变脉络及其对日本茶道的深远影响。",
+    "url": "https://www.bestblogs.dev/article/e79f39f2e8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 一条",
+    "topic": "生活文化",
+    "date": "2026-09-11",
+    "badge": "featured"
+  },
+  {
+    "title": "刚刚，陶哲轩等 25 位菲尔兹奖得主联名警告：别让 AI 掏空数学",
+    "summary": "25 位菲尔兹奖得主警告，AI 把解答数学问题当作能力基准，忽略理解与方法传承，可能削弱数学研究的深度与知识传承。",
+    "url": "https://www.bestblogs.dev/article/79ea475638?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / APPSO",
+    "topic": "媒体资讯",
+    "date": "2026-09-11",
+    "badge": "featured"
+  },
+  {
     "title": "AI 使用心得：B 端产品工作中的方法、边界与实践",
     "summary": "文章通过个人实践介绍 AI 在 B 端产品工作中的四步法、Skill 沉淀、Prompt→Context→Harness 演进及使用边界，强调人为决策者、AI 为劳动者。",
     "url": "https://www.bestblogs.dev/article/25453dd390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "产品设计",
     "date": "2026-09-11",
     "badge": "featured"
-  },
-  {
-    "title": "不断走偏的通胀指标 —— 美联储新通胀指标的代表性与有效性研究",
-    "summary": "本文系统梳理了美国通胀度量指标的演进逻辑，基于 1977---2026 年居民消费支出（PCE）细分价格与支出数据，重点对截尾均值 PCE 通胀指标的代表性与有效性进行检验。研究发现：第一，截尾均值 PCE 通胀以牺牲代表性为代价换取统计平滑性，其剔除的高涨幅项目集中于医疗、住房、食品等刚性消费领域，且尾部价格变动具备强持续性；第二，2020 年以来 PCE 价格分布从长期左偏向近似对称甚至右偏漂移，固定非对称截尾规则与现实分布的错配导致截尾均值 PCE 系统性低估了通胀压力；第三，不存在全景最优的通胀衡量指标，截尾均值 PCE 通胀的平滑性会降低潜在货币政策利率反应灵敏度，使其在通缩环境下延缓降息，在通胀环境下延缓加息或指引降息；第四，沃什对截尾均值 PCE 通胀的重视是美国债务压力、政治周期、沃什政策偏好与技术叙事共同作用的结果，会对美国经济自身和全球经济带来潜在冲击。本研究表明，通胀指标的选择需平衡统计理性与社会价值，新兴经济体不宜盲目照搬发达经济体的截尾类通胀衡量框架。",
-    "url": "https://www.bestblogs.dev/article/c40860132a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 香帅的金融江湖",
-    "topic": "投资财经",
-    "date": "2026-09-11",
-    "badge": "featured"
-  },
-  {
-    "title": "AI，重写抖音的高客单价生意逻辑",
-    "summary": "高客单生意在抖音通过 AI 预筛、内容矩阵和线上线下联动，实现从精准获客到持续经营的闭环。",
-    "url": "https://www.bestblogs.dev/article/4342945808?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "商业科技",
-    "date": "2026-09-11",
-    "badge": "featured"
-  },
-  {
-    "title": "这些“过时”的国家名字，该更新了！",
-    "summary": "文章梳理土耳其、斯里兰卡、马拉维、津巴布韦、荷兰、新西兰等国名变更案例，揭示新国名如何承载民族认同、地理特质与去殖民记忆。",
-    "url": "https://www.bestblogs.dev/article/530b5dbe05?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国国家地理",
-    "topic": "生活文化",
-    "date": "2026-09-11",
-    "badge": "featured"
-  },
-  {
-    "title": "让 Agent 像人一样记忆：本地长期记忆系统 HL-Mem 的设计与取舍",
-    "summary": "淘天直播技术团队开源本地长期记忆系统 HL-Mem，借鉴认知科学将记忆视为受治理的认知系统，用事实与经验双通道架构、双时间模型和生命周期管理，在 SQLite 单文件上实现可追溯、可修正、可遗忘的 Agent 长期记忆。",
-    "url": "https://www.bestblogs.dev/article/b742f07f15?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "人工智能",
-    "date": "2026-09-11",
-    "badge": "agent"
-  },
-  {
-    "title": "2 分钟到 20 秒！AI Agent 让工单处理可提效 9 倍",
-    "summary": "基于 AI Agent 的智能诊断系统通过配置驱动的并发取数、规则+LLM 双通道标签、分层决策 Trace 与 SSE 实时推送，将工单处理时间从 2-3 分钟压缩到 20-40 秒，实现 3-9× 提效。",
-    "url": "https://www.bestblogs.dev/article/6dfb071cd5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-09-11",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 接连刷新素数间隔纪录，为何最后的 2 仍遥不可及？",
-    "summary": "本文探讨了近期 AI 与数学家接连刷新有界素数间隔纪录的背景，深入浅出地解析了现代筛法的演进逻辑，并揭示了为何「奇偶障碍」使得人类与 AI 仍难以跨越通往孪生素数猜想的最后鸿沟。",
-    "url": "https://www.bestblogs.dev/article/fca426b099?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 返朴",
-    "topic": "生活文化",
-    "date": "2026-09-11",
-    "badge": "featured"
-  },
-  {
-    "title": "科技爱好者周刊（第 412 期）：禁止 issue，只用 PR",
-    "summary": "本期周刊以 Laravel 禁止提交 issue、只接受 PR 为切入点，讨论 AI 时代开源协作模式的转变，并报道 Claude 完成费马大定理机器证明等科技动态。",
-    "url": "https://www.bestblogs.dev/article/cbf6ad957a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阮一峰",
-    "topic": "软件编程",
-    "date": "2026-09-11",
-    "badge": "model"
   }
 ]
