@@ -1,5 +1,59 @@
 [
   {
+    "title": "这部电影是《杀死比尔》的加强版",
+    "summary": "本文将《修罗雪姬》比作《杀死比尔》的加强版，指出该片不仅是复仇动作片，更深层次地嵌入了明治维新历史背景，通过个人复仇反映日本现代化进程与文化冲突，并探讨了 1970 年代日本社会心态与性别表述。",
+    "url": "https://www.bestblogs.dev/article/b37761b051?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虹膜",
+    "topic": "生活文化",
+    "date": "2026-09-13",
+    "badge": "featured"
+  },
+  {
+    "title": "刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话",
+    "summary": "刘震云与马毅在 2026 外滩大会上探讨 AI 对创造、教育和人际关系的冲击，认为 AI 擅长处理共性知识但缺乏个性化创造，并强调技术进步应促进人类价值的重新定义而非取代。",
+    "url": "https://www.bestblogs.dev/article/00f31d8e54?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / InfoQ 中文",
+    "topic": "人工智能",
+    "date": "2026-09-13",
+    "badge": "featured"
+  },
+  {
+    "title": "一位社会学家的临终笔记：自然开始，也自然结束",
+    "summary": "当代马克思主义社会学家埃里克·欧林·赖特在被诊断出急性骨髓性白血病后，通过博客记录了自己从疾病到死亡的经历，探讨了爱、联结与理想在生命中的意义。",
+    "url": "https://www.bestblogs.dev/article/511870876f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新京报书评周刊",
+    "topic": "个人成长",
+    "date": "2026-09-13",
+    "badge": "featured"
+  },
+  {
+    "title": "北京观鸟指南",
+    "summary": "本文介绍了北京地区常见的 15 种鸟类，包括黄胸鹀、大鸨、灰喜鹊、普通翠鸟、卷羽鹈鹕、疣鼻天鹅、夜鹭、中华秋沙鸭、纵纹腹小鸮、黑冠鳽、琉璃蓝鹟、北长尾山雀、鹮嘴鹬、珠颈斑鸠、乌鸫和白头鹎，并提供了它们的观测难度、季节、栖息地以及有趣的事实。",
+    "url": "https://www.bestblogs.dev/article/52a82aaf85?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新京报书评周刊",
+    "topic": "生活文化",
+    "date": "2026-09-13",
+    "badge": "featured"
+  },
+  {
+    "title": "百万人追更的「噪音博主」，戳中买房人最深的痛",
+    "summary": "本文深入探讨了低频噪声对居民生活的影响，通过具体案例分析了噪声源的隐蔽性、检测的复杂性以及维权路径的艰难，揭示了这一环境问题在现代城市中的普遍性和严重性。",
+    "url": "https://www.bestblogs.dev/article/801a942ac4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 36氪",
+    "topic": "媒体资讯",
+    "date": "2026-09-13",
+    "badge": "featured"
+  },
+  {
+    "title": "中国喀斯特地貌景观，谁最美？",
+    "summary": "文章以「颜值担当」为线索，系统梳理天坑、坡立谷、峰林峰丛、石林、溶洞与盐溶洞六类中国喀斯特地貌，并给出各自的代表景观与成因解释。",
+    "url": "https://www.bestblogs.dev/article/e5584309dc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国国家地理",
+    "topic": "生活文化",
+    "date": "2026-09-13",
+    "badge": "featured"
+  },
+  {
     "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
     "summary": "苹果新 CEO John Ternus 在首场秋季发布会后接受专访，详细阐述了折叠屏 iPhone Duo 的工程 philosophy、纳米纹理技术突破、iPhone 依然是 AI 核心中枢的战略定力，以及苹果在隐私保护上的极致追求。",
     "url": "https://www.bestblogs.dev/article/362b604e3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -15,60 +69,6 @@
     "source": "BestBlogs / 南风窗",
     "topic": "媒体资讯",
     "date": "2026-09-12",
-    "badge": "featured"
-  },
-  {
-    "title": "Codex 想让 Harness 消失，Claude Code 却要把它做成“承重墙”",
-    "summary": "OpenAI 与 Anthropic 工程师就模型进步对 Harness 的影响展开辩论，揭示 AI Agent 系统中 Harness 从轻量到承重结构的演变。",
-    "url": "https://www.bestblogs.dev/article/b441ba432e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "人工智能",
-    "date": "2026-09-12",
-    "badge": "agent"
-  },
-  {
-    "title": "扒完 DeepSeek 最新论文，我发现了 V4.1 Flash 便宜大碗的秘密",
-    "summary": "通过拆解 DeepSeek V4.1 Flash 的技术报告，揭示了其利用 CED 架构、CSA2 注意力机制及 FP4 KV Cache 等技术手段，在大幅提升 Agent 任务处理效率的同时，显著降低推理成本与显存占用的核心逻辑。",
-    "url": "https://www.bestblogs.dev/article/aa01f29b61?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / APPSO",
-    "topic": "人工智能",
-    "date": "2026-09-12",
-    "badge": "agent"
-  },
-  {
-    "title": "深度｜Anthropic 断供、媒体唱衰、对手围剿：OpenClaw 之父首次复盘生死 8 个月",
-    "summary": "OpenClaw 创始人 Peter Steinberger 首次公开复盘项目从诞生到现象级开源项目的 8 个月历程，包括遇到的挑战、媒体关注、竞争对手的挑战以及加入 OpenAI 的决定。",
-    "url": "https://www.bestblogs.dev/article/83cb8e1f1b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Z Potentials",
-    "topic": "商业科技",
-    "date": "2026-09-12",
-    "badge": "featured"
-  },
-  {
-    "title": "宫里 25000 件价值连城的宝贝，她摸了近 40 年",
-    "summary": "通过廖宝秀博士 40 年研究宫廷茶器的历程，揭示中国茶文化从唐宋至清代的演变脉络及其对日本茶道的深远影响。",
-    "url": "https://www.bestblogs.dev/article/e79f39f2e8?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 一条",
-    "topic": "生活文化",
-    "date": "2026-09-11",
-    "badge": "featured"
-  },
-  {
-    "title": "刚刚，陶哲轩等 25 位菲尔兹奖得主联名警告：别让 AI 掏空数学",
-    "summary": "25 位菲尔兹奖得主警告，AI 把解答数学问题当作能力基准，忽略理解与方法传承，可能削弱数学研究的深度与知识传承。",
-    "url": "https://www.bestblogs.dev/article/79ea475638?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / APPSO",
-    "topic": "媒体资讯",
-    "date": "2026-09-11",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 使用心得：B 端产品工作中的方法、边界与实践",
-    "summary": "文章通过个人实践介绍 AI 在 B 端产品工作中的四步法、Skill 沉淀、Prompt→Context→Harness 演进及使用边界，强调人为决策者、AI 为劳动者。",
-    "url": "https://www.bestblogs.dev/article/25453dd390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 京东技术",
-    "topic": "产品设计",
-    "date": "2026-09-11",
     "badge": "featured"
   }
 ]
