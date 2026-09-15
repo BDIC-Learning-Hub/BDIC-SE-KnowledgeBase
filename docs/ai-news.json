@@ -1,5 +1,59 @@
 [
   {
+    "title": "怎样让不戴眼镜的人，愿意每天戴一副 AI 眼镜？|专访应用材料公司副总裁 Paul Meissner",
+    "summary": "应用材料公司副总裁 Paul Meissner 在专访中探讨了智能眼镜的未来发展，强调通过集成视觉系统平台 SENZ，将光波导、光机、摄像头、传感器、视力矫正和电致变色等技术整合，以解决供应链问题并降低制造复杂度。他认为，随着技术成熟和成本降低，兼顾显示、功能与舒适性的中间形态将成为市场主流，而 AI 的引入将使眼镜成为实时感知和数据分析的重要工具。",
+    "url": "https://www.bestblogs.dev/article/fbdfc62b7e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 罗嘉阳",
+    "topic": "产品设计",
+    "date": "2026-09-14",
+    "badge": "tooling"
+  },
+  {
+    "title": "别再只卷 Prompt 了，真正拉开 Agent 差距的是 Context Engineering",
+    "summary": "文章梳理了从 Prompt Engineering 到 ReAct 再到 Context Engineering 的范式演进，结合 Anthropic、CoALA 与 Lost in the Middle 等研究，系统讲解上下文窗口的物理约束与七类构成要素的设计原则。",
+    "url": "https://www.bestblogs.dev/article/4d8b94a7a4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
+    "topic": "人工智能",
+    "date": "2026-09-14",
+    "badge": "agent"
+  },
+  {
+    "title": "一家三口打赏 650 万背后",
+    "summary": "北京互联网法院审理一起 17 岁女孩打赏 650 万元的案件，法官毛春联通过上万条流水与数万条评论查出真相：一家三口全员参与打赏，父母试图借女儿未成年身份全额退款，最终被驳回全部诉讼请求。",
+    "url": "https://www.bestblogs.dev/article/f6600469d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人物",
+    "topic": "媒体资讯",
+    "date": "2026-09-14",
+    "badge": "featured"
+  },
+  {
+    "title": "Anthropic CEO 谈放缓 AI 研发：这个行业对人们撒谎太久了，AI 风险是真实的，但也无需“把一切都关掉”",
+    "summary": "Anthropic CEO Dario Amodei 在 CBS 采访中强调，尽管 AI 带来了巨大收益，但其风险同样真实，并呼吁通过第三方评估、行业协作和政府参与来放缓研发节奏，而非完全禁止。",
+    "url": "https://www.bestblogs.dev/article/c9f9a12060?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 龙玥",
+    "topic": "人工智能",
+    "date": "2026-09-14",
+    "badge": "featured"
+  },
+  {
+    "title": "10 个问答，深入分歧之下的具身机器人",
+    "summary": "四位具身智能创业者与首席科学家在外滩大会圆桌中，围绕数据来源、Astra 是否降维打击、商业化指标与五年后高估/低估展开了一场罕见未收敛的路线级分歧讨论。",
+    "url": "https://www.bestblogs.dev/article/0ff1951573?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "人工智能",
+    "date": "2026-09-14",
+    "badge": "featured"
+  },
+  {
+    "title": "数学家汤涛专访邓煜：一位原创力极强的数学家，写诗熬过人生低谷",
+    "summary": "汤涛院士对谈新晋菲尔兹奖得主邓煜，完整回溯他从深圳少年、奥数金牌、北大与 MIT 求学，到博士后低谷期以古典诗词自遣，最终凭随机张量分析与波动动理学方程等成果登顶菲尔兹奖的历程。",
+    "url": "https://www.bestblogs.dev/article/22f5fc0f1b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 返朴",
+    "topic": "生活文化",
+    "date": "2026-09-14",
+    "badge": "featured"
+  },
+  {
     "title": "这部电影是《杀死比尔》的加强版",
     "summary": "本文将《修罗雪姬》比作《杀死比尔》的加强版，指出该片不仅是复仇动作片，更深层次地嵌入了明治维新历史背景，通过个人复仇反映日本现代化进程与文化冲突，并探讨了 1970 年代日本社会心态与性别表述。",
     "url": "https://www.bestblogs.dev/article/b37761b051?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -15,60 +69,6 @@
     "source": "BestBlogs / InfoQ 中文",
     "topic": "人工智能",
     "date": "2026-09-13",
-    "badge": "featured"
-  },
-  {
-    "title": "一位社会学家的临终笔记：自然开始，也自然结束",
-    "summary": "当代马克思主义社会学家埃里克·欧林·赖特在被诊断出急性骨髓性白血病后，通过博客记录了自己从疾病到死亡的经历，探讨了爱、联结与理想在生命中的意义。",
-    "url": "https://www.bestblogs.dev/article/511870876f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新京报书评周刊",
-    "topic": "个人成长",
-    "date": "2026-09-13",
-    "badge": "featured"
-  },
-  {
-    "title": "北京观鸟指南",
-    "summary": "本文介绍了北京地区常见的 15 种鸟类，包括黄胸鹀、大鸨、灰喜鹊、普通翠鸟、卷羽鹈鹕、疣鼻天鹅、夜鹭、中华秋沙鸭、纵纹腹小鸮、黑冠鳽、琉璃蓝鹟、北长尾山雀、鹮嘴鹬、珠颈斑鸠、乌鸫和白头鹎，并提供了它们的观测难度、季节、栖息地以及有趣的事实。",
-    "url": "https://www.bestblogs.dev/article/52a82aaf85?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 新京报书评周刊",
-    "topic": "生活文化",
-    "date": "2026-09-13",
-    "badge": "featured"
-  },
-  {
-    "title": "百万人追更的「噪音博主」，戳中买房人最深的痛",
-    "summary": "本文深入探讨了低频噪声对居民生活的影响，通过具体案例分析了噪声源的隐蔽性、检测的复杂性以及维权路径的艰难，揭示了这一环境问题在现代城市中的普遍性和严重性。",
-    "url": "https://www.bestblogs.dev/article/801a942ac4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 36氪",
-    "topic": "媒体资讯",
-    "date": "2026-09-13",
-    "badge": "featured"
-  },
-  {
-    "title": "中国喀斯特地貌景观，谁最美？",
-    "summary": "文章以「颜值担当」为线索，系统梳理天坑、坡立谷、峰林峰丛、石林、溶洞与盐溶洞六类中国喀斯特地貌，并给出各自的代表景观与成因解释。",
-    "url": "https://www.bestblogs.dev/article/e5584309dc?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国国家地理",
-    "topic": "生活文化",
-    "date": "2026-09-13",
-    "badge": "featured"
-  },
-  {
-    "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
-    "summary": "苹果新 CEO John Ternus 在首场秋季发布会后接受专访，详细阐述了折叠屏 iPhone Duo 的工程 philosophy、纳米纹理技术突破、iPhone 依然是 AI 核心中枢的战略定力，以及苹果在隐私保护上的极致追求。",
-    "url": "https://www.bestblogs.dev/article/362b604e3b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 郑廷旭",
-    "topic": "产品设计",
-    "date": "2026-09-12",
-    "badge": "featured"
-  },
-  {
-    "title": "对抗手机成瘾，全球掀起风暴",
-    "summary": "全球多国掀起针对青少年社交媒体禁令，文章梳理手机成瘾对儿童尤其是留守儿童的伤害，并指出治理正从家校责任转向平台系统设计责任。",
-    "url": "https://www.bestblogs.dev/article/04d28756aa?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南风窗",
-    "topic": "媒体资讯",
-    "date": "2026-09-12",
     "badge": "featured"
   }
 ]
