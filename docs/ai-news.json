@@ -1,74 +1,74 @@
 [
   {
-    "title": "一个打破男性泳者纪录的 20 岁女孩，被遗忘百年后“翻红”",
-    "summary": "本文通过史料与访谈，重现 1926 年首位横渡英吉利海峡的女性特鲁迪·埃德尔的壮举，探讨其被遗忘与电影《泳者之心》在中外的再发现与文化意义。",
-    "url": "https://www.bestblogs.dev/article/3db9f2eece?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-09-15",
-    "badge": "featured"
-  },
-  {
-    "title": "iOS 27 正式版体验：Siri AI 终于开窍了，老 iPhone 升级也有新东西",
-    "summary": "iOS 27 正式版推送，新一代 Siri AI 支持屏幕感知与跨 App 复合指令，但国行暂未开放；系统在液态玻璃调节、动效调度、调休闹钟等日常细节上做了大量填坑。",
-    "url": "https://www.bestblogs.dev/article/cdf0283105?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 郑廷旭",
-    "topic": "产品设计",
-    "date": "2026-09-15",
-    "badge": "featured"
-  },
-  {
-    "title": "失控的肠道：为什么越管理身材，越容易“拉不出”？",
-    "summary": "现代人追求精细化身材管理，却往往忽视了肠道的自然节律，导致便秘问题日益严重，而过度依赖快速解决方案又会引发更深层次的健康问题。",
-    "url": "https://www.bestblogs.dev/article/5f0cd300d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 三联生活周刊",
-    "topic": "生活文化",
-    "date": "2026-09-15",
-    "badge": "featured"
-  },
-  {
-    "title": "AI 开始预测人类：83 亿虚拟人格、数字社会，与一门押注未来的生意",
-    "summary": "文章探讨 AI 模拟技术如何构建虚拟人格与社会，分析其商业模式、技术挑战及哲学意义。",
-    "url": "https://www.bestblogs.dev/article/0366853e86?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅谷101",
-    "topic": "商业科技",
-    "date": "2026-09-15",
-    "badge": "featured"
-  },
-  {
-    "title": "有趣、严谨、丰富的语言类科普书",
-    "summary": "《夜晚的语言学家》通过生动的案例和严谨的分析，揭示了语言在文化交流、历史演变和生理反应中的重要作用，是一本既有趣又富有深度的科普读物。",
-    "url": "https://www.bestblogs.dev/article/d295cdfd90?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 麒麟",
-    "topic": "生活文化",
-    "date": "2026-09-15",
-    "badge": "featured"
-  },
-  {
-    "title": "从担心 AI 失控到 AI 造福人类：比尔盖茨怎么想｜对话盖茨",
-    "summary": "比尔·盖茨在访谈中讨论了盖茨基金会如何应对 AI 风险，通过解决语言障碍、本地化适配及人才培养，确保 AI 技术能惠及全球南方并缩小贫富差距。",
-    "url": "https://www.bestblogs.dev/article/19277f60ed?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯财经",
+    "title": "把「达标判定」从大模型手里收回来：Graph Engineering 实践",
+    "summary": "本文通过 AI 体检 Agent 的演进实践，论述了如何通过将确定性决策从模型侧收回至代码工程，利用双样本评测与分层控制机制，解决 Loop Engineering 中常见的过拟合与作弊问题，实现可控的 AI 自主迭代。",
+    "url": "https://www.bestblogs.dev/article/9f8b29d390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-09-15",
-    "badge": "featured"
-  },
-  {
-    "title": "对话 xLean 薛轲翰：扫地机产品远没有到头，清洁机器人可以是 Family Agent 的起点",
-    "summary": "xLean 创始人薛轲翰分享其双形态洗地机器人 TR1 的产品逻辑：以高频刚需的家庭清洁为切入点，通过手持模式采集高密度示范数据实现清洁闭环，并以此为底座构建模块化扩展的 Family Agent 生态。",
-    "url": "https://www.bestblogs.dev/article/80590fa2da?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "商业科技",
-    "date": "2026-09-15",
+    "date": "2026-09-17",
     "badge": "agent"
   },
   {
-    "title": "AI 正在「惩罚」那些用它写作业的中学生",
-    "summary": "香港大学吴延晖团队追踪中国中部某县 26811 名中学生三年发现，用 AI 外包作业短期提分 18%，但 6 个月内月考下滑 20%，两年后中考、高考分别最多下降 24%和 18%，成绩越好、男生、初中生受惩罚越重。",
-    "url": "https://www.bestblogs.dev/article/e0a5a84cb5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人物",
+    "title": "日志服务 TLS AgentLoop：让多模态调用清晰可见",
+    "summary": "火山引擎日志服务 TLS AgentLoop 通过将多模态媒体内容（图、音、视）直接关联至会话与调用链，解决了多模态 Agent 调试中由于缺乏视觉上下文而导致的排查困难问题。",
+    "url": "https://www.bestblogs.dev/article/8869e8bc87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
     "topic": "人工智能",
-    "date": "2026-09-15",
+    "date": "2026-09-17",
+    "badge": "agent"
+  },
+  {
+    "title": "WorkBuddy/CodeX 都这么强了，企业还要花钱自研智能体吗？",
+    "summary": "企业落地 Agent 应拆分为「搭运行底座」与「开发业务 Agent」两件事，通用 Agent 加 MCP/Skills 可先试跑，但内部工具封装、业务规则梳理、可观测与评测反馈这些工作省不掉，且通用 Agent 缺少完整执行日志是接入真实业务的主要障碍。",
+    "url": "https://www.bestblogs.dev/article/c2827cd79f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 叶小钗",
+    "topic": "人工智能",
+    "date": "2026-09-17",
+    "badge": "agent"
+  },
+  {
+    "title": "真正烧 Token 的不是代码，而是模型反复看同一份上下文",
+    "summary": "本文结合轻量云多 Agent 研发工作流 DevFlow 的真实实践，揭示了长上下文在多轮请求中被反复携带导致 Token 消耗被放大的核心问题，并系统阐述了通过渐进式加载、响应级批量、批量编辑工具 replace_batch 及 Hook 降级机制等四层优化，实现 Developer 和 Test Engineer 阶段 Token 分别下降 26.58%-62.94% 的量化成果。",
+    "url": "https://www.bestblogs.dev/article/b85ae5e0d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-09-17",
+    "badge": "agent"
+  },
+  {
+    "title": "黑攀乱象调查",
+    "summary": "文章深度调查国内高海拔雪山攀登中盛行的“黑攀”现象，揭示了合规供给缺失与市场需求增长之间的矛盾，以及由此引发的安全危机与行业乱象。",
+    "url": "https://www.bestblogs.dev/article/ac5da5224f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 中国新闻周刊",
+    "topic": "媒体资讯",
+    "date": "2026-09-16",
     "badge": "featured"
+  },
+  {
+    "title": "从“做过”到“会做”：用 OpenViking 经验记忆构建 Agent 的进化闭环",
+    "summary": "OpenViking 通过经验记忆让 Agent 从过去任务中学习可复用的方法，提升任务成功率。",
+    "url": "https://www.bestblogs.dev/article/2a2d5c1862?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 字节跳动技术团队",
+    "topic": "软件编程",
+    "date": "2026-09-16",
+    "badge": "agent"
+  },
+  {
+    "title": "当 Claude Code 支持「多人联机」，大家一起写代码是什么体验？",
+    "summary": "本文通过 Crossing Storyboard 的开发实践，详细介绍了 AgentGit 如何将 AI 对话过程版本化，实现运营、设计与工程之间高效的上下文交接与多人协作。",
+    "url": "https://www.bestblogs.dev/article/9eb5b3c8d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "软件编程",
+    "date": "2026-09-16",
+    "badge": "agent"
+  },
+  {
+    "title": "指标平台：从语义底座到智能消费的实践路径｜得物技术",
+    "summary": "本文详述得物技术构建指标语义底座的实践路径，通过业务、数仓、产品三方协同将隐性知识资产化，并证明了高质量语义层是提升 Text2SQL 准确率与 AI Coding 效率的核心地基。",
+    "url": "https://www.bestblogs.dev/article/ca184b4420?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 得物技术",
+    "topic": "人工智能",
+    "date": "2026-09-16",
+    "badge": "tooling"
   }
 ]
