@@ -918,3 +918,131 @@ article.md-content__inner > h1:first-child + .news-container {
     align-items: stretch;
   }
 }
+
+/* 全站首次访问公告：原生 dialog 提供焦点约束与 Escape 关闭。 */
+html.bdic-announcement-open {
+  overflow: hidden;
+}
+
+.bdic-announcement {
+  width: min(680px, calc(100% - 24px));
+  max-height: 88vh;
+  max-height: 88dvh;
+  margin: auto;
+  padding: 0;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 16px;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  box-shadow: 0 24px 80px #0005;
+  font-size: 16px;
+  line-height: 1.75;
+}
+
+.bdic-announcement[open] {
+  display: flex;
+  flex-direction: column;
+}
+
+.bdic-announcement::backdrop {
+  background: #101828aa;
+}
+
+.bdic-announcement-header,
+.bdic-announcement-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 24px;
+  flex-shrink: 0;
+}
+
+.bdic-announcement-header {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.bdic-announcement-label {
+  font-weight: 700;
+  color: var(--md-typeset-a-color);
+}
+
+.bdic-announcement-close {
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.bdic-announcement-content {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: 8px 24px 16px;
+}
+
+.bdic-announcement-content h2 {
+  margin: 16px 0;
+  font-size: 25px;
+  line-height: 1.4;
+}
+
+.bdic-announcement-content p {
+  margin: 16px 0;
+}
+
+.bdic-announcement-content ul {
+  padding-left: 24px;
+}
+
+.bdic-announcement-content a,
+.bdic-announcement-contribute {
+  color: var(--md-typeset-a-color);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+
+.bdic-announcement-reward {
+  padding: 16px;
+  border-left: 4px solid var(--md-primary-fg-color);
+  border-radius: 8px;
+  background: var(--md-code-bg-color);
+}
+
+.bdic-announcement-footer {
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  flex-wrap: wrap;
+}
+
+.bdic-announcement-dismiss {
+  min-height: 44px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.bdic-announcement button:focus-visible,
+.bdic-announcement a:focus-visible {
+  outline: 3px solid var(--md-accent-fg-color);
+  outline-offset: 3px;
+}
+
+@media (max-width: 480px) {
+  .bdic-announcement-header,
+  .bdic-announcement-footer {
+    padding: 12px 16px;
+  }
+  .bdic-announcement-content {
+    padding: 4px 16px 12px;
+  }
+  .bdic-announcement-content h2 {
+    font-size: 22px;
+  }
+  .bdic-announcement-dismiss {
+    width: 100%;
+  }
+}
