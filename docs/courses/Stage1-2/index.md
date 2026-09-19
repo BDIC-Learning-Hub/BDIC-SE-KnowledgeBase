@@ -7,9 +7,9 @@
 - [高等数学（工）4](BDIC1032J-Maths%20(Engineering)%204/README.md)
 - [大学物理Ⅰ-1](BDIC1015J-University-Physics-1/README.md)
 
-### 软件工程基础
-- [软件工程导论](COMP1003J-%20Introduction-to-Software/README.md)
+### 计算机与软件基础
+- [软件工程导论(2026移除)](COMP1003J-%20Introduction-to-Software/README.md)
+- [计算机架构导论(2026新增)](Intro-to-Computer-Architecture/README.md)
 - [程序设计概论2](COMP1005J-Intro-to-Prog-Construction-2/README.md)
 
 ---
-

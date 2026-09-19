@@ -179,7 +179,8 @@ nav:
       - 高等数学（工）3: courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md
       - 高等数学（工）4: courses/Stage1-2/BDIC1032J-Maths (Engineering) 4/README.md
       - 大学物理Ⅰ-1: courses/Stage1-2/BDIC1015J-University-Physics-1/README.md
-      - 软件工程导论: courses/Stage1-2/COMP1003J- Introduction-to-Software/README.md
+      - 软件工程导论(2026移除): courses/Stage1-2/COMP1003J- Introduction-to-Software/README.md
+      - 计算机架构导论(2026新增): courses/Stage1-2/Intro-to-Computer-Architecture/README.md
       - 程序设计概论2: courses/Stage1-2/COMP1005J-Intro-to-Prog-Construction-2/README.md
   - 第二学年:
     - 秋季学期:

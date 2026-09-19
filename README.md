@@ -98,7 +98,7 @@ git clone --depth=1 https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase.g
       <td>5</td>
     </tr>
     <tr>
-      <td rowspan="9"><b>Spring</b></td>
+      <td rowspan="10"><b>Spring</b></td>
       <td><a href="docs/courses/Stage1-2/BDIC1031J-Maths(Engineering)-3/README.md">高等数学（工）3</a></td>
       <td>5</td>
       <td>5</td>
@@ -114,7 +114,12 @@ git clone --depth=1 https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase.g
       <td>5</td>
     </tr>
     <tr>
-      <td><a href="docs/courses/Stage1-2/COMP1003J-%20Introduction-to-Software/README.md">软件工程导论</a></td>
+      <td><a href="docs/courses/Stage1-2/COMP1003J-%20Introduction-to-Software/README.md">软件工程导论(2026移除)</a></td>
+      <td>5</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td><a href="docs/courses/Stage1-2/Intro-to-Computer-Architecture/README.md">计算机架构导论(2026新增)</a></td>
       <td>5</td>
       <td>5</td>
     </tr>
