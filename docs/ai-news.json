@@ -1,74 +1,74 @@
 [
   {
-    "title": "把「达标判定」从大模型手里收回来：Graph Engineering 实践",
-    "summary": "本文通过 AI 体检 Agent 的演进实践，论述了如何通过将确定性决策从模型侧收回至代码工程，利用双样本评测与分层控制机制，解决 Loop Engineering 中常见的过拟合与作弊问题，实现可控的 AI 自主迭代。",
-    "url": "https://www.bestblogs.dev/article/9f8b29d390?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
+    "title": "Figure 租了 30 套房，让机器人挨家“考核家务”",
+    "summary": "Figure 发布 Helix 2.5 神经网络，在 30 套陌生住宅中零样本完成整理客厅、铺床、折毛巾等长时程家务，成功率从 9% 提升至 56%，并首次在人形机器人上验证了「人类到机器人迁移缩放定律」。",
+    "url": "https://www.bestblogs.dev/article/2a43333846?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
-    "date": "2026-09-17",
-    "badge": "agent"
-  },
-  {
-    "title": "日志服务 TLS AgentLoop：让多模态调用清晰可见",
-    "summary": "火山引擎日志服务 TLS AgentLoop 通过将多模态媒体内容（图、音、视）直接关联至会话与调用链，解决了多模态 Agent 调试中由于缺乏视觉上下文而导致的排查困难问题。",
-    "url": "https://www.bestblogs.dev/article/8869e8bc87?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "人工智能",
-    "date": "2026-09-17",
-    "badge": "agent"
-  },
-  {
-    "title": "WorkBuddy/CodeX 都这么强了，企业还要花钱自研智能体吗？",
-    "summary": "企业落地 Agent 应拆分为「搭运行底座」与「开发业务 Agent」两件事，通用 Agent 加 MCP/Skills 可先试跑，但内部工具封装、业务规则梳理、可观测与评测反馈这些工作省不掉，且通用 Agent 缺少完整执行日志是接入真实业务的主要障碍。",
-    "url": "https://www.bestblogs.dev/article/c2827cd79f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 叶小钗",
-    "topic": "人工智能",
-    "date": "2026-09-17",
-    "badge": "agent"
-  },
-  {
-    "title": "真正烧 Token 的不是代码，而是模型反复看同一份上下文",
-    "summary": "本文结合轻量云多 Agent 研发工作流 DevFlow 的真实实践，揭示了长上下文在多轮请求中被反复携带导致 Token 消耗被放大的核心问题，并系统阐述了通过渐进式加载、响应级批量、批量编辑工具 replace_batch 及 Hook 降级机制等四层优化，实现 Developer 和 Test Engineer 阶段 Token 分别下降 26.58%-62.94% 的量化成果。",
-    "url": "https://www.bestblogs.dev/article/b85ae5e0d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-09-17",
-    "badge": "agent"
-  },
-  {
-    "title": "黑攀乱象调查",
-    "summary": "文章深度调查国内高海拔雪山攀登中盛行的“黑攀”现象，揭示了合规供给缺失与市场需求增长之间的矛盾，以及由此引发的安全危机与行业乱象。",
-    "url": "https://www.bestblogs.dev/article/ac5da5224f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 中国新闻周刊",
-    "topic": "媒体资讯",
-    "date": "2026-09-16",
+    "date": "2026-09-18",
     "badge": "featured"
   },
   {
-    "title": "从“做过”到“会做”：用 OpenViking 经验记忆构建 Agent 的进化闭环",
-    "summary": "OpenViking 通过经验记忆让 Agent 从过去任务中学习可复用的方法，提升任务成功率。",
-    "url": "https://www.bestblogs.dev/article/2a2d5c1862?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 字节跳动技术团队",
-    "topic": "软件编程",
-    "date": "2026-09-16",
-    "badge": "agent"
+    "title": "在职场遭遇更年期，她们终于不想忍了",
+    "summary": "本文通过英国女性推动职场更年期支持的实践案例，探讨了更年期如何从个人健康问题转变为职场议题，并指出有效的支持应像自助菜单一样灵活，而非一刀切的特殊化对待。",
+    "url": "https://www.bestblogs.dev/article/e2710bb6c7?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 三联生活周刊",
+    "topic": "生活文化",
+    "date": "2026-09-18",
+    "badge": "featured"
   },
   {
-    "title": "当 Claude Code 支持「多人联机」，大家一起写代码是什么体验？",
-    "summary": "本文通过 Crossing Storyboard 的开发实践，详细介绍了 AgentGit 如何将 AI 对话过程版本化，实现运营、设计与工程之间高效的上下文交接与多人协作。",
-    "url": "https://www.bestblogs.dev/article/9eb5b3c8d0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 十字路口Crossing",
-    "topic": "软件编程",
-    "date": "2026-09-16",
-    "badge": "agent"
+    "title": "打造一个卓越的产品管理团队",
+    "summary": "本文基于 Elad Gil 的《高增长手册》，系统阐述了卓越产品管理团队的构建方法，涵盖 PM 的核心职责、优秀人才特质、四类 PM 角色定位及面试评估框架。",
+    "url": "https://www.bestblogs.dev/article/ccd1b8f76a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / stripe.com",
+    "topic": "产品设计",
+    "date": "2026-09-18",
+    "badge": "featured"
   },
   {
-    "title": "指标平台：从语义底座到智能消费的实践路径｜得物技术",
-    "summary": "本文详述得物技术构建指标语义底座的实践路径，通过业务、数仓、产品三方协同将隐性知识资产化，并证明了高质量语义层是提升 Text2SQL 准确率与 AI Coding 效率的核心地基。",
-    "url": "https://www.bestblogs.dev/article/ca184b4420?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 得物技术",
+    "title": "让 Agent 可评、可控、可迭代：业务效果导向的评测体系与场景实践",
+    "summary": "本文提出了一套针对策略效果类 Agent 的「五层、四步、三阶段」评测方法论，并通过 AutoRubrics 自动化构建可解释的业务效果 Judge 体系，解决了离线评测与线上业务效果对齐的难题。",
+    "url": "https://www.bestblogs.dev/article/4368159142?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
     "topic": "人工智能",
-    "date": "2026-09-16",
-    "badge": "tooling"
+    "date": "2026-09-18",
+    "badge": "agent"
+  },
+  {
+    "title": "于是转身向具身走去｜对话王家伟：深朴智能 00 后首席科学家",
+    "summary": "深朴智能首席科学家王家伟分享其从大模型转向具身智能的思考，探讨了具身基础模型的预训练、Action Policy 的必要性以及全栈研发的逻辑。",
+    "url": "https://www.bestblogs.dev/article/250c216ba2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 十字路口Crossing",
+    "topic": "人工智能",
+    "date": "2026-09-18",
+    "badge": "model"
+  },
+  {
+    "title": "换一套 Harness，比换两代模型还管用",
+    "summary": "本文系统性地阐述了 Agent Harness（模型外工程层）的设计架构，主张模型决定上限而 Harness 决定实际产出，详细解析了 Agentic Loop、工具系统、记忆与上下文管理及护栏四大子系统的构建原则与工程实践。",
+    "url": "https://www.bestblogs.dev/article/7b44738a51?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-09-18",
+    "badge": "agent"
+  },
+  {
+    "title": "拿到人身安全保护令的家暴受害者，还是不敢回家",
+    "summary": "本文通过多个真实案例与法学调研，深度剖析了我国《反家庭暴力法》中「人身安全保护令」在实际执行中的困境，揭示了法律禁令与复杂家庭现实、地区文化差异及执行成本低之间存在的巨大落差。",
+    "url": "https://www.bestblogs.dev/article/e737d6b294?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新周刊",
+    "topic": "媒体资讯",
+    "date": "2026-09-18",
+    "badge": "featured"
+  },
+  {
+    "title": "大模型天生拿不到的三样东西，才是企业 AI 的护城河 | AI 未来谈",
+    "summary": "深演智能创始人黄晓南剖析企业级 AI 落地的三大卡点（需求模糊、数据缺失、优先级不明），并提出通过 FDE 角色、构建 Agentic Software 及聚焦增长场景来打造企业 AI 护城河。",
+    "url": "https://www.bestblogs.dev/article/b6f67efbd6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 吴晓波",
+    "topic": "人工智能",
+    "date": "2026-09-18",
+    "badge": "agent"
   }
 ]
