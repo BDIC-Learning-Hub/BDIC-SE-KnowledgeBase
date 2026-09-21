@@ -1,5 +1,59 @@
 [
   {
+    "title": "YC 最新判断：Harness 比模型更重要",
+    "summary": "AI 竞争的胜负手正从模型能力转向 Harness（运行框架），Harness 通过优化提示词、工具调用、记忆管理及权限运维，能显著提升模型表现并弥补模型间的能力差距。",
+    "url": "https://www.bestblogs.dev/article/683d44b352?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 硅基观察Pro",
+    "topic": "人工智能",
+    "date": "2026-09-20",
+    "badge": "model"
+  },
+  {
+    "title": "一个生产级 AI 客服，到底是怎么做出来的？",
+    "summary": "作者复盘两年 AI 客服实践，指出生产级 AI 客服需经历知识整理、意图识别、检索兜底、SOP 接管、放权、成本核算与可观测七层能力，且综合成本可能仍高于人工。",
+    "url": "https://www.bestblogs.dev/article/10b3fbf932?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 叶小钗",
+    "topic": "人工智能",
+    "date": "2026-09-20",
+    "badge": "featured"
+  },
+  {
+    "title": "Live Captioning Engineering：业界首个直播电商 AI 实时字幕系统的端到端实践",
+    "summary": "快手电商直播技术团队将直播字幕端到端耗时从 1.5～2 秒压到 400～500 毫秒、字错率从 7.81% 降到 3.51%，并支撑千万级持续并发，沉淀出业界首个电商直播实时字幕工程范式 Live Captioning Engineering。",
+    "url": "https://www.bestblogs.dev/article/dcbccfd8b9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 快手技术",
+    "topic": "软件编程",
+    "date": "2026-09-20",
+    "badge": "tooling"
+  },
+  {
+    "title": "遍地开花的数采中心，开始批量露馅",
+    "summary": "虎嗅梳理全国 106 家具身智能数采中心，揭示建设潮已过、84 家投用后普遍缺乏商业闭环，行业正从拼数量转向拼数据质量与跨本体复用。",
+    "url": "https://www.bestblogs.dev/article/1140c2615f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "人工智能",
+    "date": "2026-09-19",
+    "badge": "featured"
+  },
+  {
+    "title": "到底什么是 Context？万字长文谈 Pi Agent context 管理",
+    "summary": "本文以 Pi Agent 为例，系统拆解了 Agent 中 Context 的构成、动态增长、预算控制与压缩重建机制，指出 Context 是 Harness 组装、随执行动态演进的信息环境，而 Compaction 本质是 Context 表示的降维与重建。",
+    "url": "https://www.bestblogs.dev/article/38abe4f33e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 青稞AI",
+    "topic": "人工智能",
+    "date": "2026-09-19",
+    "badge": "agent"
+  },
+  {
+    "title": "性、AI 与末日浩劫",
+    "summary": "从 Anthropic 研究员辞职警告 AI 灭世切入，追溯理性主义亚文化二十五年历史，揭示其如何通过同人小说、心理干预、多边恋网络与富豪资助，把末日信仰输送进 AI 安全机构与美国联邦政府。",
+    "url": "https://www.bestblogs.dev/article/4e6405b227?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 虎嗅APP",
+    "topic": "媒体资讯",
+    "date": "2026-09-19",
+    "badge": "featured"
+  },
+  {
     "title": "《罗斯》：一块布如何改变一个人的社会身份",
     "summary": "本文深度解读电影《罗斯》，认为它不只是女扮男装的性别越界故事，而是一部关于社会分类机制的电影：战争打破分类体系让 Rose 进入男性位置，和平后的正常化又将她作为异常值清除。",
     "url": "https://www.bestblogs.dev/article/1aada4f332?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -16,59 +70,5 @@
     "topic": "生活文化",
     "date": "2026-09-19",
     "badge": "featured"
-  },
-  {
-    "title": "张劲硕：鸳鸯真的专一吗？食人鱼只吃肉？一堂课拆穿那些“想当然”",
-    "summary": "国家动物博物馆馆长张劲硕在《大科学家》科普节目中，通过揭示鸳鸯、食人鱼等动物知识的真相，引导青少年培养怀疑求证的科学思辨能力。",
-    "url": "https://www.bestblogs.dev/article/82c6b2b84d?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央广网",
-    "topic": "媒体资讯",
-    "date": "2026-09-19",
-    "badge": "featured"
-  },
-  {
-    "title": "危险斑马线：安全标识为何雨天变“滑道”",
-    "summary": "本文深度揭露了国内道路标线（尤其是斑马线）在雨天极易打滑的普遍现象，剖析了其背后的材料缺陷、标准执行脱节、验收环节缺失以及低价竞争导致的质量崩塌等深层制度性原因。",
-    "url": "https://www.bestblogs.dev/article/f0042a60f5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方周末",
-    "topic": "媒体资讯",
-    "date": "2026-09-19",
-    "badge": "featured"
-  },
-  {
-    "title": "智谱 ZCode 偷传代码风波追踪：Agent 的数据行为谁来审计？",
-    "summary": "智谱 ZCode 被逆向发现后台将整个项目连同历史记录加密上传云端，事件暴露了 Agent 厂商自身数据行为处于现有安全框架盲区，社区提出出口声明、本地外传日志与责任保险等务实约束路径。",
-    "url": "https://www.bestblogs.dev/article/9e731b7253?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 林克、郑好",
-    "topic": "人工智能",
-    "date": "2026-09-19",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 写代码飞快，为何交付没有变快？小红书 Muse 的 Agentic 架构实践",
-    "summary": "小红书 AI Coding 总架构师郑鑫祺拆解 Muse 平台如何通过 Agent Team 编排、Harness 控制、企业知识工程与 Agent OS，把「会生成代码」的模型变成能交付、兜底和恢复的研发系统。",
-    "url": "https://www.bestblogs.dev/article/035d4a4609?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / AI前线",
-    "topic": "人工智能",
-    "date": "2026-09-19",
-    "badge": "agent"
-  },
-  {
-    "title": "陶哲轩启动“开放数学模型计划”：不依附大厂，为数学界打造自己的 AI",
-    "summary": "陶哲轩发起的 SAIR 基金启动开放数学计划，旨在通过开源权重模型和工具链，让数学家从 AI 使用者转变为科研工具的建设者。",
-    "url": "https://www.bestblogs.dev/article/0568617800?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / DeepTech深科技",
-    "topic": "人工智能",
-    "date": "2026-09-19",
-    "badge": "model"
-  },
-  {
-    "title": "单个机柜到底能跑多少个 Agent？答案不在 GPU 身上",
-    "summary": "英特尔基于实际工作量公式，指出数据中心优化应聚焦调度有效性、资源平衡度和计算卸载效益，以提升单机柜 Agent 交付量，而非仅关注理论算力参数。",
-    "url": "https://www.bestblogs.dev/article/8d730c872b?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / InfoQ 中文",
-    "topic": "软件编程",
-    "date": "2026-09-19",
-    "badge": "agent"
   }
 ]
