@@ -1,11 +1,11 @@
 site_name: BDIC 软件工程知识库
 site_description: 北京都柏林国际学院软件工程专业学习资源与经验分享
 site_author: BDIC Learning Hub
-site_url: https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/
+site_url: https://bdicfun.github.io/
 
 # Repository
-repo_name: BDIC-Learning-Hub/BDIC-SE-KnowledgeBase
-repo_url: https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase
+repo_name: BDICFun/bdicfun.github.io
+repo_url: https://github.com/BDICFun/bdicfun.github.io
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -103,7 +103,7 @@ hooks:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/BDIC-Learning-Hub
+      link: https://github.com/BDICFun
     - icon: fontawesome/solid/envelope
       link: mailto:le.liu1@ucdconnect.ie
   
@@ -142,8 +142,8 @@ markdown_extensions:
   - pymdownx.magiclink:
       normalize_issue_symbols: true
       repo_url_shorthand: true
-      user: BDIC-Learning-Hub
-      repo: BDIC-SE-KnowledgeBase
+      user: BDICFun
+      repo: bdicfun.github.io
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:

@@ -21,7 +21,7 @@
     由于项目较大，推荐直接通过 GitHub Web 端进行贡献：
 
 #### 🍴 第一步：Fork 仓库
-1. 访问 [BDIC-SE-KnowledgeBase](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase)
+1. 访问 [BDIC 软件工程知识库](https://github.com/BDICFun/bdicfun.github.io)
 2. 点击右上角的 **"Fork"** 按钮
 3. 点击 **"Create fork"** 完成复制
 
@@ -72,7 +72,7 @@
 如果您需要在本地修改文件，推荐使用浅克隆，避免下载完整历史中的大文件对象：
 
 ```bash
-git clone --depth=1 https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase.git
+git clone --depth=1 https://github.com/BDICFun/bdicfun.github.io.git
 ```
 
 浅克隆适合大多数文档修改和资料补充。如果之后需要完整历史，可以在仓库目录中执行 `git fetch --unshallow`。

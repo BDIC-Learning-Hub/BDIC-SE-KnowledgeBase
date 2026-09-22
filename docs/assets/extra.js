@@ -386,7 +386,7 @@ function initializeGiscus() {
 
     const script = document.createElement('script');
     script.src = 'https://giscus.app/client.js';
-    script.setAttribute('data-repo', 'BDIC-Learning-Hub/BDIC-SE-KnowledgeBase');
+    script.setAttribute('data-repo', 'BDICFun/bdicfun.github.io');
     script.setAttribute('data-repo-id', 'R_kgDOPR8KOg');
     script.setAttribute('data-category', 'Announcements');
     script.setAttribute('data-category-id', 'DIC_kwDOPR8KOs4C-3Ql');

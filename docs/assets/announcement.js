@@ -41,7 +41,7 @@
                 </ul>
                 <p>哪怕只是一次很小的更新，也是在帮助下一届同学。</p>
                 <p>如果你对<strong>贡献内容、提交方式或者 Token 奖励</strong>有任何疑问，欢迎随时通过 <a href="mailto:bdicfun@gmail.com">bdicfun@gmail.com</a> 联系我们。</p>
-                <p>🌐 <a href="https://kb.bdic.fun">BDIC 知识库 · kb.bdic.fun</a></p>
+                <p>🌐 <a href="https://bdicfun.github.io/">BDIC 知识库 · bdicfun.github.io</a></p>
                 <p>希望这个由学生共同维护的知识库，可以一直传下去。❤️</p>
             </div>
             <footer class="bdic-announcement-footer">

@@ -94,25 +94,25 @@
 ## :busts_in_silhouette: 联系我们
 
 - :material-email: **邮箱**：`bdicfun@gmail.com`
-- :material-github: **GitHub**：[BDIC-Learning-Hub](https://github.com/BDIC-Learning-Hub)
+- :material-github: **GitHub**：[BDICFun](https://github.com/BDICFun)
 
 ---
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&type=Date)](https://star-history.com/#BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=BDICFun/bdicfun.github.io&type=Date)](https://star-history.com/#BDICFun/bdicfun.github.io&Date)
 
 ## 相关项目
 - [北京工业大学课程共享计划](https://helper.bjutswift.cn/)
 
 ## 链接归档
 - [北京工业大学飞跃手册](https://www.bjutswift.cn/feiyue)
-- [课程学分明细](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase#%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9-1)
+- [课程学分明细](https://github.com/BDICFun/bdicfun.github.io#%E9%A1%B9%E7%9B%AE%E5%86%85%E5%AE%B9-1)
 - [去年今日｜聊聊22级保研](https://mrlepro.com/2026/04/27/%E6%8E%A8%E5%85%8D%E8%AE%B0%E5%BD%95/2026-04-27-%E6%8E%A8%E5%85%8D%E5%AE%9E%E5%BD%95/)
 
 ## 感谢本项目贡献者
 <div class="contributors-grid">
-      <a href="https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase" alt="贡献者" />
+      <a href="https://github.com/BDICFun/bdicfun.github.io/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=BDICFun/bdicfun.github.io" alt="贡献者" />
       </a>
 </div>
 <div class="contributors-avatars">

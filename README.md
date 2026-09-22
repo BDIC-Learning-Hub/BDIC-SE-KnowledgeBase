@@ -1,3 +1,5 @@
+原仓库名称：`BDIC-SE-KnowledgeBase`
+
 <p align="center">
   <img src="docs/assets/BJUT_Logo.png" alt="BJUT Logo" height="100">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -10,8 +12,8 @@
 
 
 本项目收录北京工业大学北京-都柏林国际学院软件工程专业的课程资料、笔记、公开/回忆的考试、大作业参考等等相关资料。本仓库不会为收集到的资料收费，或是尝试收取捐赠。
-[![部署状态](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/workflows/ci/badge.svg)](https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase/actions)
-[![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-GitHub%20Pages-brightgreen)](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
+[![部署状态](https://github.com/BDICFun/bdicfun.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/BDICFun/bdicfun.github.io/actions/workflows/deploy.yml)
+[![在线阅读](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB-GitHub%20Pages-brightgreen)](https://bdicfun.github.io/)
 
 >  寻找EIE,IOT,FIN的同学共创
 >  本项目不收录任课教师的课件
@@ -19,7 +21,7 @@
 
 ## 在线访问
 
-**在线文档**: [https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/](https://bdic-learning-hub.github.io/BDIC-SE-KnowledgeBase/)
+**在线文档**: [https://bdicfun.github.io/](https://bdicfun.github.io/)
 
 ## 贡献
 Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家的关注、维护和贡献，才是让这个攻略继续存在的动力~
@@ -33,7 +35,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！来自大家
 如果需要在本地修改，推荐使用浅克隆以减少下载历史数据的时间：
 
 ```bash
-git clone --depth=1 https://github.com/BDIC-Learning-Hub/BDIC-SE-KnowledgeBase.git
+git clone --depth=1 https://github.com/BDICFun/bdicfun.github.io.git
 ```
 
 首先Fork本项目，点击右上角的Fork按键即可。
@@ -382,7 +384,7 @@ If you have suggestions or want to join the maintenance team, feel free to conta
 - ✉️ `bdicfun@gmail.com`
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&type=Date)](https://star-history.com/#BDIC-Learning-Hub/BDIC-SE-KnowledgeBase&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=BDICFun/bdicfun.github.io&type=Date)](https://star-history.com/#BDICFun/bdicfun.github.io&Date)
 
 
 ## 相关项目
