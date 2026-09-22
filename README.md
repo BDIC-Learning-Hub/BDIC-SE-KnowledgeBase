@@ -1,5 +1,7 @@
 原仓库名称：`BDIC-SE-KnowledgeBase`
 
+> **域名更新提醒：** 网站已迁移至 [https://bdicfun.github.io/](https://bdicfun.github.io/)。旧域名 `kb.bdic.fun` 已弃用，请更新收藏和分享链接，今后通过新地址访问。
+
 <p align="center">
   <img src="docs/assets/BJUT_Logo.png" alt="BJUT Logo" height="100">
   &nbsp;&nbsp;&nbsp;&nbsp;
