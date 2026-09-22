@@ -1,5 +1,68 @@
 [
   {
+    "title": "深度｜豌豆荚往事：中国互联网最体面的「失败者」，如何成为 AI 时代的黄埔军校",
+    "summary": "豌豆荚虽以约 2 亿美元卖身阿里、PC 服务最终关停，却向字节、PingCAP、VUE、Manus 等输送了大批关键人才，成为中国互联网与 AI 时代的一所「黄埔军校」。",
+    "url": "https://www.bestblogs.dev/article/d46a7d7b0c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Z Finance",
+    "topic": "商业科技",
+    "date": "2026-09-21",
+    "badge": "featured"
+  },
+  {
+    "title": "从 AI Coding 到 Harness Engineering 的端到端工程开发实践",
+    "summary": "腾讯应用宝活动平台团队在系统重构中落地 Harness Engineering，通过知识库工程与状态文件驱动的端到端开发工程，将 AI 从对话式编码升级为覆盖需求拆解到代码提交的全流程自动化系统。",
+    "url": "https://www.bestblogs.dev/article/217da0f037?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Discovered · zhuanlan.zhihu.com",
+    "topic": "人工智能",
+    "date": "2026-09-21",
+    "badge": "tooling"
+  },
+  {
+    "title": "阿里达摩院医疗 AI，十年拼出一张图",
+    "summary": "阿里达摩院医疗 AI 团队十年磨一剑，从单病模型突围，经「一扫多查」策略落地多癌筛查，最新推出通用医疗影像模型 RADAR 登上 Science，实现腹部增强 CT 上 146 种病症的专家级识别与零样本诊断。",
+    "url": "https://www.bestblogs.dev/article/ef4a18d41e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "人工智能",
+    "date": "2026-09-21",
+    "badge": "model"
+  },
+  {
+    "title": "10 个人加一套 AI 软件，做出 100 个人的增长：AI 时代企业服务的算账逻辑",
+    "summary": "深演智能创始人黄晓南指出，企业级 AI 虽聪明但“涉世未深”，需 FDE 将客户痛点产品化，并强调大模型无法获取企业数据、知识和工作流是核心护城河，未来企业服务将由“Agentic Software”驱动，实现“10 个人做 100 人的增长”，关键在于甲方能否找到核心增长点并与大模型建立“垂直”关系。",
+    "url": "https://www.bestblogs.dev/article/d924c2ab52?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 非凡产研",
+    "topic": "人工智能",
+    "date": "2026-09-21",
+    "badge": "agent"
+  },
+  {
+    "title": "Loop engineering：把 agent 放进工程循环",
+    "summary": "文章系统拆解了 Loop engineering 这一理念，提出工程循环的六个必备动作与六大支撑组件，并给出自动化判定标准、失败模式与权限分层建议。",
+    "url": "https://www.bestblogs.dev/article/be3f7306cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-09-21",
+    "badge": "agent"
+  },
+  {
+    "title": "不换机器，也不造机器人：这家公司让几十年前的老工厂直接接进 AI",
+    "summary": "美国创业公司 Harmoni 通过在旧工厂机床旁安装平板电脑，将人、机器、订单与 ERP 数据打通，在不更换设备的前提下实现工业 AI 落地。",
+    "url": "https://www.bestblogs.dev/article/36f966b91f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 张艾拉",
+    "topic": "人工智能",
+    "date": "2026-09-21",
+    "badge": "featured"
+  },
+  {
+    "title": "SQLite 为什么总受质疑？它明明可以替代一切……",
+    "summary": "本文系统论证 SQLite 凭借稳定可靠、零运维和丰富扩展能力，可在全文检索、文档存储、消息队列、向量索引等十余种场景替代独立中间件，并给出其单机单写的明确边界。",
+    "url": "https://www.bestblogs.dev/article/42d3dca482?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / dbaplus社群",
+    "topic": "软件编程",
+    "date": "2026-09-20",
+    "badge": "tooling"
+  },
+  {
     "title": "YC 最新判断：Harness 比模型更重要",
     "summary": "AI 竞争的胜负手正从模型能力转向 Harness（运行框架），Harness 通过优化提示词、工具调用、记忆管理及权限运维，能显著提升模型表现并弥补模型间的能力差距。",
     "url": "https://www.bestblogs.dev/article/683d44b352?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -7,68 +70,5 @@
     "topic": "人工智能",
     "date": "2026-09-20",
     "badge": "model"
-  },
-  {
-    "title": "一个生产级 AI 客服，到底是怎么做出来的？",
-    "summary": "作者复盘两年 AI 客服实践，指出生产级 AI 客服需经历知识整理、意图识别、检索兜底、SOP 接管、放权、成本核算与可观测七层能力，且综合成本可能仍高于人工。",
-    "url": "https://www.bestblogs.dev/article/10b3fbf932?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 叶小钗",
-    "topic": "人工智能",
-    "date": "2026-09-20",
-    "badge": "featured"
-  },
-  {
-    "title": "Live Captioning Engineering：业界首个直播电商 AI 实时字幕系统的端到端实践",
-    "summary": "快手电商直播技术团队将直播字幕端到端耗时从 1.5～2 秒压到 400～500 毫秒、字错率从 7.81% 降到 3.51%，并支撑千万级持续并发，沉淀出业界首个电商直播实时字幕工程范式 Live Captioning Engineering。",
-    "url": "https://www.bestblogs.dev/article/dcbccfd8b9?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 快手技术",
-    "topic": "软件编程",
-    "date": "2026-09-20",
-    "badge": "tooling"
-  },
-  {
-    "title": "遍地开花的数采中心，开始批量露馅",
-    "summary": "虎嗅梳理全国 106 家具身智能数采中心，揭示建设潮已过、84 家投用后普遍缺乏商业闭环，行业正从拼数量转向拼数据质量与跨本体复用。",
-    "url": "https://www.bestblogs.dev/article/1140c2615f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "人工智能",
-    "date": "2026-09-19",
-    "badge": "featured"
-  },
-  {
-    "title": "到底什么是 Context？万字长文谈 Pi Agent context 管理",
-    "summary": "本文以 Pi Agent 为例，系统拆解了 Agent 中 Context 的构成、动态增长、预算控制与压缩重建机制，指出 Context 是 Harness 组装、随执行动态演进的信息环境，而 Compaction 本质是 Context 表示的降维与重建。",
-    "url": "https://www.bestblogs.dev/article/38abe4f33e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 青稞AI",
-    "topic": "人工智能",
-    "date": "2026-09-19",
-    "badge": "agent"
-  },
-  {
-    "title": "性、AI 与末日浩劫",
-    "summary": "从 Anthropic 研究员辞职警告 AI 灭世切入，追溯理性主义亚文化二十五年历史，揭示其如何通过同人小说、心理干预、多边恋网络与富豪资助，把末日信仰输送进 AI 安全机构与美国联邦政府。",
-    "url": "https://www.bestblogs.dev/article/4e6405b227?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虎嗅APP",
-    "topic": "媒体资讯",
-    "date": "2026-09-19",
-    "badge": "featured"
-  },
-  {
-    "title": "《罗斯》：一块布如何改变一个人的社会身份",
-    "summary": "本文深度解读电影《罗斯》，认为它不只是女扮男装的性别越界故事，而是一部关于社会分类机制的电影：战争打破分类体系让 Rose 进入男性位置，和平后的正常化又将她作为异常值清除。",
-    "url": "https://www.bestblogs.dev/article/1aada4f332?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 虹膜",
-    "topic": "生活文化",
-    "date": "2026-09-19",
-    "badge": "featured"
-  },
-  {
-    "title": "思想是生活的一种方式",
-    "summary": "王汎森在新书自序中提出「思想是生活的一种方式、生活是思想的一种方式」，主张思想史研究须纳入生活世界的层次分野与「转喻」机制，揭示近代中国心灵危机如何经由存在感受转接为政治主义，并呼吁历史写作回归「求知」与「受用」合一、让「人」重返历史舞台。",
-    "url": "https://www.bestblogs.dev/article/2e0551e0ee?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / epaper.gmw.cn",
-    "topic": "生活文化",
-    "date": "2026-09-19",
-    "badge": "featured"
   }
 ]
