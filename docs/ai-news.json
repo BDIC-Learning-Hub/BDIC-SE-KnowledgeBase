@@ -1,74 +1,74 @@
 [
   {
-    "title": "深度｜豌豆荚往事：中国互联网最体面的「失败者」，如何成为 AI 时代的黄埔军校",
-    "summary": "豌豆荚虽以约 2 亿美元卖身阿里、PC 服务最终关停，却向字节、PingCAP、VUE、Manus 等输送了大批关键人才，成为中国互联网与 AI 时代的一所「黄埔军校」。",
-    "url": "https://www.bestblogs.dev/article/d46a7d7b0c?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Z Finance",
-    "topic": "商业科技",
-    "date": "2026-09-21",
-    "badge": "featured"
-  },
-  {
-    "title": "从 AI Coding 到 Harness Engineering 的端到端工程开发实践",
-    "summary": "腾讯应用宝活动平台团队在系统重构中落地 Harness Engineering，通过知识库工程与状态文件驱动的端到端开发工程，将 AI 从对话式编码升级为覆盖需求拆解到代码提交的全流程自动化系统。",
-    "url": "https://www.bestblogs.dev/article/217da0f037?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Discovered · zhuanlan.zhihu.com",
+    "title": "千问办公押注的企业上下文，是 Agent 时代的组织语言",
+    "summary": "千问办公发布企业上下文（Enterprise Context）及相关产品，旨在通过构建结构化的组织知识体系、赋予 Agent 明确的组织身份与安全审计机制，将 AI 从通用办公工具升级为能深度嵌入企业业务流程的数字员工。",
+    "url": "https://www.bestblogs.dev/article/50c945cbe4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 莫崇宇",
     "topic": "人工智能",
-    "date": "2026-09-21",
-    "badge": "tooling"
-  },
-  {
-    "title": "阿里达摩院医疗 AI，十年拼出一张图",
-    "summary": "阿里达摩院医疗 AI 团队十年磨一剑，从单病模型突围，经「一扫多查」策略落地多癌筛查，最新推出通用医疗影像模型 RADAR 登上 Science，实现腹部增强 CT 上 146 种病症的专家级识别与零样本诊断。",
-    "url": "https://www.bestblogs.dev/article/ef4a18d41e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 晚点LatePost",
-    "topic": "人工智能",
-    "date": "2026-09-21",
-    "badge": "model"
-  },
-  {
-    "title": "10 个人加一套 AI 软件，做出 100 个人的增长：AI 时代企业服务的算账逻辑",
-    "summary": "深演智能创始人黄晓南指出，企业级 AI 虽聪明但“涉世未深”，需 FDE 将客户痛点产品化，并强调大模型无法获取企业数据、知识和工作流是核心护城河，未来企业服务将由“Agentic Software”驱动，实现“10 个人做 100 人的增长”，关键在于甲方能否找到核心增长点并与大模型建立“垂直”关系。",
-    "url": "https://www.bestblogs.dev/article/d924c2ab52?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 非凡产研",
-    "topic": "人工智能",
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "badge": "agent"
   },
   {
-    "title": "Loop engineering：把 agent 放进工程循环",
-    "summary": "文章系统拆解了 Loop engineering 这一理念，提出工程循环的六个必备动作与六大支撑组件，并给出自动化判定标准、失败模式与权限分层建议。",
-    "url": "https://www.bestblogs.dev/article/be3f7306cd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-09-21",
+    "title": "机器人 / 物理 Agent Harness 综合分析与对比：从「更强的模型」到「更好的系统」",
+    "summary": "机器人/物理 Agent Harness 综合分析与对比：从 \"更强的模型\" 到 \"更好的系统\"",
+    "url": "https://www.bestblogs.dev/article/3fc3c9a057?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 罗西的思考",
+    "topic": "人工智能",
+    "date": "2026-09-22",
     "badge": "agent"
   },
   {
-    "title": "不换机器，也不造机器人：这家公司让几十年前的老工厂直接接进 AI",
-    "summary": "美国创业公司 Harmoni 通过在旧工厂机床旁安装平板电脑，将人、机器、订单与 ERP 数据打通，在不更换设备的前提下实现工业 AI 落地。",
-    "url": "https://www.bestblogs.dev/article/36f966b91f?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 张艾拉",
+    "title": "Diogo Almeida：我为什么要做 Jev？",
+    "summary": "Diogo Almeida 为什么要做 Jev？",
+    "url": "https://www.bestblogs.dev/article/62d2583a2e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / Founder Park",
     "topic": "人工智能",
-    "date": "2026-09-21",
+    "date": "2026-09-22",
     "badge": "featured"
   },
   {
-    "title": "SQLite 为什么总受质疑？它明明可以替代一切……",
-    "summary": "本文系统论证 SQLite 凭借稳定可靠、零运维和丰富扩展能力，可在全文检索、文档存储、消息队列、向量索引等十余种场景替代独立中间件，并给出其单机单写的明确边界。",
-    "url": "https://www.bestblogs.dev/article/42d3dca482?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / dbaplus社群",
+    "title": "腾讯 15 年资深后台工程师，转战大模型推理的抉择",
+    "summary": "本文分享了一位腾讯 15 年资深后台工程师在 AI 时代转型大模型推理工程的心路历程、技术路径及对未来趋势的深度思考。",
+    "url": "https://www.bestblogs.dev/article/a6da76a758?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯技术工程",
     "topic": "软件编程",
-    "date": "2026-09-20",
-    "badge": "tooling"
+    "date": "2026-09-22",
+    "badge": "model"
   },
   {
-    "title": "YC 最新判断：Harness 比模型更重要",
-    "summary": "AI 竞争的胜负手正从模型能力转向 Harness（运行框架），Harness 通过优化提示词、工具调用、记忆管理及权限运维，能显著提升模型表现并弥补模型间的能力差距。",
-    "url": "https://www.bestblogs.dev/article/683d44b352?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 硅基观察Pro",
-    "topic": "人工智能",
-    "date": "2026-09-20",
+    "title": "“乒乓球不是我的全部”｜朱雨玲：不再只为胜负活着",
+    "summary": "世界乒乓球冠军朱雨玲在因病被迫离开国家队后，通过读博、教学及重返国际赛场，在多重身份切换中克服精英运动员的“身份落差感”，并重新定义自我。",
+    "url": "https://www.bestblogs.dev/article/8ab56d7fa3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方人物周刊",
+    "topic": "生活文化",
+    "date": "2026-09-22",
+    "badge": "featured"
+  },
+  {
+    "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
+    "summary": "美团推出统一推荐基座大模型 MTFM，通过异构 Tokenizer、混合注意力架构及 User-Level 训练范式，首次实现外卖多业务场景的统一精排，显著提升订单量并降低推理成本。",
+    "url": "https://www.bestblogs.dev/article/695010f7fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 美团 · 技术团队",
+    "topic": "软件编程",
+    "date": "2026-09-22",
     "badge": "model"
+  },
+  {
+    "title": "专访 Jev 发明者：把工作流程掌握在程序里，只在需要理解和判断的地方嵌入 AI",
+    "summary": "TypeSafe 创始人迪奥戈·阿尔梅达在专访中提出 Jev 这一「机器原生、系统一、可编程模型」，主张把 AI 从聊天对象变成代码可直接调用的基础设施，用 RLCD 取代 RLHF，并认为可靠性而非确定性才是 AI 进入真实工作流的关键。",
+    "url": "https://www.bestblogs.dev/article/44bedd21de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯科技",
+    "topic": "人工智能",
+    "date": "2026-09-22",
+    "badge": "model"
+  },
+  {
+    "title": "面试官：“Agent 接了上百个工具，怎么选？”",
+    "summary": "面对 Agent 接入上百个工具的场景，应通过工具注册表、确定性权限过滤、粗分类与混合检索召回、LLM 精选的分层 Tool Routing 方案，替代把全部 Schema 塞进 Prompt 的做法。",
+    "url": "https://www.bestblogs.dev/article/686f1b5bc2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 小林coding",
+    "topic": "人工智能",
+    "date": "2026-09-22",
+    "badge": "agent"
   }
 ]
