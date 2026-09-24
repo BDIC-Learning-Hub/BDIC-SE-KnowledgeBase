@@ -1,74 +1,74 @@
 [
   {
-    "title": "千问办公押注的企业上下文，是 Agent 时代的组织语言",
-    "summary": "千问办公发布企业上下文（Enterprise Context）及相关产品，旨在通过构建结构化的组织知识体系、赋予 Agent 明确的组织身份与安全审计机制，将 AI 从通用办公工具升级为能深度嵌入企业业务流程的数字员工。",
-    "url": "https://www.bestblogs.dev/article/50c945cbe4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 莫崇宇",
-    "topic": "人工智能",
-    "date": "2026-09-22",
-    "badge": "agent"
-  },
-  {
-    "title": "机器人 / 物理 Agent Harness 综合分析与对比：从「更强的模型」到「更好的系统」",
-    "summary": "机器人/物理 Agent Harness 综合分析与对比：从 \"更强的模型\" 到 \"更好的系统\"",
-    "url": "https://www.bestblogs.dev/article/3fc3c9a057?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 罗西的思考",
-    "topic": "人工智能",
-    "date": "2026-09-22",
-    "badge": "agent"
-  },
-  {
-    "title": "Diogo Almeida：我为什么要做 Jev？",
-    "summary": "Diogo Almeida 为什么要做 Jev？",
-    "url": "https://www.bestblogs.dev/article/62d2583a2e?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / Founder Park",
-    "topic": "人工智能",
-    "date": "2026-09-22",
+    "title": "假期出行，这些“隐藏福利”别错过→",
+    "summary": "假流水、假合同，央视财经调查揭露了明码标价的骗保灰色产业链",
+    "url": "https://www.bestblogs.dev/article/fb4d8a5dd6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 央视财经",
+    "topic": "媒体资讯",
+    "date": "2026-09-23",
     "badge": "featured"
   },
   {
-    "title": "腾讯 15 年资深后台工程师，转战大模型推理的抉择",
-    "summary": "本文分享了一位腾讯 15 年资深后台工程师在 AI 时代转型大模型推理工程的心路历程、技术路径及对未来趋势的深度思考。",
-    "url": "https://www.bestblogs.dev/article/a6da76a758?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "title": "知识不是文件，也不是向量 | KDC 系列 02",
+    "summary": "本文区分 Representation、Knowledge 与 RAG 的职责，提出知识对象、来源证据、成熟度、版本与适用边界等工程要求，说明认知成果如何被验证、引用和持续更新。",
+    "url": "https://www.bestblogs.dev/article/89baa30bd1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / vivo互联网技术",
+    "topic": "软件编程",
+    "date": "2026-09-23",
+    "badge": "tooling"
+  },
+  {
+    "title": "“苏大强”，改名了？！",
+    "summary": "记者随国家消防救援局暗访广州多家制衣企业，发现消火栓被货物遮挡、自救呼吸器过期 14 年、喷淋头保护套未拆、防火门被抵开等隐患普遍存在，背后是重效益轻安全、检查流于形式与责任边界模糊。",
+    "url": "https://www.bestblogs.dev/article/27ea0b33b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 人民网",
+    "topic": "媒体资讯",
+    "date": "2026-09-23",
+    "badge": "featured"
+  },
+  {
+    "title": "错误码排查从 3～8 小时到分钟级，Agent 怎么做到的？",
+    "summary": "腾讯团队用单 Agent 挂载知识库、代码图谱、可观测平台与代码托管四类能力，构建错误码治理 Agent，将排查从 3～8 小时压缩到分钟级，action_type 与人工标注一致率从 66% 提升到 88%、硬冲突率降至 0%。",
+    "url": "https://www.bestblogs.dev/article/0eeb7407d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
     "source": "BestBlogs / 腾讯技术工程",
-    "topic": "软件编程",
-    "date": "2026-09-22",
-    "badge": "model"
-  },
-  {
-    "title": "“乒乓球不是我的全部”｜朱雨玲：不再只为胜负活着",
-    "summary": "世界乒乓球冠军朱雨玲在因病被迫离开国家队后，通过读博、教学及重返国际赛场，在多重身份切换中克服精英运动员的“身份落差感”，并重新定义自我。",
-    "url": "https://www.bestblogs.dev/article/8ab56d7fa3?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 南方人物周刊",
-    "topic": "生活文化",
-    "date": "2026-09-22",
-    "badge": "featured"
-  },
-  {
-    "title": "MTFM：美团统一推荐基座大模型在外卖多业务场景的落地实践",
-    "summary": "美团推出统一推荐基座大模型 MTFM，通过异构 Tokenizer、混合注意力架构及 User-Level 训练范式，首次实现外卖多业务场景的统一精排，显著提升订单量并降低推理成本。",
-    "url": "https://www.bestblogs.dev/article/695010f7fb?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 美团 · 技术团队",
-    "topic": "软件编程",
-    "date": "2026-09-22",
-    "badge": "model"
-  },
-  {
-    "title": "专访 Jev 发明者：把工作流程掌握在程序里，只在需要理解和判断的地方嵌入 AI",
-    "summary": "TypeSafe 创始人迪奥戈·阿尔梅达在专访中提出 Jev 这一「机器原生、系统一、可编程模型」，主张把 AI 从聊天对象变成代码可直接调用的基础设施，用 RLCD 取代 RLHF，并认为可靠性而非确定性才是 AI 进入真实工作流的关键。",
-    "url": "https://www.bestblogs.dev/article/44bedd21de?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯科技",
     "topic": "人工智能",
-    "date": "2026-09-22",
+    "date": "2026-09-23",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 原生创作栈：图像、语音与多智能体工作流如何组合",
+    "summary": "本文把 OpenMAIC、awesome-gpt-image-2 与 VoiceStudio 三个开源项目组合成一套 AI 原生创作栈，拆解编排层、视觉资产层与语音身份层的分工，并给出可执行流水线与五个工程门禁。",
+    "url": "https://www.bestblogs.dev/article/9fda909630?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 山行AI",
+    "topic": "人工智能",
+    "date": "2026-09-23",
     "badge": "model"
   },
   {
-    "title": "面试官：“Agent 接了上百个工具，怎么选？”",
-    "summary": "面对 Agent 接入上百个工具的场景，应通过工具注册表、确定性权限过滤、粗分类与混合检索召回、LLM 精选的分层 Tool Routing 方案，替代把全部 Schema 塞进 Prompt 的做法。",
-    "url": "https://www.bestblogs.dev/article/686f1b5bc2?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 小林coding",
+    "title": "《AI Native 研发范式实践手册》重磅发布",
+    "summary": "阿里巴巴发布《AI Native 研发范式实践手册》，总结了从 Copilot 到 Agentic 时代的变革，强调了企业级 Agent 基础设施的重要性。",
+    "url": "https://www.bestblogs.dev/article/b1bc8d9c07?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
     "topic": "人工智能",
-    "date": "2026-09-22",
+    "date": "2026-09-23",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 自迭代的小游戏 Agent：2 周上线 6 款小游戏，3 天迭代 12 款小游戏",
+    "summary": "文章系统拆解了 Loop engineering 这一理念，提出工程循环的六个必备动作与六大支撑组件，并给出自动化判定标准、失败模式与权限分层建议。",
+    "url": "https://www.bestblogs.dev/article/d54ef373e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 大淘宝技术",
+    "topic": "软件编程",
+    "date": "2026-09-23",
+    "badge": "agent"
+  },
+  {
+    "title": "AI 写得快 ≠ 真正提效：一文讲清 Harness“记忆”和“验证闭环”",
+    "summary": "本文系统性地阐述了 Agent Harness（模型外工程层）的设计架构，主张模型决定上限而 Harness 决定实际产出，详细解析了 Agentic Loop、工具系统、记忆与上下文管理及护栏四大子系统的构建原则与工程实践。",
+    "url": "https://www.bestblogs.dev/article/4d94bf1474?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "软件编程",
+    "date": "2026-09-23",
     "badge": "agent"
   }
 ]
