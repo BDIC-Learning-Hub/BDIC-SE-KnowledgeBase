@@ -1,10 +1,64 @@
 [
   {
-    "title": "假期出行，这些“隐藏福利”别错过→",
-    "summary": "假流水、假合同，央视财经调查揭露了明码标价的骗保灰色产业链",
-    "url": "https://www.bestblogs.dev/article/fb4d8a5dd6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 央视财经",
+    "title": "习近平同美国总统特朗普会谈",
+    "summary": "习近平与特朗普在白宫会谈，重申构建中美建设性战略稳定关系，并就经贸合作、人工智能、台湾问题等议题交换意见，双方同意继续对话以推动关系发展。",
+    "url": "https://www.bestblogs.dev/article/b19d13c73a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 新华社",
     "topic": "媒体资讯",
+    "date": "2026-09-24",
+    "badge": "featured"
+  },
+  {
+    "title": "创业 11 年沈亚楠的非共识：造通用机器人，第一步就要进家庭",
+    "summary": "理想汽车联合创始人沈亚楠创立具身智能公司恩戈罗（NGORO），主张通过率先进入家庭场景构建数据飞轮，以「全栈 2.0」工程思维打造低成本、高实用性的通用机器人。",
+    "url": "https://www.bestblogs.dev/article/55ee7cbe69?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
+    "date": "2026-09-24",
+    "badge": "featured"
+  },
+  {
+    "title": "拆解京东海博 AI-Native 落地保障：海博团队 AI 知识库能力建设",
+    "summary": "京东海博团队通过构建三层结构化 AI 知识库（项目、角色、Skill 层）并采用 OKF 规范，将业务知识从个人记忆转化为可被 AI 消费的组织资产，显著提升了研发分析效率与测试用例覆盖率。",
+    "url": "https://www.bestblogs.dev/article/9bd4933e36?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 京东技术",
+    "topic": "软件编程",
+    "date": "2026-09-24",
+    "badge": "tooling"
+  },
+  {
+    "title": "百万级仿真资产，正在重构机器人训练场：阿里巴巴 RoboFlywheel 首发",
+    "summary": "阿里巴巴发布 RoboFlywheel 开放式仿真基础设施，提供超百万级刚体、铰链与柔性资产，支持机器人交互与闭环训练。",
+    "url": "https://www.bestblogs.dev/article/47c6b617d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 阿里技术",
+    "topic": "人工智能",
+    "date": "2026-09-24",
+    "badge": "featured"
+  },
+  {
+    "title": "离婚换房？共有产权房退出困局",
+    "summary": "本文揭示了北京等城市共有产权房在持有满五年后，因交易平台缺失、回购资金压力及房价下行导致退出机制失效，迫使部分业主通过「假离婚」等极端手段寻求换房的制度困局。",
+    "url": "https://www.bestblogs.dev/article/142ec576ef?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 南方周末",
+    "topic": "媒体资讯",
+    "date": "2026-09-24",
+    "badge": "featured"
+  },
+  {
+    "title": "JEV：一个不会写代码的模型，为什么拿下 4000 万美元？",
+    "summary": "本文深度解析了 TypeSafe AI 推出的 JEV 模型，探讨其如何通过将「判断」从「生成」中解耦，构建一个低延迟、概率可校准的 System 1 模型，从而优化 AI 系统的整体架构。",
+    "url": "https://www.bestblogs.dev/article/6694786bc0?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 腾讯云开发者",
+    "topic": "人工智能",
+    "date": "2026-09-24",
+    "badge": "model"
+  },
+  {
+    "title": "拉开中国汽车整合大幕的，将是海外新增的那 “1000 万辆车”",
+    "summary": "通过分析一汽与广汽的合资资产重组，揭示中国汽车行业在地方利益、产能过剩与出海目标三重约束下的整合逻辑，指出国有车企在承担国内竞争成本以换取民营车企全球竞争力的深层职能分工。",
+    "url": "https://www.bestblogs.dev/article/c0d62939c5?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 晚点LatePost",
+    "topic": "商业科技",
     "date": "2026-09-23",
     "badge": "featured"
   },
@@ -16,59 +70,5 @@
     "topic": "软件编程",
     "date": "2026-09-23",
     "badge": "tooling"
-  },
-  {
-    "title": "“苏大强”，改名了？！",
-    "summary": "记者随国家消防救援局暗访广州多家制衣企业，发现消火栓被货物遮挡、自救呼吸器过期 14 年、喷淋头保护套未拆、防火门被抵开等隐患普遍存在，背后是重效益轻安全、检查流于形式与责任边界模糊。",
-    "url": "https://www.bestblogs.dev/article/27ea0b33b1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 人民网",
-    "topic": "媒体资讯",
-    "date": "2026-09-23",
-    "badge": "featured"
-  },
-  {
-    "title": "错误码排查从 3～8 小时到分钟级，Agent 怎么做到的？",
-    "summary": "腾讯团队用单 Agent 挂载知识库、代码图谱、可观测平台与代码托管四类能力，构建错误码治理 Agent，将排查从 3～8 小时压缩到分钟级，action_type 与人工标注一致率从 66% 提升到 88%、硬冲突率降至 0%。",
-    "url": "https://www.bestblogs.dev/article/0eeb7407d6?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯技术工程",
-    "topic": "人工智能",
-    "date": "2026-09-23",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 原生创作栈：图像、语音与多智能体工作流如何组合",
-    "summary": "本文把 OpenMAIC、awesome-gpt-image-2 与 VoiceStudio 三个开源项目组合成一套 AI 原生创作栈，拆解编排层、视觉资产层与语音身份层的分工，并给出可执行流水线与五个工程门禁。",
-    "url": "https://www.bestblogs.dev/article/9fda909630?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 山行AI",
-    "topic": "人工智能",
-    "date": "2026-09-23",
-    "badge": "model"
-  },
-  {
-    "title": "《AI Native 研发范式实践手册》重磅发布",
-    "summary": "阿里巴巴发布《AI Native 研发范式实践手册》，总结了从 Copilot 到 Agentic 时代的变革，强调了企业级 Agent 基础设施的重要性。",
-    "url": "https://www.bestblogs.dev/article/b1bc8d9c07?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 阿里技术",
-    "topic": "人工智能",
-    "date": "2026-09-23",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 自迭代的小游戏 Agent：2 周上线 6 款小游戏，3 天迭代 12 款小游戏",
-    "summary": "文章系统拆解了 Loop engineering 这一理念，提出工程循环的六个必备动作与六大支撑组件，并给出自动化判定标准、失败模式与权限分层建议。",
-    "url": "https://www.bestblogs.dev/article/d54ef373e4?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 大淘宝技术",
-    "topic": "软件编程",
-    "date": "2026-09-23",
-    "badge": "agent"
-  },
-  {
-    "title": "AI 写得快 ≠ 真正提效：一文讲清 Harness“记忆”和“验证闭环”",
-    "summary": "本文系统性地阐述了 Agent Harness（模型外工程层）的设计架构，主张模型决定上限而 Harness 决定实际产出，详细解析了 Agentic Loop、工具系统、记忆与上下文管理及护栏四大子系统的构建原则与工程实践。",
-    "url": "https://www.bestblogs.dev/article/4d94bf1474?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / 腾讯云开发者",
-    "topic": "软件编程",
-    "date": "2026-09-23",
-    "badge": "agent"
   }
 ]
