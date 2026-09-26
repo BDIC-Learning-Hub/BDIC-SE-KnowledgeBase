@@ -1,5 +1,14 @@
 [
   {
+    "title": "尿酸危机，席卷中国",
+    "summary": "文章深度解析了中国高尿酸血症患病率激增及地区差异的成因，指出遗传、现代饮食（尤其是果糖与海鲜）、生活方式改变及演化错配共同导致了这一仅次于糖尿病的第二大代谢危机。",
+    "url": "https://www.bestblogs.dev/article/d1014905bd?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
+    "source": "BestBlogs / 果壳",
+    "topic": "生活文化",
+    "date": "2026-09-25",
+    "badge": "featured"
+  },
+  {
     "title": "习近平同美国总统特朗普会谈",
     "summary": "习近平与特朗普在白宫会谈，重申构建中美建设性战略稳定关系，并就经贸合作、人工智能、台湾问题等议题交换意见，双方同意继续对话以推动关系发展。",
     "url": "https://www.bestblogs.dev/article/b19d13c73a?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
@@ -61,14 +70,5 @@
     "topic": "商业科技",
     "date": "2026-09-23",
     "badge": "featured"
-  },
-  {
-    "title": "知识不是文件，也不是向量 | KDC 系列 02",
-    "summary": "本文区分 Representation、Knowledge 与 RAG 的职责，提出知识对象、来源证据、成熟度、版本与适用边界等工程要求，说明认知成果如何被验证、引用和持续更新。",
-    "url": "https://www.bestblogs.dev/article/89baa30bd1?utm_source=rss&utm_medium=feed&utm_campaign=resources&entry=rss_article_item",
-    "source": "BestBlogs / vivo互联网技术",
-    "topic": "软件编程",
-    "date": "2026-09-23",
-    "badge": "tooling"
   }
 ]
